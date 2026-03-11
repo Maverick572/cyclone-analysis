@@ -1,0 +1,86 @@
+:root {
+  --bg-primary: #05080f;
+  --bg-secondary: #0b1120;
+  --bg-card: #0f1929;
+  --bg-card-hover: #141e30;
+  --border: #1a2a42;
+  --border-bright: #243650;
+  --text-primary: #e8f0ff;
+  --text-secondary: #8ba4cc;
+  --text-muted: #4a6080;
+  --accent-cyan: #00d4ff;
+  --accent-teal: #00b8a9;
+  --accent-amber: #f59e0b;
+  --accent-red: #ef4444;
+  --accent-orange: #f97316;
+  --rain-0: #fef9c3;
+  --rain-1: #fed7aa;
+  --rain-2: #fb923c;
+  --rain-3: #dc2626;
+  --rain-4: #991b1b;
+  --rain-5: #7f1d1d;
+  --font-display: 'Syne', sans-serif;
+  --font-mono: 'Space Mono', monospace;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html, body {
+  height: 100%;
+  background: var(--bg-primary);
+  color: var(--text-primary);
+  font-family: var(--font-display);
+  overflow-x: hidden;
+}
+
+#root {
+  min-height: 100vh;
+}
+
+/* Scrollbar */
+::-webkit-scrollbar { width: 6px; height: 6px; }
+::-webkit-scrollbar-track { background: var(--bg-secondary); }
+::-webkit-scrollbar-thumb { background: var(--border-bright); border-radius: 3px; }
+
+/* Leaflet overrides */
+.leaflet-container {
+  background: #080e1a !important;
+}
+.leaflet-control-zoom a {
+  background: var(--bg-card) !important;
+  color: var(--text-primary) !important;
+  border-color: var(--border) !important;
+}
+.leaflet-popup-content-wrapper {
+  background: var(--bg-card) !important;
+  color: var(--text-primary) !important;
+  border: 1px solid var(--border-bright) !important;
+  border-radius: 8px !important;
+  box-shadow: 0 8px 32px rgba(0,0,0,0.5) !important;
+}
+.leaflet-popup-tip {
+  background: var(--bg-card) !important;
+}
+.leaflet-popup-close-button {
+  color: var(--text-secondary) !important;
+}
+
+/* Animations */
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(8px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+@keyframes pulse {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0.5; }
+}
+@keyframes scanLine {
+  0% { transform: translateY(-100%); }
+  100% { transform: translateY(100%); }
+}
+
+.fade-in { animation: fadeIn 0.4s ease forwards; }

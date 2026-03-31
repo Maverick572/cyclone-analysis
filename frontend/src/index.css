@@ -55,6 +55,47 @@ html, body {
   color: var(--text-primary) !important;
   border-color: var(--border) !important;
 }
+/* Rounded zoom buttons */
+.leaflet-control-zoom {
+  border: none !important;
+  box-shadow: none !important;
+  background: transparent !important;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+
+.leaflet-control-zoom a {
+  background: var(--bg-card) !important;
+  color: var(--text-secondary) !important;
+
+  border: 3px solid var(--border) !important;
+  border-radius: 12px !important;
+
+  width: 36px !important;
+  height: 36px !important;
+
+  display: flex !important;
+  align-items: center;
+  justify-content: center;
+
+  font-family: var(--font-mono);
+  font-size: 18px !important;
+
+  transition: all 0.15s ease;
+}
+
+/* hover glow */
+.leaflet-control-zoom a:hover {
+  border-color: var(--accent-cyan) !important;
+  color: var(--accent-cyan) !important;
+  background: var(--bg-card-hover) !important;
+}
+
+/* remove divider between + and - */
+.leaflet-control-zoom-in {
+  border-bottom: 1px solid var(--border) !important;
+}
 .leaflet-popup-content-wrapper {
   background: var(--bg-card) !important;
   color: var(--text-primary) !important;

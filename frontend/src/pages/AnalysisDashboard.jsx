@@ -1,6 +1,5 @@
 import React, { useEffect, useState } from 'react'
 import { useParams, useNavigate } from 'react-router-dom'
-import { getCycloneAnalysis, getComparison } from '../services/api.js'
 import { RainfallTimeline, TopDistrictsBar, CycloneComparisonChart, AnomalyChart } from '../components/Charts.jsx'
 
 const CYCLONE_META = {
@@ -51,40 +50,6 @@ export default function AnalysisDashboard() {
   const navigate = useNavigate()
   const meta = CYCLONE_META[cyclone] || { name: cyclone, color: '#00d4ff', year: '' }
 
-  const [analysis, setAnalysis] = useState(null)
-  const [comparison, setComparison] = useState(null)
-  const [loading, setLoading] = useState(true)
-  const [error, setError] = useState(null)
-
-  useEffect(() => {
-    setLoading(true)
-    Promise.all([
-      getCycloneAnalysis(cyclone),
-      getComparison(),
-    ])
-      .then(([a, c]) => {
-        setAnalysis(a)
-        setComparison(c)
-      })
-      .catch(e => setError('Backend not available'))
-      .finally(() => setLoading(false))
-  }, [cyclone])
-
-  if (loading) return (
-    <div style={{ height: 'calc(100vh - 56px)', display: 'flex', alignItems: 'center', justifyContent: 'center', color: '#8ba4cc', fontFamily: 'Space Mono, monospace', fontSize: '0.8rem' }}>
-      Loading analysis...
-    </div>
-  )
-
-  if (error || !analysis) return (
-    <div style={{ height: 'calc(100vh - 56px)', display: 'flex', alignItems: 'center', justifyContent: 'center', flexDirection: 'column', gap: '1rem' }}>
-      <div style={{ color: '#ef4444', fontFamily: 'Space Mono, monospace', fontSize: '0.8rem' }}>⚠ {error || 'No analysis data'}</div>
-      <div style={{ color: '#4a6080', fontSize: '0.7rem', fontFamily: 'Space Mono, monospace' }}>
-        Start backend: <span style={{ color: '#00d4ff' }}>cd backend && uvicorn main:app --reload</span>
-      </div>
-    </div>
-  )
-
   // Prepare chart data
   const timelineData = analysis.dates?.map(d => ({
     date: d,
@@ -106,12 +71,40 @@ export default function AnalysisDashboard() {
     value: analysis.daily_spread?.[d] || 0,
   })) || []
 
-  // Comparison bar data
-  const compData = comparison?.cyclones?.map(name => ({
-    cyclone: name,
-    value: comparison.comparison[name]?.mean_district_cumulative || 0,
-  })) || []
-
+  const analysis = {
+    total_districts: 742,
+    dates: ["2020-05-18","2020-05-19","2020-05-20","2020-05-21"],
+    daily_totals: {
+      "2020-05-18": 120,
+      "2020-05-19": 340,
+      "2020-05-20": 780,
+      "2020-05-21": 210,
+    },
+    daily_spread: {
+      "2020-05-18": 12,
+      "2020-05-19": 35,
+      "2020-05-20": 62,
+      "2020-05-21": 18,
+    },
+    flood_hotspots: {
+      high_risk_count: 5,
+      medium_risk_count: 12,
+      high_risk_districts: ["Kolkata","Howrah","Medinipur","24 Parganas","Hooghly"]
+    },
+    top_districts_cumulative: [
+      { district: "IN-WB Kolkata", cumulative_rainfall: 420 },
+      { district: "IN-WB Howrah", cumulative_rainfall: 390 }
+    ],
+    top_districts_max_daily: [
+      { district: "IN-WB Kolkata", max_daily_rainfall: 210 },
+      { district: "IN-WB Howrah", max_daily_rainfall: 180 }
+    ],
+    state_rainfall: {
+      "West Bengal": { mean_cumulative: 260, district_count: 23 },
+      "Odisha": { mean_cumulative: 180, district_count: 17 }
+    }
+  }
+  
   return (
     <div style={{ minHeight: 'calc(100vh - 56px)', background: 'var(--bg-primary)', padding: '0' }}>
       {/* Header */}
@@ -210,48 +203,6 @@ export default function AnalysisDashboard() {
                   </div>
                 ))
               }
-            </div>
-          </Section>
-        )}
-
-        {/* Inter-cyclone comparison */}
-        {comparison && compData.length > 1 && (
-          <Section title="Inter-Cyclone Comparison — Mean District Cumulative Rainfall">
-            <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: '2rem' }}>
-              <CycloneComparisonChart
-                data={compData}
-                title="Mean Cumulative Rainfall (mm)"
-              />
-              <div style={{ display: 'flex', flexDirection: 'column', gap: '0.8rem' }}>
-                {comparison.cyclones?.map(name => {
-                  const c = comparison.comparison[name]
-                  const colors = { amphan: '#00d4ff', yaas: '#f59e0b', remal: '#ef4444' }
-                  if (!c) return null
-                  return (
-                    <div key={name} style={{
-                      background: 'var(--bg-secondary)',
-                      border: `1px solid ${colors[name]}30`,
-                      borderRadius: '8px',
-                      padding: '0.8rem 1rem',
-                      display: 'flex',
-                      justifyContent: 'space-between',
-                      alignItems: 'center',
-                    }}>
-                      <div>
-                        <div style={{ fontFamily: 'Space Mono, monospace', fontSize: '0.65rem', color: colors[name], textTransform: 'capitalize' }}>
-                          {name}
-                        </div>
-                        <div style={{ fontFamily: 'Space Mono, monospace', fontSize: '0.58rem', color: '#4a6080', marginTop: '2px' }}>
-                          Max: {c.max_daily_rainfall?.toFixed(0)}mm · {c.high_risk_districts} high-risk districts
-                        </div>
-                      </div>
-                      <div style={{ fontFamily: 'Syne, sans-serif', fontWeight: 700, fontSize: '1.2rem', color: colors[name] }}>
-                        {c.mean_district_cumulative?.toFixed(0)}<span style={{ fontSize: '0.65rem', color: '#4a6080', marginLeft: '2px' }}>mm</span>
-                      </div>
-                    </div>
-                  )
-                })}
-              </div>
             </div>
           </Section>
         )}

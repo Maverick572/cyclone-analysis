@@ -48,8 +48,6 @@ export default function NavBar() {
         CYCLONE RAIN ANALYSIS
       </Link>
       <div style={{ flex: 1 }} />
-      <Link to="/" style={linkStyle(loc.pathname === '/')}>Home</Link>
-      <Link to="/cyclones" style={linkStyle(loc.pathname.startsWith('/cyclone'))}>Cyclones</Link>
     </nav>
   )
 }

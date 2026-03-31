@@ -49,7 +49,11 @@ DISTRICTS_DATA = os.path.join(
     "amphan_districts.json"
 )
 
-
+CYCLONE_TRACK = os.path.join(
+    BASE,
+    "cyclone_tracks",
+    "amphan_track.json"
+)
 
 # -------------------------
 # LOAD DATA INTO MEMORY
@@ -65,7 +69,8 @@ with open(GRAPH_DATA) as f:
 with open(DISTRICTS_DATA) as f:
     districts_data = json.load(f)
 
-
+with open(CYCLONE_TRACK) as f:
+    cyclone_track = json.load(f)
 
 # -------------------------
 # ROOT
@@ -104,6 +109,11 @@ def get_graph():
 @app.get("/districts/amphan")
 def get_districts():
     return districts_data
+
+
+@app.get("/cyclone-track/amphan")
+def get_cyclone_track():
+    return cyclone_track
 
 # -------------------------
 # FILTERED ROUTES

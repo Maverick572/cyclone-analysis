@@ -23,6 +23,7 @@ export default function useRainfallData(cyclone){
   const [geojson,setGeojson]=useState(null)
   const [allRainfall,setAllRainfall]=useState([])
   const [allFlood,setAllFlood]=useState([])
+  const [cycloneTrack,setCycloneTrack]=useState({})
   const [dates,setDates]=useState([])
   const [loading,setLoading]=useState(true)
 
@@ -33,15 +34,20 @@ export default function useRainfallData(cyclone){
       const rainKey=`rain_${cyclone}`
       const floodKey=`flood_${cyclone}`
       const districtKey=`district_${cyclone}`
+      const trackKey=`track_${cyclone}`
+
 
       let rainRows=sessionStorage.getItem(rainKey)
       let floodRows=sessionStorage.getItem(floodKey)
       let allowedDistricts=sessionStorage.getItem(districtKey)
+      let track=sessionStorage.getItem(trackKey)
+
 
       if(!rainRows){
         rainRows=await getRainfall(cyclone)
         sessionStorage.setItem(rainKey,JSON.stringify(rainRows))
       } else rainRows=JSON.parse(rainRows)
+
 
       if(!floodRows){
         const r=await fetch(`http://localhost:8000/flood-intensity/${cyclone}`)
@@ -49,10 +55,20 @@ export default function useRainfallData(cyclone){
         sessionStorage.setItem(floodKey,JSON.stringify(floodRows))
       } else floodRows=JSON.parse(floodRows)
 
+
       if(!allowedDistricts){
         allowedDistricts=await getDistricts(cyclone)
         sessionStorage.setItem(districtKey,JSON.stringify(allowedDistricts))
       } else allowedDistricts=JSON.parse(allowedDistricts)
+
+
+      if(!track){
+        const r=await fetch(`http://localhost:8000/cyclone-track/${cyclone}`)
+        track=await r.json()
+        sessionStorage.setItem(trackKey,JSON.stringify(track))
+      } else track=JSON.parse(track)
+
+
 
       const filtered=districtsGeo.features.filter(f=>{
 
@@ -73,6 +89,7 @@ export default function useRainfallData(cyclone){
         const lon=xs.reduce((a,b)=>a+b,0)/xs.length
         const lat=ys.reduce((a,b)=>a+b,0)/ys.length
 
+
         for(const d of allowedDistricts){
 
           const nameMatch=d.district
@@ -82,6 +99,7 @@ export default function useRainfallData(cyclone){
 
           if(geoName!==nameMatch) continue
 
+
           const dist=haversineKm(lon,lat,d.lon,d.lat)
 
           if(dist<MAX_DIST_KM) return true
@@ -90,12 +108,24 @@ export default function useRainfallData(cyclone){
         return false
       })
 
-      setGeojson({...districtsGeo,features:filtered})
+
+      setGeojson({
+        ...districtsGeo,
+        features:filtered
+      })
+
 
       setAllRainfall(rainRows)
       setAllFlood(floodRows)
+      setCycloneTrack(track)
 
-      const uniqueDates=[...new Set(rainRows.map(r=>r.date))].sort()
+
+      const uniqueDates=[
+        ...new Set(
+          rainRows.map(r=>r.date)
+        )
+      ].sort()
+
 
       setDates(uniqueDates)
 
@@ -106,11 +136,20 @@ export default function useRainfallData(cyclone){
 
   },[cyclone])
 
+
   return {
+
     geojson,
+
     allRainfall,
+
     allFlood,
+
+    cycloneTrack,
+
     dates,
+
     loading
+
   }
 }

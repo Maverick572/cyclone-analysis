@@ -1,0 +1,2289 @@
+{
+  "eastgodavari": [
+    "malkangiri",
+    "visakhapatnam",
+    "yanam"
+  ],
+  "srikakulam": [
+    "gajapati",
+    "ganjam",
+    "rayagada",
+    "vizianagaram"
+  ],
+  "visakhapatnam": [
+    "eastgodavari",
+    "koraput",
+    "malkangiri",
+    "vizianagaram"
+  ],
+  "vizianagaram": [
+    "gajapati",
+    "koraput",
+    "rayagada",
+    "srikakulam",
+    "visakhapatnam"
+  ],
+  "anjaw": [
+    "lohit",
+    "lowerdibangvalley"
+  ],
+  "changlang": [
+    "anjaw",
+    "lohit",
+    "namsai",
+    "tinsukia",
+    "tirap"
+  ],
+  "dibangvalley": [
+    "lowerdibangvalley",
+    "uppersiang"
+  ],
+  "eastkameng": [
+    "kurungkumey",
+    "papumpare",
+    "sonitpur",
+    "westkameng"
+  ],
+  "eastsiang": [
+    "dhemaji",
+    "lowerdibangvalley",
+    "uppersiang",
+    "westsiang"
+  ],
+  "kurungkumey": [
+    "eastkameng",
+    "lowersubansiri",
+    "papumpare",
+    "uppersubansiri",
+    "westkameng"
+  ],
+  "lohit": [
+    "anjaw",
+    "lowerdibangvalley"
+  ],
+  "longding": [
+    "dibrugarh",
+    "mon",
+    "sivasagar",
+    "tirap"
+  ],
+  "lowerdibangvalley": [
+    "anjaw",
+    "dibangvalley",
+    "eastsiang",
+    "lohit",
+    "uppersiang"
+  ],
+  "lowersubansiri": [
+    "dhemaji",
+    "kurungkumey",
+    "lakhimpur",
+    "papumpare",
+    "uppersubansiri",
+    "westsiang"
+  ],
+  "namsai": [
+    "changlang",
+    "lohit",
+    "tinsukia"
+  ],
+  "papumpare": [
+    "eastkameng",
+    "kurungkumey",
+    "lakhimpur",
+    "lowersubansiri",
+    "sonitpur"
+  ],
+  "tawang": [
+    "westkameng"
+  ],
+  "tirap": [
+    "changlang",
+    "dibrugarh",
+    "longding",
+    "sivasagar",
+    "tinsukia"
+  ],
+  "uppersiang": [
+    "dibangvalley",
+    "eastsiang",
+    "lowerdibangvalley",
+    "westsiang"
+  ],
+  "uppersubansiri": [
+    "kurungkumey",
+    "lowersubansiri",
+    "westsiang"
+  ],
+  "westkameng": [
+    "eastkameng",
+    "kurungkumey",
+    "sonitpur",
+    "tawang",
+    "udalguri"
+  ],
+  "westsiang": [
+    "dhemaji",
+    "eastsiang",
+    "lowersubansiri",
+    "uppersiang",
+    "uppersubansiri"
+  ],
+  "baksa": [
+    "barpeta",
+    "bongaigaon",
+    "chirang",
+    "darrang",
+    "kamrup",
+    "nalbari",
+    "udalguri"
+  ],
+  "barpeta": [
+    "baksa",
+    "bongaigaon",
+    "chirang",
+    "goalpara",
+    "kamrup",
+    "nalbari"
+  ],
+  "bongaigaon": [
+    "baksa",
+    "barpeta",
+    "chirang",
+    "dhubri",
+    "goalpara",
+    "kokrajhar"
+  ],
+  "cachar": [
+    "aizawl",
+    "churachandpur",
+    "dimahasao",
+    "hailakandi",
+    "imphaleast",
+    "jaintiahills",
+    "karimganj",
+    "kolasib",
+    "tamenglong"
+  ],
+  "chirang": [
+    "baksa",
+    "barpeta",
+    "bongaigaon",
+    "kokrajhar"
+  ],
+  "darrang": [
+    "baksa",
+    "kamrup",
+    "kamrupmetropolitan",
+    "morigaon",
+    "nagaon",
+    "sonitpur",
+    "udalguri"
+  ],
+  "dhemaji": [
+    "dibrugarh",
+    "eastsiang",
+    "lakhimpur",
+    "lowerdibangvalley",
+    "lowersubansiri",
+    "tinsukia",
+    "westsiang"
+  ],
+  "dhubri": [
+    "bongaigaon",
+    "goalpara",
+    "kochbihar",
+    "kokrajhar",
+    "southwestgarohills",
+    "westgarohills"
+  ],
+  "dibrugarh": [
+    "dhemaji",
+    "jorhat",
+    "lakhimpur",
+    "longding",
+    "sivasagar",
+    "tinsukia",
+    "tirap"
+  ],
+  "dimahasao": [
+    "cachar",
+    "jaintiahills",
+    "karbianglong",
+    "nagaon",
+    "peren",
+    "tamenglong"
+  ],
+  "goalpara": [
+    "barpeta",
+    "bongaigaon",
+    "dhubri",
+    "eastgarohills",
+    "kamrup",
+    "northgarohills",
+    "westgarohills"
+  ],
+  "golaghat": [
+    "dimapur",
+    "jorhat",
+    "karbianglong",
+    "kohima",
+    "lakhimpur",
+    "nagaon",
+    "sonitpur",
+    "wokha"
+  ],
+  "hailakandi": [
+    "cachar",
+    "karimganj",
+    "kolasib",
+    "mamit"
+  ],
+  "jorhat": [
+    "dibrugarh",
+    "golaghat",
+    "lakhimpur",
+    "mokokchung",
+    "sivasagar",
+    "wokha"
+  ],
+  "kamrup": [
+    "baksa",
+    "barpeta",
+    "darrang",
+    "eastgarohills",
+    "goalpara",
+    "kamrupmetropolitan",
+    "nalbari",
+    "ribhoi",
+    "udalguri",
+    "westkhasihills"
+  ],
+  "kamrupmetropolitan": [
+    "darrang",
+    "kamrup",
+    "morigaon",
+    "ribhoi"
+  ],
+  "karbianglong": [
+    "dimahasao",
+    "dimapur",
+    "eastkhasihills",
+    "golaghat",
+    "jaintiahills",
+    "morigaon",
+    "nagaon",
+    "peren",
+    "ribhoi",
+    "sonitpur"
+  ],
+  "karimganj": [
+    "cachar",
+    "hailakandi",
+    "mamit",
+    "northtripura"
+  ],
+  "kokrajhar": [
+    "alipurduar",
+    "bongaigaon",
+    "chirang",
+    "dhubri",
+    "kochbihar"
+  ],
+  "lakhimpur": [
+    "dhemaji",
+    "dibrugarh",
+    "golaghat",
+    "jorhat",
+    "lowersubansiri",
+    "papumpare",
+    "sivasagar",
+    "sonitpur"
+  ],
+  "morigaon": [
+    "darrang",
+    "kamrupmetropolitan",
+    "karbianglong",
+    "nagaon",
+    "ribhoi",
+    "sonitpur"
+  ],
+  "nagaon": [
+    "darrang",
+    "dimahasao",
+    "golaghat",
+    "karbianglong",
+    "morigaon",
+    "sonitpur"
+  ],
+  "nalbari": [
+    "baksa",
+    "barpeta",
+    "kamrup"
+  ],
+  "sivasagar": [
+    "dibrugarh",
+    "jorhat",
+    "lakhimpur",
+    "longding",
+    "longleng",
+    "mokokchung",
+    "mon",
+    "tirap"
+  ],
+  "sonitpur": [
+    "darrang",
+    "eastkameng",
+    "golaghat",
+    "karbianglong",
+    "lakhimpur",
+    "morigaon",
+    "nagaon",
+    "papumpare",
+    "udalguri",
+    "westkameng"
+  ],
+  "tinsukia": [
+    "changlang",
+    "dhemaji",
+    "dibrugarh",
+    "eastsiang",
+    "lohit",
+    "lowerdibangvalley",
+    "namsai",
+    "tirap"
+  ],
+  "udalguri": [
+    "baksa",
+    "darrang",
+    "kamrup",
+    "sonitpur",
+    "westkameng"
+  ],
+  "araria": [
+    "kishanganj",
+    "madhepura",
+    "purnia",
+    "supaul"
+  ],
+  "arwal": [
+    "aurangabad",
+    "bhojpur",
+    "gaya",
+    "jehanabad",
+    "patna",
+    "rohtas"
+  ],
+  "aurangabad": [
+    "arwal",
+    "bhojpur",
+    "gaya",
+    "palamu",
+    "rohtas"
+  ],
+  "banka": [
+    "bhagalpur",
+    "deoghar",
+    "dumka",
+    "godda",
+    "jamui",
+    "munger"
+  ],
+  "begusarai": [
+    "khagaria",
+    "lakhisarai",
+    "munger",
+    "patna",
+    "samastipur"
+  ],
+  "bhagalpur": [
+    "banka",
+    "godda",
+    "katihar",
+    "khagaria",
+    "madhepura",
+    "munger",
+    "purnia",
+    "sahibganj"
+  ],
+  "bhojpur": [
+    "arwal",
+    "aurangabad",
+    "ballia",
+    "buxar",
+    "patna",
+    "rohtas",
+    "saran"
+  ],
+  "buxar": [
+    "ballia",
+    "bhojpur",
+    "ghazipur",
+    "kaimur",
+    "rohtas"
+  ],
+  "darbhanga": [
+    "madhubani",
+    "muzaffarpur",
+    "saharsa",
+    "samastipur",
+    "sitamarhi"
+  ],
+  "gaya": [
+    "arwal",
+    "aurangabad",
+    "chatra",
+    "hazaribagh",
+    "jehanabad",
+    "nalanda",
+    "nawada",
+    "palamu"
+  ],
+  "gopalganj": [
+    "deoria",
+    "kushinagar",
+    "muzaffarpur",
+    "pashchimchamparan",
+    "purbachamparan",
+    "saran",
+    "siwan"
+  ],
+  "jamui": [
+    "banka",
+    "deoghar",
+    "giridih",
+    "lakhisarai",
+    "munger",
+    "nawada",
+    "sheikhpura"
+  ],
+  "jehanabad": [
+    "arwal",
+    "gaya",
+    "nalanda",
+    "patna"
+  ],
+  "kaimur": [
+    "buxar",
+    "chandauli",
+    "garhwa",
+    "ghazipur",
+    "rohtas",
+    "sonbhadra"
+  ],
+  "katihar": [
+    "bhagalpur",
+    "maldah",
+    "purnia",
+    "sahibganj",
+    "uttardinajpur"
+  ],
+  "khagaria": [
+    "begusarai",
+    "bhagalpur",
+    "madhepura",
+    "munger",
+    "saharsa",
+    "samastipur"
+  ],
+  "kishanganj": [
+    "araria",
+    "darjiling",
+    "purnia",
+    "uttardinajpur"
+  ],
+  "lakhisarai": [
+    "begusarai",
+    "jamui",
+    "munger",
+    "nalanda",
+    "patna",
+    "sheikhpura"
+  ],
+  "madhepura": [
+    "araria",
+    "bhagalpur",
+    "khagaria",
+    "purnia",
+    "saharsa",
+    "supaul"
+  ],
+  "madhubani": [
+    "darbhanga",
+    "saharsa",
+    "sitamarhi",
+    "supaul"
+  ],
+  "munger": [
+    "banka",
+    "begusarai",
+    "bhagalpur",
+    "jamui",
+    "khagaria",
+    "lakhisarai"
+  ],
+  "muzaffarpur": [
+    "darbhanga",
+    "gopalganj",
+    "purbachamparan",
+    "samastipur",
+    "saran",
+    "sheohar",
+    "sitamarhi",
+    "vaishali"
+  ],
+  "nalanda": [
+    "gaya",
+    "jehanabad",
+    "lakhisarai",
+    "nawada",
+    "patna",
+    "sheikhpura",
+    "vaishali"
+  ],
+  "nawada": [
+    "gaya",
+    "giridih",
+    "hazaribagh",
+    "jamui",
+    "kodarma",
+    "nalanda",
+    "sheikhpura"
+  ],
+  "pashchimchamparan": [
+    "gopalganj",
+    "kushinagar",
+    "maharajganj",
+    "purbachamparan"
+  ],
+  "patna": [
+    "arwal",
+    "begusarai",
+    "bhojpur",
+    "jehanabad",
+    "lakhisarai",
+    "nalanda",
+    "samastipur",
+    "saran",
+    "sheikhpura",
+    "vaishali"
+  ],
+  "purbachamparan": [
+    "gopalganj",
+    "muzaffarpur",
+    "pashchimchamparan",
+    "saran",
+    "sheohar",
+    "sitamarhi"
+  ],
+  "purnia": [
+    "araria",
+    "bhagalpur",
+    "katihar",
+    "kishanganj",
+    "madhepura",
+    "uttardinajpur"
+  ],
+  "rohtas": [
+    "arwal",
+    "aurangabad",
+    "bhojpur",
+    "buxar",
+    "garhwa",
+    "kaimur",
+    "palamu",
+    "sonbhadra"
+  ],
+  "saharsa": [
+    "darbhanga",
+    "khagaria",
+    "madhepura",
+    "madhubani",
+    "samastipur",
+    "supaul"
+  ],
+  "samastipur": [
+    "begusarai",
+    "darbhanga",
+    "khagaria",
+    "muzaffarpur",
+    "patna",
+    "saharsa",
+    "vaishali"
+  ],
+  "saran": [
+    "ballia",
+    "bhojpur",
+    "gopalganj",
+    "muzaffarpur",
+    "patna",
+    "purbachamparan",
+    "siwan",
+    "vaishali"
+  ],
+  "sheikhpura": [
+    "jamui",
+    "lakhisarai",
+    "nalanda",
+    "nawada",
+    "patna"
+  ],
+  "sheohar": [
+    "muzaffarpur",
+    "purbachamparan",
+    "sitamarhi"
+  ],
+  "sitamarhi": [
+    "darbhanga",
+    "madhubani",
+    "muzaffarpur",
+    "purbachamparan",
+    "sheohar"
+  ],
+  "siwan": [
+    "ballia",
+    "deoria",
+    "gopalganj",
+    "saran"
+  ],
+  "supaul": [
+    "araria",
+    "madhepura",
+    "madhubani",
+    "saharsa"
+  ],
+  "vaishali": [
+    "muzaffarpur",
+    "nalanda",
+    "patna",
+    "samastipur",
+    "saran"
+  ],
+  "balod": [
+    "dhamtari",
+    "durg",
+    "rajnandgaon",
+    "uttarbastarkanker"
+  ],
+  "balodabazar": [
+    "bemetara",
+    "bilaspur",
+    "janjgirchampa",
+    "mahasamund",
+    "mungeli",
+    "raigarh",
+    "raipur"
+  ],
+  "bastar": [
+    "bijapur",
+    "dantewada",
+    "kondagaon",
+    "koraput",
+    "malkangiri",
+    "nabarangapur",
+    "narayanpur",
+    "sukma"
+  ],
+  "bemetara": [
+    "balodabazar",
+    "durg",
+    "kabeerdham",
+    "mungeli",
+    "raipur",
+    "rajnandgaon"
+  ],
+  "bijapur": [
+    "bastar",
+    "dantewada",
+    "garhchiroli",
+    "narayanpur",
+    "sukma"
+  ],
+  "bilaspur": [
+    "anuppur",
+    "balodabazar",
+    "dindori",
+    "janjgirchampa",
+    "korba",
+    "koriya",
+    "mungeli",
+    "raigarh",
+    "shahdol"
+  ],
+  "dantewada": [
+    "bastar",
+    "bijapur",
+    "narayanpur",
+    "sukma"
+  ],
+  "dhamtari": [
+    "balod",
+    "durg",
+    "gariaband",
+    "kondagaon",
+    "nabarangapur",
+    "raipur",
+    "uttarbastarkanker"
+  ],
+  "durg": [
+    "balod",
+    "bemetara",
+    "dhamtari",
+    "raipur",
+    "rajnandgaon"
+  ],
+  "gariaband": [
+    "dhamtari",
+    "kalahandi",
+    "mahasamund",
+    "nabarangapur",
+    "nuapada",
+    "raipur"
+  ],
+  "janjgirchampa": [
+    "balodabazar",
+    "bilaspur",
+    "korba",
+    "raigarh"
+  ],
+  "jashpur": [
+    "gumla",
+    "raigarh",
+    "simdega",
+    "sundargarh",
+    "surguja"
+  ],
+  "kabeerdham": [
+    "balaghat",
+    "bemetara",
+    "dindori",
+    "mungeli",
+    "rajnandgaon"
+  ],
+  "kondagaon": [
+    "bastar",
+    "dhamtari",
+    "nabarangapur",
+    "narayanpur",
+    "uttarbastarkanker"
+  ],
+  "korba": [
+    "bilaspur",
+    "janjgirchampa",
+    "koriya",
+    "raigarh",
+    "surajpur",
+    "surguja"
+  ],
+  "koriya": [
+    "anuppur",
+    "bilaspur",
+    "korba",
+    "shahdol",
+    "sidhi",
+    "singrauli",
+    "surajpur"
+  ],
+  "mahasamund": [
+    "balodabazar",
+    "bargarh",
+    "gariaband",
+    "nuapada",
+    "raigarh",
+    "raipur"
+  ],
+  "mungeli": [
+    "balodabazar",
+    "bemetara",
+    "bilaspur",
+    "dindori",
+    "kabeerdham",
+    "shahdol"
+  ],
+  "narayanpur": [
+    "bastar",
+    "bijapur",
+    "dantewada",
+    "garhchiroli",
+    "kondagaon",
+    "uttarbastarkanker"
+  ],
+  "raigarh": [
+    "balodabazar",
+    "bargarh",
+    "bilaspur",
+    "janjgirchampa",
+    "jashpur",
+    "jharsuguda",
+    "korba",
+    "mahasamund",
+    "sundargarh",
+    "surguja"
+  ],
+  "raipur": [
+    "balodabazar",
+    "bemetara",
+    "dhamtari",
+    "durg",
+    "gariaband",
+    "mahasamund"
+  ],
+  "rajnandgaon": [
+    "balaghat",
+    "balod",
+    "bemetara",
+    "bhandara",
+    "durg",
+    "garhchiroli",
+    "gondiya",
+    "kabeerdham",
+    "uttarbastarkanker"
+  ],
+  "sukma": [
+    "bastar",
+    "bijapur",
+    "dantewada",
+    "malkangiri"
+  ],
+  "surajpur": [
+    "korba",
+    "koriya",
+    "singrauli",
+    "surguja"
+  ],
+  "surguja": [
+    "jashpur",
+    "korba",
+    "raigarh",
+    "surajpur"
+  ],
+  "uttarbastarkanker": [
+    "balod",
+    "dhamtari",
+    "garhchiroli",
+    "kondagaon",
+    "narayanpur",
+    "rajnandgaon"
+  ],
+  "bokaro": [
+    "dhanbad",
+    "giridih",
+    "hazaribagh",
+    "puruliya",
+    "ramgarh"
+  ],
+  "chatra": [
+    "gaya",
+    "hazaribagh",
+    "latehar",
+    "palamu",
+    "ranchi"
+  ],
+  "deoghar": [
+    "banka",
+    "dumka",
+    "giridih",
+    "jamtara",
+    "jamui"
+  ],
+  "dhanbad": [
+    "barddhaman",
+    "bokaro",
+    "giridih",
+    "jamtara",
+    "puruliya"
+  ],
+  "dumka": [
+    "banka",
+    "birbhum",
+    "deoghar",
+    "godda",
+    "jamtara",
+    "pakur"
+  ],
+  "garhwa": [
+    "kaimur",
+    "latehar",
+    "palamu",
+    "rohtas",
+    "sonbhadra"
+  ],
+  "giridih": [
+    "bokaro",
+    "deoghar",
+    "dhanbad",
+    "hazaribagh",
+    "jamtara",
+    "jamui",
+    "kodarma",
+    "nawada"
+  ],
+  "godda": [
+    "banka",
+    "bhagalpur",
+    "dumka",
+    "pakur",
+    "sahibganj"
+  ],
+  "gumla": [
+    "jashpur",
+    "khunti",
+    "latehar",
+    "lohardaga",
+    "ranchi",
+    "simdega"
+  ],
+  "hazaribagh": [
+    "bokaro",
+    "chatra",
+    "gaya",
+    "giridih",
+    "kodarma",
+    "nawada",
+    "ramgarh",
+    "ranchi"
+  ],
+  "jamtara": [
+    "barddhaman",
+    "birbhum",
+    "deoghar",
+    "dhanbad",
+    "dumka",
+    "giridih"
+  ],
+  "khunti": [
+    "gumla",
+    "pashchimisinghbhum",
+    "ranchi",
+    "saraikelakharsawan",
+    "simdega"
+  ],
+  "kodarma": [
+    "giridih",
+    "hazaribagh",
+    "nawada"
+  ],
+  "latehar": [
+    "chatra",
+    "garhwa",
+    "gumla",
+    "lohardaga",
+    "palamu",
+    "ranchi"
+  ],
+  "lohardaga": [
+    "gumla",
+    "latehar",
+    "ranchi"
+  ],
+  "pakur": [
+    "birbhum",
+    "dumka",
+    "godda",
+    "murshidabad",
+    "sahibganj"
+  ],
+  "palamu": [
+    "aurangabad",
+    "chatra",
+    "garhwa",
+    "gaya",
+    "latehar",
+    "rohtas"
+  ],
+  "pashchimisinghbhum": [
+    "kendujhar",
+    "khunti",
+    "mayurbhanj",
+    "saraikelakharsawan",
+    "simdega",
+    "sundargarh"
+  ],
+  "purbisinghbhum": [
+    "mayurbhanj",
+    "pashchimmedinipur",
+    "puruliya",
+    "saraikelakharsawan"
+  ],
+  "ramgarh": [
+    "bokaro",
+    "hazaribagh",
+    "puruliya",
+    "ranchi"
+  ],
+  "ranchi": [
+    "chatra",
+    "gumla",
+    "hazaribagh",
+    "khunti",
+    "latehar",
+    "lohardaga",
+    "puruliya",
+    "ramgarh",
+    "saraikelakharsawan"
+  ],
+  "sahibganj": [
+    "bhagalpur",
+    "godda",
+    "katihar",
+    "maldah",
+    "murshidabad",
+    "pakur"
+  ],
+  "saraikelakharsawan": [
+    "khunti",
+    "mayurbhanj",
+    "pashchimisinghbhum",
+    "purbisinghbhum",
+    "puruliya",
+    "ranchi"
+  ],
+  "simdega": [
+    "gumla",
+    "jashpur",
+    "khunti",
+    "pashchimisinghbhum",
+    "sundargarh"
+  ],
+  "anuppur": [
+    "bilaspur",
+    "koriya",
+    "shahdol"
+  ],
+  "balaghat": [
+    "bhandara",
+    "dindori",
+    "gondiya",
+    "kabeerdham",
+    "mandla",
+    "rajnandgaon",
+    "seoni"
+  ],
+  "chhatarpur": [
+    "banda",
+    "damoh",
+    "hamirpur",
+    "jhansi",
+    "mahoba",
+    "panna",
+    "sagar",
+    "tikamgarh"
+  ],
+  "damoh": [
+    "chhatarpur",
+    "jabalpur",
+    "katni",
+    "narsimhapur",
+    "panna",
+    "sagar"
+  ],
+  "dindori": [
+    "balaghat",
+    "bilaspur",
+    "jabalpur",
+    "kabeerdham",
+    "mandla",
+    "mungeli",
+    "shahdol",
+    "umaria"
+  ],
+  "jabalpur": [
+    "damoh",
+    "dindori",
+    "katni",
+    "mandla",
+    "narsimhapur",
+    "seoni",
+    "umaria"
+  ],
+  "katni": [
+    "damoh",
+    "jabalpur",
+    "panna",
+    "satna",
+    "shahdol",
+    "umaria"
+  ],
+  "mandla": [
+    "balaghat",
+    "dindori",
+    "jabalpur",
+    "seoni"
+  ],
+  "narsimhapur": [
+    "damoh",
+    "jabalpur",
+    "sagar",
+    "seoni"
+  ],
+  "panna": [
+    "banda",
+    "chhatarpur",
+    "damoh",
+    "katni",
+    "satna"
+  ],
+  "rewa": [
+    "allahabad",
+    "chitrakoot",
+    "mirzapur",
+    "satna",
+    "sidhi",
+    "singrauli"
+  ],
+  "sagar": [
+    "chhatarpur",
+    "damoh",
+    "narsimhapur",
+    "tikamgarh"
+  ],
+  "satna": [
+    "banda",
+    "chitrakoot",
+    "katni",
+    "panna",
+    "rewa",
+    "shahdol",
+    "sidhi",
+    "umaria"
+  ],
+  "seoni": [
+    "balaghat",
+    "jabalpur",
+    "mandla",
+    "narsimhapur"
+  ],
+  "shahdol": [
+    "anuppur",
+    "bilaspur",
+    "dindori",
+    "katni",
+    "koriya",
+    "mungeli",
+    "satna",
+    "sidhi",
+    "umaria"
+  ],
+  "sidhi": [
+    "koriya",
+    "mirzapur",
+    "rewa",
+    "satna",
+    "shahdol",
+    "singrauli"
+  ],
+  "singrauli": [
+    "koriya",
+    "mirzapur",
+    "rewa",
+    "sidhi",
+    "sonbhadra",
+    "surajpur"
+  ],
+  "tikamgarh": [
+    "chhatarpur",
+    "jhansi",
+    "sagar"
+  ],
+  "umaria": [
+    "dindori",
+    "jabalpur",
+    "katni",
+    "satna",
+    "shahdol"
+  ],
+  "bhandara": [
+    "balaghat",
+    "garhchiroli",
+    "gondiya",
+    "rajnandgaon"
+  ],
+  "garhchiroli": [
+    "bhandara",
+    "bijapur",
+    "gondiya",
+    "narayanpur",
+    "rajnandgaon",
+    "uttarbastarkanker"
+  ],
+  "gondiya": [
+    "balaghat",
+    "bhandara",
+    "garhchiroli",
+    "rajnandgaon"
+  ],
+  "bishnupur": [
+    "chandel",
+    "churachandpur",
+    "imphalwest",
+    "senapati",
+    "tamenglong",
+    "thoubal"
+  ],
+  "chandel": [
+    "bishnupur",
+    "churachandpur",
+    "senapati",
+    "thoubal",
+    "ukhrul"
+  ],
+  "churachandpur": [
+    "aizawl",
+    "bishnupur",
+    "cachar",
+    "champhai",
+    "chandel",
+    "imphaleast",
+    "senapati",
+    "tamenglong",
+    "thoubal"
+  ],
+  "imphaleast": [
+    "cachar",
+    "churachandpur",
+    "imphalwest",
+    "senapati",
+    "tamenglong",
+    "thoubal",
+    "ukhrul"
+  ],
+  "imphalwest": [
+    "bishnupur",
+    "imphaleast",
+    "senapati",
+    "thoubal"
+  ],
+  "senapati": [
+    "bishnupur",
+    "chandel",
+    "churachandpur",
+    "imphaleast",
+    "imphalwest",
+    "kohima",
+    "peren",
+    "phek",
+    "tamenglong",
+    "thoubal",
+    "ukhrul"
+  ],
+  "tamenglong": [
+    "bishnupur",
+    "cachar",
+    "churachandpur",
+    "dimahasao",
+    "imphaleast",
+    "peren",
+    "senapati"
+  ],
+  "thoubal": [
+    "bishnupur",
+    "chandel",
+    "churachandpur",
+    "imphaleast",
+    "imphalwest",
+    "senapati"
+  ],
+  "ukhrul": [
+    "chandel",
+    "imphaleast",
+    "phek",
+    "senapati"
+  ],
+  "eastgarohills": [
+    "goalpara",
+    "kamrup",
+    "northgarohills",
+    "southgarohills",
+    "westgarohills",
+    "westkhasihills"
+  ],
+  "eastkhasihills": [
+    "jaintiahills",
+    "karbianglong",
+    "ribhoi",
+    "southwestkhasihills",
+    "westkhasihills"
+  ],
+  "jaintiahills": [
+    "cachar",
+    "dimahasao",
+    "eastkhasihills",
+    "karbianglong",
+    "ribhoi"
+  ],
+  "northgarohills": [
+    "eastgarohills",
+    "goalpara",
+    "westgarohills"
+  ],
+  "ribhoi": [
+    "eastkhasihills",
+    "jaintiahills",
+    "kamrup",
+    "kamrupmetropolitan",
+    "karbianglong",
+    "morigaon",
+    "westkhasihills"
+  ],
+  "southgarohills": [
+    "eastgarohills",
+    "southwestkhasihills",
+    "westgarohills",
+    "westkhasihills"
+  ],
+  "southwestgarohills": [
+    "dhubri",
+    "westgarohills"
+  ],
+  "southwestkhasihills": [
+    "eastkhasihills",
+    "southgarohills",
+    "westkhasihills"
+  ],
+  "westgarohills": [
+    "dhubri",
+    "eastgarohills",
+    "goalpara",
+    "northgarohills",
+    "southgarohills",
+    "southwestgarohills"
+  ],
+  "westkhasihills": [
+    "eastgarohills",
+    "eastkhasihills",
+    "kamrup",
+    "ribhoi",
+    "southgarohills",
+    "southwestkhasihills"
+  ],
+  "aizawl": [
+    "cachar",
+    "champhai",
+    "churachandpur",
+    "kolasib",
+    "lunglei",
+    "mamit",
+    "serchhip"
+  ],
+  "champhai": [
+    "aizawl",
+    "churachandpur",
+    "serchhip"
+  ],
+  "kolasib": [
+    "aizawl",
+    "cachar",
+    "hailakandi",
+    "mamit"
+  ],
+  "lawangtlai": [
+    "lunglei",
+    "saiha"
+  ],
+  "lunglei": [
+    "aizawl",
+    "lawangtlai",
+    "mamit",
+    "saiha",
+    "serchhip"
+  ],
+  "mamit": [
+    "aizawl",
+    "hailakandi",
+    "karimganj",
+    "kolasib",
+    "lunglei",
+    "northtripura"
+  ],
+  "saiha": [
+    "lawangtlai",
+    "lunglei"
+  ],
+  "serchhip": [
+    "aizawl",
+    "champhai",
+    "lunglei"
+  ],
+  "dimapur": [
+    "golaghat",
+    "karbianglong",
+    "kohima",
+    "peren",
+    "wokha"
+  ],
+  "kiphire": [
+    "phek",
+    "tuensang",
+    "zunheboto"
+  ],
+  "kohima": [
+    "dimapur",
+    "golaghat",
+    "peren",
+    "phek",
+    "senapati",
+    "wokha",
+    "zunheboto"
+  ],
+  "longleng": [
+    "mokokchung",
+    "mon",
+    "sivasagar",
+    "tuensang"
+  ],
+  "mokokchung": [
+    "jorhat",
+    "longleng",
+    "mon",
+    "sivasagar",
+    "tuensang",
+    "wokha",
+    "zunheboto"
+  ],
+  "mon": [
+    "longding",
+    "longleng",
+    "mokokchung",
+    "sivasagar",
+    "tuensang"
+  ],
+  "peren": [
+    "dimahasao",
+    "dimapur",
+    "karbianglong",
+    "kohima",
+    "senapati",
+    "tamenglong"
+  ],
+  "phek": [
+    "kiphire",
+    "kohima",
+    "senapati",
+    "ukhrul",
+    "zunheboto"
+  ],
+  "tuensang": [
+    "kiphire",
+    "longleng",
+    "mokokchung",
+    "mon",
+    "zunheboto"
+  ],
+  "wokha": [
+    "dimapur",
+    "golaghat",
+    "jorhat",
+    "kohima",
+    "mokokchung",
+    "zunheboto"
+  ],
+  "zunheboto": [
+    "kiphire",
+    "kohima",
+    "mokokchung",
+    "phek",
+    "tuensang",
+    "wokha"
+  ],
+  "anugul": [
+    "bauda",
+    "cuttack",
+    "debagarh",
+    "dhenkanal",
+    "kendujhar",
+    "nayagarh",
+    "sambalpur",
+    "subarnapur",
+    "sundargarh"
+  ],
+  "balangir": [
+    "bargarh",
+    "bauda",
+    "kalahandi",
+    "kandhamal",
+    "nuapada",
+    "subarnapur"
+  ],
+  "baleshwar": [
+    "bhadrak",
+    "kendujhar",
+    "mayurbhanj",
+    "pashchimmedinipur",
+    "purbamedinipur"
+  ],
+  "bargarh": [
+    "balangir",
+    "jharsuguda",
+    "mahasamund",
+    "nuapada",
+    "raigarh",
+    "sambalpur",
+    "subarnapur"
+  ],
+  "bauda": [
+    "anugul",
+    "balangir",
+    "kalahandi",
+    "kandhamal",
+    "nayagarh",
+    "sambalpur",
+    "subarnapur"
+  ],
+  "bhadrak": [
+    "baleshwar",
+    "jajapur",
+    "kendrapara",
+    "kendujhar"
+  ],
+  "cuttack": [
+    "anugul",
+    "dhenkanal",
+    "jagatsinghapur",
+    "jajapur",
+    "kendrapara",
+    "khordha",
+    "nayagarh",
+    "puri"
+  ],
+  "debagarh": [
+    "anugul",
+    "sambalpur",
+    "sundargarh"
+  ],
+  "dhenkanal": [
+    "anugul",
+    "cuttack",
+    "jajapur",
+    "kendujhar"
+  ],
+  "gajapati": [
+    "ganjam",
+    "kandhamal",
+    "rayagada",
+    "srikakulam",
+    "vizianagaram"
+  ],
+  "ganjam": [
+    "gajapati",
+    "kandhamal",
+    "khordha",
+    "nayagarh",
+    "puri",
+    "srikakulam"
+  ],
+  "jagatsinghapur": [
+    "cuttack",
+    "kendrapara",
+    "puri"
+  ],
+  "jajapur": [
+    "bhadrak",
+    "cuttack",
+    "dhenkanal",
+    "kendrapara",
+    "kendujhar"
+  ],
+  "jharsuguda": [
+    "bargarh",
+    "raigarh",
+    "sambalpur",
+    "sundargarh"
+  ],
+  "kalahandi": [
+    "balangir",
+    "bauda",
+    "gariaband",
+    "kandhamal",
+    "koraput",
+    "nabarangapur",
+    "nuapada",
+    "rayagada"
+  ],
+  "kandhamal": [
+    "balangir",
+    "bauda",
+    "gajapati",
+    "ganjam",
+    "kalahandi",
+    "nayagarh",
+    "rayagada"
+  ],
+  "kendrapara": [
+    "bhadrak",
+    "cuttack",
+    "jagatsinghapur",
+    "jajapur"
+  ],
+  "kendujhar": [
+    "anugul",
+    "baleshwar",
+    "bhadrak",
+    "dhenkanal",
+    "jajapur",
+    "mayurbhanj",
+    "pashchimisinghbhum",
+    "sundargarh"
+  ],
+  "khordha": [
+    "cuttack",
+    "ganjam",
+    "nayagarh",
+    "puri"
+  ],
+  "koraput": [
+    "bastar",
+    "kalahandi",
+    "malkangiri",
+    "nabarangapur",
+    "rayagada",
+    "visakhapatnam",
+    "vizianagaram"
+  ],
+  "malkangiri": [
+    "bastar",
+    "eastgodavari",
+    "koraput",
+    "sukma",
+    "visakhapatnam"
+  ],
+  "mayurbhanj": [
+    "baleshwar",
+    "kendujhar",
+    "pashchimisinghbhum",
+    "pashchimmedinipur",
+    "purbisinghbhum",
+    "saraikelakharsawan"
+  ],
+  "nabarangapur": [
+    "bastar",
+    "dhamtari",
+    "gariaband",
+    "kalahandi",
+    "kondagaon",
+    "koraput",
+    "rayagada"
+  ],
+  "nayagarh": [
+    "anugul",
+    "bauda",
+    "cuttack",
+    "ganjam",
+    "kandhamal",
+    "khordha",
+    "puri"
+  ],
+  "nuapada": [
+    "balangir",
+    "bargarh",
+    "gariaband",
+    "kalahandi",
+    "mahasamund"
+  ],
+  "puri": [
+    "cuttack",
+    "ganjam",
+    "jagatsinghapur",
+    "khordha",
+    "nayagarh"
+  ],
+  "rayagada": [
+    "gajapati",
+    "kalahandi",
+    "kandhamal",
+    "koraput",
+    "nabarangapur",
+    "srikakulam",
+    "vizianagaram"
+  ],
+  "sambalpur": [
+    "anugul",
+    "bargarh",
+    "bauda",
+    "debagarh",
+    "jharsuguda",
+    "subarnapur",
+    "sundargarh"
+  ],
+  "subarnapur": [
+    "anugul",
+    "balangir",
+    "bargarh",
+    "bauda",
+    "sambalpur"
+  ],
+  "sundargarh": [
+    "anugul",
+    "debagarh",
+    "jashpur",
+    "jharsuguda",
+    "kendujhar",
+    "pashchimisinghbhum",
+    "raigarh",
+    "sambalpur",
+    "simdega"
+  ],
+  "yanam": [
+    "eastgodavari"
+  ],
+  "eastsikkim": [
+    "darjiling",
+    "northsikkim",
+    "southsikkim"
+  ],
+  "northsikkim": [
+    "eastsikkim",
+    "southsikkim",
+    "westsikkim"
+  ],
+  "southsikkim": [
+    "darjiling",
+    "eastsikkim",
+    "northsikkim",
+    "westsikkim"
+  ],
+  "westsikkim": [
+    "darjiling",
+    "northsikkim",
+    "southsikkim"
+  ],
+  "dhalai": [
+    "gomati",
+    "khowai",
+    "northtripura",
+    "unokoti"
+  ],
+  "gomati": [
+    "dhalai",
+    "khowai",
+    "sipahijala",
+    "southtripura",
+    "westtripura"
+  ],
+  "khowai": [
+    "dhalai",
+    "gomati",
+    "sipahijala",
+    "westtripura"
+  ],
+  "northtripura": [
+    "dhalai",
+    "karimganj",
+    "mamit",
+    "unokoti"
+  ],
+  "sipahijala": [
+    "gomati",
+    "khowai",
+    "southtripura",
+    "westtripura"
+  ],
+  "southtripura": [
+    "gomati",
+    "sipahijala"
+  ],
+  "unokoti": [
+    "dhalai",
+    "northtripura"
+  ],
+  "westtripura": [
+    "gomati",
+    "khowai",
+    "sipahijala"
+  ],
+  "allahabad": [
+    "chitrakoot",
+    "jaunpur",
+    "kaushambi",
+    "mirzapur",
+    "pratapgarh",
+    "rewa",
+    "santravidasnagar"
+  ],
+  "ambedkarnagar": [
+    "azamgarh",
+    "basti",
+    "faizabad",
+    "gorakhpur",
+    "santkabirnagar",
+    "sultanpur"
+  ],
+  "amethi": [
+    "barabanki",
+    "faizabad",
+    "pratapgarh",
+    "raebareli",
+    "sultanpur"
+  ],
+  "auraiya": [
+    "jalaun",
+    "kannauj",
+    "kanpurdehat"
+  ],
+  "azamgarh": [
+    "ambedkarnagar",
+    "ghazipur",
+    "gorakhpur",
+    "jaunpur",
+    "mau",
+    "sultanpur"
+  ],
+  "bahraich": [
+    "barabanki",
+    "gonda",
+    "lakhimpurkheri",
+    "shravasti",
+    "sitapur"
+  ],
+  "ballia": [
+    "bhojpur",
+    "buxar",
+    "deoria",
+    "ghazipur",
+    "mau",
+    "saran",
+    "siwan"
+  ],
+  "balrampur": [
+    "gonda",
+    "shravasti",
+    "siddharthnagar"
+  ],
+  "banda": [
+    "chhatarpur",
+    "chitrakoot",
+    "fatehpur",
+    "hamirpur",
+    "mahoba",
+    "panna",
+    "satna"
+  ],
+  "barabanki": [
+    "amethi",
+    "bahraich",
+    "faizabad",
+    "gonda",
+    "lucknow",
+    "raebareli",
+    "sitapur"
+  ],
+  "basti": [
+    "ambedkarnagar",
+    "faizabad",
+    "gonda",
+    "santkabirnagar",
+    "siddharthnagar"
+  ],
+  "chandauli": [
+    "ghazipur",
+    "kaimur",
+    "mirzapur",
+    "sonbhadra",
+    "varanasi"
+  ],
+  "chitrakoot": [
+    "allahabad",
+    "banda",
+    "fatehpur",
+    "kaushambi",
+    "rewa",
+    "satna"
+  ],
+  "deoria": [
+    "ballia",
+    "gopalganj",
+    "gorakhpur",
+    "kushinagar",
+    "mau",
+    "siwan"
+  ],
+  "faizabad": [
+    "ambedkarnagar",
+    "amethi",
+    "barabanki",
+    "basti",
+    "gonda",
+    "sultanpur"
+  ],
+  "fatehpur": [
+    "banda",
+    "chitrakoot",
+    "hamirpur",
+    "kanpurnagar",
+    "kaushambi",
+    "pratapgarh",
+    "raebareli",
+    "unnao"
+  ],
+  "ghazipur": [
+    "azamgarh",
+    "ballia",
+    "buxar",
+    "chandauli",
+    "jaunpur",
+    "kaimur",
+    "mau",
+    "varanasi"
+  ],
+  "gonda": [
+    "bahraich",
+    "balrampur",
+    "barabanki",
+    "basti",
+    "faizabad",
+    "shravasti",
+    "siddharthnagar"
+  ],
+  "gorakhpur": [
+    "ambedkarnagar",
+    "azamgarh",
+    "deoria",
+    "kushinagar",
+    "maharajganj",
+    "mau",
+    "santkabirnagar"
+  ],
+  "hamirpur": [
+    "banda",
+    "chhatarpur",
+    "fatehpur",
+    "jalaun",
+    "jhansi",
+    "kanpurdehat",
+    "kanpurnagar",
+    "mahoba"
+  ],
+  "hardoi": [
+    "kannauj",
+    "kanpurnagar",
+    "lakhimpurkheri",
+    "lucknow",
+    "sitapur",
+    "unnao"
+  ],
+  "jalaun": [
+    "auraiya",
+    "hamirpur",
+    "jhansi",
+    "kanpurdehat",
+    "kanpurnagar"
+  ],
+  "jaunpur": [
+    "allahabad",
+    "azamgarh",
+    "ghazipur",
+    "pratapgarh",
+    "santravidasnagar",
+    "sultanpur",
+    "varanasi"
+  ],
+  "jhansi": [
+    "chhatarpur",
+    "hamirpur",
+    "jalaun",
+    "mahoba",
+    "tikamgarh"
+  ],
+  "kannauj": [
+    "auraiya",
+    "hardoi",
+    "kanpurdehat",
+    "kanpurnagar",
+    "unnao"
+  ],
+  "kanpurdehat": [
+    "auraiya",
+    "hamirpur",
+    "jalaun",
+    "kannauj",
+    "kanpurnagar"
+  ],
+  "kanpurnagar": [
+    "fatehpur",
+    "hamirpur",
+    "hardoi",
+    "jalaun",
+    "kannauj",
+    "kanpurdehat",
+    "unnao"
+  ],
+  "kaushambi": [
+    "allahabad",
+    "chitrakoot",
+    "fatehpur",
+    "pratapgarh",
+    "raebareli"
+  ],
+  "kushinagar": [
+    "deoria",
+    "gopalganj",
+    "gorakhpur",
+    "maharajganj",
+    "pashchimchamparan"
+  ],
+  "lakhimpurkheri": [
+    "bahraich",
+    "hardoi",
+    "sitapur"
+  ],
+  "lucknow": [
+    "barabanki",
+    "hardoi",
+    "raebareli",
+    "sitapur",
+    "unnao"
+  ],
+  "maharajganj": [
+    "gorakhpur",
+    "kushinagar",
+    "pashchimchamparan",
+    "santkabirnagar",
+    "siddharthnagar"
+  ],
+  "mahoba": [
+    "banda",
+    "chhatarpur",
+    "hamirpur",
+    "jhansi"
+  ],
+  "mau": [
+    "azamgarh",
+    "ballia",
+    "deoria",
+    "ghazipur",
+    "gorakhpur"
+  ],
+  "mirzapur": [
+    "allahabad",
+    "chandauli",
+    "rewa",
+    "santravidasnagar",
+    "sidhi",
+    "singrauli",
+    "sonbhadra",
+    "varanasi"
+  ],
+  "pratapgarh": [
+    "allahabad",
+    "amethi",
+    "fatehpur",
+    "jaunpur",
+    "kaushambi",
+    "raebareli",
+    "sultanpur"
+  ],
+  "raebareli": [
+    "amethi",
+    "barabanki",
+    "fatehpur",
+    "kaushambi",
+    "lucknow",
+    "pratapgarh",
+    "unnao"
+  ],
+  "santkabirnagar": [
+    "ambedkarnagar",
+    "basti",
+    "gorakhpur",
+    "maharajganj",
+    "siddharthnagar"
+  ],
+  "santravidasnagar": [
+    "allahabad",
+    "jaunpur",
+    "mirzapur",
+    "varanasi"
+  ],
+  "shravasti": [
+    "bahraich",
+    "balrampur",
+    "gonda"
+  ],
+  "siddharthnagar": [
+    "balrampur",
+    "basti",
+    "gonda",
+    "maharajganj",
+    "santkabirnagar"
+  ],
+  "sitapur": [
+    "bahraich",
+    "barabanki",
+    "hardoi",
+    "lakhimpurkheri",
+    "lucknow"
+  ],
+  "sonbhadra": [
+    "chandauli",
+    "garhwa",
+    "kaimur",
+    "mirzapur",
+    "rohtas",
+    "singrauli"
+  ],
+  "sultanpur": [
+    "ambedkarnagar",
+    "amethi",
+    "azamgarh",
+    "faizabad",
+    "jaunpur",
+    "pratapgarh"
+  ],
+  "unnao": [
+    "fatehpur",
+    "hardoi",
+    "kannauj",
+    "kanpurnagar",
+    "lucknow",
+    "raebareli"
+  ],
+  "varanasi": [
+    "chandauli",
+    "ghazipur",
+    "jaunpur",
+    "mirzapur",
+    "santravidasnagar"
+  ],
+  "alipurduar": [
+    "jalpaiguri",
+    "kochbihar",
+    "kokrajhar"
+  ],
+  "bankura": [
+    "barddhaman",
+    "hugli",
+    "pashchimmedinipur",
+    "puruliya"
+  ],
+  "barddhaman": [
+    "bankura",
+    "birbhum",
+    "dhanbad",
+    "hugli",
+    "jamtara",
+    "murshidabad",
+    "nadia",
+    "puruliya"
+  ],
+  "birbhum": [
+    "barddhaman",
+    "dumka",
+    "jamtara",
+    "murshidabad",
+    "pakur"
+  ],
+  "dakshindinajpur": [
+    "maldah",
+    "uttardinajpur"
+  ],
+  "darjiling": [
+    "eastsikkim",
+    "jalpaiguri",
+    "kishanganj",
+    "southsikkim",
+    "uttardinajpur",
+    "westsikkim"
+  ],
+  "haora": [
+    "hugli",
+    "kolkata",
+    "north24parganas",
+    "pashchimmedinipur",
+    "purbamedinipur",
+    "south24parganas"
+  ],
+  "hugli": [
+    "bankura",
+    "barddhaman",
+    "haora",
+    "kolkata",
+    "nadia",
+    "north24parganas",
+    "pashchimmedinipur"
+  ],
+  "jalpaiguri": [
+    "alipurduar",
+    "darjiling",
+    "kochbihar"
+  ],
+  "kochbihar": [
+    "alipurduar",
+    "dhubri",
+    "jalpaiguri",
+    "kokrajhar"
+  ],
+  "kolkata": [
+    "haora",
+    "hugli",
+    "north24parganas",
+    "south24parganas"
+  ],
+  "maldah": [
+    "dakshindinajpur",
+    "katihar",
+    "murshidabad",
+    "sahibganj",
+    "uttardinajpur"
+  ],
+  "murshidabad": [
+    "barddhaman",
+    "birbhum",
+    "maldah",
+    "nadia",
+    "pakur",
+    "sahibganj"
+  ],
+  "nadia": [
+    "barddhaman",
+    "hugli",
+    "murshidabad",
+    "north24parganas"
+  ],
+  "north24parganas": [
+    "haora",
+    "hugli",
+    "kolkata",
+    "nadia",
+    "south24parganas"
+  ],
+  "pashchimmedinipur": [
+    "baleshwar",
+    "bankura",
+    "haora",
+    "hugli",
+    "mayurbhanj",
+    "purbamedinipur",
+    "purbisinghbhum",
+    "puruliya"
+  ],
+  "purbamedinipur": [
+    "baleshwar",
+    "haora",
+    "pashchimmedinipur",
+    "south24parganas"
+  ],
+  "puruliya": [
+    "bankura",
+    "barddhaman",
+    "bokaro",
+    "dhanbad",
+    "pashchimmedinipur",
+    "purbisinghbhum",
+    "ramgarh",
+    "ranchi",
+    "saraikelakharsawan"
+  ],
+  "south24parganas": [
+    "haora",
+    "kolkata",
+    "north24parganas",
+    "purbamedinipur"
+  ],
+  "uttardinajpur": [
+    "dakshindinajpur",
+    "darjiling",
+    "katihar",
+    "kishanganj",
+    "maldah",
+    "purnia"
+  ]
+}

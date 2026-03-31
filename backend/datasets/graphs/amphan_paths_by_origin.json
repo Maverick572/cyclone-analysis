@@ -1,0 +1,4564 @@
+{
+  "alipurduar": [
+    [
+      {
+        "district": "alipurduar",
+        "date": "2020-05-20",
+        "intensity": 0.3678418723931297
+      },
+      {
+        "district": "kokrajhar",
+        "date": "2020-05-22",
+        "intensity": 0.2495335780640371
+      }
+    ],
+    [
+      {
+        "district": "alipurduar",
+        "date": "2020-05-20",
+        "intensity": 0.3678418723931297
+      },
+      {
+        "district": "kokrajhar",
+        "date": "2020-05-21",
+        "intensity": 0.2694097875918194
+      },
+      {
+        "district": "chirang",
+        "date": "2020-05-22",
+        "intensity": 0.2681141059494574
+      }
+    ],
+    [
+      {
+        "district": "alipurduar",
+        "date": "2020-05-20",
+        "intensity": 0.3678418723931297
+      },
+      {
+        "district": "kokrajhar",
+        "date": "2020-05-21",
+        "intensity": 0.2694097875918194
+      },
+      {
+        "district": "bongaigaon",
+        "date": "2020-05-22",
+        "intensity": 0.1958810591663352
+      }
+    ]
+  ],
+  "baksa": [
+    [
+      {
+        "district": "baksa",
+        "date": "2020-05-21",
+        "intensity": 0.3146743293580872
+      },
+      {
+        "district": "kamrup",
+        "date": "2020-05-22",
+        "intensity": 0.2754763500466698
+      }
+    ],
+    [
+      {
+        "district": "baksa",
+        "date": "2020-05-21",
+        "intensity": 0.3146743293580872
+      },
+      {
+        "district": "chirang",
+        "date": "2020-05-22",
+        "intensity": 0.2681141059494574
+      }
+    ],
+    [
+      {
+        "district": "baksa",
+        "date": "2020-05-21",
+        "intensity": 0.3146743293580872
+      },
+      {
+        "district": "bongaigaon",
+        "date": "2020-05-22",
+        "intensity": 0.1958810591663352
+      }
+    ]
+  ],
+  "baleshwar": [
+    [
+      {
+        "district": "baleshwar",
+        "date": "2020-05-20",
+        "intensity": 0.3703506139556087
+      },
+      {
+        "district": "purbamedinipur",
+        "date": "2020-05-21",
+        "intensity": 0.2060964490729916
+      }
+    ]
+  ],
+  "barpeta": [
+    [
+      {
+        "district": "barpeta",
+        "date": "2020-05-15",
+        "intensity": 0.235382726150296
+      },
+      {
+        "district": "nalbari",
+        "date": "2020-05-16",
+        "intensity": 0.1710874791887454
+      },
+      {
+        "district": "kamrup",
+        "date": "2020-05-17",
+        "intensity": 0.1745134510022339
+      }
+    ],
+    [
+      {
+        "district": "barpeta",
+        "date": "2020-05-15",
+        "intensity": 0.235382726150296
+      },
+      {
+        "district": "kamrup",
+        "date": "2020-05-17",
+        "intensity": 0.1745134510022339
+      }
+    ],
+    [
+      {
+        "district": "barpeta",
+        "date": "2020-05-15",
+        "intensity": 0.235382726150296
+      },
+      {
+        "district": "kamrup",
+        "date": "2020-05-16",
+        "intensity": 0.3377721579140633
+      }
+    ],
+    [
+      {
+        "district": "barpeta",
+        "date": "2020-05-15",
+        "intensity": 0.235382726150296
+      },
+      {
+        "district": "bongaigaon",
+        "date": "2020-05-16",
+        "intensity": 0.5044822518463339
+      }
+    ],
+    [
+      {
+        "district": "barpeta",
+        "date": "2020-05-16",
+        "intensity": 0.329801511798772
+      },
+      {
+        "district": "kamrup",
+        "date": "2020-05-17",
+        "intensity": 0.1745134510022339
+      }
+    ],
+    [
+      {
+        "district": "barpeta",
+        "date": "2020-05-20",
+        "intensity": 0.4538751102984386
+      },
+      {
+        "district": "nalbari",
+        "date": "2020-05-21",
+        "intensity": 0.2333615230450625
+      },
+      {
+        "district": "kamrup",
+        "date": "2020-05-22",
+        "intensity": 0.2754763500466698
+      }
+    ],
+    [
+      {
+        "district": "barpeta",
+        "date": "2020-05-20",
+        "intensity": 0.4538751102984386
+      },
+      {
+        "district": "kamrup",
+        "date": "2020-05-22",
+        "intensity": 0.2754763500466698
+      }
+    ],
+    [
+      {
+        "district": "barpeta",
+        "date": "2020-05-20",
+        "intensity": 0.4538751102984386
+      },
+      {
+        "district": "kamrup",
+        "date": "2020-05-21",
+        "intensity": 0.4552285766891948
+      },
+      {
+        "district": "westkhasihills",
+        "date": "2020-05-22",
+        "intensity": 0.7636238002852902
+      }
+    ],
+    [
+      {
+        "district": "barpeta",
+        "date": "2020-05-20",
+        "intensity": 0.4538751102984386
+      },
+      {
+        "district": "kamrup",
+        "date": "2020-05-21",
+        "intensity": 0.4552285766891948
+      },
+      {
+        "district": "ribhoi",
+        "date": "2020-05-22",
+        "intensity": 0.2130222334166867
+      }
+    ],
+    [
+      {
+        "district": "barpeta",
+        "date": "2020-05-20",
+        "intensity": 0.4538751102984386
+      },
+      {
+        "district": "kamrup",
+        "date": "2020-05-21",
+        "intensity": 0.4552285766891948
+      },
+      {
+        "district": "goalpara",
+        "date": "2020-05-22",
+        "intensity": 0.2317887478903752
+      }
+    ],
+    [
+      {
+        "district": "barpeta",
+        "date": "2020-05-20",
+        "intensity": 0.4538751102984386
+      },
+      {
+        "district": "kamrup",
+        "date": "2020-05-21",
+        "intensity": 0.4552285766891948
+      },
+      {
+        "district": "eastgarohills",
+        "date": "2020-05-22",
+        "intensity": 0.2009859795424861
+      }
+    ],
+    [
+      {
+        "district": "barpeta",
+        "date": "2020-05-20",
+        "intensity": 0.4538751102984386
+      },
+      {
+        "district": "goalpara",
+        "date": "2020-05-22",
+        "intensity": 0.2317887478903752
+      }
+    ],
+    [
+      {
+        "district": "barpeta",
+        "date": "2020-05-20",
+        "intensity": 0.4538751102984386
+      },
+      {
+        "district": "goalpara",
+        "date": "2020-05-21",
+        "intensity": 0.2498034276489679
+      },
+      {
+        "district": "kamrup",
+        "date": "2020-05-22",
+        "intensity": 0.2754763500466698
+      }
+    ],
+    [
+      {
+        "district": "barpeta",
+        "date": "2020-05-20",
+        "intensity": 0.4538751102984386
+      },
+      {
+        "district": "goalpara",
+        "date": "2020-05-21",
+        "intensity": 0.2498034276489679
+      },
+      {
+        "district": "eastgarohills",
+        "date": "2020-05-22",
+        "intensity": 0.2009859795424861
+      }
+    ],
+    [
+      {
+        "district": "barpeta",
+        "date": "2020-05-20",
+        "intensity": 0.4538751102984386
+      },
+      {
+        "district": "goalpara",
+        "date": "2020-05-21",
+        "intensity": 0.2498034276489679
+      },
+      {
+        "district": "bongaigaon",
+        "date": "2020-05-22",
+        "intensity": 0.1958810591663352
+      }
+    ],
+    [
+      {
+        "district": "barpeta",
+        "date": "2020-05-20",
+        "intensity": 0.4538751102984386
+      },
+      {
+        "district": "chirang",
+        "date": "2020-05-22",
+        "intensity": 0.2681141059494574
+      }
+    ],
+    [
+      {
+        "district": "barpeta",
+        "date": "2020-05-20",
+        "intensity": 0.4538751102984386
+      },
+      {
+        "district": "chirang",
+        "date": "2020-05-21",
+        "intensity": 0.3816624065890249
+      },
+      {
+        "district": "kokrajhar",
+        "date": "2020-05-22",
+        "intensity": 0.2495335780640371
+      }
+    ],
+    [
+      {
+        "district": "barpeta",
+        "date": "2020-05-20",
+        "intensity": 0.4538751102984386
+      },
+      {
+        "district": "chirang",
+        "date": "2020-05-21",
+        "intensity": 0.3816624065890249
+      },
+      {
+        "district": "bongaigaon",
+        "date": "2020-05-22",
+        "intensity": 0.1958810591663352
+      }
+    ],
+    [
+      {
+        "district": "barpeta",
+        "date": "2020-05-20",
+        "intensity": 0.4538751102984386
+      },
+      {
+        "district": "bongaigaon",
+        "date": "2020-05-22",
+        "intensity": 0.1958810591663352
+      }
+    ],
+    [
+      {
+        "district": "barpeta",
+        "date": "2020-05-20",
+        "intensity": 0.4538751102984386
+      },
+      {
+        "district": "bongaigaon",
+        "date": "2020-05-21",
+        "intensity": 0.3353499653684621
+      },
+      {
+        "district": "kokrajhar",
+        "date": "2020-05-22",
+        "intensity": 0.2495335780640371
+      }
+    ],
+    [
+      {
+        "district": "barpeta",
+        "date": "2020-05-20",
+        "intensity": 0.4538751102984386
+      },
+      {
+        "district": "bongaigaon",
+        "date": "2020-05-21",
+        "intensity": 0.3353499653684621
+      },
+      {
+        "district": "goalpara",
+        "date": "2020-05-22",
+        "intensity": 0.2317887478903752
+      }
+    ],
+    [
+      {
+        "district": "barpeta",
+        "date": "2020-05-20",
+        "intensity": 0.4538751102984386
+      },
+      {
+        "district": "bongaigaon",
+        "date": "2020-05-21",
+        "intensity": 0.3353499653684621
+      },
+      {
+        "district": "chirang",
+        "date": "2020-05-22",
+        "intensity": 0.2681141059494574
+      }
+    ],
+    [
+      {
+        "district": "barpeta",
+        "date": "2020-05-20",
+        "intensity": 0.4538751102984386
+      },
+      {
+        "district": "baksa",
+        "date": "2020-05-21",
+        "intensity": 0.3146743293580872
+      },
+      {
+        "district": "kamrup",
+        "date": "2020-05-22",
+        "intensity": 0.2754763500466698
+      }
+    ],
+    [
+      {
+        "district": "barpeta",
+        "date": "2020-05-20",
+        "intensity": 0.4538751102984386
+      },
+      {
+        "district": "baksa",
+        "date": "2020-05-21",
+        "intensity": 0.3146743293580872
+      },
+      {
+        "district": "chirang",
+        "date": "2020-05-22",
+        "intensity": 0.2681141059494574
+      }
+    ],
+    [
+      {
+        "district": "barpeta",
+        "date": "2020-05-20",
+        "intensity": 0.4538751102984386
+      },
+      {
+        "district": "baksa",
+        "date": "2020-05-21",
+        "intensity": 0.3146743293580872
+      },
+      {
+        "district": "bongaigaon",
+        "date": "2020-05-22",
+        "intensity": 0.1958810591663352
+      }
+    ]
+  ],
+  "bhadrak": [
+    [
+      {
+        "district": "bhadrak",
+        "date": "2020-05-19",
+        "intensity": 0.3874136659832131
+      },
+      {
+        "district": "kendrapara",
+        "date": "2020-05-21",
+        "intensity": 0.6530815244224456
+      }
+    ],
+    [
+      {
+        "district": "bhadrak",
+        "date": "2020-05-19",
+        "intensity": 0.3874136659832131
+      },
+      {
+        "district": "kendrapara",
+        "date": "2020-05-20",
+        "intensity": 0.6673001148994198
+      },
+      {
+        "district": "jajapur",
+        "date": "2020-05-21",
+        "intensity": 0.1801179651388915
+      }
+    ],
+    [
+      {
+        "district": "bhadrak",
+        "date": "2020-05-19",
+        "intensity": 0.3874136659832131
+      },
+      {
+        "district": "kendrapara",
+        "date": "2020-05-20",
+        "intensity": 0.6673001148994198
+      },
+      {
+        "district": "jagatsinghapur",
+        "date": "2020-05-21",
+        "intensity": 0.2788813068327344
+      }
+    ],
+    [
+      {
+        "district": "bhadrak",
+        "date": "2020-05-19",
+        "intensity": 0.3874136659832131
+      },
+      {
+        "district": "jajapur",
+        "date": "2020-05-21",
+        "intensity": 0.1801179651388915
+      }
+    ],
+    [
+      {
+        "district": "bhadrak",
+        "date": "2020-05-19",
+        "intensity": 0.3874136659832131
+      },
+      {
+        "district": "jajapur",
+        "date": "2020-05-20",
+        "intensity": 0.4100555852519612
+      },
+      {
+        "district": "kendrapara",
+        "date": "2020-05-21",
+        "intensity": 0.6530815244224456
+      }
+    ],
+    [
+      {
+        "district": "bhadrak",
+        "date": "2020-05-19",
+        "intensity": 0.3874136659832131
+      },
+      {
+        "district": "baleshwar",
+        "date": "2020-05-20",
+        "intensity": 0.3703506139556087
+      },
+      {
+        "district": "purbamedinipur",
+        "date": "2020-05-21",
+        "intensity": 0.2060964490729916
+      }
+    ]
+  ],
+  "bongaigaon": [
+    [
+      {
+        "district": "bongaigaon",
+        "date": "2020-05-16",
+        "intensity": 0.5044822518463339
+      }
+    ],
+    [
+      {
+        "district": "bongaigaon",
+        "date": "2020-05-20",
+        "intensity": 0.4244434310656086
+      },
+      {
+        "district": "kokrajhar",
+        "date": "2020-05-22",
+        "intensity": 0.2495335780640371
+      }
+    ],
+    [
+      {
+        "district": "bongaigaon",
+        "date": "2020-05-20",
+        "intensity": 0.4244434310656086
+      },
+      {
+        "district": "kokrajhar",
+        "date": "2020-05-21",
+        "intensity": 0.2694097875918194
+      },
+      {
+        "district": "chirang",
+        "date": "2020-05-22",
+        "intensity": 0.2681141059494574
+      }
+    ],
+    [
+      {
+        "district": "bongaigaon",
+        "date": "2020-05-20",
+        "intensity": 0.4244434310656086
+      },
+      {
+        "district": "goalpara",
+        "date": "2020-05-22",
+        "intensity": 0.2317887478903752
+      }
+    ],
+    [
+      {
+        "district": "bongaigaon",
+        "date": "2020-05-20",
+        "intensity": 0.4244434310656086
+      },
+      {
+        "district": "goalpara",
+        "date": "2020-05-21",
+        "intensity": 0.2498034276489679
+      },
+      {
+        "district": "kamrup",
+        "date": "2020-05-22",
+        "intensity": 0.2754763500466698
+      }
+    ],
+    [
+      {
+        "district": "bongaigaon",
+        "date": "2020-05-20",
+        "intensity": 0.4244434310656086
+      },
+      {
+        "district": "goalpara",
+        "date": "2020-05-21",
+        "intensity": 0.2498034276489679
+      },
+      {
+        "district": "eastgarohills",
+        "date": "2020-05-22",
+        "intensity": 0.2009859795424861
+      }
+    ],
+    [
+      {
+        "district": "bongaigaon",
+        "date": "2020-05-20",
+        "intensity": 0.4244434310656086
+      },
+      {
+        "district": "chirang",
+        "date": "2020-05-22",
+        "intensity": 0.2681141059494574
+      }
+    ],
+    [
+      {
+        "district": "bongaigaon",
+        "date": "2020-05-20",
+        "intensity": 0.4244434310656086
+      },
+      {
+        "district": "chirang",
+        "date": "2020-05-21",
+        "intensity": 0.3816624065890249
+      },
+      {
+        "district": "kokrajhar",
+        "date": "2020-05-22",
+        "intensity": 0.2495335780640371
+      }
+    ],
+    [
+      {
+        "district": "bongaigaon",
+        "date": "2020-05-20",
+        "intensity": 0.4244434310656086
+      },
+      {
+        "district": "baksa",
+        "date": "2020-05-21",
+        "intensity": 0.3146743293580872
+      },
+      {
+        "district": "kamrup",
+        "date": "2020-05-22",
+        "intensity": 0.2754763500466698
+      }
+    ],
+    [
+      {
+        "district": "bongaigaon",
+        "date": "2020-05-20",
+        "intensity": 0.4244434310656086
+      },
+      {
+        "district": "baksa",
+        "date": "2020-05-21",
+        "intensity": 0.3146743293580872
+      },
+      {
+        "district": "chirang",
+        "date": "2020-05-22",
+        "intensity": 0.2681141059494574
+      }
+    ],
+    [
+      {
+        "district": "bongaigaon",
+        "date": "2020-05-21",
+        "intensity": 0.3353499653684621
+      },
+      {
+        "district": "kokrajhar",
+        "date": "2020-05-22",
+        "intensity": 0.2495335780640371
+      }
+    ],
+    [
+      {
+        "district": "bongaigaon",
+        "date": "2020-05-21",
+        "intensity": 0.3353499653684621
+      },
+      {
+        "district": "goalpara",
+        "date": "2020-05-22",
+        "intensity": 0.2317887478903752
+      }
+    ],
+    [
+      {
+        "district": "bongaigaon",
+        "date": "2020-05-21",
+        "intensity": 0.3353499653684621
+      },
+      {
+        "district": "chirang",
+        "date": "2020-05-22",
+        "intensity": 0.2681141059494574
+      }
+    ],
+    [
+      {
+        "district": "bongaigaon",
+        "date": "2020-05-22",
+        "intensity": 0.1958810591663352
+      }
+    ]
+  ],
+  "chirang": [
+    [
+      {
+        "district": "chirang",
+        "date": "2020-05-20",
+        "intensity": 0.3982520965272296
+      },
+      {
+        "district": "kokrajhar",
+        "date": "2020-05-22",
+        "intensity": 0.2495335780640371
+      }
+    ],
+    [
+      {
+        "district": "chirang",
+        "date": "2020-05-20",
+        "intensity": 0.3982520965272296
+      },
+      {
+        "district": "kokrajhar",
+        "date": "2020-05-21",
+        "intensity": 0.2694097875918194
+      },
+      {
+        "district": "bongaigaon",
+        "date": "2020-05-22",
+        "intensity": 0.1958810591663352
+      }
+    ],
+    [
+      {
+        "district": "chirang",
+        "date": "2020-05-20",
+        "intensity": 0.3982520965272296
+      },
+      {
+        "district": "bongaigaon",
+        "date": "2020-05-22",
+        "intensity": 0.1958810591663352
+      }
+    ],
+    [
+      {
+        "district": "chirang",
+        "date": "2020-05-20",
+        "intensity": 0.3982520965272296
+      },
+      {
+        "district": "bongaigaon",
+        "date": "2020-05-21",
+        "intensity": 0.3353499653684621
+      },
+      {
+        "district": "kokrajhar",
+        "date": "2020-05-22",
+        "intensity": 0.2495335780640371
+      }
+    ],
+    [
+      {
+        "district": "chirang",
+        "date": "2020-05-20",
+        "intensity": 0.3982520965272296
+      },
+      {
+        "district": "bongaigaon",
+        "date": "2020-05-21",
+        "intensity": 0.3353499653684621
+      },
+      {
+        "district": "goalpara",
+        "date": "2020-05-22",
+        "intensity": 0.2317887478903752
+      }
+    ],
+    [
+      {
+        "district": "chirang",
+        "date": "2020-05-20",
+        "intensity": 0.3982520965272296
+      },
+      {
+        "district": "baksa",
+        "date": "2020-05-21",
+        "intensity": 0.3146743293580872
+      },
+      {
+        "district": "kamrup",
+        "date": "2020-05-22",
+        "intensity": 0.2754763500466698
+      }
+    ],
+    [
+      {
+        "district": "chirang",
+        "date": "2020-05-20",
+        "intensity": 0.3982520965272296
+      },
+      {
+        "district": "baksa",
+        "date": "2020-05-21",
+        "intensity": 0.3146743293580872
+      },
+      {
+        "district": "bongaigaon",
+        "date": "2020-05-22",
+        "intensity": 0.1958810591663352
+      }
+    ],
+    [
+      {
+        "district": "chirang",
+        "date": "2020-05-21",
+        "intensity": 0.3816624065890249
+      },
+      {
+        "district": "kokrajhar",
+        "date": "2020-05-22",
+        "intensity": 0.2495335780640371
+      }
+    ],
+    [
+      {
+        "district": "chirang",
+        "date": "2020-05-21",
+        "intensity": 0.3816624065890249
+      },
+      {
+        "district": "bongaigaon",
+        "date": "2020-05-22",
+        "intensity": 0.1958810591663352
+      }
+    ],
+    [
+      {
+        "district": "chirang",
+        "date": "2020-05-22",
+        "intensity": 0.2681141059494574
+      }
+    ]
+  ],
+  "cuttack": [
+    [
+      {
+        "district": "cuttack",
+        "date": "2020-05-19",
+        "intensity": 0.5290110708269573
+      },
+      {
+        "district": "kendrapara",
+        "date": "2020-05-21",
+        "intensity": 0.6530815244224456
+      }
+    ],
+    [
+      {
+        "district": "cuttack",
+        "date": "2020-05-19",
+        "intensity": 0.5290110708269573
+      },
+      {
+        "district": "kendrapara",
+        "date": "2020-05-20",
+        "intensity": 0.6673001148994198
+      },
+      {
+        "district": "jajapur",
+        "date": "2020-05-21",
+        "intensity": 0.1801179651388915
+      }
+    ],
+    [
+      {
+        "district": "cuttack",
+        "date": "2020-05-19",
+        "intensity": 0.5290110708269573
+      },
+      {
+        "district": "kendrapara",
+        "date": "2020-05-20",
+        "intensity": 0.6673001148994198
+      },
+      {
+        "district": "jagatsinghapur",
+        "date": "2020-05-21",
+        "intensity": 0.2788813068327344
+      }
+    ],
+    [
+      {
+        "district": "cuttack",
+        "date": "2020-05-19",
+        "intensity": 0.5290110708269573
+      },
+      {
+        "district": "jajapur",
+        "date": "2020-05-21",
+        "intensity": 0.1801179651388915
+      }
+    ],
+    [
+      {
+        "district": "cuttack",
+        "date": "2020-05-19",
+        "intensity": 0.5290110708269573
+      },
+      {
+        "district": "jajapur",
+        "date": "2020-05-20",
+        "intensity": 0.4100555852519612
+      },
+      {
+        "district": "kendrapara",
+        "date": "2020-05-21",
+        "intensity": 0.6530815244224456
+      }
+    ],
+    [
+      {
+        "district": "cuttack",
+        "date": "2020-05-19",
+        "intensity": 0.5290110708269573
+      },
+      {
+        "district": "jagatsinghapur",
+        "date": "2020-05-21",
+        "intensity": 0.2788813068327344
+      }
+    ],
+    [
+      {
+        "district": "cuttack",
+        "date": "2020-05-19",
+        "intensity": 0.5290110708269573
+      },
+      {
+        "district": "jagatsinghapur",
+        "date": "2020-05-20",
+        "intensity": 0.3215539987719912
+      },
+      {
+        "district": "kendrapara",
+        "date": "2020-05-21",
+        "intensity": 0.6530815244224456
+      }
+    ]
+  ],
+  "dakshindinajpur": [
+    [
+      {
+        "district": "dakshindinajpur",
+        "date": "2020-05-20",
+        "intensity": 0.4155626422807673
+      }
+    ]
+  ],
+  "darrang": [
+    [
+      {
+        "district": "darrang",
+        "date": "2020-05-21",
+        "intensity": 0.5117691650158696
+      },
+      {
+        "district": "kamrup",
+        "date": "2020-05-22",
+        "intensity": 0.2754763500466698
+      }
+    ]
+  ],
+  "dhemaji": [
+    [
+      {
+        "district": "dhemaji",
+        "date": "2020-05-21",
+        "intensity": 0.458541607757601
+      },
+      {
+        "district": "lowersubansiri",
+        "date": "2020-05-22",
+        "intensity": 0.6268983644295479
+      }
+    ],
+    [
+      {
+        "district": "dhemaji",
+        "date": "2020-05-21",
+        "intensity": 0.458541607757601
+      },
+      {
+        "district": "eastsiang",
+        "date": "2020-05-22",
+        "intensity": 0.2182224085907992
+      }
+    ]
+  ],
+  "dhubri": [
+    [
+      {
+        "district": "dhubri",
+        "date": "2020-05-16",
+        "intensity": 0.9092602738076448
+      }
+    ],
+    [
+      {
+        "district": "dhubri",
+        "date": "2020-05-20",
+        "intensity": 0.3311655208504034
+      },
+      {
+        "district": "kokrajhar",
+        "date": "2020-05-22",
+        "intensity": 0.2495335780640371
+      }
+    ],
+    [
+      {
+        "district": "dhubri",
+        "date": "2020-05-20",
+        "intensity": 0.3311655208504034
+      },
+      {
+        "district": "kokrajhar",
+        "date": "2020-05-21",
+        "intensity": 0.2694097875918194
+      },
+      {
+        "district": "chirang",
+        "date": "2020-05-22",
+        "intensity": 0.2681141059494574
+      }
+    ],
+    [
+      {
+        "district": "dhubri",
+        "date": "2020-05-20",
+        "intensity": 0.3311655208504034
+      },
+      {
+        "district": "kokrajhar",
+        "date": "2020-05-21",
+        "intensity": 0.2694097875918194
+      },
+      {
+        "district": "bongaigaon",
+        "date": "2020-05-22",
+        "intensity": 0.1958810591663352
+      }
+    ],
+    [
+      {
+        "district": "dhubri",
+        "date": "2020-05-20",
+        "intensity": 0.3311655208504034
+      },
+      {
+        "district": "goalpara",
+        "date": "2020-05-22",
+        "intensity": 0.2317887478903752
+      }
+    ],
+    [
+      {
+        "district": "dhubri",
+        "date": "2020-05-20",
+        "intensity": 0.3311655208504034
+      },
+      {
+        "district": "goalpara",
+        "date": "2020-05-21",
+        "intensity": 0.2498034276489679
+      },
+      {
+        "district": "kamrup",
+        "date": "2020-05-22",
+        "intensity": 0.2754763500466698
+      }
+    ],
+    [
+      {
+        "district": "dhubri",
+        "date": "2020-05-20",
+        "intensity": 0.3311655208504034
+      },
+      {
+        "district": "goalpara",
+        "date": "2020-05-21",
+        "intensity": 0.2498034276489679
+      },
+      {
+        "district": "eastgarohills",
+        "date": "2020-05-22",
+        "intensity": 0.2009859795424861
+      }
+    ],
+    [
+      {
+        "district": "dhubri",
+        "date": "2020-05-20",
+        "intensity": 0.3311655208504034
+      },
+      {
+        "district": "goalpara",
+        "date": "2020-05-21",
+        "intensity": 0.2498034276489679
+      },
+      {
+        "district": "bongaigaon",
+        "date": "2020-05-22",
+        "intensity": 0.1958810591663352
+      }
+    ],
+    [
+      {
+        "district": "dhubri",
+        "date": "2020-05-20",
+        "intensity": 0.3311655208504034
+      },
+      {
+        "district": "bongaigaon",
+        "date": "2020-05-22",
+        "intensity": 0.1958810591663352
+      }
+    ],
+    [
+      {
+        "district": "dhubri",
+        "date": "2020-05-20",
+        "intensity": 0.3311655208504034
+      },
+      {
+        "district": "bongaigaon",
+        "date": "2020-05-21",
+        "intensity": 0.3353499653684621
+      },
+      {
+        "district": "kokrajhar",
+        "date": "2020-05-22",
+        "intensity": 0.2495335780640371
+      }
+    ],
+    [
+      {
+        "district": "dhubri",
+        "date": "2020-05-20",
+        "intensity": 0.3311655208504034
+      },
+      {
+        "district": "bongaigaon",
+        "date": "2020-05-21",
+        "intensity": 0.3353499653684621
+      },
+      {
+        "district": "goalpara",
+        "date": "2020-05-22",
+        "intensity": 0.2317887478903752
+      }
+    ],
+    [
+      {
+        "district": "dhubri",
+        "date": "2020-05-20",
+        "intensity": 0.3311655208504034
+      },
+      {
+        "district": "bongaigaon",
+        "date": "2020-05-21",
+        "intensity": 0.3353499653684621
+      },
+      {
+        "district": "chirang",
+        "date": "2020-05-22",
+        "intensity": 0.2681141059494574
+      }
+    ]
+  ],
+  "eastgarohills": [
+    [
+      {
+        "district": "eastgarohills",
+        "date": "2020-05-20",
+        "intensity": 1.198297100596396
+      },
+      {
+        "district": "westkhasihills",
+        "date": "2020-05-22",
+        "intensity": 0.7636238002852902
+      }
+    ],
+    [
+      {
+        "district": "eastgarohills",
+        "date": "2020-05-20",
+        "intensity": 1.198297100596396
+      },
+      {
+        "district": "westkhasihills",
+        "date": "2020-05-21",
+        "intensity": 0.9092447759727637
+      },
+      {
+        "district": "southwestkhasihills",
+        "date": "2020-05-22",
+        "intensity": 0.2540802396156644
+      }
+    ],
+    [
+      {
+        "district": "eastgarohills",
+        "date": "2020-05-20",
+        "intensity": 1.198297100596396
+      },
+      {
+        "district": "westkhasihills",
+        "date": "2020-05-21",
+        "intensity": 0.9092447759727637
+      },
+      {
+        "district": "ribhoi",
+        "date": "2020-05-22",
+        "intensity": 0.2130222334166867
+      }
+    ],
+    [
+      {
+        "district": "eastgarohills",
+        "date": "2020-05-20",
+        "intensity": 1.198297100596396
+      },
+      {
+        "district": "westkhasihills",
+        "date": "2020-05-21",
+        "intensity": 0.9092447759727637
+      },
+      {
+        "district": "kamrup",
+        "date": "2020-05-22",
+        "intensity": 0.2754763500466698
+      }
+    ],
+    [
+      {
+        "district": "eastgarohills",
+        "date": "2020-05-20",
+        "intensity": 1.198297100596396
+      },
+      {
+        "district": "westkhasihills",
+        "date": "2020-05-21",
+        "intensity": 0.9092447759727637
+      },
+      {
+        "district": "eastkhasihills",
+        "date": "2020-05-22",
+        "intensity": 0.2726714889508783
+      }
+    ],
+    [
+      {
+        "district": "eastgarohills",
+        "date": "2020-05-20",
+        "intensity": 1.198297100596396
+      },
+      {
+        "district": "southgarohills",
+        "date": "2020-05-21",
+        "intensity": 0.2234963732590028
+      },
+      {
+        "district": "westkhasihills",
+        "date": "2020-05-22",
+        "intensity": 0.7636238002852902
+      }
+    ],
+    [
+      {
+        "district": "eastgarohills",
+        "date": "2020-05-20",
+        "intensity": 1.198297100596396
+      },
+      {
+        "district": "southgarohills",
+        "date": "2020-05-21",
+        "intensity": 0.2234963732590028
+      },
+      {
+        "district": "southwestkhasihills",
+        "date": "2020-05-22",
+        "intensity": 0.2540802396156644
+      }
+    ],
+    [
+      {
+        "district": "eastgarohills",
+        "date": "2020-05-20",
+        "intensity": 1.198297100596396
+      },
+      {
+        "district": "kamrup",
+        "date": "2020-05-22",
+        "intensity": 0.2754763500466698
+      }
+    ],
+    [
+      {
+        "district": "eastgarohills",
+        "date": "2020-05-20",
+        "intensity": 1.198297100596396
+      },
+      {
+        "district": "kamrup",
+        "date": "2020-05-21",
+        "intensity": 0.4552285766891948
+      },
+      {
+        "district": "westkhasihills",
+        "date": "2020-05-22",
+        "intensity": 0.7636238002852902
+      }
+    ],
+    [
+      {
+        "district": "eastgarohills",
+        "date": "2020-05-20",
+        "intensity": 1.198297100596396
+      },
+      {
+        "district": "kamrup",
+        "date": "2020-05-21",
+        "intensity": 0.4552285766891948
+      },
+      {
+        "district": "ribhoi",
+        "date": "2020-05-22",
+        "intensity": 0.2130222334166867
+      }
+    ],
+    [
+      {
+        "district": "eastgarohills",
+        "date": "2020-05-20",
+        "intensity": 1.198297100596396
+      },
+      {
+        "district": "kamrup",
+        "date": "2020-05-21",
+        "intensity": 0.4552285766891948
+      },
+      {
+        "district": "goalpara",
+        "date": "2020-05-22",
+        "intensity": 0.2317887478903752
+      }
+    ],
+    [
+      {
+        "district": "eastgarohills",
+        "date": "2020-05-20",
+        "intensity": 1.198297100596396
+      },
+      {
+        "district": "goalpara",
+        "date": "2020-05-22",
+        "intensity": 0.2317887478903752
+      }
+    ],
+    [
+      {
+        "district": "eastgarohills",
+        "date": "2020-05-20",
+        "intensity": 1.198297100596396
+      },
+      {
+        "district": "goalpara",
+        "date": "2020-05-21",
+        "intensity": 0.2498034276489679
+      },
+      {
+        "district": "kamrup",
+        "date": "2020-05-22",
+        "intensity": 0.2754763500466698
+      }
+    ],
+    [
+      {
+        "district": "eastgarohills",
+        "date": "2020-05-20",
+        "intensity": 1.198297100596396
+      },
+      {
+        "district": "goalpara",
+        "date": "2020-05-21",
+        "intensity": 0.2498034276489679
+      },
+      {
+        "district": "bongaigaon",
+        "date": "2020-05-22",
+        "intensity": 0.1958810591663352
+      }
+    ],
+    [
+      {
+        "district": "eastgarohills",
+        "date": "2020-05-21",
+        "intensity": 0.3370949179782464
+      },
+      {
+        "district": "westkhasihills",
+        "date": "2020-05-22",
+        "intensity": 0.7636238002852902
+      }
+    ],
+    [
+      {
+        "district": "eastgarohills",
+        "date": "2020-05-21",
+        "intensity": 0.3370949179782464
+      },
+      {
+        "district": "kamrup",
+        "date": "2020-05-22",
+        "intensity": 0.2754763500466698
+      }
+    ],
+    [
+      {
+        "district": "eastgarohills",
+        "date": "2020-05-21",
+        "intensity": 0.3370949179782464
+      },
+      {
+        "district": "goalpara",
+        "date": "2020-05-22",
+        "intensity": 0.2317887478903752
+      }
+    ],
+    [
+      {
+        "district": "eastgarohills",
+        "date": "2020-05-22",
+        "intensity": 0.2009859795424861
+      }
+    ]
+  ],
+  "eastkameng": [
+    [
+      {
+        "district": "eastkameng",
+        "date": "2020-05-21",
+        "intensity": 2.6851967359541398
+      },
+      {
+        "district": "westkameng",
+        "date": "2020-05-22",
+        "intensity": 0.7939545483529394
+      }
+    ],
+    [
+      {
+        "district": "eastkameng",
+        "date": "2020-05-21",
+        "intensity": 2.6851967359541398
+      },
+      {
+        "district": "papumpare",
+        "date": "2020-05-22",
+        "intensity": 0.7944236416100894
+      }
+    ],
+    [
+      {
+        "district": "eastkameng",
+        "date": "2020-05-22",
+        "intensity": 1.2062849972149403
+      }
+    ]
+  ],
+  "eastkhasihills": [
+    [
+      {
+        "district": "eastkhasihills",
+        "date": "2020-05-20",
+        "intensity": 0.7480407332879031
+      },
+      {
+        "district": "westkhasihills",
+        "date": "2020-05-22",
+        "intensity": 0.7636238002852902
+      }
+    ],
+    [
+      {
+        "district": "eastkhasihills",
+        "date": "2020-05-20",
+        "intensity": 0.7480407332879031
+      },
+      {
+        "district": "westkhasihills",
+        "date": "2020-05-21",
+        "intensity": 0.9092447759727637
+      },
+      {
+        "district": "southwestkhasihills",
+        "date": "2020-05-22",
+        "intensity": 0.2540802396156644
+      }
+    ],
+    [
+      {
+        "district": "eastkhasihills",
+        "date": "2020-05-20",
+        "intensity": 0.7480407332879031
+      },
+      {
+        "district": "westkhasihills",
+        "date": "2020-05-21",
+        "intensity": 0.9092447759727637
+      },
+      {
+        "district": "ribhoi",
+        "date": "2020-05-22",
+        "intensity": 0.2130222334166867
+      }
+    ],
+    [
+      {
+        "district": "eastkhasihills",
+        "date": "2020-05-20",
+        "intensity": 0.7480407332879031
+      },
+      {
+        "district": "westkhasihills",
+        "date": "2020-05-21",
+        "intensity": 0.9092447759727637
+      },
+      {
+        "district": "kamrup",
+        "date": "2020-05-22",
+        "intensity": 0.2754763500466698
+      }
+    ],
+    [
+      {
+        "district": "eastkhasihills",
+        "date": "2020-05-20",
+        "intensity": 0.7480407332879031
+      },
+      {
+        "district": "westkhasihills",
+        "date": "2020-05-21",
+        "intensity": 0.9092447759727637
+      },
+      {
+        "district": "eastgarohills",
+        "date": "2020-05-22",
+        "intensity": 0.2009859795424861
+      }
+    ],
+    [
+      {
+        "district": "eastkhasihills",
+        "date": "2020-05-20",
+        "intensity": 0.7480407332879031
+      },
+      {
+        "district": "southwestkhasihills",
+        "date": "2020-05-22",
+        "intensity": 0.2540802396156644
+      }
+    ],
+    [
+      {
+        "district": "eastkhasihills",
+        "date": "2020-05-20",
+        "intensity": 0.7480407332879031
+      },
+      {
+        "district": "southwestkhasihills",
+        "date": "2020-05-21",
+        "intensity": 0.310271330064016
+      },
+      {
+        "district": "westkhasihills",
+        "date": "2020-05-22",
+        "intensity": 0.7636238002852902
+      }
+    ],
+    [
+      {
+        "district": "eastkhasihills",
+        "date": "2020-05-20",
+        "intensity": 0.7480407332879031
+      },
+      {
+        "district": "ribhoi",
+        "date": "2020-05-22",
+        "intensity": 0.2130222334166867
+      }
+    ],
+    [
+      {
+        "district": "eastkhasihills",
+        "date": "2020-05-20",
+        "intensity": 0.7480407332879031
+      },
+      {
+        "district": "ribhoi",
+        "date": "2020-05-21",
+        "intensity": 0.4395665866683189
+      },
+      {
+        "district": "westkhasihills",
+        "date": "2020-05-22",
+        "intensity": 0.7636238002852902
+      }
+    ],
+    [
+      {
+        "district": "eastkhasihills",
+        "date": "2020-05-20",
+        "intensity": 0.7480407332879031
+      },
+      {
+        "district": "ribhoi",
+        "date": "2020-05-21",
+        "intensity": 0.4395665866683189
+      },
+      {
+        "district": "kamrup",
+        "date": "2020-05-22",
+        "intensity": 0.2754763500466698
+      }
+    ],
+    [
+      {
+        "district": "eastkhasihills",
+        "date": "2020-05-21",
+        "intensity": 0.3699049370233891
+      },
+      {
+        "district": "westkhasihills",
+        "date": "2020-05-22",
+        "intensity": 0.7636238002852902
+      }
+    ],
+    [
+      {
+        "district": "eastkhasihills",
+        "date": "2020-05-21",
+        "intensity": 0.3699049370233891
+      },
+      {
+        "district": "southwestkhasihills",
+        "date": "2020-05-22",
+        "intensity": 0.2540802396156644
+      }
+    ],
+    [
+      {
+        "district": "eastkhasihills",
+        "date": "2020-05-21",
+        "intensity": 0.3699049370233891
+      },
+      {
+        "district": "ribhoi",
+        "date": "2020-05-22",
+        "intensity": 0.2130222334166867
+      }
+    ],
+    [
+      {
+        "district": "eastkhasihills",
+        "date": "2020-05-22",
+        "intensity": 0.2726714889508783
+      }
+    ]
+  ],
+  "eastsiang": [
+    [
+      {
+        "district": "eastsiang",
+        "date": "2020-05-21",
+        "intensity": 0.3176785275545604
+      }
+    ],
+    [
+      {
+        "district": "eastsiang",
+        "date": "2020-05-22",
+        "intensity": 0.2182224085907992
+      }
+    ]
+  ],
+  "ganjam": [
+    [
+      {
+        "district": "ganjam",
+        "date": "2020-05-19",
+        "intensity": 0.191687950843209
+      }
+    ]
+  ],
+  "goalpara": [
+    [
+      {
+        "district": "goalpara",
+        "date": "2020-05-20",
+        "intensity": 0.7567267486713473
+      },
+      {
+        "district": "kamrup",
+        "date": "2020-05-22",
+        "intensity": 0.2754763500466698
+      }
+    ],
+    [
+      {
+        "district": "goalpara",
+        "date": "2020-05-20",
+        "intensity": 0.7567267486713473
+      },
+      {
+        "district": "kamrup",
+        "date": "2020-05-21",
+        "intensity": 0.4552285766891948
+      },
+      {
+        "district": "westkhasihills",
+        "date": "2020-05-22",
+        "intensity": 0.7636238002852902
+      }
+    ],
+    [
+      {
+        "district": "goalpara",
+        "date": "2020-05-20",
+        "intensity": 0.7567267486713473
+      },
+      {
+        "district": "kamrup",
+        "date": "2020-05-21",
+        "intensity": 0.4552285766891948
+      },
+      {
+        "district": "ribhoi",
+        "date": "2020-05-22",
+        "intensity": 0.2130222334166867
+      }
+    ],
+    [
+      {
+        "district": "goalpara",
+        "date": "2020-05-20",
+        "intensity": 0.7567267486713473
+      },
+      {
+        "district": "kamrup",
+        "date": "2020-05-21",
+        "intensity": 0.4552285766891948
+      },
+      {
+        "district": "eastgarohills",
+        "date": "2020-05-22",
+        "intensity": 0.2009859795424861
+      }
+    ],
+    [
+      {
+        "district": "goalpara",
+        "date": "2020-05-20",
+        "intensity": 0.7567267486713473
+      },
+      {
+        "district": "eastgarohills",
+        "date": "2020-05-22",
+        "intensity": 0.2009859795424861
+      }
+    ],
+    [
+      {
+        "district": "goalpara",
+        "date": "2020-05-20",
+        "intensity": 0.7567267486713473
+      },
+      {
+        "district": "eastgarohills",
+        "date": "2020-05-21",
+        "intensity": 0.3370949179782464
+      },
+      {
+        "district": "westkhasihills",
+        "date": "2020-05-22",
+        "intensity": 0.7636238002852902
+      }
+    ],
+    [
+      {
+        "district": "goalpara",
+        "date": "2020-05-20",
+        "intensity": 0.7567267486713473
+      },
+      {
+        "district": "eastgarohills",
+        "date": "2020-05-21",
+        "intensity": 0.3370949179782464
+      },
+      {
+        "district": "kamrup",
+        "date": "2020-05-22",
+        "intensity": 0.2754763500466698
+      }
+    ],
+    [
+      {
+        "district": "goalpara",
+        "date": "2020-05-20",
+        "intensity": 0.7567267486713473
+      },
+      {
+        "district": "bongaigaon",
+        "date": "2020-05-22",
+        "intensity": 0.1958810591663352
+      }
+    ],
+    [
+      {
+        "district": "goalpara",
+        "date": "2020-05-20",
+        "intensity": 0.7567267486713473
+      },
+      {
+        "district": "bongaigaon",
+        "date": "2020-05-21",
+        "intensity": 0.3353499653684621
+      },
+      {
+        "district": "kokrajhar",
+        "date": "2020-05-22",
+        "intensity": 0.2495335780640371
+      }
+    ],
+    [
+      {
+        "district": "goalpara",
+        "date": "2020-05-20",
+        "intensity": 0.7567267486713473
+      },
+      {
+        "district": "bongaigaon",
+        "date": "2020-05-21",
+        "intensity": 0.3353499653684621
+      },
+      {
+        "district": "chirang",
+        "date": "2020-05-22",
+        "intensity": 0.2681141059494574
+      }
+    ],
+    [
+      {
+        "district": "goalpara",
+        "date": "2020-05-21",
+        "intensity": 0.2498034276489679
+      },
+      {
+        "district": "kamrup",
+        "date": "2020-05-22",
+        "intensity": 0.2754763500466698
+      }
+    ],
+    [
+      {
+        "district": "goalpara",
+        "date": "2020-05-21",
+        "intensity": 0.2498034276489679
+      },
+      {
+        "district": "eastgarohills",
+        "date": "2020-05-22",
+        "intensity": 0.2009859795424861
+      }
+    ],
+    [
+      {
+        "district": "goalpara",
+        "date": "2020-05-21",
+        "intensity": 0.2498034276489679
+      },
+      {
+        "district": "bongaigaon",
+        "date": "2020-05-22",
+        "intensity": 0.1958810591663352
+      }
+    ],
+    [
+      {
+        "district": "goalpara",
+        "date": "2020-05-22",
+        "intensity": 0.2317887478903752
+      }
+    ]
+  ],
+  "hailakandi": [
+    [
+      {
+        "district": "hailakandi",
+        "date": "2020-05-16",
+        "intensity": 0.6292236184985583
+      },
+      {
+        "district": "karimganj",
+        "date": "2020-05-17",
+        "intensity": 0.2398510421268609
+      }
+    ]
+  ],
+  "jagatsinghapur": [
+    [
+      {
+        "district": "jagatsinghapur",
+        "date": "2020-05-19",
+        "intensity": 1.17613986568973
+      },
+      {
+        "district": "kendrapara",
+        "date": "2020-05-21",
+        "intensity": 0.6530815244224456
+      }
+    ],
+    [
+      {
+        "district": "jagatsinghapur",
+        "date": "2020-05-19",
+        "intensity": 1.17613986568973
+      },
+      {
+        "district": "kendrapara",
+        "date": "2020-05-20",
+        "intensity": 0.6673001148994198
+      },
+      {
+        "district": "jajapur",
+        "date": "2020-05-21",
+        "intensity": 0.1801179651388915
+      }
+    ],
+    [
+      {
+        "district": "jagatsinghapur",
+        "date": "2020-05-20",
+        "intensity": 0.3215539987719912
+      },
+      {
+        "district": "kendrapara",
+        "date": "2020-05-21",
+        "intensity": 0.6530815244224456
+      }
+    ],
+    [
+      {
+        "district": "jagatsinghapur",
+        "date": "2020-05-21",
+        "intensity": 0.2788813068327344
+      }
+    ]
+  ],
+  "jajapur": [
+    [
+      {
+        "district": "jajapur",
+        "date": "2020-05-19",
+        "intensity": 0.4220199052713382
+      },
+      {
+        "district": "kendrapara",
+        "date": "2020-05-21",
+        "intensity": 0.6530815244224456
+      }
+    ],
+    [
+      {
+        "district": "jajapur",
+        "date": "2020-05-19",
+        "intensity": 0.4220199052713382
+      },
+      {
+        "district": "kendrapara",
+        "date": "2020-05-20",
+        "intensity": 0.6673001148994198
+      },
+      {
+        "district": "jagatsinghapur",
+        "date": "2020-05-21",
+        "intensity": 0.2788813068327344
+      }
+    ],
+    [
+      {
+        "district": "jajapur",
+        "date": "2020-05-20",
+        "intensity": 0.4100555852519612
+      },
+      {
+        "district": "kendrapara",
+        "date": "2020-05-21",
+        "intensity": 0.6530815244224456
+      }
+    ],
+    [
+      {
+        "district": "jajapur",
+        "date": "2020-05-21",
+        "intensity": 0.1801179651388915
+      }
+    ]
+  ],
+  "jorhat": [
+    [
+      {
+        "district": "jorhat",
+        "date": "2020-05-16",
+        "intensity": 0.5357815525117883
+      }
+    ]
+  ],
+  "kamrup": [
+    [
+      {
+        "district": "kamrup",
+        "date": "2020-05-15",
+        "intensity": 0.4919195160666383
+      },
+      {
+        "district": "nalbari",
+        "date": "2020-05-16",
+        "intensity": 0.1710874791887454
+      }
+    ],
+    [
+      {
+        "district": "kamrup",
+        "date": "2020-05-15",
+        "intensity": 0.4919195160666383
+      },
+      {
+        "district": "kamrupmetropolitan",
+        "date": "2020-05-16",
+        "intensity": 0.2741772978453271
+      }
+    ],
+    [
+      {
+        "district": "kamrup",
+        "date": "2020-05-15",
+        "intensity": 0.4919195160666383
+      },
+      {
+        "district": "barpeta",
+        "date": "2020-05-16",
+        "intensity": 0.329801511798772
+      }
+    ],
+    [
+      {
+        "district": "kamrup",
+        "date": "2020-05-16",
+        "intensity": 0.3377721579140633
+      }
+    ],
+    [
+      {
+        "district": "kamrup",
+        "date": "2020-05-17",
+        "intensity": 0.1745134510022339
+      }
+    ],
+    [
+      {
+        "district": "kamrup",
+        "date": "2020-05-20",
+        "intensity": 0.4801248783222643
+      },
+      {
+        "district": "westkhasihills",
+        "date": "2020-05-22",
+        "intensity": 0.7636238002852902
+      }
+    ],
+    [
+      {
+        "district": "kamrup",
+        "date": "2020-05-20",
+        "intensity": 0.4801248783222643
+      },
+      {
+        "district": "westkhasihills",
+        "date": "2020-05-21",
+        "intensity": 0.9092447759727637
+      },
+      {
+        "district": "southwestkhasihills",
+        "date": "2020-05-22",
+        "intensity": 0.2540802396156644
+      }
+    ],
+    [
+      {
+        "district": "kamrup",
+        "date": "2020-05-20",
+        "intensity": 0.4801248783222643
+      },
+      {
+        "district": "westkhasihills",
+        "date": "2020-05-21",
+        "intensity": 0.9092447759727637
+      },
+      {
+        "district": "ribhoi",
+        "date": "2020-05-22",
+        "intensity": 0.2130222334166867
+      }
+    ],
+    [
+      {
+        "district": "kamrup",
+        "date": "2020-05-20",
+        "intensity": 0.4801248783222643
+      },
+      {
+        "district": "westkhasihills",
+        "date": "2020-05-21",
+        "intensity": 0.9092447759727637
+      },
+      {
+        "district": "eastkhasihills",
+        "date": "2020-05-22",
+        "intensity": 0.2726714889508783
+      }
+    ],
+    [
+      {
+        "district": "kamrup",
+        "date": "2020-05-20",
+        "intensity": 0.4801248783222643
+      },
+      {
+        "district": "westkhasihills",
+        "date": "2020-05-21",
+        "intensity": 0.9092447759727637
+      },
+      {
+        "district": "eastgarohills",
+        "date": "2020-05-22",
+        "intensity": 0.2009859795424861
+      }
+    ],
+    [
+      {
+        "district": "kamrup",
+        "date": "2020-05-20",
+        "intensity": 0.4801248783222643
+      },
+      {
+        "district": "udalguri",
+        "date": "2020-05-21",
+        "intensity": 0.7303660259116338
+      },
+      {
+        "district": "westkameng",
+        "date": "2020-05-22",
+        "intensity": 0.7939545483529394
+      }
+    ],
+    [
+      {
+        "district": "kamrup",
+        "date": "2020-05-20",
+        "intensity": 0.4801248783222643
+      },
+      {
+        "district": "ribhoi",
+        "date": "2020-05-22",
+        "intensity": 0.2130222334166867
+      }
+    ],
+    [
+      {
+        "district": "kamrup",
+        "date": "2020-05-20",
+        "intensity": 0.4801248783222643
+      },
+      {
+        "district": "ribhoi",
+        "date": "2020-05-21",
+        "intensity": 0.4395665866683189
+      },
+      {
+        "district": "westkhasihills",
+        "date": "2020-05-22",
+        "intensity": 0.7636238002852902
+      }
+    ],
+    [
+      {
+        "district": "kamrup",
+        "date": "2020-05-20",
+        "intensity": 0.4801248783222643
+      },
+      {
+        "district": "ribhoi",
+        "date": "2020-05-21",
+        "intensity": 0.4395665866683189
+      },
+      {
+        "district": "eastkhasihills",
+        "date": "2020-05-22",
+        "intensity": 0.2726714889508783
+      }
+    ],
+    [
+      {
+        "district": "kamrup",
+        "date": "2020-05-20",
+        "intensity": 0.4801248783222643
+      },
+      {
+        "district": "nalbari",
+        "date": "2020-05-21",
+        "intensity": 0.2333615230450625
+      }
+    ],
+    [
+      {
+        "district": "kamrup",
+        "date": "2020-05-20",
+        "intensity": 0.4801248783222643
+      },
+      {
+        "district": "goalpara",
+        "date": "2020-05-22",
+        "intensity": 0.2317887478903752
+      }
+    ],
+    [
+      {
+        "district": "kamrup",
+        "date": "2020-05-20",
+        "intensity": 0.4801248783222643
+      },
+      {
+        "district": "goalpara",
+        "date": "2020-05-21",
+        "intensity": 0.2498034276489679
+      },
+      {
+        "district": "eastgarohills",
+        "date": "2020-05-22",
+        "intensity": 0.2009859795424861
+      }
+    ],
+    [
+      {
+        "district": "kamrup",
+        "date": "2020-05-20",
+        "intensity": 0.4801248783222643
+      },
+      {
+        "district": "goalpara",
+        "date": "2020-05-21",
+        "intensity": 0.2498034276489679
+      },
+      {
+        "district": "bongaigaon",
+        "date": "2020-05-22",
+        "intensity": 0.1958810591663352
+      }
+    ],
+    [
+      {
+        "district": "kamrup",
+        "date": "2020-05-20",
+        "intensity": 0.4801248783222643
+      },
+      {
+        "district": "eastgarohills",
+        "date": "2020-05-22",
+        "intensity": 0.2009859795424861
+      }
+    ],
+    [
+      {
+        "district": "kamrup",
+        "date": "2020-05-20",
+        "intensity": 0.4801248783222643
+      },
+      {
+        "district": "eastgarohills",
+        "date": "2020-05-21",
+        "intensity": 0.3370949179782464
+      },
+      {
+        "district": "westkhasihills",
+        "date": "2020-05-22",
+        "intensity": 0.7636238002852902
+      }
+    ],
+    [
+      {
+        "district": "kamrup",
+        "date": "2020-05-20",
+        "intensity": 0.4801248783222643
+      },
+      {
+        "district": "eastgarohills",
+        "date": "2020-05-21",
+        "intensity": 0.3370949179782464
+      },
+      {
+        "district": "goalpara",
+        "date": "2020-05-22",
+        "intensity": 0.2317887478903752
+      }
+    ],
+    [
+      {
+        "district": "kamrup",
+        "date": "2020-05-20",
+        "intensity": 0.4801248783222643
+      },
+      {
+        "district": "darrang",
+        "date": "2020-05-21",
+        "intensity": 0.5117691650158696
+      }
+    ],
+    [
+      {
+        "district": "kamrup",
+        "date": "2020-05-20",
+        "intensity": 0.4801248783222643
+      },
+      {
+        "district": "baksa",
+        "date": "2020-05-21",
+        "intensity": 0.3146743293580872
+      },
+      {
+        "district": "chirang",
+        "date": "2020-05-22",
+        "intensity": 0.2681141059494574
+      }
+    ],
+    [
+      {
+        "district": "kamrup",
+        "date": "2020-05-20",
+        "intensity": 0.4801248783222643
+      },
+      {
+        "district": "baksa",
+        "date": "2020-05-21",
+        "intensity": 0.3146743293580872
+      },
+      {
+        "district": "bongaigaon",
+        "date": "2020-05-22",
+        "intensity": 0.1958810591663352
+      }
+    ],
+    [
+      {
+        "district": "kamrup",
+        "date": "2020-05-21",
+        "intensity": 0.4552285766891948
+      },
+      {
+        "district": "westkhasihills",
+        "date": "2020-05-22",
+        "intensity": 0.7636238002852902
+      }
+    ],
+    [
+      {
+        "district": "kamrup",
+        "date": "2020-05-21",
+        "intensity": 0.4552285766891948
+      },
+      {
+        "district": "ribhoi",
+        "date": "2020-05-22",
+        "intensity": 0.2130222334166867
+      }
+    ],
+    [
+      {
+        "district": "kamrup",
+        "date": "2020-05-21",
+        "intensity": 0.4552285766891948
+      },
+      {
+        "district": "goalpara",
+        "date": "2020-05-22",
+        "intensity": 0.2317887478903752
+      }
+    ],
+    [
+      {
+        "district": "kamrup",
+        "date": "2020-05-21",
+        "intensity": 0.4552285766891948
+      },
+      {
+        "district": "eastgarohills",
+        "date": "2020-05-22",
+        "intensity": 0.2009859795424861
+      }
+    ],
+    [
+      {
+        "district": "kamrup",
+        "date": "2020-05-22",
+        "intensity": 0.2754763500466698
+      }
+    ]
+  ],
+  "kamrupmetropolitan": [
+    [
+      {
+        "district": "kamrupmetropolitan",
+        "date": "2020-05-16",
+        "intensity": 0.2741772978453271
+      },
+      {
+        "district": "kamrup",
+        "date": "2020-05-17",
+        "intensity": 0.1745134510022339
+      }
+    ]
+  ],
+  "karimganj": [
+    [
+      {
+        "district": "karimganj",
+        "date": "2020-05-16",
+        "intensity": 1.6969787105603782
+      }
+    ],
+    [
+      {
+        "district": "karimganj",
+        "date": "2020-05-17",
+        "intensity": 0.2398510421268609
+      }
+    ]
+  ],
+  "kendrapara": [
+    [
+      {
+        "district": "kendrapara",
+        "date": "2020-05-19",
+        "intensity": 1.6487813371305309
+      },
+      {
+        "district": "jajapur",
+        "date": "2020-05-21",
+        "intensity": 0.1801179651388915
+      }
+    ],
+    [
+      {
+        "district": "kendrapara",
+        "date": "2020-05-19",
+        "intensity": 1.6487813371305309
+      },
+      {
+        "district": "jajapur",
+        "date": "2020-05-20",
+        "intensity": 0.4100555852519612
+      }
+    ],
+    [
+      {
+        "district": "kendrapara",
+        "date": "2020-05-19",
+        "intensity": 1.6487813371305309
+      },
+      {
+        "district": "jagatsinghapur",
+        "date": "2020-05-21",
+        "intensity": 0.2788813068327344
+      }
+    ],
+    [
+      {
+        "district": "kendrapara",
+        "date": "2020-05-19",
+        "intensity": 1.6487813371305309
+      },
+      {
+        "district": "jagatsinghapur",
+        "date": "2020-05-20",
+        "intensity": 0.3215539987719912
+      }
+    ],
+    [
+      {
+        "district": "kendrapara",
+        "date": "2020-05-20",
+        "intensity": 0.6673001148994198
+      },
+      {
+        "district": "jajapur",
+        "date": "2020-05-21",
+        "intensity": 0.1801179651388915
+      }
+    ],
+    [
+      {
+        "district": "kendrapara",
+        "date": "2020-05-20",
+        "intensity": 0.6673001148994198
+      },
+      {
+        "district": "jagatsinghapur",
+        "date": "2020-05-21",
+        "intensity": 0.2788813068327344
+      }
+    ],
+    [
+      {
+        "district": "kendrapara",
+        "date": "2020-05-21",
+        "intensity": 0.6530815244224456
+      }
+    ]
+  ],
+  "khordha": [
+    [
+      {
+        "district": "khordha",
+        "date": "2020-05-19",
+        "intensity": 0.5203407104145362
+      }
+    ]
+  ],
+  "kokrajhar": [
+    [
+      {
+        "district": "kokrajhar",
+        "date": "2020-05-16",
+        "intensity": 0.2812647657880101
+      }
+    ],
+    [
+      {
+        "district": "kokrajhar",
+        "date": "2020-05-20",
+        "intensity": 0.5012567282912465
+      },
+      {
+        "district": "chirang",
+        "date": "2020-05-22",
+        "intensity": 0.2681141059494574
+      }
+    ],
+    [
+      {
+        "district": "kokrajhar",
+        "date": "2020-05-20",
+        "intensity": 0.5012567282912465
+      },
+      {
+        "district": "chirang",
+        "date": "2020-05-21",
+        "intensity": 0.3816624065890249
+      },
+      {
+        "district": "bongaigaon",
+        "date": "2020-05-22",
+        "intensity": 0.1958810591663352
+      }
+    ],
+    [
+      {
+        "district": "kokrajhar",
+        "date": "2020-05-20",
+        "intensity": 0.5012567282912465
+      },
+      {
+        "district": "bongaigaon",
+        "date": "2020-05-22",
+        "intensity": 0.1958810591663352
+      }
+    ],
+    [
+      {
+        "district": "kokrajhar",
+        "date": "2020-05-20",
+        "intensity": 0.5012567282912465
+      },
+      {
+        "district": "bongaigaon",
+        "date": "2020-05-21",
+        "intensity": 0.3353499653684621
+      },
+      {
+        "district": "goalpara",
+        "date": "2020-05-22",
+        "intensity": 0.2317887478903752
+      }
+    ],
+    [
+      {
+        "district": "kokrajhar",
+        "date": "2020-05-20",
+        "intensity": 0.5012567282912465
+      },
+      {
+        "district": "bongaigaon",
+        "date": "2020-05-21",
+        "intensity": 0.3353499653684621
+      },
+      {
+        "district": "chirang",
+        "date": "2020-05-22",
+        "intensity": 0.2681141059494574
+      }
+    ],
+    [
+      {
+        "district": "kokrajhar",
+        "date": "2020-05-21",
+        "intensity": 0.2694097875918194
+      },
+      {
+        "district": "chirang",
+        "date": "2020-05-22",
+        "intensity": 0.2681141059494574
+      }
+    ],
+    [
+      {
+        "district": "kokrajhar",
+        "date": "2020-05-21",
+        "intensity": 0.2694097875918194
+      },
+      {
+        "district": "bongaigaon",
+        "date": "2020-05-22",
+        "intensity": 0.1958810591663352
+      }
+    ],
+    [
+      {
+        "district": "kokrajhar",
+        "date": "2020-05-22",
+        "intensity": 0.2495335780640371
+      }
+    ]
+  ],
+  "kolkata": [
+    [
+      {
+        "district": "kolkata",
+        "date": "2020-05-20",
+        "intensity": 0.3639902037434364
+      }
+    ]
+  ],
+  "kurungkumey": [
+    [
+      {
+        "district": "kurungkumey",
+        "date": "2020-05-21",
+        "intensity": 0.5310048865980866
+      },
+      {
+        "district": "westkameng",
+        "date": "2020-05-22",
+        "intensity": 0.7939545483529394
+      }
+    ],
+    [
+      {
+        "district": "kurungkumey",
+        "date": "2020-05-21",
+        "intensity": 0.5310048865980866
+      },
+      {
+        "district": "papumpare",
+        "date": "2020-05-22",
+        "intensity": 0.7944236416100894
+      }
+    ],
+    [
+      {
+        "district": "kurungkumey",
+        "date": "2020-05-21",
+        "intensity": 0.5310048865980866
+      },
+      {
+        "district": "lowersubansiri",
+        "date": "2020-05-22",
+        "intensity": 0.6268983644295479
+      }
+    ],
+    [
+      {
+        "district": "kurungkumey",
+        "date": "2020-05-21",
+        "intensity": 0.5310048865980866
+      },
+      {
+        "district": "eastkameng",
+        "date": "2020-05-22",
+        "intensity": 1.2062849972149403
+      }
+    ]
+  ],
+  "lakhimpur": [
+    [
+      {
+        "district": "lakhimpur",
+        "date": "2020-05-21",
+        "intensity": 0.9018142973314068
+      },
+      {
+        "district": "papumpare",
+        "date": "2020-05-22",
+        "intensity": 0.7944236416100894
+      }
+    ],
+    [
+      {
+        "district": "lakhimpur",
+        "date": "2020-05-21",
+        "intensity": 0.9018142973314068
+      },
+      {
+        "district": "lowersubansiri",
+        "date": "2020-05-22",
+        "intensity": 0.6268983644295479
+      }
+    ]
+  ],
+  "longleng": [
+    [
+      {
+        "district": "longleng",
+        "date": "2020-05-16",
+        "intensity": 0.2969223862720287
+      }
+    ]
+  ],
+  "lowerdibangvalley": [
+    [
+      {
+        "district": "lowerdibangvalley",
+        "date": "2020-05-21",
+        "intensity": 0.2079858493020042
+      },
+      {
+        "district": "eastsiang",
+        "date": "2020-05-22",
+        "intensity": 0.2182224085907992
+      }
+    ]
+  ],
+  "lowersubansiri": [
+    [
+      {
+        "district": "lowersubansiri",
+        "date": "2020-05-21",
+        "intensity": 1.675390027364931
+      },
+      {
+        "district": "papumpare",
+        "date": "2020-05-22",
+        "intensity": 0.7944236416100894
+      }
+    ],
+    [
+      {
+        "district": "lowersubansiri",
+        "date": "2020-05-22",
+        "intensity": 0.6268983644295479
+      }
+    ]
+  ],
+  "mokokchung": [
+    [
+      {
+        "district": "mokokchung",
+        "date": "2020-05-16",
+        "intensity": 0.1594477943374757
+      }
+    ]
+  ],
+  "morigaon": [
+    [
+      {
+        "district": "morigaon",
+        "date": "2020-05-16",
+        "intensity": 0.2216990208291857
+      }
+    ],
+    [
+      {
+        "district": "morigaon",
+        "date": "2020-05-21",
+        "intensity": 0.5308430061988052
+      },
+      {
+        "district": "ribhoi",
+        "date": "2020-05-22",
+        "intensity": 0.2130222334166867
+      }
+    ]
+  ],
+  "murshidabad": [
+    [
+      {
+        "district": "murshidabad",
+        "date": "2020-05-20",
+        "intensity": 0.2513618369386821
+      }
+    ]
+  ],
+  "nadia": [
+    [
+      {
+        "district": "nadia",
+        "date": "2020-05-20",
+        "intensity": 0.7518029046504096
+      }
+    ]
+  ],
+  "nagaon": [
+    [
+      {
+        "district": "nagaon",
+        "date": "2020-05-21",
+        "intensity": 0.524149268418197
+      }
+    ]
+  ],
+  "nalbari": [
+    [
+      {
+        "district": "nalbari",
+        "date": "2020-05-16",
+        "intensity": 0.1710874791887454
+      },
+      {
+        "district": "kamrup",
+        "date": "2020-05-17",
+        "intensity": 0.1745134510022339
+      }
+    ],
+    [
+      {
+        "district": "nalbari",
+        "date": "2020-05-21",
+        "intensity": 0.2333615230450625
+      },
+      {
+        "district": "kamrup",
+        "date": "2020-05-22",
+        "intensity": 0.2754763500466698
+      }
+    ]
+  ],
+  "nayagarh": [
+    [
+      {
+        "district": "nayagarh",
+        "date": "2020-05-19",
+        "intensity": 0.3435950204474368
+      }
+    ]
+  ],
+  "northgarohills": [
+    [
+      {
+        "district": "northgarohills",
+        "date": "2020-05-20",
+        "intensity": 0.6342772897367537
+      },
+      {
+        "district": "goalpara",
+        "date": "2020-05-22",
+        "intensity": 0.2317887478903752
+      }
+    ],
+    [
+      {
+        "district": "northgarohills",
+        "date": "2020-05-20",
+        "intensity": 0.6342772897367537
+      },
+      {
+        "district": "goalpara",
+        "date": "2020-05-21",
+        "intensity": 0.2498034276489679
+      },
+      {
+        "district": "kamrup",
+        "date": "2020-05-22",
+        "intensity": 0.2754763500466698
+      }
+    ],
+    [
+      {
+        "district": "northgarohills",
+        "date": "2020-05-20",
+        "intensity": 0.6342772897367537
+      },
+      {
+        "district": "goalpara",
+        "date": "2020-05-21",
+        "intensity": 0.2498034276489679
+      },
+      {
+        "district": "eastgarohills",
+        "date": "2020-05-22",
+        "intensity": 0.2009859795424861
+      }
+    ],
+    [
+      {
+        "district": "northgarohills",
+        "date": "2020-05-20",
+        "intensity": 0.6342772897367537
+      },
+      {
+        "district": "goalpara",
+        "date": "2020-05-21",
+        "intensity": 0.2498034276489679
+      },
+      {
+        "district": "bongaigaon",
+        "date": "2020-05-22",
+        "intensity": 0.1958810591663352
+      }
+    ],
+    [
+      {
+        "district": "northgarohills",
+        "date": "2020-05-20",
+        "intensity": 0.6342772897367537
+      },
+      {
+        "district": "eastgarohills",
+        "date": "2020-05-22",
+        "intensity": 0.2009859795424861
+      }
+    ],
+    [
+      {
+        "district": "northgarohills",
+        "date": "2020-05-20",
+        "intensity": 0.6342772897367537
+      },
+      {
+        "district": "eastgarohills",
+        "date": "2020-05-21",
+        "intensity": 0.3370949179782464
+      },
+      {
+        "district": "westkhasihills",
+        "date": "2020-05-22",
+        "intensity": 0.7636238002852902
+      }
+    ],
+    [
+      {
+        "district": "northgarohills",
+        "date": "2020-05-20",
+        "intensity": 0.6342772897367537
+      },
+      {
+        "district": "eastgarohills",
+        "date": "2020-05-21",
+        "intensity": 0.3370949179782464
+      },
+      {
+        "district": "kamrup",
+        "date": "2020-05-22",
+        "intensity": 0.2754763500466698
+      }
+    ],
+    [
+      {
+        "district": "northgarohills",
+        "date": "2020-05-20",
+        "intensity": 0.6342772897367537
+      },
+      {
+        "district": "eastgarohills",
+        "date": "2020-05-21",
+        "intensity": 0.3370949179782464
+      },
+      {
+        "district": "goalpara",
+        "date": "2020-05-22",
+        "intensity": 0.2317887478903752
+      }
+    ]
+  ],
+  "papumpare": [
+    [
+      {
+        "district": "papumpare",
+        "date": "2020-05-21",
+        "intensity": 1.9817311987108628
+      },
+      {
+        "district": "lowersubansiri",
+        "date": "2020-05-22",
+        "intensity": 0.6268983644295479
+      }
+    ],
+    [
+      {
+        "district": "papumpare",
+        "date": "2020-05-21",
+        "intensity": 1.9817311987108628
+      },
+      {
+        "district": "eastkameng",
+        "date": "2020-05-22",
+        "intensity": 1.2062849972149403
+      }
+    ],
+    [
+      {
+        "district": "papumpare",
+        "date": "2020-05-22",
+        "intensity": 0.7944236416100894
+      }
+    ]
+  ],
+  "purbamedinipur": [
+    [
+      {
+        "district": "purbamedinipur",
+        "date": "2020-05-20",
+        "intensity": 1.0125791264028137
+      }
+    ],
+    [
+      {
+        "district": "purbamedinipur",
+        "date": "2020-05-21",
+        "intensity": 0.2060964490729916
+      }
+    ]
+  ],
+  "puri": [
+    [
+      {
+        "district": "puri",
+        "date": "2020-05-19",
+        "intensity": 0.7568084674088946
+      },
+      {
+        "district": "jagatsinghapur",
+        "date": "2020-05-21",
+        "intensity": 0.2788813068327344
+      }
+    ],
+    [
+      {
+        "district": "puri",
+        "date": "2020-05-19",
+        "intensity": 0.7568084674088946
+      },
+      {
+        "district": "jagatsinghapur",
+        "date": "2020-05-20",
+        "intensity": 0.3215539987719912
+      },
+      {
+        "district": "kendrapara",
+        "date": "2020-05-21",
+        "intensity": 0.6530815244224456
+      }
+    ]
+  ],
+  "ribhoi": [
+    [
+      {
+        "district": "ribhoi",
+        "date": "2020-05-20",
+        "intensity": 0.6115035671792964
+      },
+      {
+        "district": "westkhasihills",
+        "date": "2020-05-22",
+        "intensity": 0.7636238002852902
+      }
+    ],
+    [
+      {
+        "district": "ribhoi",
+        "date": "2020-05-20",
+        "intensity": 0.6115035671792964
+      },
+      {
+        "district": "westkhasihills",
+        "date": "2020-05-21",
+        "intensity": 0.9092447759727637
+      },
+      {
+        "district": "southwestkhasihills",
+        "date": "2020-05-22",
+        "intensity": 0.2540802396156644
+      }
+    ],
+    [
+      {
+        "district": "ribhoi",
+        "date": "2020-05-20",
+        "intensity": 0.6115035671792964
+      },
+      {
+        "district": "westkhasihills",
+        "date": "2020-05-21",
+        "intensity": 0.9092447759727637
+      },
+      {
+        "district": "kamrup",
+        "date": "2020-05-22",
+        "intensity": 0.2754763500466698
+      }
+    ],
+    [
+      {
+        "district": "ribhoi",
+        "date": "2020-05-20",
+        "intensity": 0.6115035671792964
+      },
+      {
+        "district": "westkhasihills",
+        "date": "2020-05-21",
+        "intensity": 0.9092447759727637
+      },
+      {
+        "district": "eastkhasihills",
+        "date": "2020-05-22",
+        "intensity": 0.2726714889508783
+      }
+    ],
+    [
+      {
+        "district": "ribhoi",
+        "date": "2020-05-20",
+        "intensity": 0.6115035671792964
+      },
+      {
+        "district": "westkhasihills",
+        "date": "2020-05-21",
+        "intensity": 0.9092447759727637
+      },
+      {
+        "district": "eastgarohills",
+        "date": "2020-05-22",
+        "intensity": 0.2009859795424861
+      }
+    ],
+    [
+      {
+        "district": "ribhoi",
+        "date": "2020-05-20",
+        "intensity": 0.6115035671792964
+      },
+      {
+        "district": "morigaon",
+        "date": "2020-05-21",
+        "intensity": 0.5308430061988052
+      }
+    ],
+    [
+      {
+        "district": "ribhoi",
+        "date": "2020-05-20",
+        "intensity": 0.6115035671792964
+      },
+      {
+        "district": "kamrup",
+        "date": "2020-05-22",
+        "intensity": 0.2754763500466698
+      }
+    ],
+    [
+      {
+        "district": "ribhoi",
+        "date": "2020-05-20",
+        "intensity": 0.6115035671792964
+      },
+      {
+        "district": "kamrup",
+        "date": "2020-05-21",
+        "intensity": 0.4552285766891948
+      },
+      {
+        "district": "westkhasihills",
+        "date": "2020-05-22",
+        "intensity": 0.7636238002852902
+      }
+    ],
+    [
+      {
+        "district": "ribhoi",
+        "date": "2020-05-20",
+        "intensity": 0.6115035671792964
+      },
+      {
+        "district": "kamrup",
+        "date": "2020-05-21",
+        "intensity": 0.4552285766891948
+      },
+      {
+        "district": "goalpara",
+        "date": "2020-05-22",
+        "intensity": 0.2317887478903752
+      }
+    ],
+    [
+      {
+        "district": "ribhoi",
+        "date": "2020-05-20",
+        "intensity": 0.6115035671792964
+      },
+      {
+        "district": "kamrup",
+        "date": "2020-05-21",
+        "intensity": 0.4552285766891948
+      },
+      {
+        "district": "eastgarohills",
+        "date": "2020-05-22",
+        "intensity": 0.2009859795424861
+      }
+    ],
+    [
+      {
+        "district": "ribhoi",
+        "date": "2020-05-20",
+        "intensity": 0.6115035671792964
+      },
+      {
+        "district": "eastkhasihills",
+        "date": "2020-05-22",
+        "intensity": 0.2726714889508783
+      }
+    ],
+    [
+      {
+        "district": "ribhoi",
+        "date": "2020-05-20",
+        "intensity": 0.6115035671792964
+      },
+      {
+        "district": "eastkhasihills",
+        "date": "2020-05-21",
+        "intensity": 0.3699049370233891
+      },
+      {
+        "district": "westkhasihills",
+        "date": "2020-05-22",
+        "intensity": 0.7636238002852902
+      }
+    ],
+    [
+      {
+        "district": "ribhoi",
+        "date": "2020-05-20",
+        "intensity": 0.6115035671792964
+      },
+      {
+        "district": "eastkhasihills",
+        "date": "2020-05-21",
+        "intensity": 0.3699049370233891
+      },
+      {
+        "district": "southwestkhasihills",
+        "date": "2020-05-22",
+        "intensity": 0.2540802396156644
+      }
+    ],
+    [
+      {
+        "district": "ribhoi",
+        "date": "2020-05-21",
+        "intensity": 0.4395665866683189
+      },
+      {
+        "district": "westkhasihills",
+        "date": "2020-05-22",
+        "intensity": 0.7636238002852902
+      }
+    ],
+    [
+      {
+        "district": "ribhoi",
+        "date": "2020-05-21",
+        "intensity": 0.4395665866683189
+      },
+      {
+        "district": "kamrup",
+        "date": "2020-05-22",
+        "intensity": 0.2754763500466698
+      }
+    ],
+    [
+      {
+        "district": "ribhoi",
+        "date": "2020-05-21",
+        "intensity": 0.4395665866683189
+      },
+      {
+        "district": "eastkhasihills",
+        "date": "2020-05-22",
+        "intensity": 0.2726714889508783
+      }
+    ],
+    [
+      {
+        "district": "ribhoi",
+        "date": "2020-05-22",
+        "intensity": 0.2130222334166867
+      }
+    ]
+  ],
+  "saiha": [
+    [
+      {
+        "district": "saiha",
+        "date": "2020-05-19",
+        "intensity": 0.3901683500807647
+      }
+    ]
+  ],
+  "serchhip": [
+    [
+      {
+        "district": "serchhip",
+        "date": "2020-05-19",
+        "intensity": 0.2521036915606857
+      }
+    ]
+  ],
+  "sivasagar": [
+    [
+      {
+        "district": "sivasagar",
+        "date": "2020-05-16",
+        "intensity": 0.2487122826939327
+      }
+    ]
+  ],
+  "sonitpur": [
+    [
+      {
+        "district": "sonitpur",
+        "date": "2020-05-21",
+        "intensity": 0.6880626374574266
+      },
+      {
+        "district": "westkameng",
+        "date": "2020-05-22",
+        "intensity": 0.7939545483529394
+      }
+    ],
+    [
+      {
+        "district": "sonitpur",
+        "date": "2020-05-21",
+        "intensity": 0.6880626374574266
+      },
+      {
+        "district": "papumpare",
+        "date": "2020-05-22",
+        "intensity": 0.7944236416100894
+      }
+    ],
+    [
+      {
+        "district": "sonitpur",
+        "date": "2020-05-21",
+        "intensity": 0.6880626374574266
+      },
+      {
+        "district": "eastkameng",
+        "date": "2020-05-22",
+        "intensity": 1.2062849972149403
+      }
+    ]
+  ],
+  "southgarohills": [
+    [
+      {
+        "district": "southgarohills",
+        "date": "2020-05-16",
+        "intensity": 0.2784706420887094
+      }
+    ],
+    [
+      {
+        "district": "southgarohills",
+        "date": "2020-05-20",
+        "intensity": 1.1799581005278188
+      },
+      {
+        "district": "westkhasihills",
+        "date": "2020-05-22",
+        "intensity": 0.7636238002852902
+      }
+    ],
+    [
+      {
+        "district": "southgarohills",
+        "date": "2020-05-20",
+        "intensity": 1.1799581005278188
+      },
+      {
+        "district": "westkhasihills",
+        "date": "2020-05-21",
+        "intensity": 0.9092447759727637
+      },
+      {
+        "district": "southwestkhasihills",
+        "date": "2020-05-22",
+        "intensity": 0.2540802396156644
+      }
+    ],
+    [
+      {
+        "district": "southgarohills",
+        "date": "2020-05-20",
+        "intensity": 1.1799581005278188
+      },
+      {
+        "district": "westkhasihills",
+        "date": "2020-05-21",
+        "intensity": 0.9092447759727637
+      },
+      {
+        "district": "ribhoi",
+        "date": "2020-05-22",
+        "intensity": 0.2130222334166867
+      }
+    ],
+    [
+      {
+        "district": "southgarohills",
+        "date": "2020-05-20",
+        "intensity": 1.1799581005278188
+      },
+      {
+        "district": "westkhasihills",
+        "date": "2020-05-21",
+        "intensity": 0.9092447759727637
+      },
+      {
+        "district": "kamrup",
+        "date": "2020-05-22",
+        "intensity": 0.2754763500466698
+      }
+    ],
+    [
+      {
+        "district": "southgarohills",
+        "date": "2020-05-20",
+        "intensity": 1.1799581005278188
+      },
+      {
+        "district": "westkhasihills",
+        "date": "2020-05-21",
+        "intensity": 0.9092447759727637
+      },
+      {
+        "district": "eastkhasihills",
+        "date": "2020-05-22",
+        "intensity": 0.2726714889508783
+      }
+    ],
+    [
+      {
+        "district": "southgarohills",
+        "date": "2020-05-20",
+        "intensity": 1.1799581005278188
+      },
+      {
+        "district": "westkhasihills",
+        "date": "2020-05-21",
+        "intensity": 0.9092447759727637
+      },
+      {
+        "district": "eastgarohills",
+        "date": "2020-05-22",
+        "intensity": 0.2009859795424861
+      }
+    ],
+    [
+      {
+        "district": "southgarohills",
+        "date": "2020-05-20",
+        "intensity": 1.1799581005278188
+      },
+      {
+        "district": "southwestkhasihills",
+        "date": "2020-05-22",
+        "intensity": 0.2540802396156644
+      }
+    ],
+    [
+      {
+        "district": "southgarohills",
+        "date": "2020-05-20",
+        "intensity": 1.1799581005278188
+      },
+      {
+        "district": "southwestkhasihills",
+        "date": "2020-05-21",
+        "intensity": 0.310271330064016
+      },
+      {
+        "district": "westkhasihills",
+        "date": "2020-05-22",
+        "intensity": 0.7636238002852902
+      }
+    ],
+    [
+      {
+        "district": "southgarohills",
+        "date": "2020-05-20",
+        "intensity": 1.1799581005278188
+      },
+      {
+        "district": "southwestkhasihills",
+        "date": "2020-05-21",
+        "intensity": 0.310271330064016
+      },
+      {
+        "district": "eastkhasihills",
+        "date": "2020-05-22",
+        "intensity": 0.2726714889508783
+      }
+    ],
+    [
+      {
+        "district": "southgarohills",
+        "date": "2020-05-20",
+        "intensity": 1.1799581005278188
+      },
+      {
+        "district": "eastgarohills",
+        "date": "2020-05-22",
+        "intensity": 0.2009859795424861
+      }
+    ],
+    [
+      {
+        "district": "southgarohills",
+        "date": "2020-05-20",
+        "intensity": 1.1799581005278188
+      },
+      {
+        "district": "eastgarohills",
+        "date": "2020-05-21",
+        "intensity": 0.3370949179782464
+      },
+      {
+        "district": "westkhasihills",
+        "date": "2020-05-22",
+        "intensity": 0.7636238002852902
+      }
+    ],
+    [
+      {
+        "district": "southgarohills",
+        "date": "2020-05-20",
+        "intensity": 1.1799581005278188
+      },
+      {
+        "district": "eastgarohills",
+        "date": "2020-05-21",
+        "intensity": 0.3370949179782464
+      },
+      {
+        "district": "kamrup",
+        "date": "2020-05-22",
+        "intensity": 0.2754763500466698
+      }
+    ],
+    [
+      {
+        "district": "southgarohills",
+        "date": "2020-05-20",
+        "intensity": 1.1799581005278188
+      },
+      {
+        "district": "eastgarohills",
+        "date": "2020-05-21",
+        "intensity": 0.3370949179782464
+      },
+      {
+        "district": "goalpara",
+        "date": "2020-05-22",
+        "intensity": 0.2317887478903752
+      }
+    ],
+    [
+      {
+        "district": "southgarohills",
+        "date": "2020-05-21",
+        "intensity": 0.2234963732590028
+      },
+      {
+        "district": "westkhasihills",
+        "date": "2020-05-22",
+        "intensity": 0.7636238002852902
+      }
+    ],
+    [
+      {
+        "district": "southgarohills",
+        "date": "2020-05-21",
+        "intensity": 0.2234963732590028
+      },
+      {
+        "district": "southwestkhasihills",
+        "date": "2020-05-22",
+        "intensity": 0.2540802396156644
+      }
+    ],
+    [
+      {
+        "district": "southgarohills",
+        "date": "2020-05-21",
+        "intensity": 0.2234963732590028
+      },
+      {
+        "district": "eastgarohills",
+        "date": "2020-05-22",
+        "intensity": 0.2009859795424861
+      }
+    ]
+  ],
+  "southwestgarohills": [
+    [
+      {
+        "district": "southwestgarohills",
+        "date": "2020-05-20",
+        "intensity": 0.6911176477838633
+      }
+    ]
+  ],
+  "southwestkhasihills": [
+    [
+      {
+        "district": "southwestkhasihills",
+        "date": "2020-05-20",
+        "intensity": 1.2789766641705127
+      },
+      {
+        "district": "westkhasihills",
+        "date": "2020-05-22",
+        "intensity": 0.7636238002852902
+      }
+    ],
+    [
+      {
+        "district": "southwestkhasihills",
+        "date": "2020-05-20",
+        "intensity": 1.2789766641705127
+      },
+      {
+        "district": "westkhasihills",
+        "date": "2020-05-21",
+        "intensity": 0.9092447759727637
+      },
+      {
+        "district": "ribhoi",
+        "date": "2020-05-22",
+        "intensity": 0.2130222334166867
+      }
+    ],
+    [
+      {
+        "district": "southwestkhasihills",
+        "date": "2020-05-20",
+        "intensity": 1.2789766641705127
+      },
+      {
+        "district": "westkhasihills",
+        "date": "2020-05-21",
+        "intensity": 0.9092447759727637
+      },
+      {
+        "district": "kamrup",
+        "date": "2020-05-22",
+        "intensity": 0.2754763500466698
+      }
+    ],
+    [
+      {
+        "district": "southwestkhasihills",
+        "date": "2020-05-20",
+        "intensity": 1.2789766641705127
+      },
+      {
+        "district": "westkhasihills",
+        "date": "2020-05-21",
+        "intensity": 0.9092447759727637
+      },
+      {
+        "district": "eastkhasihills",
+        "date": "2020-05-22",
+        "intensity": 0.2726714889508783
+      }
+    ],
+    [
+      {
+        "district": "southwestkhasihills",
+        "date": "2020-05-20",
+        "intensity": 1.2789766641705127
+      },
+      {
+        "district": "westkhasihills",
+        "date": "2020-05-21",
+        "intensity": 0.9092447759727637
+      },
+      {
+        "district": "eastgarohills",
+        "date": "2020-05-22",
+        "intensity": 0.2009859795424861
+      }
+    ],
+    [
+      {
+        "district": "southwestkhasihills",
+        "date": "2020-05-20",
+        "intensity": 1.2789766641705127
+      },
+      {
+        "district": "southgarohills",
+        "date": "2020-05-21",
+        "intensity": 0.2234963732590028
+      },
+      {
+        "district": "westkhasihills",
+        "date": "2020-05-22",
+        "intensity": 0.7636238002852902
+      }
+    ],
+    [
+      {
+        "district": "southwestkhasihills",
+        "date": "2020-05-20",
+        "intensity": 1.2789766641705127
+      },
+      {
+        "district": "southgarohills",
+        "date": "2020-05-21",
+        "intensity": 0.2234963732590028
+      },
+      {
+        "district": "eastgarohills",
+        "date": "2020-05-22",
+        "intensity": 0.2009859795424861
+      }
+    ],
+    [
+      {
+        "district": "southwestkhasihills",
+        "date": "2020-05-20",
+        "intensity": 1.2789766641705127
+      },
+      {
+        "district": "eastkhasihills",
+        "date": "2020-05-22",
+        "intensity": 0.2726714889508783
+      }
+    ],
+    [
+      {
+        "district": "southwestkhasihills",
+        "date": "2020-05-20",
+        "intensity": 1.2789766641705127
+      },
+      {
+        "district": "eastkhasihills",
+        "date": "2020-05-21",
+        "intensity": 0.3699049370233891
+      },
+      {
+        "district": "westkhasihills",
+        "date": "2020-05-22",
+        "intensity": 0.7636238002852902
+      }
+    ],
+    [
+      {
+        "district": "southwestkhasihills",
+        "date": "2020-05-20",
+        "intensity": 1.2789766641705127
+      },
+      {
+        "district": "eastkhasihills",
+        "date": "2020-05-21",
+        "intensity": 0.3699049370233891
+      },
+      {
+        "district": "ribhoi",
+        "date": "2020-05-22",
+        "intensity": 0.2130222334166867
+      }
+    ],
+    [
+      {
+        "district": "southwestkhasihills",
+        "date": "2020-05-21",
+        "intensity": 0.310271330064016
+      },
+      {
+        "district": "westkhasihills",
+        "date": "2020-05-22",
+        "intensity": 0.7636238002852902
+      }
+    ],
+    [
+      {
+        "district": "southwestkhasihills",
+        "date": "2020-05-21",
+        "intensity": 0.310271330064016
+      },
+      {
+        "district": "eastkhasihills",
+        "date": "2020-05-22",
+        "intensity": 0.2726714889508783
+      }
+    ],
+    [
+      {
+        "district": "southwestkhasihills",
+        "date": "2020-05-22",
+        "intensity": 0.2540802396156644
+      }
+    ]
+  ],
+  "tawang": [
+    [
+      {
+        "district": "tawang",
+        "date": "2020-05-21",
+        "intensity": 0.2586510171320351
+      },
+      {
+        "district": "westkameng",
+        "date": "2020-05-22",
+        "intensity": 0.7939545483529394
+      }
+    ]
+  ],
+  "udalguri": [
+    [
+      {
+        "district": "udalguri",
+        "date": "2020-05-21",
+        "intensity": 0.7303660259116338
+      },
+      {
+        "district": "westkameng",
+        "date": "2020-05-22",
+        "intensity": 0.7939545483529394
+      }
+    ],
+    [
+      {
+        "district": "udalguri",
+        "date": "2020-05-21",
+        "intensity": 0.7303660259116338
+      },
+      {
+        "district": "kamrup",
+        "date": "2020-05-22",
+        "intensity": 0.2754763500466698
+      }
+    ]
+  ],
+  "unokoti": [
+    [
+      {
+        "district": "unokoti",
+        "date": "2020-05-16",
+        "intensity": 0.4218796829642595
+      }
+    ]
+  ],
+  "uppersiang": [
+    [
+      {
+        "district": "uppersiang",
+        "date": "2020-05-21",
+        "intensity": 0.9046092436666155
+      },
+      {
+        "district": "eastsiang",
+        "date": "2020-05-22",
+        "intensity": 0.2182224085907992
+      }
+    ]
+  ],
+  "uppersubansiri": [
+    [
+      {
+        "district": "uppersubansiri",
+        "date": "2020-05-21",
+        "intensity": 0.29087765066472
+      },
+      {
+        "district": "lowersubansiri",
+        "date": "2020-05-22",
+        "intensity": 0.6268983644295479
+      }
+    ]
+  ],
+  "westgarohills": [
+    [
+      {
+        "district": "westgarohills",
+        "date": "2020-05-20",
+        "intensity": 0.8125338108783946
+      },
+      {
+        "district": "southgarohills",
+        "date": "2020-05-21",
+        "intensity": 0.2234963732590028
+      },
+      {
+        "district": "westkhasihills",
+        "date": "2020-05-22",
+        "intensity": 0.7636238002852902
+      }
+    ],
+    [
+      {
+        "district": "westgarohills",
+        "date": "2020-05-20",
+        "intensity": 0.8125338108783946
+      },
+      {
+        "district": "southgarohills",
+        "date": "2020-05-21",
+        "intensity": 0.2234963732590028
+      },
+      {
+        "district": "southwestkhasihills",
+        "date": "2020-05-22",
+        "intensity": 0.2540802396156644
+      }
+    ],
+    [
+      {
+        "district": "westgarohills",
+        "date": "2020-05-20",
+        "intensity": 0.8125338108783946
+      },
+      {
+        "district": "southgarohills",
+        "date": "2020-05-21",
+        "intensity": 0.2234963732590028
+      },
+      {
+        "district": "eastgarohills",
+        "date": "2020-05-22",
+        "intensity": 0.2009859795424861
+      }
+    ],
+    [
+      {
+        "district": "westgarohills",
+        "date": "2020-05-20",
+        "intensity": 0.8125338108783946
+      },
+      {
+        "district": "goalpara",
+        "date": "2020-05-22",
+        "intensity": 0.2317887478903752
+      }
+    ],
+    [
+      {
+        "district": "westgarohills",
+        "date": "2020-05-20",
+        "intensity": 0.8125338108783946
+      },
+      {
+        "district": "goalpara",
+        "date": "2020-05-21",
+        "intensity": 0.2498034276489679
+      },
+      {
+        "district": "kamrup",
+        "date": "2020-05-22",
+        "intensity": 0.2754763500466698
+      }
+    ],
+    [
+      {
+        "district": "westgarohills",
+        "date": "2020-05-20",
+        "intensity": 0.8125338108783946
+      },
+      {
+        "district": "goalpara",
+        "date": "2020-05-21",
+        "intensity": 0.2498034276489679
+      },
+      {
+        "district": "eastgarohills",
+        "date": "2020-05-22",
+        "intensity": 0.2009859795424861
+      }
+    ],
+    [
+      {
+        "district": "westgarohills",
+        "date": "2020-05-20",
+        "intensity": 0.8125338108783946
+      },
+      {
+        "district": "goalpara",
+        "date": "2020-05-21",
+        "intensity": 0.2498034276489679
+      },
+      {
+        "district": "bongaigaon",
+        "date": "2020-05-22",
+        "intensity": 0.1958810591663352
+      }
+    ],
+    [
+      {
+        "district": "westgarohills",
+        "date": "2020-05-20",
+        "intensity": 0.8125338108783946
+      },
+      {
+        "district": "eastgarohills",
+        "date": "2020-05-22",
+        "intensity": 0.2009859795424861
+      }
+    ],
+    [
+      {
+        "district": "westgarohills",
+        "date": "2020-05-20",
+        "intensity": 0.8125338108783946
+      },
+      {
+        "district": "eastgarohills",
+        "date": "2020-05-21",
+        "intensity": 0.3370949179782464
+      },
+      {
+        "district": "westkhasihills",
+        "date": "2020-05-22",
+        "intensity": 0.7636238002852902
+      }
+    ],
+    [
+      {
+        "district": "westgarohills",
+        "date": "2020-05-20",
+        "intensity": 0.8125338108783946
+      },
+      {
+        "district": "eastgarohills",
+        "date": "2020-05-21",
+        "intensity": 0.3370949179782464
+      },
+      {
+        "district": "kamrup",
+        "date": "2020-05-22",
+        "intensity": 0.2754763500466698
+      }
+    ],
+    [
+      {
+        "district": "westgarohills",
+        "date": "2020-05-20",
+        "intensity": 0.8125338108783946
+      },
+      {
+        "district": "eastgarohills",
+        "date": "2020-05-21",
+        "intensity": 0.3370949179782464
+      },
+      {
+        "district": "goalpara",
+        "date": "2020-05-22",
+        "intensity": 0.2317887478903752
+      }
+    ]
+  ],
+  "westkameng": [
+    [
+      {
+        "district": "westkameng",
+        "date": "2020-05-21",
+        "intensity": 2.0344125750956006
+      },
+      {
+        "district": "eastkameng",
+        "date": "2020-05-22",
+        "intensity": 1.2062849972149403
+      }
+    ],
+    [
+      {
+        "district": "westkameng",
+        "date": "2020-05-22",
+        "intensity": 0.7939545483529394
+      }
+    ]
+  ],
+  "westkhasihills": [
+    [
+      {
+        "district": "westkhasihills",
+        "date": "2020-05-20",
+        "intensity": 1.90992619735083
+      },
+      {
+        "district": "southwestkhasihills",
+        "date": "2020-05-22",
+        "intensity": 0.2540802396156644
+      }
+    ],
+    [
+      {
+        "district": "westkhasihills",
+        "date": "2020-05-20",
+        "intensity": 1.90992619735083
+      },
+      {
+        "district": "southwestkhasihills",
+        "date": "2020-05-21",
+        "intensity": 0.310271330064016
+      },
+      {
+        "district": "eastkhasihills",
+        "date": "2020-05-22",
+        "intensity": 0.2726714889508783
+      }
+    ],
+    [
+      {
+        "district": "westkhasihills",
+        "date": "2020-05-20",
+        "intensity": 1.90992619735083
+      },
+      {
+        "district": "southgarohills",
+        "date": "2020-05-21",
+        "intensity": 0.2234963732590028
+      },
+      {
+        "district": "southwestkhasihills",
+        "date": "2020-05-22",
+        "intensity": 0.2540802396156644
+      }
+    ],
+    [
+      {
+        "district": "westkhasihills",
+        "date": "2020-05-20",
+        "intensity": 1.90992619735083
+      },
+      {
+        "district": "southgarohills",
+        "date": "2020-05-21",
+        "intensity": 0.2234963732590028
+      },
+      {
+        "district": "eastgarohills",
+        "date": "2020-05-22",
+        "intensity": 0.2009859795424861
+      }
+    ],
+    [
+      {
+        "district": "westkhasihills",
+        "date": "2020-05-20",
+        "intensity": 1.90992619735083
+      },
+      {
+        "district": "ribhoi",
+        "date": "2020-05-22",
+        "intensity": 0.2130222334166867
+      }
+    ],
+    [
+      {
+        "district": "westkhasihills",
+        "date": "2020-05-20",
+        "intensity": 1.90992619735083
+      },
+      {
+        "district": "ribhoi",
+        "date": "2020-05-21",
+        "intensity": 0.4395665866683189
+      },
+      {
+        "district": "kamrup",
+        "date": "2020-05-22",
+        "intensity": 0.2754763500466698
+      }
+    ],
+    [
+      {
+        "district": "westkhasihills",
+        "date": "2020-05-20",
+        "intensity": 1.90992619735083
+      },
+      {
+        "district": "ribhoi",
+        "date": "2020-05-21",
+        "intensity": 0.4395665866683189
+      },
+      {
+        "district": "eastkhasihills",
+        "date": "2020-05-22",
+        "intensity": 0.2726714889508783
+      }
+    ],
+    [
+      {
+        "district": "westkhasihills",
+        "date": "2020-05-20",
+        "intensity": 1.90992619735083
+      },
+      {
+        "district": "kamrup",
+        "date": "2020-05-22",
+        "intensity": 0.2754763500466698
+      }
+    ],
+    [
+      {
+        "district": "westkhasihills",
+        "date": "2020-05-20",
+        "intensity": 1.90992619735083
+      },
+      {
+        "district": "kamrup",
+        "date": "2020-05-21",
+        "intensity": 0.4552285766891948
+      },
+      {
+        "district": "ribhoi",
+        "date": "2020-05-22",
+        "intensity": 0.2130222334166867
+      }
+    ],
+    [
+      {
+        "district": "westkhasihills",
+        "date": "2020-05-20",
+        "intensity": 1.90992619735083
+      },
+      {
+        "district": "kamrup",
+        "date": "2020-05-21",
+        "intensity": 0.4552285766891948
+      },
+      {
+        "district": "goalpara",
+        "date": "2020-05-22",
+        "intensity": 0.2317887478903752
+      }
+    ],
+    [
+      {
+        "district": "westkhasihills",
+        "date": "2020-05-20",
+        "intensity": 1.90992619735083
+      },
+      {
+        "district": "kamrup",
+        "date": "2020-05-21",
+        "intensity": 0.4552285766891948
+      },
+      {
+        "district": "eastgarohills",
+        "date": "2020-05-22",
+        "intensity": 0.2009859795424861
+      }
+    ],
+    [
+      {
+        "district": "westkhasihills",
+        "date": "2020-05-20",
+        "intensity": 1.90992619735083
+      },
+      {
+        "district": "eastkhasihills",
+        "date": "2020-05-22",
+        "intensity": 0.2726714889508783
+      }
+    ],
+    [
+      {
+        "district": "westkhasihills",
+        "date": "2020-05-20",
+        "intensity": 1.90992619735083
+      },
+      {
+        "district": "eastkhasihills",
+        "date": "2020-05-21",
+        "intensity": 0.3699049370233891
+      },
+      {
+        "district": "southwestkhasihills",
+        "date": "2020-05-22",
+        "intensity": 0.2540802396156644
+      }
+    ],
+    [
+      {
+        "district": "westkhasihills",
+        "date": "2020-05-20",
+        "intensity": 1.90992619735083
+      },
+      {
+        "district": "eastkhasihills",
+        "date": "2020-05-21",
+        "intensity": 0.3699049370233891
+      },
+      {
+        "district": "ribhoi",
+        "date": "2020-05-22",
+        "intensity": 0.2130222334166867
+      }
+    ],
+    [
+      {
+        "district": "westkhasihills",
+        "date": "2020-05-20",
+        "intensity": 1.90992619735083
+      },
+      {
+        "district": "eastgarohills",
+        "date": "2020-05-22",
+        "intensity": 0.2009859795424861
+      }
+    ],
+    [
+      {
+        "district": "westkhasihills",
+        "date": "2020-05-20",
+        "intensity": 1.90992619735083
+      },
+      {
+        "district": "eastgarohills",
+        "date": "2020-05-21",
+        "intensity": 0.3370949179782464
+      },
+      {
+        "district": "kamrup",
+        "date": "2020-05-22",
+        "intensity": 0.2754763500466698
+      }
+    ],
+    [
+      {
+        "district": "westkhasihills",
+        "date": "2020-05-20",
+        "intensity": 1.90992619735083
+      },
+      {
+        "district": "eastgarohills",
+        "date": "2020-05-21",
+        "intensity": 0.3370949179782464
+      },
+      {
+        "district": "goalpara",
+        "date": "2020-05-22",
+        "intensity": 0.2317887478903752
+      }
+    ],
+    [
+      {
+        "district": "westkhasihills",
+        "date": "2020-05-21",
+        "intensity": 0.9092447759727637
+      },
+      {
+        "district": "southwestkhasihills",
+        "date": "2020-05-22",
+        "intensity": 0.2540802396156644
+      }
+    ],
+    [
+      {
+        "district": "westkhasihills",
+        "date": "2020-05-21",
+        "intensity": 0.9092447759727637
+      },
+      {
+        "district": "ribhoi",
+        "date": "2020-05-22",
+        "intensity": 0.2130222334166867
+      }
+    ],
+    [
+      {
+        "district": "westkhasihills",
+        "date": "2020-05-21",
+        "intensity": 0.9092447759727637
+      },
+      {
+        "district": "kamrup",
+        "date": "2020-05-22",
+        "intensity": 0.2754763500466698
+      }
+    ],
+    [
+      {
+        "district": "westkhasihills",
+        "date": "2020-05-21",
+        "intensity": 0.9092447759727637
+      },
+      {
+        "district": "eastkhasihills",
+        "date": "2020-05-22",
+        "intensity": 0.2726714889508783
+      }
+    ],
+    [
+      {
+        "district": "westkhasihills",
+        "date": "2020-05-21",
+        "intensity": 0.9092447759727637
+      },
+      {
+        "district": "eastgarohills",
+        "date": "2020-05-22",
+        "intensity": 0.2009859795424861
+      }
+    ],
+    [
+      {
+        "district": "westkhasihills",
+        "date": "2020-05-22",
+        "intensity": 0.7636238002852902
+      }
+    ]
+  ],
+  "westsiang": [
+    [
+      {
+        "district": "westsiang",
+        "date": "2020-05-21",
+        "intensity": 0.6910130157893188
+      },
+      {
+        "district": "lowersubansiri",
+        "date": "2020-05-22",
+        "intensity": 0.6268983644295479
+      }
+    ],
+    [
+      {
+        "district": "westsiang",
+        "date": "2020-05-21",
+        "intensity": 0.6910130157893188
+      },
+      {
+        "district": "eastsiang",
+        "date": "2020-05-22",
+        "intensity": 0.2182224085907992
+      }
+    ]
+  ]
+}

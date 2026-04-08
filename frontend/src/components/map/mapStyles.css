@@ -1,28 +1,14 @@
-.cyclone-wrapper{
-  background:transparent;
-  border:none;
-}
+.cyclone-overlay{
 
-.cyclone-icon{
+  animation:spin 6s linear infinite;
 
-  width:100%;
-  height:100%;
-
-  background-image:url("/images/cyclone.svg");
-
-  background-size:contain;
-  background-repeat:no-repeat;
-  background-position:center;
-
-  opacity:0.75;      /* reduced opacity */
-
-  animation: cycloneSpin 6s linear infinite;  /* slightly slower spin */
+  transform-origin:center center;
 
 }
 
-@keyframes cycloneSpin{
+@keyframes spin{
 
-  from{ transform:rotate(0deg); }
-  to{ transform:rotate(360deg); }
+  from{transform:rotate(0deg)}
+  to{transform:rotate(360deg)}
 
 }

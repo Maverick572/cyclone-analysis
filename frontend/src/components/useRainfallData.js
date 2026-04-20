@@ -76,7 +76,12 @@ export default function useRainfallData(cyclone){
         sessionStorage.setItem(graphKey,JSON.stringify(graphData))
       } else graphData=JSON.parse(graphData)
 
-      setGraph(graphData)
+      const normalizedGraph = {}
+        for (const source in graphData) {
+          const key = source.toLowerCase().replace(/\s+/g,'').replace(/-/g,'')
+          normalizedGraph[key] = graphData[source]
+        }
+        setGraph(normalizedGraph)
 
       /*
       extract all districts appearing in graph

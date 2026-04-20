@@ -55,11 +55,35 @@ export default function useSpreadLayer({
       const layer = L.geoJSON(geojson, {
         style: {
           fillColor: "#0d1f35",
-          fillOpacity: 1,
+          fillOpacity: 0,
           color: "#1a3050",
           weight: 0.8
         },
-        pane: "spreadDistrictPane"
+        pane: "spreadDistrictPane",
+        onEachFeature: (feature, layer) => {
+          const rawDistrict = feature.properties.NAME_2
+          const district = rawDistrict.replace(/([a-z])([A-Z])/g, "$1 $2")
+          const state = feature.properties.NAME_1
+
+          layer.on({
+            mouseover: (e) => {
+              e.target.setStyle({ weight: 2, color: "#00d4ff" })
+              L.popup({ closeButton: false, offset: [0, -5] })
+                .setLatLng(e.latlng)
+                .setContent(`
+                  <div style="font-family:Space Mono;font-size:0.7rem;min-width:160px;">
+                    <div style="color:#00d4ff;font-weight:bold;margin-bottom:4px;">${district}</div>
+                    <div style="color:#8ba4cc;">${state}</div>
+                  </div>
+                `)
+                .openOn(map)
+            },
+            mouseout: (e) => {
+              e.target.setStyle({ weight: 0.8, color: "#1a3050" })
+              map.closePopup()
+            }
+          })
+        }
       }).addTo(map)
 
       districtLayerRef.current = layer
@@ -88,6 +112,11 @@ export default function useSpreadLayer({
       }
 
       if (mode !== "spread") return
+
+      console.log("[spread] graph:", graph)
+      console.log("[spread] sourceDistrict:", sourceDistrict)
+      console.log("[spread] graph[sourceDistrict]:", graph?.[sourceDistrict])
+
       if (!graph || (!sourceDistrict && !targetDistrict)) return
 
       const centroids = {}
@@ -98,8 +127,25 @@ export default function useSpreadLayer({
 
       const edges = []
 
-      if (spreadType === "source" && sourceDistrict && graph[sourceDistrict]) {
+      if (sourceDistrict && targetDistrict) {
+        // both selected: only paths from source to target
+        if (graph[sourceDistrict]) {
+          for (const path of graph[sourceDistrict]) {
+            const last = normalize(path[path.length - 1].district)
+            if (last !== targetDistrict) continue
+            for (let i = 0; i < path.length - 1; i++) {
+              const from = normalize(path[i].district)
+              const to = normalize(path[i + 1].district)
+              const intensity = path[i + 1].intensity
+              if (!edges.find(e => e.from === from && e.to === to)) {
+                edges.push({ from, to, intensity })
+              }
+            }
+          }
+        }
 
+      } else if (sourceDistrict && graph[sourceDistrict]) {
+        // only source: all outward paths
         for (const path of graph[sourceDistrict]) {
           for (let i = 0; i < path.length - 1; i++) {
             const from = normalize(path[i].district)
@@ -111,8 +157,8 @@ export default function useSpreadLayer({
           }
         }
 
-      } else if (spreadType === "target" && targetDistrict) {
-
+      } else if (targetDistrict) {
+        // only target: all inward paths from every source
         for (const source in graph) {
           for (const path of graph[source]) {
             const last = normalize(path[path.length - 1].district)
@@ -127,7 +173,6 @@ export default function useSpreadLayer({
             }
           }
         }
-
       }
 
       if (!edges.length) return
@@ -149,7 +194,8 @@ export default function useSpreadLayer({
         "width:100%",
         "height:100%",
         "overflow:visible",
-        "pointer-events:none"
+        "pointer-events:none",
+        "z-index:1000"
       ].join(";")
 
       const defs = document.createElementNS(svgNS, "defs")
@@ -168,7 +214,7 @@ export default function useSpreadLayer({
       marker.appendChild(arrowPath)
       defs.appendChild(marker)
       svg.appendChild(defs)
-      pane.appendChild(svg)
+      map.getContainer().appendChild(svg)
       svgRef.current = svg
 
       function draw() {
@@ -179,10 +225,13 @@ export default function useSpreadLayer({
 
           const fc = centroids[from]
           const tc = centroids[to]
+          console.log("[spread] edges built:", edges)
+          console.log("[spread] centroid keys:", Object.keys(centroids).slice(0, 10))
           if (!fc || !tc) continue
 
           const fp = map.latLngToContainerPoint([fc.lat, fc.lng])
           const tp = map.latLngToContainerPoint([tc.lat, tc.lng])
+          console.log("[spread] drawing edge", from, "->", to, "fp:", fp, "tp:", tp)
 
           const dx = tp.x - fp.x
           const dy = tp.y - fp.y

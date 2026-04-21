@@ -55,6 +55,12 @@ CYCLONE_TRACK = os.path.join(
     "amphan_track.json"
 )
 
+FLOOD_RISK = os.path.join(
+    BASE,
+    "flood_risk_processed",
+    "amphan_flood_risk.json"
+)
+
 # -------------------------
 # LOAD DATA INTO MEMORY
 # -------------------------
@@ -71,6 +77,9 @@ with open(DISTRICTS_DATA) as f:
 
 with open(CYCLONE_TRACK) as f:
     cyclone_track = json.load(f)
+
+with open(FLOOD_RISK) as f:
+    flood_risk_data = json.load(f)
 
 # -------------------------
 # ROOT
@@ -148,3 +157,15 @@ def graph_from_district(district: str):
         district.lower(),
         []
     )
+
+
+@app.get("/flood-risk/amphan")
+def get_flood_risk():
+    return flood_risk_data
+
+@app.get("/flood-risk/amphan/{district}")
+def flood_risk_by_district(district: str):
+    return [
+        r for r in flood_risk_data
+        if r["district"].lower() == district.lower()
+    ]

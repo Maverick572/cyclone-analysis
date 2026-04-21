@@ -2,10 +2,6 @@ import subprocess
 import time
 import sys
 
-
-CYCLONE_NAME = "amphan"
-
-
 STEPS = [
 
     {
@@ -36,6 +32,11 @@ STEPS = [
     {
         "name": "Generate spread paths",
         "script": r"C:\Vault\Projects\cyclone-rainfall-analysis\backend\processing\generate_spread_paths.py"
+    },
+
+    {
+        "name": "Generate flood risk",
+        "script": r"C:\Vault\Projects\cyclone-rainfall-analysis\backend\processing\flood_risk_processor.py"
     }
 
 ]
@@ -91,8 +92,6 @@ def run_step(step):
 def main():
 
     print("\nCYCLONE PIPELINE")
-
-    print("cyclone:", CYCLONE_NAME)
 
     print("\nstarting...\n")
 

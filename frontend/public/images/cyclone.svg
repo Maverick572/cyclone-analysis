@@ -50,7 +50,7 @@
     attributeName="transform"
     calcMode="spline"
     dur="8"
-    values="0 100 100;360 100 100"
+    values="0 100 100;-360 100 100"
     keyTimes="0;1"
     keySplines="0 0 1 1"
     repeatCount="indefinite">
@@ -62,7 +62,7 @@
     attributeName="transform"
     calcMode="spline"
     dur="8"
-    values="0 100 100;360 100 100"
+    values="0 100 100;-360 100 100"
     keyTimes="0;1"
     keySplines="0 0 1 1"
     repeatCount="indefinite">
@@ -74,7 +74,7 @@
     attributeName="transform"
     calcMode="spline"
     dur="8"
-    values="0 100 100;360 100 100"
+    values="0 100 100;-360 100 100"
     keyTimes="0;1"
     keySplines="0 0 1 1"
     repeatCount="indefinite">
@@ -86,7 +86,7 @@
     attributeName="transform"
     calcMode="spline"
     dur="8"
-    values="0 100 100;360 100 100"
+    values="0 100 100;-360 100 100"
     keyTimes="0;1"
     keySplines="0 0 1 1"
     repeatCount="indefinite">

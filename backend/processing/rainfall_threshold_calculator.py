@@ -5,6 +5,13 @@ df = pd.read_csv(r"C:\Vault\Projects\cyclone-rainfall-analysis\backend\datasets\
 def normalize(col):
     return (col - col.min()) / (col.max() - col.min())
 
+df["district"] = (
+    df["district"]
+    .str.replace(" ", "", regex=False)
+    .str.replace("-", "", regex=False)
+    .str.lower()
+)
+
 df["extent_norm"] = normalize(df["corrected_percent_flooded_area"])
 df["duration_norm"] = normalize(df["mean_flood_duration"])
 

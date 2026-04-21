@@ -1,4 +1,5 @@
 import { useEffect, useRef } from "react"
+import { valueColor } from "./valueColor"
 
 function getCentroid(feature) {
   const coords = feature.geometry.coordinates.flat(3)
@@ -24,8 +25,9 @@ export default function useSpreadLayer({
   sourceDistrict,
   targetDistrict,
   spreadType,
-  mode
-}) {
+  mode,
+  floodRisk
+}){
 
   const districtLayerRef = useRef(null)
   const svgRef = useRef(null)
@@ -46,51 +48,87 @@ export default function useSpreadLayer({
       }
 
       if (mode !== "spread") return
-
+      
       if (!map.getPane("spreadDistrictPane")) {
         const p = map.createPane("spreadDistrictPane")
         p.style.zIndex = 400
       }
 
-      const layer = L.geoJSON(geojson, {
-        style: {
-          fillColor: "#0d1f35",
-          fillOpacity: 0,
-          color: "#1a3050",
-          weight: 0.8
-        },
-        pane: "spreadDistrictPane",
-        onEachFeature: (feature, layer) => {
-          const rawDistrict = feature.properties.NAME_2
-          const district = rawDistrict.replace(/([a-z])([A-Z])/g, "$1 $2")
-          const state = feature.properties.NAME_1
-
-          layer.on({
-            mouseover: (e) => {
-              e.target.setStyle({ weight: 2, color: "#00d4ff" })
-              L.popup({ closeButton: false, offset: [0, -5] })
-                .setLatLng(e.latlng)
-                .setContent(`
-                  <div style="font-family:Space Mono;font-size:0.7rem;min-width:160px;">
-                    <div style="color:#00d4ff;font-weight:bold;margin-bottom:4px;">${district}</div>
-                    <div style="color:#8ba4cc;">${state}</div>
-                  </div>
-                `)
-                .openOn(map)
-            },
-            mouseout: (e) => {
-              e.target.setStyle({ weight: 0.8, color: "#1a3050" })
-              map.closePopup()
-            }
-          })
+        const riskMap = {}
+        for (const r of (floodRisk || [])) {
+          const key = r.district.toLowerCase().replace(/\s+/g,'').replace(/-/g,'')
+          riskMap[key] = r.corrected_percent_flooded_area  // or whichever field is "risk"
         }
-      }).addTo(map)
 
-      districtLayerRef.current = layer
+        const maxRisk = Math.max(...Object.values(riskMap), 1)
+        console.log("riskMap keys:", Object.keys(riskMap))
+        console.log("geojson keys:", geojson.features.map(f => normalize(f.properties.NAME_2)))
+
+        const layer = L.geoJSON(geojson, {
+          style: (feature) => {
+            const key = normalize(feature.properties.NAME_2)
+            const raw = riskMap[key] ?? 0
+            const v = raw / maxRisk
+
+            if (key === sourceDistrict) return {
+              fillColor: '#00d4ff',
+              fillOpacity: 0.85,
+              color: '#00d4ff',
+              weight: 2
+            }
+
+            if (key === targetDistrict) return {
+              fillColor: '#00d4ff',
+              fillOpacity: 0.85,
+              color: '#00d4ff',
+              weight: 2
+            }
+
+            return {
+              fillColor: valueColor(v, "risk"),
+              fillOpacity: 0.75,
+              color: "#1a3050",
+              weight: 0.8
+            }
+          },
+          pane: "spreadDistrictPane",
+          onEachFeature: (feature, layer) => {
+            const rawDistrict = feature.properties.NAME_2
+            const district = rawDistrict.replace(/([a-z])([A-Z])/g, "$1 $2")
+            const state = feature.properties.NAME_1
+            const key = normalize(rawDistrict)
+            const riskVal = riskMap[key] ?? 0
+
+            layer.on({
+              mouseover: (e) => {
+                e.target.setStyle({ weight: 2, color: "#00d4ff" })
+                L.popup({ closeButton: false, offset: [0, -5] })
+                  .setLatLng(e.latlng)
+                  .setContent(`
+                    <div style="font-family:Space Mono;font-size:0.7rem;min-width:160px;">
+                      <div style="color:#00d4ff;font-weight:bold;margin-bottom:4px;">${district}</div>
+                      <div style="color:#8ba4cc;margin-bottom:6px;">${state}</div>
+                      <div style="color:#e8f0ff;font-size:0.85rem;">
+                        ${riskVal.toFixed(3)}
+                        <span style="color:#4a6080">% flooded area</span>
+                      </div>
+                    </div>
+                  `)
+                  .openOn(map)
+              },
+              mouseout: (e) => {
+                e.target.setStyle({ weight: 0.8, color: "#1a3050" })
+                map.closePopup()
+              }
+            })
+          }
+        }).addTo(map)
+
+        districtLayerRef.current = layer
 
     })
 
-  }, [geojson, mode])
+  }, [geojson, mode, sourceDistrict, targetDistrict])
 
 
   // arrow SVG layer
@@ -179,7 +217,7 @@ export default function useSpreadLayer({
 
       if (!map.getPane("spreadArrowPane")) {
         const p = map.createPane("spreadArrowPane")
-        p.style.zIndex = 650
+        p.style.zIndex = 550
         p.style.pointerEvents = "none"
       }
 
@@ -209,7 +247,7 @@ export default function useSpreadLayer({
 
       const arrowPath = document.createElementNS(svgNS, "path")
       arrowPath.setAttribute("d", "M0,0 L7,3.5 L0,7 Z")
-      arrowPath.setAttribute("fill", "#00d4ff")
+      arrowPath.setAttribute("fill", "#ff0000")
 
       marker.appendChild(arrowPath)
       defs.appendChild(marker)
@@ -251,7 +289,7 @@ export default function useSpreadLayer({
           line.setAttribute("y1", y1)
           line.setAttribute("x2", x2)
           line.setAttribute("y2", y2)
-          line.setAttribute("stroke", "#00d4ff")
+          line.setAttribute("stroke", "#ff0000")
           line.setAttribute("stroke-width", "1.8")
           line.setAttribute("stroke-opacity", opacity)
           line.setAttribute("marker-end", "url(#spread-arrow-head)")

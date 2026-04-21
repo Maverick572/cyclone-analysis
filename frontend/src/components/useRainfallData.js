@@ -21,13 +21,12 @@ function haversineKm(lon1, lat1, lon2, lat2){
 export default function useRainfallData(cyclone){
 
   const [geojson,setGeojson]=useState(null)
+  const [floodRisk, setFloodRisk] = useState([])
   const [allRainfall,setAllRainfall]=useState([])
   const [allFlood,setAllFlood]=useState([])
   const [cycloneTrack,setCycloneTrack]=useState({})
   const [dates,setDates]=useState([])
   const [loading,setLoading]=useState(true)
-
-  /* NEW */
   const [graph,setGraph]=useState({})
   const [graphDistricts,setGraphDistricts]=useState([])
 
@@ -40,7 +39,8 @@ export default function useRainfallData(cyclone){
       const districtKey=`district_${cyclone}`
       const trackKey=`track_${cyclone}`
       const graphKey=`graph_${cyclone}`
-
+      const floodRiskKey = `floodrisk_${cyclone}`
+      let floodRiskData = sessionStorage.getItem(floodRiskKey)
       let rainRows=sessionStorage.getItem(rainKey)
       let floodRows=sessionStorage.getItem(floodKey)
       let allowedDistricts=sessionStorage.getItem(districtKey)
@@ -75,7 +75,13 @@ export default function useRainfallData(cyclone){
         graphData=await r.json()
         sessionStorage.setItem(graphKey,JSON.stringify(graphData))
       } else graphData=JSON.parse(graphData)
-
+      
+      if(!floodRiskData){
+        const r = await fetch(`http://localhost:8000/flood-risk/${cyclone}`)
+        floodRiskData = await r.json()
+        sessionStorage.setItem(floodRiskKey, JSON.stringify(floodRiskData))
+      } else floodRiskData = JSON.parse(floodRiskData)
+      
       const normalizedGraph = {}
         for (const source in graphData) {
           const key = source.toLowerCase().replace(/\s+/g,'').replace(/-/g,'')
@@ -161,6 +167,7 @@ export default function useRainfallData(cyclone){
       setAllRainfall(rainRows)
       setAllFlood(floodRows)
       setCycloneTrack(track)
+      setFloodRisk(floodRiskData)
 
       const uniqueDates=[
         ...new Set([
@@ -188,7 +195,7 @@ export default function useRainfallData(cyclone){
     dates,
     loading,
     graph,
-    graphDistricts
-
+    graphDistricts,
+    floodRisk
   }
 }

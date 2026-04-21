@@ -27,8 +27,8 @@ export default function RainfallMap(){
   loading,
 
   graph,
-  graphDistricts
-
+  graphDistricts,
+  floodRisk
 } = useRainfallData(cyclone)
 
   const [index,setIndex]=useState(0)
@@ -153,7 +153,35 @@ useEffect(()=>{
 
 
   if(loading || !dates.length)
-  return <div>Loading...</div>
+    return (
+      <div style={{
+        height:'100vh',
+        display:'flex',
+        flexDirection:'column',
+        alignItems:'center',
+        justifyContent:'center',
+        background:'#050810',
+        gap:'1rem'
+      }}>
+        <div style={{
+          width:36,
+          height:36,
+          border:'2px solid #1a2a42',
+          borderTop:'2px solid #00d4ff',
+          borderRadius:'50%',
+          animation:'spin 1s linear infinite'
+        }}/>
+        <div style={{
+          fontFamily:'Space Mono',
+          fontSize:'0.65rem',
+          color:'#4a6080',
+          letterSpacing:'0.1em'
+        }}>
+          LOADING CYCLONE DATA
+        </div>
+        <style>{`@keyframes spin { to { transform: rotate(360deg) } }`}</style>
+      </div>
+    )
 
   return (
 
@@ -187,18 +215,12 @@ useEffect(()=>{
             viewCyclone={viewCyclone}
             graph={graph}
             spreadType={spreadType}
+            floodRisk={floodRisk} 
           />
 
-          {mode !== "spread" && (
-            <div style={{
-              position:'absolute',
-              top:'1rem',
-              right:'1rem',
-              zIndex:1000,
-            }}>
-              <RainfallLegend mode={mode}/>
-            </div>
-          )}
+        <div style={{position:'absolute',top:'1rem',right:'1rem',zIndex:1000}}>
+          <RainfallLegend mode={mode === "spread" ? "risk" : mode}/>
+        </div>
 
         </div>
 

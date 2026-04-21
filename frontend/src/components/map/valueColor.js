@@ -14,6 +14,14 @@ export function valueColor(v,mode){
 
   }
 
+  if(mode === "risk"){
+    if(v < 0.2) return '#f0fdf4'
+    if(v < 0.4) return '#86efac'
+    if(v < 0.6) return '#facc15'
+    if(v < 0.8) return '#f97316'
+    return '#dc2626'
+  }
+
   if(v<1) return '#fef9c3'
   if(v<5) return '#fed7aa'
   if(v<20) return '#fb923c'

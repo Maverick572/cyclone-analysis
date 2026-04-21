@@ -183,18 +183,6 @@ print("districts after geo validation:", len(districts))
 
 thresholds = pd.read_csv(THRESHOLD_FILE)
 
-thresholds["district"] = (
-
-    thresholds["district"]
-
-    .str.replace(" ", "", regex=False)
-
-    .str.replace("-", "", regex=False)
-
-    .str.lower()
-
-)
-
 thresholds = thresholds[
 
     thresholds["district"].isin(region_districts)

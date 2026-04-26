@@ -1,0 +1,2052 @@
+[
+  {
+    "district": "adilabad",
+    "percent_flooded_area": 1.209758847,
+    "parmanent_water": 0.22104424,
+    "corrected_percent_flooded_area": 0.988714607,
+    "human_fatality": 174,
+    "human_injured": 0,
+    "population": 802880,
+    "mean_flood_duration": 8.0
+  },
+  {
+    "district": "agarmalwa",
+    "percent_flooded_area": 0.53688887,
+    "parmanent_water": 0.338892414,
+    "corrected_percent_flooded_area": 0.197996456,
+    "human_fatality": 2,
+    "human_injured": 0,
+    "population": 702666,
+    "mean_flood_duration": 6.0
+  },
+  {
+    "district": "ahmadabad",
+    "percent_flooded_area": 4.222292965,
+    "parmanent_water": 0.122458085,
+    "corrected_percent_flooded_area": 4.09983488,
+    "human_fatality": 177,
+    "human_injured": 23,
+    "population": 8738876,
+    "mean_flood_duration": 12.0
+  },
+  {
+    "district": "ahmadnagar",
+    "percent_flooded_area": 0.691347983,
+    "parmanent_water": 0.697616588,
+    "corrected_percent_flooded_area": 0.006268605,
+    "human_fatality": 50,
+    "human_injured": 18,
+    "population": 5113145,
+    "mean_flood_duration": 4.0
+  },
+  {
+    "district": "akola",
+    "percent_flooded_area": 0.880057177,
+    "parmanent_water": 0.274621796,
+    "corrected_percent_flooded_area": 0.605435381,
+    "human_fatality": 106,
+    "human_injured": 14,
+    "population": 2032614,
+    "mean_flood_duration": 4.0
+  },
+  {
+    "district": "alappuzha",
+    "percent_flooded_area": 21.06652893,
+    "parmanent_water": 8.660110439,
+    "corrected_percent_flooded_area": 12.40641849,
+    "human_fatality": 170,
+    "human_injured": 70,
+    "population": 2167462,
+    "mean_flood_duration": 5.0
+  },
+  {
+    "district": "alirajpur",
+    "percent_flooded_area": 0.872416618,
+    "parmanent_water": 0.738663983,
+    "corrected_percent_flooded_area": 0.133752635,
+    "human_fatality": 7,
+    "human_injured": 0,
+    "population": 917115,
+    "mean_flood_duration": 5.0
+  },
+  {
+    "district": "amravati",
+    "percent_flooded_area": 1.132570579,
+    "parmanent_water": 0.452234552,
+    "corrected_percent_flooded_area": 0.680336027,
+    "human_fatality": 430,
+    "human_injured": 34,
+    "population": 3195039,
+    "mean_flood_duration": 5.0
+  },
+  {
+    "district": "amreli",
+    "percent_flooded_area": 0.551647653,
+    "parmanent_water": 0.455725673,
+    "corrected_percent_flooded_area": 0.09592198,
+    "human_fatality": 224,
+    "human_injured": 10,
+    "population": 1650731,
+    "mean_flood_duration": 18.0
+  },
+  {
+    "district": "anand",
+    "percent_flooded_area": 5.640448142,
+    "parmanent_water": 0.236729361,
+    "corrected_percent_flooded_area": 5.403718781,
+    "human_fatality": 42,
+    "human_injured": 1,
+    "population": 2767476,
+    "mean_flood_duration": 22.0
+  },
+  {
+    "district": "anantapur",
+    "percent_flooded_area": 0.698641838,
+    "parmanent_water": 0.216018195,
+    "corrected_percent_flooded_area": 0.482623643,
+    "human_fatality": 118,
+    "human_injured": 1,
+    "population": 4537583,
+    "mean_flood_duration": 10.0
+  },
+  {
+    "district": "aravalli",
+    "percent_flooded_area": 1.017301706,
+    "parmanent_water": 0.334042991,
+    "corrected_percent_flooded_area": 0.683258715,
+    "human_fatality": 39,
+    "human_injured": 1,
+    "population": 1276998,
+    "mean_flood_duration": 24.0
+  },
+  {
+    "district": "ariyalur",
+    "percent_flooded_area": 2.450977499,
+    "parmanent_water": 0.08746038,
+    "corrected_percent_flooded_area": 2.363517119,
+    "human_fatality": 23,
+    "human_injured": 4,
+    "population": 772923,
+    "mean_flood_duration": 7.0
+  },
+  {
+    "district": "aurangabad",
+    "percent_flooded_area": 2.741713494,
+    "parmanent_water": 0.192197924,
+    "corrected_percent_flooded_area": 2.54951557,
+    "human_fatality": 301,
+    "human_injured": 46,
+    "population": 3160597,
+    "mean_flood_duration": 13.0
+  },
+  {
+    "district": "banaskantha",
+    "percent_flooded_area": 0.684661264,
+    "parmanent_water": 0.116877662,
+    "corrected_percent_flooded_area": 0.567783602,
+    "human_fatality": 109,
+    "human_injured": 2,
+    "population": 3729629,
+    "mean_flood_duration": 18.0
+  },
+  {
+    "district": "bangalore",
+    "percent_flooded_area": 0.342520348,
+    "parmanent_water": 0.227953363,
+    "corrected_percent_flooded_area": 0.114566985,
+    "human_fatality": 75,
+    "human_injured": 37,
+    "population": 13403998,
+    "mean_flood_duration": 6.0
+  },
+  {
+    "district": "banswara",
+    "percent_flooded_area": 0.908342871,
+    "parmanent_water": 0.925230196,
+    "corrected_percent_flooded_area": 0.016887325,
+    "human_fatality": 72,
+    "human_injured": 8,
+    "population": 2229890,
+    "mean_flood_duration": 17.0
+  },
+  {
+    "district": "barwani",
+    "percent_flooded_area": 0.86377453,
+    "parmanent_water": 0.58771354,
+    "corrected_percent_flooded_area": 0.27606099,
+    "human_fatality": 7,
+    "human_injured": 10,
+    "population": 1771460,
+    "mean_flood_duration": 6.0
+  },
+  {
+    "district": "betul",
+    "percent_flooded_area": 0.659609051,
+    "parmanent_water": 0.086627039,
+    "corrected_percent_flooded_area": 0.572982012,
+    "human_fatality": 26,
+    "human_injured": 2,
+    "population": 1776782,
+    "mean_flood_duration": 6.0
+  },
+  {
+    "district": "bhandara",
+    "percent_flooded_area": 2.564278476,
+    "parmanent_water": 0.742932408,
+    "corrected_percent_flooded_area": 1.821346068,
+    "human_fatality": 91,
+    "human_injured": 26,
+    "population": 1132270,
+    "mean_flood_duration": 5.0
+  },
+  {
+    "district": "bharuch",
+    "percent_flooded_area": 3.432850261,
+    "parmanent_water": 1.612396534,
+    "corrected_percent_flooded_area": 1.820453727,
+    "human_fatality": 233,
+    "human_injured": 56,
+    "population": 1704669,
+    "mean_flood_duration": 14.0
+  },
+  {
+    "district": "bhavnagar",
+    "percent_flooded_area": 1.164791431,
+    "parmanent_water": 1.145481372,
+    "corrected_percent_flooded_area": 0.019310059,
+    "human_fatality": 225,
+    "human_injured": 6,
+    "population": 2765060,
+    "mean_flood_duration": 14.0
+  },
+  {
+    "district": "bhopal",
+    "percent_flooded_area": 0.626374883,
+    "parmanent_water": 0.626869321,
+    "corrected_percent_flooded_area": 0.000494438,
+    "human_fatality": 64,
+    "human_injured": 13,
+    "population": 2938719,
+    "mean_flood_duration": 4.0
+  },
+  {
+    "district": "bid",
+    "percent_flooded_area": 0.847814579,
+    "parmanent_water": 0.573485427,
+    "corrected_percent_flooded_area": 0.274329152,
+    "human_fatality": 242,
+    "human_injured": 15,
+    "population": 3032850,
+    "mean_flood_duration": 4.0
+  },
+  {
+    "district": "bidar",
+    "percent_flooded_area": 1.344650341,
+    "parmanent_water": 0.577171919,
+    "corrected_percent_flooded_area": 0.767478422,
+    "human_fatality": 89,
+    "human_injured": 7,
+    "population": 1848763,
+    "mean_flood_duration": 8.0
+  },
+  {
+    "district": "bijapur",
+    "percent_flooded_area": 2.067319021,
+    "parmanent_water": 0.119061839,
+    "corrected_percent_flooded_area": 1.948257182,
+    "human_fatality": 85,
+    "human_injured": 20,
+    "population": 275997,
+    "mean_flood_duration": 9.0
+  },
+  {
+    "district": "botad",
+    "percent_flooded_area": 0.962947549,
+    "parmanent_water": 0.085839662,
+    "corrected_percent_flooded_area": 0.877107887,
+    "human_fatality": 38,
+    "human_injured": 1,
+    "population": 737921,
+    "mean_flood_duration": 17.0
+  },
+  {
+    "district": "buldana",
+    "percent_flooded_area": 0.570331597,
+    "parmanent_water": 0.427298223,
+    "corrected_percent_flooded_area": 0.143033374,
+    "human_fatality": 92,
+    "human_injured": 7,
+    "population": 2939030,
+    "mean_flood_duration": 3.0
+  },
+  {
+    "district": "burhanpur",
+    "percent_flooded_area": 0.821960718,
+    "parmanent_water": 0.136420671,
+    "corrected_percent_flooded_area": 0.685540047,
+    "human_fatality": 15,
+    "human_injured": 10,
+    "population": 917654,
+    "mean_flood_duration": 6.0
+  },
+  {
+    "district": "chandrapur",
+    "percent_flooded_area": 1.760192182,
+    "parmanent_water": 0.535308039,
+    "corrected_percent_flooded_area": 1.224884143,
+    "human_fatality": 114,
+    "human_injured": 20,
+    "population": 2348545,
+    "mean_flood_duration": 5.0
+  },
+  {
+    "district": "chennai",
+    "percent_flooded_area": 4.645634657,
+    "parmanent_water": 1.072848464,
+    "corrected_percent_flooded_area": 3.572786193,
+    "human_fatality": 238,
+    "human_injured": 21,
+    "population": 5558758,
+    "mean_flood_duration": 8.0
+  },
+  {
+    "district": "chhindwara",
+    "percent_flooded_area": 0.626598635,
+    "parmanent_water": 0.382961008,
+    "corrected_percent_flooded_area": 0.243637627,
+    "human_fatality": 33,
+    "human_injured": 6,
+    "population": 2383077,
+    "mean_flood_duration": 5.0
+  },
+  {
+    "district": "chitradurga",
+    "percent_flooded_area": 0.426895091,
+    "parmanent_water": 0.23997582,
+    "corrected_percent_flooded_area": 0.186919271,
+    "human_fatality": 99,
+    "human_injured": 3,
+    "population": 1798153,
+    "mean_flood_duration": 9.0
+  },
+  {
+    "district": "chittaurgarh",
+    "percent_flooded_area": 1.068551638,
+    "parmanent_water": 1.101782041,
+    "corrected_percent_flooded_area": 0.033230403,
+    "human_fatality": 4,
+    "human_injured": 0,
+    "population": 1838803,
+    "mean_flood_duration": 10.0
+  },
+  {
+    "district": "chittoor",
+    "percent_flooded_area": 0.573483172,
+    "parmanent_water": 0.068957975,
+    "corrected_percent_flooded_area": 0.504525197,
+    "human_fatality": 124,
+    "human_injured": 0,
+    "population": 4580686,
+    "mean_flood_duration": 8.0
+  },
+  {
+    "district": "coimbatore",
+    "percent_flooded_area": 0.519629022,
+    "parmanent_water": 0.20279264,
+    "corrected_percent_flooded_area": 0.316836382,
+    "human_fatality": 142,
+    "human_injured": 24,
+    "population": 4180340,
+    "mean_flood_duration": 5.0
+  },
+  {
+    "district": "cuddalore",
+    "percent_flooded_area": 6.561569456,
+    "parmanent_water": 0.689771711,
+    "corrected_percent_flooded_area": 5.871797745,
+    "human_fatality": 63,
+    "human_injured": 10,
+    "population": 2998319,
+    "mean_flood_duration": 4.0
+  },
+  {
+    "district": "dakshinakannada",
+    "percent_flooded_area": 1.44861205,
+    "parmanent_water": 0.422123179,
+    "corrected_percent_flooded_area": 1.026488871,
+    "human_fatality": 117,
+    "human_injured": 41,
+    "population": 2388502,
+    "mean_flood_duration": 8.0
+  },
+  {
+    "district": "daman",
+    "percent_flooded_area": 2.853534384,
+    "parmanent_water": 1.308995942,
+    "corrected_percent_flooded_area": 1.544538442,
+    "human_fatality": 0,
+    "human_injured": 0,
+    "population": 190125,
+    "mean_flood_duration": 7.0
+  },
+  {
+    "district": "davanagere",
+    "percent_flooded_area": 0.757147753,
+    "parmanent_water": 0.419899366,
+    "corrected_percent_flooded_area": 0.337248387,
+    "human_fatality": 57,
+    "human_injured": 6,
+    "population": 2110205,
+    "mean_flood_duration": 11.0
+  },
+  {
+    "district": "devbhumidwarka",
+    "percent_flooded_area": 0.632384691,
+    "parmanent_water": 0.65675835,
+    "corrected_percent_flooded_area": 0.024373659,
+    "human_fatality": 59,
+    "human_injured": 2,
+    "population": 898223,
+    "mean_flood_duration": 20.0
+  },
+  {
+    "district": "dewas",
+    "percent_flooded_area": 1.037523564,
+    "parmanent_water": 0.405980697,
+    "corrected_percent_flooded_area": 0.631542867,
+    "human_fatality": 17,
+    "human_injured": 18,
+    "population": 1839994,
+    "mean_flood_duration": 5.0
+  },
+  {
+    "district": "dhar",
+    "percent_flooded_area": 0.815779757,
+    "parmanent_water": 0.487835201,
+    "corrected_percent_flooded_area": 0.327944556,
+    "human_fatality": 14,
+    "human_injured": 0,
+    "population": 2722423,
+    "mean_flood_duration": 5.0
+  },
+  {
+    "district": "dharmapuri",
+    "percent_flooded_area": 0.764553583,
+    "parmanent_water": 0.519672081,
+    "corrected_percent_flooded_area": 0.244881502,
+    "human_fatality": 28,
+    "human_injured": 4,
+    "population": 1771524,
+    "mean_flood_duration": 6.0
+  },
+  {
+    "district": "dharwad",
+    "percent_flooded_area": 0.419364228,
+    "parmanent_water": 0.136242811,
+    "corrected_percent_flooded_area": 0.283121417,
+    "human_fatality": 123,
+    "human_injured": 30,
+    "population": 2085599,
+    "mean_flood_duration": 7.0
+  },
+  {
+    "district": "dhule",
+    "percent_flooded_area": 0.703409115,
+    "parmanent_water": 0.475721838,
+    "corrected_percent_flooded_area": 0.227687277,
+    "human_fatality": 58,
+    "human_injured": 4,
+    "population": 2456650,
+    "mean_flood_duration": 4.0
+  },
+  {
+    "district": "dindigul",
+    "percent_flooded_area": 0.458409501,
+    "parmanent_water": 0.079067201,
+    "corrected_percent_flooded_area": 0.3793423,
+    "human_fatality": 52,
+    "human_injured": 12,
+    "population": 2457758,
+    "mean_flood_duration": 6.0
+  },
+  {
+    "district": "diu",
+    "percent_flooded_area": 5.79981831,
+    "parmanent_water": 4.979981831,
+    "corrected_percent_flooded_area": 0.819836479,
+    "human_fatality": 0,
+    "human_injured": 0,
+    "population": 67412,
+    "mean_flood_duration": 7.0
+  },
+  {
+    "district": "dungarpur",
+    "percent_flooded_area": 0.586707161,
+    "parmanent_water": 0.388930127,
+    "corrected_percent_flooded_area": 0.197777034,
+    "human_fatality": 10,
+    "human_injured": 3,
+    "population": 1670388,
+    "mean_flood_duration": 30.0
+  },
+  {
+    "district": "eastnimar",
+    "percent_flooded_area": 1.041803014,
+    "parmanent_water": 1.03067221,
+    "corrected_percent_flooded_area": 0.011130804,
+    "human_fatality": 4,
+    "human_injured": 0,
+    "population": 1518478,
+    "mean_flood_duration": 7.0
+  },
+  {
+    "district": "ernakulam",
+    "percent_flooded_area": 5.103357738,
+    "parmanent_water": 3.843019755,
+    "corrected_percent_flooded_area": 1.260337983,
+    "human_fatality": 136,
+    "human_injured": 61,
+    "population": 3428525,
+    "mean_flood_duration": 5.0
+  },
+  {
+    "district": "erode",
+    "percent_flooded_area": 1.28966656,
+    "parmanent_water": 0.635350328,
+    "corrected_percent_flooded_area": 0.654316232,
+    "human_fatality": 64,
+    "human_injured": 9,
+    "population": 2286982,
+    "mean_flood_duration": 6.0
+  },
+  {
+    "district": "gadag",
+    "percent_flooded_area": 0.935237691,
+    "parmanent_water": 0.161614128,
+    "corrected_percent_flooded_area": 0.773623563,
+    "human_fatality": 82,
+    "human_injured": 8,
+    "population": 1218001,
+    "mean_flood_duration": 10.0
+  },
+  {
+    "district": "gandhinagar",
+    "percent_flooded_area": 1.280221069,
+    "parmanent_water": 0.000328815,
+    "corrected_percent_flooded_area": 1.279892254,
+    "human_fatality": 49,
+    "human_injured": 2,
+    "population": 1324292,
+    "mean_flood_duration": 25.0
+  },
+  {
+    "district": "girsomnath",
+    "percent_flooded_area": 0.779801587,
+    "parmanent_water": 0.532788711,
+    "corrected_percent_flooded_area": 0.247012876,
+    "human_fatality": 62,
+    "human_injured": 5,
+    "population": 1353212,
+    "mean_flood_duration": 20.0
+  },
+  {
+    "district": "gondiya",
+    "percent_flooded_area": 1.020830235,
+    "parmanent_water": 0.911616345,
+    "corrected_percent_flooded_area": 0.10921389,
+    "human_fatality": 35,
+    "human_injured": 10,
+    "population": 1579976,
+    "mean_flood_duration": 5.0
+  },
+  {
+    "district": "guntur",
+    "percent_flooded_area": 10.2423074,
+    "parmanent_water": 0.999528068,
+    "corrected_percent_flooded_area": 9.242779332,
+    "human_fatality": 188,
+    "human_injured": 108,
+    "population": 5374652,
+    "mean_flood_duration": 8.0
+  },
+  {
+    "district": "harda",
+    "percent_flooded_area": 1.414901297,
+    "parmanent_water": 0.286810929,
+    "corrected_percent_flooded_area": 1.128090368,
+    "human_fatality": 9,
+    "human_injured": 3,
+    "population": 669689,
+    "mean_flood_duration": 6.0
+  },
+  {
+    "district": "hassan",
+    "percent_flooded_area": 0.65942209,
+    "parmanent_water": 0.611212696,
+    "corrected_percent_flooded_area": 0.048209394,
+    "human_fatality": 61,
+    "human_injured": 28,
+    "population": 1843387,
+    "mean_flood_duration": 9.0
+  },
+  {
+    "district": "haveri",
+    "percent_flooded_area": 1.243636673,
+    "parmanent_water": 0.202049296,
+    "corrected_percent_flooded_area": 1.041587377,
+    "human_fatality": 67,
+    "human_injured": 4,
+    "population": 1601523,
+    "mean_flood_duration": 13.0
+  },
+  {
+    "district": "hingoli",
+    "percent_flooded_area": 1.332394248,
+    "parmanent_water": 1.334570744,
+    "corrected_percent_flooded_area": 0.002176496,
+    "human_fatality": 82,
+    "human_injured": 5,
+    "population": 1419813,
+    "mean_flood_duration": 4.0
+  },
+  {
+    "district": "hoshangabad",
+    "percent_flooded_area": 2.346467017,
+    "parmanent_water": 0.970690301,
+    "corrected_percent_flooded_area": 1.375776716,
+    "human_fatality": 53,
+    "human_injured": 0,
+    "population": 1371450,
+    "mean_flood_duration": 5.0
+  },
+  {
+    "district": "hyderabad",
+    "percent_flooded_area": 0.522269753,
+    "parmanent_water": 0.52199262,
+    "corrected_percent_flooded_area": 0.000277133,
+    "human_fatality": 101,
+    "human_injured": 4,
+    "population": 3345250,
+    "mean_flood_duration": 7.0
+  },
+  {
+    "district": "idukki",
+    "percent_flooded_area": 0.789197649,
+    "parmanent_water": 0.784504282,
+    "corrected_percent_flooded_area": 0.004693367,
+    "human_fatality": 275,
+    "human_injured": 71,
+    "population": 1048101,
+    "mean_flood_duration": 4.0
+  },
+  {
+    "district": "indore",
+    "percent_flooded_area": 0.351694942,
+    "parmanent_water": 0.088367293,
+    "corrected_percent_flooded_area": 0.263327649,
+    "human_fatality": 57,
+    "human_injured": 6,
+    "population": 4193901,
+    "mean_flood_duration": 5.0
+  },
+  {
+    "district": "jalgaon",
+    "percent_flooded_area": 1.523114248,
+    "parmanent_water": 0.504330321,
+    "corrected_percent_flooded_area": 1.018783927,
+    "human_fatality": 75,
+    "human_injured": 26,
+    "population": 4760079,
+    "mean_flood_duration": 3.0
+  },
+  {
+    "district": "jalna",
+    "percent_flooded_area": 0.710994286,
+    "parmanent_water": 0.649960977,
+    "corrected_percent_flooded_area": 0.061033309,
+    "human_fatality": 157,
+    "human_injured": 13,
+    "population": 2330103,
+    "mean_flood_duration": 5.0
+  },
+  {
+    "district": "jalor",
+    "percent_flooded_area": 1.350286581,
+    "parmanent_water": 0.005874951,
+    "corrected_percent_flooded_area": 1.34441163,
+    "human_fatality": 113,
+    "human_injured": 4,
+    "population": 2252706,
+    "mean_flood_duration": 25.0
+  },
+  {
+    "district": "jamnagar",
+    "percent_flooded_area": 0.665233515,
+    "parmanent_water": 0.663125755,
+    "corrected_percent_flooded_area": 0.00210776,
+    "human_fatality": 236,
+    "human_injured": 8,
+    "population": 1509267,
+    "mean_flood_duration": 20.0
+  },
+  {
+    "district": "jhabua",
+    "percent_flooded_area": 0.409073564,
+    "parmanent_water": 0.130395664,
+    "corrected_percent_flooded_area": 0.2786779,
+    "human_fatality": 3,
+    "human_injured": 0,
+    "population": 1290473,
+    "mean_flood_duration": 7.0
+  },
+  {
+    "district": "jhalawar",
+    "percent_flooded_area": 1.321031828,
+    "parmanent_water": 0.380898218,
+    "corrected_percent_flooded_area": 0.94013361,
+    "human_fatality": 35,
+    "human_injured": 6,
+    "population": 1669164,
+    "mean_flood_duration": 17.0
+  },
+  {
+    "district": "junagadh",
+    "percent_flooded_area": 1.288798667,
+    "parmanent_water": 0.096341257,
+    "corrected_percent_flooded_area": 1.19245741,
+    "human_fatality": 272,
+    "human_injured": 12,
+    "population": 1644700,
+    "mean_flood_duration": 16.0
+  },
+  {
+    "district": "kachchh",
+    "percent_flooded_area": 12.67467755,
+    "parmanent_water": 9.585998161,
+    "corrected_percent_flooded_area": 3.088679389,
+    "human_fatality": 123,
+    "human_injured": 10,
+    "population": 2654359,
+    "mean_flood_duration": 24.0
+  },
+  {
+    "district": "kancheepuram",
+    "percent_flooded_area": 2.694220448,
+    "parmanent_water": 0.935998334,
+    "corrected_percent_flooded_area": 1.758222114,
+    "human_fatality": 28,
+    "human_injured": 6,
+    "population": 1542112,
+    "mean_flood_duration": 6.0
+  },
+  {
+    "district": "kannur",
+    "percent_flooded_area": 3.447996641,
+    "parmanent_water": 1.090489394,
+    "corrected_percent_flooded_area": 2.357507247,
+    "human_fatality": 153,
+    "human_injured": 53,
+    "population": 2666656,
+    "mean_flood_duration": 5.0
+  },
+  {
+    "district": "karimnagar",
+    "percent_flooded_area": 1.016544336,
+    "parmanent_water": 1.029366402,
+    "corrected_percent_flooded_area": 0.012822066,
+    "human_fatality": 140,
+    "human_injured": 1,
+    "population": 1113366,
+    "mean_flood_duration": 7.0
+  },
+  {
+    "district": "karur",
+    "percent_flooded_area": 1.785192578,
+    "parmanent_water": 0.062914047,
+    "corrected_percent_flooded_area": 1.722278531,
+    "human_fatality": 23,
+    "human_injured": 4,
+    "population": 1234912,
+    "mean_flood_duration": 7.0
+  },
+  {
+    "district": "kasaragod",
+    "percent_flooded_area": 3.02140911,
+    "parmanent_water": 0.717632918,
+    "corrected_percent_flooded_area": 2.303776192,
+    "human_fatality": 108,
+    "human_injured": 40,
+    "population": 1320168,
+    "mean_flood_duration": 6.0
+  },
+  {
+    "district": "khammam",
+    "percent_flooded_area": 0.560077929,
+    "parmanent_water": 0.458663756,
+    "corrected_percent_flooded_area": 0.101414173,
+    "human_fatality": 177,
+    "human_injured": 0,
+    "population": 1521069,
+    "mean_flood_duration": 7.0
+  },
+  {
+    "district": "kheda",
+    "percent_flooded_area": 2.857113599,
+    "parmanent_water": 0.01148306,
+    "corrected_percent_flooded_area": 2.845630539,
+    "human_fatality": 102,
+    "human_injured": 6,
+    "population": 2023119,
+    "mean_flood_duration": 15.0
+  },
+  {
+    "district": "kodagu",
+    "percent_flooded_area": 0.795547476,
+    "parmanent_water": 0.154509876,
+    "corrected_percent_flooded_area": 0.6410376,
+    "human_fatality": 57,
+    "human_injured": 17,
+    "population": 575814,
+    "mean_flood_duration": 6.0
+  },
+  {
+    "district": "kolar",
+    "percent_flooded_area": 0.261632224,
+    "parmanent_water": 0.109739276,
+    "corrected_percent_flooded_area": 0.151892948,
+    "human_fatality": 78,
+    "human_injured": 21,
+    "population": 1625062,
+    "mean_flood_duration": 8.0
+  },
+  {
+    "district": "kolhapur",
+    "percent_flooded_area": 1.531674907,
+    "parmanent_water": 0.739128811,
+    "corrected_percent_flooded_area": 0.792546096,
+    "human_fatality": 258,
+    "human_injured": 32,
+    "population": 3952672,
+    "mean_flood_duration": 4.0
+  },
+  {
+    "district": "kollam",
+    "percent_flooded_area": 2.689873614,
+    "parmanent_water": 2.697055096,
+    "corrected_percent_flooded_area": 0.007181482,
+    "human_fatality": 177,
+    "human_injured": 60,
+    "population": 2503307,
+    "mean_flood_duration": 5.0
+  },
+  {
+    "district": "koppal",
+    "percent_flooded_area": 1.056602421,
+    "parmanent_water": 0.555929835,
+    "corrected_percent_flooded_area": 0.500672586,
+    "human_fatality": 74,
+    "human_injured": 3,
+    "population": 1551558,
+    "mean_flood_duration": 11.0
+  },
+  {
+    "district": "kottayam",
+    "percent_flooded_area": 3.699266664,
+    "parmanent_water": 2.178531176,
+    "corrected_percent_flooded_area": 1.520735488,
+    "human_fatality": 200,
+    "human_injured": 90,
+    "population": 2015065,
+    "mean_flood_duration": 5.0
+  },
+  {
+    "district": "kozhikode",
+    "percent_flooded_area": 1.40055533,
+    "parmanent_water": 0.599372106,
+    "corrected_percent_flooded_area": 0.801183224,
+    "human_fatality": 181,
+    "human_injured": 45,
+    "population": 3349063,
+    "mean_flood_duration": 5.0
+  },
+  {
+    "district": "krishna",
+    "percent_flooded_area": 4.604283716,
+    "parmanent_water": 3.894573341,
+    "corrected_percent_flooded_area": 0.709710375,
+    "human_fatality": 210,
+    "human_injured": 1,
+    "population": 4751934,
+    "mean_flood_duration": 8.0
+  },
+  {
+    "district": "krishnagiri",
+    "percent_flooded_area": 1.019903242,
+    "parmanent_water": 0.155619892,
+    "corrected_percent_flooded_area": 0.86428335,
+    "human_fatality": 35,
+    "human_injured": 4,
+    "population": 2151735,
+    "mean_flood_duration": 6.0
+  },
+  {
+    "district": "kurnool",
+    "percent_flooded_area": 0.793739864,
+    "parmanent_water": 0.504632198,
+    "corrected_percent_flooded_area": 0.289107666,
+    "human_fatality": 161,
+    "human_injured": 108,
+    "population": 4618046,
+    "mean_flood_duration": 7.0
+  },
+  {
+    "district": "lakshadweep",
+    "percent_flooded_area": 17.42627711,
+    "parmanent_water": 13.42627711,
+    "corrected_percent_flooded_area": 4.0,
+    "human_fatality": 0,
+    "human_injured": 0,
+    "population": 60324,
+    "mean_flood_duration": 7.0
+  },
+  {
+    "district": "latur",
+    "percent_flooded_area": 0.559348532,
+    "parmanent_water": 0.350302784,
+    "corrected_percent_flooded_area": 0.209045748,
+    "human_fatality": 54,
+    "human_injured": 6,
+    "population": 2795413,
+    "mean_flood_duration": 4.0
+  },
+  {
+    "district": "madurai",
+    "percent_flooded_area": 1.022103303,
+    "parmanent_water": 0.009182441,
+    "corrected_percent_flooded_area": 1.012920862,
+    "human_fatality": 56,
+    "human_injured": 54,
+    "population": 3384080,
+    "mean_flood_duration": 7.0
+  },
+  {
+    "district": "mahe",
+    "percent_flooded_area": 1.6545,
+    "parmanent_water": 1.410606801,
+    "corrected_percent_flooded_area": 0.243893199,
+    "human_fatality": 0,
+    "human_injured": 0,
+    "population": 50846,
+    "mean_flood_duration": 7.0
+  },
+  {
+    "district": "mahesana",
+    "percent_flooded_area": 0.776246826,
+    "parmanent_water": 0.08453985,
+    "corrected_percent_flooded_area": 0.691706976,
+    "human_fatality": 68,
+    "human_injured": 3,
+    "population": 2169424,
+    "mean_flood_duration": 26.0
+  },
+  {
+    "district": "mahisagar",
+    "percent_flooded_area": 2.501932587,
+    "parmanent_water": 1.803625613,
+    "corrected_percent_flooded_area": 0.698306974,
+    "human_fatality": 33,
+    "human_injured": 1,
+    "population": 1041596,
+    "mean_flood_duration": 25.0
+  },
+  {
+    "district": "malappuram",
+    "percent_flooded_area": 1.938819937,
+    "parmanent_water": 0.260316709,
+    "corrected_percent_flooded_area": 1.678503228,
+    "human_fatality": 161,
+    "human_injured": 50,
+    "population": 4458146,
+    "mean_flood_duration": 5.0
+  },
+  {
+    "district": "mandsaur",
+    "percent_flooded_area": 1.435703116,
+    "parmanent_water": 1.47147063,
+    "corrected_percent_flooded_area": 0.035767514,
+    "human_fatality": 27,
+    "human_injured": 1,
+    "population": 1424619,
+    "mean_flood_duration": 5.0
+  },
+  {
+    "district": "mandya",
+    "percent_flooded_area": 2.146957544,
+    "parmanent_water": 0.730831983,
+    "corrected_percent_flooded_area": 1.416125561,
+    "human_fatality": 43,
+    "human_injured": 4,
+    "population": 1886354,
+    "mean_flood_duration": 10.0
+  },
+  {
+    "district": "medak",
+    "percent_flooded_area": 1.038975884,
+    "parmanent_water": 0.130629891,
+    "corrected_percent_flooded_area": 0.908345993,
+    "human_fatality": 38,
+    "human_injured": 1,
+    "population": 858985,
+    "mean_flood_duration": 14.0
+  },
+  {
+    "district": "morbi",
+    "percent_flooded_area": 0.897578925,
+    "parmanent_water": 1.089593543,
+    "corrected_percent_flooded_area": 0.192014618,
+    "human_fatality": 48,
+    "human_injured": 2,
+    "population": 1099951,
+    "mean_flood_duration": 21.0
+  },
+  {
+    "district": "mumbaisuburban",
+    "percent_flooded_area": 0.915654785,
+    "parmanent_water": 0.914657543,
+    "corrected_percent_flooded_area": 0.000997242,
+    "human_fatality": 145,
+    "human_injured": 77,
+    "population": 10791581,
+    "mean_flood_duration": 3.0
+  },
+  {
+    "district": "nagpur",
+    "percent_flooded_area": 1.535057736,
+    "parmanent_water": 1.136796464,
+    "corrected_percent_flooded_area": 0.398261272,
+    "human_fatality": 689,
+    "human_injured": 78,
+    "population": 5242373,
+    "mean_flood_duration": 3.0
+  },
+  {
+    "district": "nalgonda",
+    "percent_flooded_area": 1.110181564,
+    "parmanent_water": 1.121014225,
+    "corrected_percent_flooded_area": 0.010832661,
+    "human_fatality": 67,
+    "human_injured": 2,
+    "population": 1795837,
+    "mean_flood_duration": 8.0
+  },
+  {
+    "district": "namakkal",
+    "percent_flooded_area": 0.411626715,
+    "parmanent_water": 0.022086664,
+    "corrected_percent_flooded_area": 0.389540051,
+    "human_fatality": 29,
+    "human_injured": 4,
+    "population": 2030160,
+    "mean_flood_duration": 8.0
+  },
+  {
+    "district": "nanded",
+    "percent_flooded_area": 1.586913636,
+    "parmanent_water": 0.436541633,
+    "corrected_percent_flooded_area": 1.150372003,
+    "human_fatality": 262,
+    "human_injured": 34,
+    "population": 3861544,
+    "mean_flood_duration": 4.0
+  },
+  {
+    "district": "nandurbar",
+    "percent_flooded_area": 1.936180535,
+    "parmanent_water": 1.1061674,
+    "corrected_percent_flooded_area": 0.830013135,
+    "human_fatality": 43,
+    "human_injured": 6,
+    "population": 2039682,
+    "mean_flood_duration": 4.0
+  },
+  {
+    "district": "narayanpur",
+    "percent_flooded_area": 0.591873275,
+    "parmanent_water": 0.019401894,
+    "corrected_percent_flooded_area": 0.572471381,
+    "human_fatality": 6,
+    "human_injured": 2,
+    "population": 120311,
+    "mean_flood_duration": 2.0
+  },
+  {
+    "district": "narmada",
+    "percent_flooded_area": 5.679248253,
+    "parmanent_water": 2.564251605,
+    "corrected_percent_flooded_area": 3.114996648,
+    "human_fatality": 47,
+    "human_injured": 0,
+    "population": 694589,
+    "mean_flood_duration": 11.0
+  },
+  {
+    "district": "narsimhapur",
+    "percent_flooded_area": 2.214872889,
+    "parmanent_water": 0.238163477,
+    "corrected_percent_flooded_area": 1.976709412,
+    "human_fatality": 14,
+    "human_injured": 0,
+    "population": 1275736,
+    "mean_flood_duration": 7.0
+  },
+  {
+    "district": "nashik",
+    "percent_flooded_area": 0.73876734,
+    "parmanent_water": 0.729292944,
+    "corrected_percent_flooded_area": 0.009474396,
+    "human_fatality": 158,
+    "human_injured": 70,
+    "population": 7301954,
+    "mean_flood_duration": 3.0
+  },
+  {
+    "district": "navsari",
+    "percent_flooded_area": 2.899986996,
+    "parmanent_water": 0.636447966,
+    "corrected_percent_flooded_area": 2.26353903,
+    "human_fatality": 79,
+    "human_injured": 6,
+    "population": 1457183,
+    "mean_flood_duration": 21.0
+  },
+  {
+    "district": "neemuch",
+    "percent_flooded_area": 1.80618778,
+    "parmanent_water": 1.853193024,
+    "corrected_percent_flooded_area": 0.047005244,
+    "human_fatality": 14,
+    "human_injured": 1,
+    "population": 905934,
+    "mean_flood_duration": 6.0
+  },
+  {
+    "district": "nizamabad",
+    "percent_flooded_area": 1.414979667,
+    "parmanent_water": 1.37012829,
+    "corrected_percent_flooded_area": 0.044851377,
+    "human_fatality": 95,
+    "human_injured": 1,
+    "population": 1716963,
+    "mean_flood_duration": 8.0
+  },
+  {
+    "district": "northgoa",
+    "percent_flooded_area": 4.159637042,
+    "parmanent_water": 2.577757251,
+    "corrected_percent_flooded_area": 1.581879791,
+    "human_fatality": 7,
+    "human_injured": 4,
+    "population": 718288,
+    "mean_flood_duration": 4.0
+  },
+  {
+    "district": "osmanabad",
+    "percent_flooded_area": 0.279521656,
+    "parmanent_water": 0.27922672,
+    "corrected_percent_flooded_area": 0.000294936,
+    "human_fatality": 137,
+    "human_injured": 10,
+    "population": 1913512,
+    "mean_flood_duration": 4.0
+  },
+  {
+    "district": "palakkad",
+    "percent_flooded_area": 2.435607291,
+    "parmanent_water": 0.550109826,
+    "corrected_percent_flooded_area": 1.885497465,
+    "human_fatality": 104,
+    "human_injured": 38,
+    "population": 3024581,
+    "mean_flood_duration": 6.0
+  },
+  {
+    "district": "palghar",
+    "percent_flooded_area": 2.015211138,
+    "parmanent_water": 1.112239022,
+    "corrected_percent_flooded_area": 0.902972116,
+    "human_fatality": 78,
+    "human_injured": 4,
+    "population": 3787472,
+    "mean_flood_duration": 3.0
+  },
+  {
+    "district": "panchmahals",
+    "percent_flooded_area": 0.963141904,
+    "parmanent_water": 0.574815885,
+    "corrected_percent_flooded_area": 0.388326019,
+    "human_fatality": 86,
+    "human_injured": 2,
+    "population": 1953336,
+    "mean_flood_duration": 22.0
+  },
+  {
+    "district": "parbhani",
+    "percent_flooded_area": 3.612234955,
+    "parmanent_water": 0.631474073,
+    "corrected_percent_flooded_area": 2.980760882,
+    "human_fatality": 230,
+    "human_injured": 15,
+    "population": 2068053,
+    "mean_flood_duration": 4.0
+  },
+  {
+    "district": "patan",
+    "percent_flooded_area": 2.72529709,
+    "parmanent_water": 0.128901094,
+    "corrected_percent_flooded_area": 2.596395996,
+    "human_fatality": 48,
+    "human_injured": 2,
+    "population": 1464752,
+    "mean_flood_duration": 25.0
+  },
+  {
+    "district": "pathanamthitta",
+    "percent_flooded_area": 1.224907042,
+    "parmanent_water": 0.233181386,
+    "corrected_percent_flooded_area": 0.991725656,
+    "human_fatality": 132,
+    "human_injured": 30,
+    "population": 1320089,
+    "mean_flood_duration": 6.0
+  },
+  {
+    "district": "perambalur",
+    "percent_flooded_area": 0.714228873,
+    "parmanent_water": 0.002767237,
+    "corrected_percent_flooded_area": 0.711461636,
+    "human_fatality": 32,
+    "human_injured": 4,
+    "population": 600175,
+    "mean_flood_duration": 8.0
+  },
+  {
+    "district": "porbandar",
+    "percent_flooded_area": 5.378579118,
+    "parmanent_water": 0.51266173,
+    "corrected_percent_flooded_area": 4.865917388,
+    "human_fatality": 49,
+    "human_injured": 2,
+    "population": 660431,
+    "mean_flood_duration": 12.0
+  },
+  {
+    "district": "prakasam",
+    "percent_flooded_area": 1.152408401,
+    "parmanent_water": 0.273749091,
+    "corrected_percent_flooded_area": 0.87865931,
+    "human_fatality": 177,
+    "human_injured": 0,
+    "population": 3731704,
+    "mean_flood_duration": 8.0
+  },
+  {
+    "district": "pratapgarh",
+    "percent_flooded_area": 3.66688256,
+    "parmanent_water": 0.018238429,
+    "corrected_percent_flooded_area": 3.648644131,
+    "human_fatality": 165,
+    "human_injured": 9,
+    "population": 1070109,
+    "mean_flood_duration": 23.0
+  },
+  {
+    "district": "puducherry",
+    "percent_flooded_area": 1.760373358,
+    "parmanent_water": 0.820562264,
+    "corrected_percent_flooded_area": 0.939811094,
+    "human_fatality": 6,
+    "human_injured": 0,
+    "population": 1148821,
+    "mean_flood_duration": 4.0
+  },
+  {
+    "district": "pudukkottai",
+    "percent_flooded_area": 0.699430563,
+    "parmanent_water": 0.085746267,
+    "corrected_percent_flooded_area": 0.613684296,
+    "human_fatality": 46,
+    "human_injured": 4,
+    "population": 1827769,
+    "mean_flood_duration": 6.0
+  },
+  {
+    "district": "pune",
+    "percent_flooded_area": 1.079353461,
+    "parmanent_water": 1.091416421,
+    "corrected_percent_flooded_area": 0.01206296,
+    "human_fatality": 547,
+    "human_injured": 119,
+    "population": 11979873,
+    "mean_flood_duration": 2.0
+  },
+  {
+    "district": "raichur",
+    "percent_flooded_area": 1.42584206,
+    "parmanent_water": 0.565825072,
+    "corrected_percent_flooded_area": 0.860016988,
+    "human_fatality": 141,
+    "human_injured": 34,
+    "population": 2140588,
+    "mean_flood_duration": 8.0
+  },
+  {
+    "district": "raigarh",
+    "percent_flooded_area": 1.171171998,
+    "parmanent_water": 0.340147342,
+    "corrected_percent_flooded_area": 0.831024656,
+    "human_fatality": 328,
+    "human_injured": 93,
+    "population": 1654533,
+    "mean_flood_duration": 3.0
+  },
+  {
+    "district": "raisen",
+    "percent_flooded_area": 1.851820563,
+    "parmanent_water": 0.547154614,
+    "corrected_percent_flooded_area": 1.304665949,
+    "human_fatality": 56,
+    "human_injured": 12,
+    "population": 1582981,
+    "mean_flood_duration": 5.0
+  },
+  {
+    "district": "rajgarh",
+    "percent_flooded_area": 0.937282124,
+    "parmanent_water": 0.464455125,
+    "corrected_percent_flooded_area": 0.472826999,
+    "human_fatality": 21,
+    "human_injured": 3,
+    "population": 1797738,
+    "mean_flood_duration": 5.0
+  },
+  {
+    "district": "rajkot",
+    "percent_flooded_area": 0.801285355,
+    "parmanent_water": 0.493588848,
+    "corrected_percent_flooded_area": 0.307696507,
+    "human_fatality": 1726,
+    "human_injured": 8,
+    "population": 3534875,
+    "mean_flood_duration": 18.0
+  },
+  {
+    "district": "rajsamand",
+    "percent_flooded_area": 0.253865414,
+    "parmanent_water": 0.088450607,
+    "corrected_percent_flooded_area": 0.165414807,
+    "human_fatality": 17,
+    "human_injured": 0,
+    "population": 1353032,
+    "mean_flood_duration": 32.0
+  },
+  {
+    "district": "ramanagara",
+    "percent_flooded_area": 1.21544654,
+    "parmanent_water": 0.259579863,
+    "corrected_percent_flooded_area": 0.955866677,
+    "human_fatality": 23,
+    "human_injured": 1,
+    "population": 1168086,
+    "mean_flood_duration": 17.0
+  },
+  {
+    "district": "rangareddy",
+    "percent_flooded_area": 0.412349188,
+    "parmanent_water": 0.327322292,
+    "corrected_percent_flooded_area": 0.085026896,
+    "human_fatality": 1,
+    "human_injured": 0,
+    "population": 3667925,
+    "mean_flood_duration": 4.0
+  },
+  {
+    "district": "ratlam",
+    "percent_flooded_area": 0.690751655,
+    "parmanent_water": 0.102150461,
+    "corrected_percent_flooded_area": 0.588601194,
+    "human_fatality": 24,
+    "human_injured": 0,
+    "population": 1682145,
+    "mean_flood_duration": 6.0
+  },
+  {
+    "district": "ratnagiri",
+    "percent_flooded_area": 1.554240455,
+    "parmanent_water": 0.978975411,
+    "corrected_percent_flooded_area": 0.575265044,
+    "human_fatality": 280,
+    "human_injured": 72,
+    "population": 1532470,
+    "mean_flood_duration": 3.0
+  },
+  {
+    "district": "sabarkantha",
+    "percent_flooded_area": 0.981927574,
+    "parmanent_water": 0.655214573,
+    "corrected_percent_flooded_area": 0.326713001,
+    "human_fatality": 91,
+    "human_injured": 0,
+    "population": 1581118,
+    "mean_flood_duration": 16.0
+  },
+  {
+    "district": "salem",
+    "percent_flooded_area": 1.698807354,
+    "parmanent_water": 0.995995874,
+    "corrected_percent_flooded_area": 0.70281148,
+    "human_fatality": 64,
+    "human_injured": 9,
+    "population": 3947265,
+    "mean_flood_duration": 6.0
+  },
+  {
+    "district": "sangli",
+    "percent_flooded_area": 0.816411266,
+    "parmanent_water": 0.371511861,
+    "corrected_percent_flooded_area": 0.444899405,
+    "human_fatality": 107,
+    "human_injured": 13,
+    "population": 3253446,
+    "mean_flood_duration": 4.0
+  },
+  {
+    "district": "satara",
+    "percent_flooded_area": 0.886672906,
+    "parmanent_water": 0.88365251,
+    "corrected_percent_flooded_area": 0.003020396,
+    "human_fatality": 108,
+    "human_injured": 67,
+    "population": 3138971,
+    "mean_flood_duration": 3.0
+  },
+  {
+    "district": "sehore",
+    "percent_flooded_area": 1.308962201,
+    "parmanent_water": 0.443833329,
+    "corrected_percent_flooded_area": 0.865128872,
+    "human_fatality": 36,
+    "human_injured": 2,
+    "population": 1581777,
+    "mean_flood_duration": 5.0
+  },
+  {
+    "district": "seoni",
+    "percent_flooded_area": 1.235483561,
+    "parmanent_water": 0.815741223,
+    "corrected_percent_flooded_area": 0.419742338,
+    "human_fatality": 18,
+    "human_injured": 0,
+    "population": 1600897,
+    "mean_flood_duration": 5.0
+  },
+  {
+    "district": "shajapur",
+    "percent_flooded_area": 0.571010644,
+    "parmanent_water": 0.057503291,
+    "corrected_percent_flooded_area": 0.513507353,
+    "human_fatality": 7,
+    "human_injured": 0,
+    "population": 1036523,
+    "mean_flood_duration": 6.0
+  },
+  {
+    "district": "sindhudurg",
+    "percent_flooded_area": 1.40862314,
+    "parmanent_water": 0.632545644,
+    "corrected_percent_flooded_area": 0.776077496,
+    "human_fatality": 190,
+    "human_injured": 103,
+    "population": 808570,
+    "mean_flood_duration": 4.0
+  },
+  {
+    "district": "sirohi",
+    "percent_flooded_area": 0.276456745,
+    "parmanent_water": 0.023800256,
+    "corrected_percent_flooded_area": 0.252656489,
+    "human_fatality": 71,
+    "human_injured": 6,
+    "population": 1264133,
+    "mean_flood_duration": 22.0
+  },
+  {
+    "district": "sivaganga",
+    "percent_flooded_area": 1.984480953,
+    "parmanent_water": 0.051279472,
+    "corrected_percent_flooded_area": 1.933201481,
+    "human_fatality": 16,
+    "human_injured": 4,
+    "population": 1534446,
+    "mean_flood_duration": 10.0
+  },
+  {
+    "district": "solapur",
+    "percent_flooded_area": 1.684216461,
+    "parmanent_water": 0.761165008,
+    "corrected_percent_flooded_area": 0.923051453,
+    "human_fatality": 161,
+    "human_injured": 11,
+    "population": 4817374,
+    "mean_flood_duration": 3.0
+  },
+  {
+    "district": "southgoa",
+    "percent_flooded_area": 2.764330826,
+    "parmanent_water": 0.971762276,
+    "corrected_percent_flooded_area": 1.79256855,
+    "human_fatality": 2,
+    "human_injured": 4,
+    "population": 857449,
+    "mean_flood_duration": 16.0
+  },
+  {
+    "district": "sukma",
+    "percent_flooded_area": 1.578192343,
+    "parmanent_water": 0.11146237,
+    "corrected_percent_flooded_area": 1.466729973,
+    "human_fatality": 0,
+    "human_injured": 0,
+    "population": 259382,
+    "mean_flood_duration": 1.0
+  },
+  {
+    "district": "surat",
+    "percent_flooded_area": 5.928437334,
+    "parmanent_water": 0.593664003,
+    "corrected_percent_flooded_area": 5.334773331,
+    "human_fatality": 215,
+    "human_injured": 9,
+    "population": 8228098,
+    "mean_flood_duration": 11.0
+  },
+  {
+    "district": "surendranagar",
+    "percent_flooded_area": 1.286502045,
+    "parmanent_water": 0.14688655,
+    "corrected_percent_flooded_area": 1.139615495,
+    "human_fatality": 109,
+    "human_injured": 5,
+    "population": 1806637,
+    "mean_flood_duration": 13.0
+  },
+  {
+    "district": "tapi",
+    "percent_flooded_area": 3.084521179,
+    "parmanent_water": 2.984765412,
+    "corrected_percent_flooded_area": 0.099755767,
+    "human_fatality": 45,
+    "human_injured": 3,
+    "population": 952637,
+    "mean_flood_duration": 18.0
+  },
+  {
+    "district": "thane",
+    "percent_flooded_area": 3.51519111,
+    "parmanent_water": 2.261563329,
+    "corrected_percent_flooded_area": 1.253627781,
+    "human_fatality": 418,
+    "human_injured": 204,
+    "population": 9950177,
+    "mean_flood_duration": 3.0
+  },
+  {
+    "district": "thanjavur",
+    "percent_flooded_area": 6.402076626,
+    "parmanent_water": 0.139785443,
+    "corrected_percent_flooded_area": 6.262291183,
+    "human_fatality": 144,
+    "human_injured": 22,
+    "population": 2499232,
+    "mean_flood_duration": 9.0
+  },
+  {
+    "district": "thedangs",
+    "percent_flooded_area": 2.171927273,
+    "parmanent_water": 0.007193835,
+    "corrected_percent_flooded_area": 2.164733438,
+    "human_fatality": 68,
+    "human_injured": 4,
+    "population": 274863,
+    "mean_flood_duration": 24.0
+  },
+  {
+    "district": "thenilgiris",
+    "percent_flooded_area": 0.41168295,
+    "parmanent_water": 0.339577292,
+    "corrected_percent_flooded_area": 0.072105658,
+    "human_fatality": 156,
+    "human_injured": 23,
+    "population": 708881,
+    "mean_flood_duration": 6.0
+  },
+  {
+    "district": "theni",
+    "percent_flooded_area": 0.346368373,
+    "parmanent_water": 0.314606199,
+    "corrected_percent_flooded_area": 0.031762174,
+    "human_fatality": 23,
+    "human_injured": 5,
+    "population": 1406691,
+    "mean_flood_duration": 8.0
+  },
+  {
+    "district": "thiruvallur",
+    "percent_flooded_area": 2.527745598,
+    "parmanent_water": 2.390831933,
+    "corrected_percent_flooded_area": 0.136913665,
+    "human_fatality": 44,
+    "human_injured": 6,
+    "population": 4840586,
+    "mean_flood_duration": 6.0
+  },
+  {
+    "district": "thiruvarur",
+    "percent_flooded_area": 2.20727188,
+    "parmanent_water": 0.026905003,
+    "corrected_percent_flooded_area": 2.180366877,
+    "human_fatality": 41,
+    "human_injured": 5,
+    "population": 1412221,
+    "mean_flood_duration": 5.0
+  },
+  {
+    "district": "thrissur",
+    "percent_flooded_area": 5.136358427,
+    "parmanent_water": 0.761485485,
+    "corrected_percent_flooded_area": 4.374872942,
+    "human_fatality": 124,
+    "human_injured": 43,
+    "population": 3305535,
+    "mean_flood_duration": 5.0
+  },
+  {
+    "district": "tiruchirappalli",
+    "percent_flooded_area": 2.799798931,
+    "parmanent_water": 0.030082563,
+    "corrected_percent_flooded_area": 2.769716368,
+    "human_fatality": 85,
+    "human_injured": 53,
+    "population": 3072981,
+    "mean_flood_duration": 6.0
+  },
+  {
+    "district": "tiruppur",
+    "percent_flooded_area": 0.635364224,
+    "parmanent_water": 0.084088984,
+    "corrected_percent_flooded_area": 0.55127524,
+    "human_fatality": 20,
+    "human_injured": 4,
+    "population": 3131866,
+    "mean_flood_duration": 8.0
+  },
+  {
+    "district": "tiruvannamalai",
+    "percent_flooded_area": 1.068840485,
+    "parmanent_water": 0.111931507,
+    "corrected_percent_flooded_area": 0.956908978,
+    "human_fatality": 48,
+    "human_injured": 10,
+    "population": 2908761,
+    "mean_flood_duration": 5.0
+  },
+  {
+    "district": "udaipur",
+    "percent_flooded_area": 0.289382661,
+    "parmanent_water": 0.290943084,
+    "corrected_percent_flooded_area": 0.001560423,
+    "human_fatality": 97,
+    "human_injured": 6,
+    "population": 3607694,
+    "mean_flood_duration": 14.0
+  },
+  {
+    "district": "udupi",
+    "percent_flooded_area": 0.74927375,
+    "parmanent_water": 0.741689148,
+    "corrected_percent_flooded_area": 0.007584602,
+    "human_fatality": 58,
+    "human_injured": 21,
+    "population": 1144919,
+    "mean_flood_duration": 10.0
+  },
+  {
+    "district": "ujjain",
+    "percent_flooded_area": 0.752619653,
+    "parmanent_water": 0.044407032,
+    "corrected_percent_flooded_area": 0.708212621,
+    "human_fatality": 50,
+    "human_injured": 3,
+    "population": 2261682,
+    "mean_flood_duration": 4.0
+  },
+  {
+    "district": "uttarbastarkanker",
+    "percent_flooded_area": 0.836672614,
+    "parmanent_water": 0.106473076,
+    "corrected_percent_flooded_area": 0.730199538,
+    "human_fatality": 7,
+    "human_injured": 2,
+    "population": 868469,
+    "mean_flood_duration": 1.0
+  },
+  {
+    "district": "uttarakannada",
+    "percent_flooded_area": 4.074727101,
+    "parmanent_water": 1.655079328,
+    "corrected_percent_flooded_area": 2.419647773,
+    "human_fatality": 102,
+    "human_injured": 19,
+    "population": 1597345,
+    "mean_flood_duration": 7.0
+  },
+  {
+    "district": "vadodara",
+    "percent_flooded_area": 3.328415211,
+    "parmanent_water": 0.284762754,
+    "corrected_percent_flooded_area": 3.043652457,
+    "human_fatality": 105,
+    "human_injured": 3,
+    "population": 3437852,
+    "mean_flood_duration": 13.0
+  },
+  {
+    "district": "valsad",
+    "percent_flooded_area": 2.551668353,
+    "parmanent_water": 0.812747791,
+    "corrected_percent_flooded_area": 1.738920562,
+    "human_fatality": 126,
+    "human_injured": 2,
+    "population": 2077846,
+    "mean_flood_duration": 17.0
+  },
+  {
+    "district": "vellore",
+    "percent_flooded_area": 0.459638695,
+    "parmanent_water": 0.021681234,
+    "corrected_percent_flooded_area": 0.437957461,
+    "human_fatality": 38,
+    "human_injured": 23,
+    "population": 1718125,
+    "mean_flood_duration": 6.0
+  },
+  {
+    "district": "vidisha",
+    "percent_flooded_area": 0.912677122,
+    "parmanent_water": 0.277215122,
+    "corrected_percent_flooded_area": 0.635462,
+    "human_fatality": 35,
+    "human_injured": 6,
+    "population": 1710603,
+    "mean_flood_duration": 4.0
+  },
+  {
+    "district": "viluppuram",
+    "percent_flooded_area": 2.829205267,
+    "parmanent_water": 0.250109562,
+    "corrected_percent_flooded_area": 2.579095705,
+    "human_fatality": 75,
+    "human_injured": 10,
+    "population": 2449240,
+    "mean_flood_duration": 6.0
+  },
+  {
+    "district": "wardha",
+    "percent_flooded_area": 1.65012412,
+    "parmanent_water": 1.005544539,
+    "corrected_percent_flooded_area": 0.644579581,
+    "human_fatality": 134,
+    "human_injured": 20,
+    "population": 1365264,
+    "mean_flood_duration": 5.0
+  },
+  {
+    "district": "washim",
+    "percent_flooded_area": 0.392447344,
+    "parmanent_water": 0.392373985,
+    "corrected_percent_flooded_area": 7.34e-05,
+    "human_fatality": 62,
+    "human_injured": 6,
+    "population": 1362768,
+    "mean_flood_duration": 4.0
+  },
+  {
+    "district": "wayanad",
+    "percent_flooded_area": 0.815062099,
+    "parmanent_water": 0.354881107,
+    "corrected_percent_flooded_area": 0.460180992,
+    "human_fatality": 151,
+    "human_injured": 95,
+    "population": 847406,
+    "mean_flood_duration": 4.0
+  },
+  {
+    "district": "westgodavari",
+    "percent_flooded_area": 5.603589524,
+    "parmanent_water": 2.064339191,
+    "corrected_percent_flooded_area": 3.539250333,
+    "human_fatality": 232,
+    "human_injured": 0,
+    "population": 4167944,
+    "mean_flood_duration": 8.0
+  },
+  {
+    "district": "westnimar",
+    "percent_flooded_area": 1.727264926,
+    "parmanent_water": 0.465974584,
+    "corrected_percent_flooded_area": 1.261290342,
+    "human_fatality": 52,
+    "human_injured": 18,
+    "population": 2194354,
+    "mean_flood_duration": 4.0
+  },
+  {
+    "district": "y.s.r.",
+    "percent_flooded_area": 1.141752714,
+    "parmanent_water": 1.095797136,
+    "corrected_percent_flooded_area": 0.045955578,
+    "human_fatality": 144,
+    "human_injured": 1,
+    "population": 3162142,
+    "mean_flood_duration": 9.0
+  },
+  {
+    "district": "yadgir",
+    "percent_flooded_area": 1.651730783,
+    "parmanent_water": 0.57450138,
+    "corrected_percent_flooded_area": 1.077229403,
+    "human_fatality": 64,
+    "human_injured": 5,
+    "population": 1373369,
+    "mean_flood_duration": 13.0
+  },
+  {
+    "district": "yavatmal",
+    "percent_flooded_area": 0.98190471,
+    "parmanent_water": 0.983855741,
+    "corrected_percent_flooded_area": 0.001951031,
+    "human_fatality": 211,
+    "human_injured": 22,
+    "population": 3117757,
+    "mean_flood_duration": 4.0
+  },
+  {
+    "district": "bangalorerural",
+    "percent_flooded_area": 0.7098755885000001,
+    "parmanent_water": 0.18822309850000002,
+    "corrected_percent_flooded_area": 0.52165249,
+    "human_fatality": 52.75,
+    "human_injured": 15.75,
+    "population": 4587220.25,
+    "mean_flood_duration": 9.25
+  },
+  {
+    "district": "chhotaudaipur",
+    "percent_flooded_area": 2.5558805042,
+    "parmanent_water": 1.0537323254,
+    "corrected_percent_flooded_area": 1.5021481788,
+    "human_fatality": 57.6,
+    "human_injured": 2.2,
+    "population": 1808514.8,
+    "mean_flood_duration": 11.0
+  },
+  {
+    "district": "virudunagar",
+    "percent_flooded_area": 1.0355375695,
+    "parmanent_water": 0.2898930985,
+    "corrected_percent_flooded_area": 0.745644471,
+    "human_fatality": 92.5,
+    "human_injured": 33.5,
+    "population": 1843329.5,
+    "mean_flood_duration": 7.25
+  },
+  {
+    "district": "chikmagalur",
+    "percent_flooded_area": 0.8082701468,
+    "parmanent_water": 0.4869800418,
+    "corrected_percent_flooded_area": 0.321290105,
+    "human_fatality": 78.4,
+    "human_injured": 19.8,
+    "population": 1857033.2,
+    "mean_flood_duration": 9.4
+  },
+  {
+    "district": "gulbarga",
+    "percent_flooded_area": 1.0685740521666667,
+    "parmanent_water": 0.441669535,
+    "corrected_percent_flooded_area": 0.6269045171666667,
+    "human_fatality": 81.66666666666667,
+    "human_injured": 5.666666666666667,
+    "population": 2413321.3333333335,
+    "mean_flood_duration": 7.666666666666667
+  },
+  {
+    "district": "tumkur",
+    "percent_flooded_area": 0.9522155483285716,
+    "parmanent_water": 0.3904030996142857,
+    "corrected_percent_flooded_area": 0.5618124487142857,
+    "human_fatality": 67.87857142857142,
+    "human_injured": 10.364285714285714,
+    "population": 2525402.35,
+    "mean_flood_duration": 10.521428571428572
+  },
+  {
+    "district": "belgaum",
+    "percent_flooded_area": 2.013750775125,
+    "parmanent_water": 0.90570526375,
+    "corrected_percent_flooded_area": 1.1080455113749998,
+    "human_fatality": 108.875,
+    "human_injured": 26.625,
+    "population": 1811421.25,
+    "mean_flood_duration": 7.0
+  },
+  {
+    "district": "bellary",
+    "percent_flooded_area": 0.917217923875,
+    "parmanent_water": 0.35824298875,
+    "corrected_percent_flooded_area": 0.558974935125,
+    "human_fatality": 99.875,
+    "human_injured": 20.875,
+    "population": 2446957.125,
+    "mean_flood_duration": 9.875
+  },
+  {
+    "district": "nellore",
+    "percent_flooded_area": 1.34884747125,
+    "parmanent_water": 0.95733403375,
+    "corrected_percent_flooded_area": 0.3915134375,
+    "human_fatality": 122.25,
+    "human_injured": 1.75,
+    "population": 4078779.5,
+    "mean_flood_duration": 7.75
+  },
+  {
+    "district": "dadraandnagarhaveli",
+    "percent_flooded_area": 1.7685489436666668,
+    "parmanent_water": 0.8847599190000001,
+    "corrected_percent_flooded_area": 0.8837890246666666,
+    "human_fatality": 120.66666666666667,
+    "human_injured": 25.333333333333332,
+    "population": 4389090.666666667,
+    "mean_flood_duration": 7.666666666666667
+  },
+  {
+    "district": "mysore",
+    "percent_flooded_area": 1.1042473022500001,
+    "parmanent_water": 0.46285891549999997,
+    "corrected_percent_flooded_area": 0.6413883867500001,
+    "human_fatality": 78.0,
+    "human_injured": 36.0,
+    "population": 1288240.25,
+    "mean_flood_duration": 7.25
+  },
+  {
+    "district": "mumbaicity",
+    "percent_flooded_area": 1.0434133915,
+    "parmanent_water": 0.6274024425,
+    "corrected_percent_flooded_area": 0.41601094899999996,
+    "human_fatality": 236.5,
+    "human_injured": 85.0,
+    "population": 6223057.0,
+    "mean_flood_duration": 3.0
+  },
+  {
+    "district": "chikballapura",
+    "percent_flooded_area": 0.6391696741657144,
+    "parmanent_water": 0.19466832882285715,
+    "corrected_percent_flooded_area": 0.4445013453428571,
+    "human_fatality": 88.12571428571428,
+    "human_injured": 9.622857142857143,
+    "population": 3571190.72,
+    "mean_flood_duration": 9.154285714285715
+  },
+  {
+    "district": "dantewada",
+    "percent_flooded_area": 1.4124615463333334,
+    "parmanent_water": 0.083308701,
+    "corrected_percent_flooded_area": 1.3291528453333334,
+    "human_fatality": 30.333333333333332,
+    "human_injured": 7.333333333333333,
+    "population": 218563.33333333334,
+    "mean_flood_duration": 4.0
+  },
+  {
+    "district": "chamrajnagar",
+    "percent_flooded_area": 1.1629252415833333,
+    "parmanent_water": 0.4949297039444444,
+    "corrected_percent_flooded_area": 0.6679955376388889,
+    "human_fatality": 71.33333333333333,
+    "human_injured": 20.555555555555557,
+    "population": 1784052.5833333333,
+    "mean_flood_duration": 7.583333333333333
+  },
+  {
+    "district": "garhchiroli",
+    "percent_flooded_area": 1.3834336232499997,
+    "parmanent_water": 0.460650530375,
+    "corrected_percent_flooded_area": 0.9259886093749999,
+    "human_fatality": 81.5,
+    "human_injured": 10.125,
+    "population": 1030226.75,
+    "mean_flood_duration": 5.25
+  },
+  {
+    "district": "mahbubnagar",
+    "percent_flooded_area": 2.232141664020834,
+    "parmanent_water": 0.601030232625,
+    "corrected_percent_flooded_area": 1.6338195966458333,
+    "human_fatality": 110.08333333333334,
+    "human_injured": 32.833333333333336,
+    "population": 3139430.291666667,
+    "mean_flood_duration": 7.958333333333334
+  },
+  {
+    "district": "shimoga",
+    "percent_flooded_area": 1.52661108476,
+    "parmanent_water": 0.7011394359600001,
+    "corrected_percent_flooded_area": 0.8254716488,
+    "human_fatality": 72.47999999999999,
+    "human_injured": 13.959999999999999,
+    "population": 1662205.04,
+    "mean_flood_duration": 10.08
+  },
+  {
+    "district": "warangal",
+    "percent_flooded_area": 1.1586197468,
+    "parmanent_water": 0.5717472226,
+    "corrected_percent_flooded_area": 0.5963344150000001,
+    "human_fatality": 101.4,
+    "human_injured": 4.8,
+    "population": 1113050.8,
+    "mean_flood_duration": 9.0
+  },
+  {
+    "district": "bagalkot",
+    "percent_flooded_area": 1.35785823678125,
+    "parmanent_water": 0.5472685746875,
+    "corrected_percent_flooded_area": 0.8105896620937499,
+    "human_fatality": 101.46875,
+    "human_injured": 17.90625,
+    "population": 1680392.0625,
+    "mean_flood_duration": 9.0
+  },
+  {
+    "district": "dahod",
+    "percent_flooded_area": 1.3684646747000002,
+    "parmanent_water": 0.8710772777333332,
+    "corrected_percent_flooded_area": 0.5030165053,
+    "human_fatality": 43.1,
+    "human_injured": 2.1999999999999997,
+    "population": 1540154.1333333335,
+    "mean_flood_duration": 14.5
+  }
+]

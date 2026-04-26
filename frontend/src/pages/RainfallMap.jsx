@@ -8,15 +8,29 @@ import MapHeader from "../components/MapHeader"
 import DistrictSelector from "../components/DistrictSelector"
 import useRainfallData from "../components/useRainfallData"
 
-const CYCLONE_META={
-  amphan:{name:"Cyclone Amphan",color:"#00d4ff"}
+const CYCLONE_META = {
+  amphan: {
+    name: "Cyclone Amphan",
+    color: "#00d4ff"
+  },
+  tauktae: {
+    name: "Cyclone Tauktae",
+    color: "#00ffa6"
+  },
+  fani: {
+    name: "Cyclone Fani",
+    color: "#ffaa00"
+  }
 }
 
 export default function RainfallMap(){
 
   const {cyclone}=useParams()
   const navigate=useNavigate()
-  const meta=CYCLONE_META[cyclone]
+  const meta = CYCLONE_META[cyclone] || {
+    name: cyclone?.toUpperCase() || "Unknown Cyclone",
+    color: "#00d4ff"
+  }
   const [viewCyclone,setViewCyclone] = useState(true)
   const {
   geojson,

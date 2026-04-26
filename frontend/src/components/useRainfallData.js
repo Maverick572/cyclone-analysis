@@ -1,6 +1,5 @@
 import { useEffect, useState } from "react"
 import { getRainfall, getDistricts } from "../services/api"
-
 import districtsGeo from "../data/district_shapes.json"
 
 const MAX_DIST_KM = 80
@@ -32,7 +31,11 @@ export default function useRainfallData(cyclone){
 
   useEffect(()=>{
 
+    let active = true
+
     async function load(){
+
+      setLoading(true)
 
       const rainKey=`rain_${cyclone}`
       const floodKey=`flood_${cyclone}`
@@ -40,6 +43,7 @@ export default function useRainfallData(cyclone){
       const trackKey=`track_${cyclone}`
       const graphKey=`graph_${cyclone}`
       const floodRiskKey = `floodrisk_${cyclone}`
+
       let floodRiskData = sessionStorage.getItem(floodRiskKey)
       let rainRows=sessionStorage.getItem(rainKey)
       let floodRows=sessionStorage.getItem(floodKey)
@@ -47,147 +51,214 @@ export default function useRainfallData(cyclone){
       let track=sessionStorage.getItem(trackKey)
       let graphData=sessionStorage.getItem(graphKey)
 
-      if(!rainRows){
-        rainRows=await getRainfall(cyclone)
-        sessionStorage.setItem(rainKey,JSON.stringify(rainRows))
-      } else rainRows=JSON.parse(rainRows)
+      try {
 
-      if(!floodRows){
-        const r=await fetch(`http://localhost:8000/flood-intensity/${cyclone}`)
-        floodRows=await r.json()
-        sessionStorage.setItem(floodKey,JSON.stringify(floodRows))
-      } else floodRows=JSON.parse(floodRows)
+        if(!rainRows){
+          rainRows=await getRainfall(cyclone)
+          if (!rainRows || rainRows.error) {
+            console.error("❌ Rainfall error:", rainRows)
+            return
+          }
+          sessionStorage.setItem(rainKey,JSON.stringify(rainRows))
+        } else rainRows=JSON.parse(rainRows)
 
-      if(!allowedDistricts){
-        allowedDistricts=await getDistricts(cyclone)
-        sessionStorage.setItem(districtKey,JSON.stringify(allowedDistricts))
-      } else allowedDistricts=JSON.parse(allowedDistricts)
+        if(!floodRows){
+          const r=await fetch(`http://localhost:8000/flood-intensity/${cyclone}`)
+          floodRows=await r.json()
+          if (floodRows.error) {
+            console.error("❌ Flood error:", floodRows)
+            return
+          }
+          sessionStorage.setItem(floodKey,JSON.stringify(floodRows))
+        } else floodRows=JSON.parse(floodRows)
 
-      if(!track){
-        const r=await fetch(`http://localhost:8000/cyclone-track/${cyclone}`)
-        track=await r.json()
-        sessionStorage.setItem(trackKey,JSON.stringify(track))
-      } else track=JSON.parse(track)
+        if(!allowedDistricts){
+          allowedDistricts=await getDistricts(cyclone)
+          if (!allowedDistricts || allowedDistricts.error) {
+            console.error("❌ District error:", allowedDistricts)
+            return
+          }
+          sessionStorage.setItem(districtKey,JSON.stringify(allowedDistricts))
+        } else allowedDistricts=JSON.parse(allowedDistricts)
 
-      /* NEW GRAPH FETCH */
-      if(!graphData){
-        const r=await fetch(`http://localhost:8000/graph/${cyclone}`)
-        graphData=await r.json()
-        sessionStorage.setItem(graphKey,JSON.stringify(graphData))
-      } else graphData=JSON.parse(graphData)
-      
-      if(!floodRiskData){
-        const r = await fetch(`http://localhost:8000/flood-risk/${cyclone}`)
-        floodRiskData = await r.json()
-        sessionStorage.setItem(floodRiskKey, JSON.stringify(floodRiskData))
-      } else floodRiskData = JSON.parse(floodRiskData)
-      
-      const normalizedGraph = {}
+        if(!track){
+          const r=await fetch(`http://localhost:8000/cyclone-track/${cyclone}`)
+          track=await r.json()
+          sessionStorage.setItem(trackKey,JSON.stringify(track))
+        } else track=JSON.parse(track)
+
+        if(!graphData){
+          const r=await fetch(`http://localhost:8000/graph/${cyclone}`)
+          graphData=await r.json()
+          sessionStorage.setItem(graphKey,JSON.stringify(graphData))
+        } else graphData=JSON.parse(graphData)
+
+        if(!floodRiskData){
+          const r = await fetch(`http://localhost:8000/flood-risk/${cyclone}`)
+          floodRiskData = await r.json()
+          sessionStorage.setItem(floodRiskKey, JSON.stringify(floodRiskData))
+        } else floodRiskData = JSON.parse(floodRiskData)
+
+        /* ---------------- GRAPH NORMALIZATION ---------------- */
+
+        const normalizedGraph = {}
+
         for (const source in graphData) {
+
+          if (!source) {
+            console.warn("⚠️ Invalid source:", source)
+            continue
+          }
+
           const key = source.toLowerCase().replace(/\s+/g,'').replace(/-/g,'')
-          normalizedGraph[key] = graphData[source]
-        }
-        setGraph(normalizedGraph)
 
-      /*
-      extract all districts appearing in graph
-      */
-      const gDistricts=new Set()
+          const paths = graphData[source]
 
-      for(const source in graphData){
+          if (!Array.isArray(paths)) {
+            console.warn("⚠️ Invalid paths:", source, paths)
+            continue
+          }
 
-        gDistricts.add(
-          source
-            .toLowerCase()
-            .replace(/\s+/g,'')
-            .replace(/-/g,'')
-        )
+          normalizedGraph[key] = []
 
-        for(const path of graphData[source]){
+          for (const path of paths) {
 
-          for(const node of path){
+            if (!Array.isArray(path)) {
+              console.warn("⚠️ Invalid path:", path)
+              continue
+            }
 
-            gDistricts.add(
-              node.district
+            const cleanPath = []
+
+            for (const node of path) {
+
+              if (!node || !node.district) {
+                console.warn("⚠️ Bad node:", { source, node })
+                continue
+              }
+
+              const cleanDistrict = node.district
                 .toLowerCase()
                 .replace(/\s+/g,'')
                 .replace(/-/g,'')
-            )
 
+              cleanPath.push({
+                ...node,
+                district: cleanDistrict
+              })
+            }
+
+            if (cleanPath.length > 0) {
+              normalizedGraph[key].push(cleanPath)
+            }
           }
-
         }
 
-      }
+        if (!active) return
 
-      setGraphDistricts([...gDistricts].sort())
+        setGraph(normalizedGraph)
 
+        /* ---------------- GRAPH DISTRICTS ---------------- */
 
-      const filtered=districtsGeo.features.filter(f=>{
+        const gDistricts=new Set()
 
-        const geoName=f.properties.NAME_2
-          .toLowerCase()
-          .replace(/\s+/g,'')
-          .replace(/-/g,'')
+        for (const source in normalizedGraph){
 
-        const coords=f.geometry.coordinates.flat(3)
+          gDistricts.add(source)
 
-        let xs=[],ys=[]
+          for (const path of normalizedGraph[source]){
 
-        for(let i=0;i<coords.length;i+=2){
-          xs.push(coords[i])
-          ys.push(coords[i+1])
+            for (const node of path){
+
+              if (!node || !node.district) {
+                console.warn("⚠️ Bad node (district extraction):", node)
+                continue
+              }
+
+              gDistricts.add(node.district)
+            }
+          }
         }
 
-        const lon=xs.reduce((a,b)=>a+b,0)/xs.length
-        const lat=ys.reduce((a,b)=>a+b,0)/ys.length
+        setGraphDistricts([...gDistricts].sort())
 
-        for(const d of allowedDistricts){
+        /* ---------------- GEO FILTER ---------------- */
 
-          const nameMatch=d.district
+        const filtered=districtsGeo.features.filter(f=>{
+
+          const geoName=f.properties.NAME_2
             .toLowerCase()
             .replace(/\s+/g,'')
             .replace(/-/g,'')
 
-          if(geoName!==nameMatch) continue
+          const coords=f.geometry.coordinates.flat(3)
 
-          const dist=haversineKm(lon,lat,d.lon,d.lat)
+          let xs=[],ys=[]
 
-          if(dist<MAX_DIST_KM) return true
-        }
+          for(let i=0;i<coords.length;i+=2){
+            xs.push(coords[i])
+            ys.push(coords[i+1])
+          }
 
-        return false
-      })
+          const lon=xs.reduce((a,b)=>a+b,0)/xs.length
+          const lat=ys.reduce((a,b)=>a+b,0)/ys.length
 
-      setGeojson({
-        ...districtsGeo,
-        features:filtered
-      })
+          for(const d of allowedDistricts){
 
-      setAllRainfall(rainRows)
-      setAllFlood(floodRows)
-      setCycloneTrack(track)
-      setFloodRisk(floodRiskData)
+            if (!d || !d.district) {
+              console.warn("⚠️ Bad allowed district:", d)
+              continue
+            }
 
-      const uniqueDates=[
-        ...new Set([
-          ...rainRows.map(r=>r.date),
-          ...Object.keys(track)
-        ])
-      ].sort()
+            const nameMatch=d.district
+              .toLowerCase()
+              .replace(/\s+/g,'')
+              .replace(/-/g,'')
 
-      setDates(uniqueDates)
+            if(geoName!==nameMatch) continue
 
-      setLoading(false)
+            const dist=haversineKm(lon,lat,d.lon,d.lat)
+
+            if(dist<MAX_DIST_KM) return true
+          }
+
+          return false
+        })
+
+        setGeojson({
+          ...districtsGeo,
+          features:filtered
+        })
+
+        setAllRainfall(rainRows)
+        setAllFlood(floodRows)
+        setCycloneTrack(track)
+        setFloodRisk(floodRiskData)
+
+        const uniqueDates=[
+          ...new Set([
+            ...rainRows.map(r=>r.date),
+            ...Object.keys(track)
+          ])
+        ].sort()
+
+        setDates(uniqueDates)
+
+        setLoading(false)
+
+      } catch (err) {
+        console.error("🔥 Load failed:", err)
+      }
     }
 
     load()
+
+    return () => { active = false }
 
   },[cyclone])
 
 
   return {
-
     geojson,
     allRainfall,
     allFlood,

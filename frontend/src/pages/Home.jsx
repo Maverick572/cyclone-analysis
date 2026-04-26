@@ -94,9 +94,6 @@ function RadarViz({ size = 220 }) {
         <line x1={size/2} y1="10" x2={size/2} y2={size-10} stroke="rgba(0,212,255,0.07)" strokeWidth="1" strokeDasharray="3 7"/>
         <line x1="10" y1={size/2} x2={size-10} y2={size/2} stroke="rgba(0,212,255,0.07)" strokeWidth="1" strokeDasharray="3 7"/>
       </svg>
-      <div style={{ position:'absolute', bottom:4, right:8,
-        fontFamily:'Space Mono,monospace', fontSize:'0.48rem',
-        color:'rgba(0,212,255,0.35)', letterSpacing:'0.1em' }}>SCS · BAY OF BENGAL</div>
     </div>
   )
 }
@@ -104,7 +101,7 @@ function RadarViz({ size = 220 }) {
 function Ticker() {
   const items = ['AMPHAN · SCS · CAT-5 EQUIVALENT','20 MAY 2020 · 09:30 UTC LANDFALL',
     'PEAK WIND 240 KM/H','PRESSURE 920 hPa','WEST BENGAL · ODISHA · BANGLADESH',
-    '742 DISTRICTS ANALYZED','IMD · ERA5 · GPM DATA','16+ DAYS ANALYZED','0.1° SPATIAL RES.']
+    '742 DISTRICTS ANALYZED','IMD · ERA5 · GPM DATA','0.1° SPATIAL RES.']
   const text = [...items,...items].join('   ·   ')
   return (
     <div style={{ overflow:'hidden', borderTop:'1px solid rgba(0,212,255,0.1)',
@@ -123,9 +120,8 @@ export default function Home() {
   const navigate = useNavigate()
 
   const stats = [
-    { num:'1', label:'Cyclone' },
+    { num:'3', label:'Cyclones' },
     { num:'742', label:'Districts' },
-    { num:'16+', label:'Days Analyzed' },
     { num:'0.1°', label:'Spatial Res.' },
   ]
 
@@ -218,7 +214,7 @@ export default function Home() {
               color:'rgba(74,96,128,0.75)', letterSpacing:'0.16em', textTransform:'uppercase' }}>Cyclones</div>
             <div style={{ flex:1, height:1, background:'rgba(0,212,255,0.1)' }}/>
             <div style={{ fontFamily:'Space Mono,monospace', fontSize:'0.52rem',
-              color:'rgba(0,212,255,0.35)', letterSpacing:'0.1em' }}>1 STORM · 2020 SEASON</div>
+              color:'rgba(0,212,255,0.35)', letterSpacing:'0.1em' }}>3 STORMS</div>
           </div>
 
           <div className="hcard" onClick={() => navigate('/map/amphan')} style={{
@@ -289,6 +285,222 @@ export default function Home() {
                 borderTop:'1px solid rgba(0,212,255,0.08)' }}>
                 <div style={{ fontFamily:'Space Mono,monospace', fontSize:'0.62rem',
                   color:'#00d4ff', letterSpacing:'0.08em' }}>EXPLORE →</div>
+              </div>
+            </div>
+          </div>
+          <div style = {{height:14}}/>
+          <div className="hcard" onClick={() => navigate('/map/tauktae')} style={{
+            background:'rgba(255,255,255,0.025)', border:'1px solid rgba(0,212,255,0.18)',
+            borderRadius:14, overflow:'hidden', cursor:'pointer',
+            transition:'all 0.25s ease', backdropFilter:'blur(16px)'
+          }}>
+
+            <div style={{ position:'relative', height:175, overflow:'hidden' }}>
+              <img src="https://images.unsplash.com/photo-1500375592092-40eb2168fd21?w=1000&q=80"
+                alt="Cyclone satellite"
+                style={{ width:'100%', height:'100%', objectFit:'cover',
+                  filter:'saturate(0.25) brightness(0.45)' }}/>
+
+              <div style={{ position:'absolute', inset:0,
+                background:'linear-gradient(135deg,rgba(0,20,50,0.6),rgba(0,212,255,0.05))' }}/>
+
+              <div style={{ position:'absolute', inset:0,
+                background:'linear-gradient(to bottom, transparent 30%, rgba(4,13,26,0.95))' }}/>
+
+              <div style={{ position:'absolute', top:12, left:14, display:'flex', gap:'0.5rem' }}>
+                <span style={{ background:'rgba(0,212,255,0.15)', border:'1px solid rgba(0,212,255,0.35)',
+                  borderRadius:4, padding:'2px 9px', fontFamily:'Space Mono,monospace',
+                  fontSize:'0.54rem', color:'#00d4ff' }}>
+                  EXTREMELY SEVERE CYCLONIC STORM
+                </span>
+              </div>
+
+              <div style={{ position:'absolute', bottom:10, right:14,
+                fontFamily:'Space Mono,monospace', fontSize:'0.52rem',
+                color:'rgba(0,212,255,0.4)' }}>
+                20.9°N, 71.5°E
+              </div>
+            </div>
+
+            <div style={{ padding:'1.3rem 1.6rem 0' }}>
+              <div style={{ display:'flex', justifyContent:'space-between' }}>
+                <div>
+                  <div style={{ fontFamily:'Space Mono,monospace', fontSize:'0.62rem',
+                    color:'#00d4ff', marginBottom:'0.3rem' }}>🌀 2021</div>
+
+                  <div style={{ fontFamily:'Syne,sans-serif', fontWeight:700,
+                    fontSize:'1.5rem', color:'#e8f0ff' }}>
+                    Cyclone Tauktae
+                  </div>
+                </div>
+
+                <div style={{ textAlign:'right' }}>
+                  <div style={{ fontFamily:'Space Mono,monospace', fontSize:'0.52rem',
+                    color:'rgba(74,96,128,0.7)' }}>
+                    Landfall
+                  </div>
+                  <div style={{ fontFamily:'Space Mono,monospace', fontSize:'0.78rem',
+                    color:'#c8dff5' }}>
+                    17 May 2021
+                  </div>
+                </div>
+              </div>
+
+              <div style={{
+                display:'grid',
+                gridTemplateColumns:'repeat(6,1fr)',
+                marginTop:'1.2rem',
+                border:'1px solid rgba(0,212,255,0.1)',
+                borderRadius:8,
+                overflow:'hidden'
+              }}>
+                {[
+                  { label:'Landfall Date', val:'17 May 2021' },
+                  { label:'Location', val:'Gujarat' },
+                  { label:'Peak Winds', val:'165 km/h' },
+                  { label:'Min Pressure', val:'950 hPa' },
+                  { label:'Category', val:'Extremely Severe' },
+                  { label:'Basin', val:'Arabian Sea' },
+                ].map((m,i)=>(
+                  <div key={i} className="metarow-item" style={{
+                    padding:'0.7rem 0.5rem',
+                    background: i%2===0 ? 'rgba(0,212,255,0.025)' : 'transparent'
+                  }}>
+                    <div style={{
+                      fontFamily:'Space Mono,monospace',
+                      fontSize:'0.46rem',
+                      color:'rgba(74,96,128,0.7)',
+                      letterSpacing:'0.1em',
+                      textTransform:'uppercase',
+                      marginBottom:3
+                    }}>
+                      {m.label}
+                    </div>
+                    <div style={{
+                      fontFamily:'Space Mono,monospace',
+                      fontSize:'0.66rem',
+                      color:'#b8d5f0',
+                      fontWeight:700
+                    }}>
+                      {m.val}
+                    </div>
+                  </div>
+                ))}
+              </div>
+
+              <div style={{ padding:'1rem 0 1.3rem' }}>
+                <div style={{ fontFamily:'Space Mono,monospace',
+                  fontSize:'0.62rem', color:'#00d4ff' }}>
+                  EXPLORE →
+                </div>
+              </div>
+            </div>
+          </div>
+          <div style = {{height:14}}/>
+          <div className="hcard" onClick={() => navigate('/map/fani')} style={{
+            background:'rgba(255,255,255,0.025)', border:'1px solid rgba(0,212,255,0.18)',
+            borderRadius:14, overflow:'hidden', cursor:'pointer',
+            transition:'all 0.25s ease', backdropFilter:'blur(16px)'
+          }}>
+
+            <div style={{ position:'relative', height:175, overflow:'hidden' }}>
+              <img src="https://images.unsplash.com/photo-1561484930-974554019ade?w=1000&q=80"
+                alt="Cyclone satellite"
+                style={{ width:'100%', height:'100%', objectFit:'cover',
+                  filter:'saturate(0.25) brightness(0.45)' }}/>
+
+              <div style={{ position:'absolute', inset:0,
+                background:'linear-gradient(135deg,rgba(0,20,50,0.6),rgba(0,212,255,0.05))' }}/>
+
+              <div style={{ position:'absolute', inset:0,
+                background:'linear-gradient(to bottom, transparent 30%, rgba(4,13,26,0.95))' }}/>
+
+              <div style={{ position:'absolute', top:12, left:14, display:'flex', gap:'0.5rem' }}>
+                <span style={{ background:'rgba(0,212,255,0.15)', border:'1px solid rgba(0,212,255,0.35)',
+                  borderRadius:4, padding:'2px 9px', fontFamily:'Space Mono,monospace',
+                  fontSize:'0.54rem', color:'#00d4ff' }}>
+                  EXTREMELY SEVERE CYCLONIC STORM
+                </span>
+              </div>
+
+              <div style={{ position:'absolute', bottom:10, right:14,
+                fontFamily:'Space Mono,monospace', fontSize:'0.52rem',
+                color:'rgba(0,212,255,0.4)' }}>
+                19.8°N, 86.0°E
+              </div>
+            </div>
+
+            <div style={{ padding:'1.3rem 1.6rem 0' }}>
+              <div style={{ display:'flex', justifyContent:'space-between' }}>
+                <div>
+                  <div style={{ fontFamily:'Space Mono,monospace', fontSize:'0.62rem',
+                    color:'#00d4ff', marginBottom:'0.3rem' }}>🌀 2019</div>
+
+                  <div style={{ fontFamily:'Syne,sans-serif', fontWeight:700,
+                    fontSize:'1.5rem', color:'#e8f0ff' }}>
+                    Cyclone Fani
+                  </div>
+                </div>
+
+                <div style={{ textAlign:'right' }}>
+                  <div style={{ fontFamily:'Space Mono,monospace', fontSize:'0.52rem',
+                    color:'rgba(74,96,128,0.7)' }}>
+                    Landfall
+                  </div>
+                  <div style={{ fontFamily:'Space Mono,monospace', fontSize:'0.78rem',
+                    color:'#c8dff5' }}>
+                    3 May 2019
+                  </div>
+                </div>
+              </div>
+
+              <div style={{
+                display:'grid',
+                gridTemplateColumns:'repeat(6,1fr)',
+                marginTop:'1.2rem',
+                border:'1px solid rgba(0,212,255,0.1)',
+                borderRadius:8,
+                overflow:'hidden'
+              }}>
+                {[
+                  { label:'Landfall Date', val:'3 May 2019' },
+                  { label:'Location', val:'Odisha' },
+                  { label:'Peak Winds', val:'175 km/h' },
+                  { label:'Min Pressure', val:'932 hPa' },
+                  { label:'Category', val:'Extremely Severe' },
+                  { label:'Basin', val:'Bay of Bengal' },
+                ].map((m,i)=>(
+                  <div key={i} className="metarow-item" style={{
+                    padding:'0.7rem 0.5rem',
+                    background: i%2===0 ? 'rgba(0,212,255,0.025)' : 'transparent'
+                  }}>
+                    <div style={{
+                      fontFamily:'Space Mono,monospace',
+                      fontSize:'0.46rem',
+                      color:'rgba(74,96,128,0.7)',
+                      letterSpacing:'0.1em',
+                      textTransform:'uppercase',
+                      marginBottom:3
+                    }}>
+                      {m.label}
+                    </div>
+                    <div style={{
+                      fontFamily:'Space Mono,monospace',
+                      fontSize:'0.66rem',
+                      color:'#b8d5f0',
+                      fontWeight:700
+                    }}>
+                      {m.val}
+                    </div>
+                  </div>
+                ))}
+              </div>
+
+              <div style={{ padding:'1rem 0 1.3rem' }}>
+                <div style={{ fontFamily:'Space Mono,monospace',
+                  fontSize:'0.62rem', color:'#00d4ff' }}>
+                  EXPLORE →
+                </div>
               </div>
             </div>
           </div>

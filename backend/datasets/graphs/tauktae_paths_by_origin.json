@@ -1,0 +1,8099 @@
+{
+  "alappuzha": [
+    [
+      {
+        "district": "alappuzha",
+        "date": "2021-05-13",
+        "intensity": 2.632921897659298
+      },
+      {
+        "district": "pathanamthitta",
+        "date": "2021-05-15",
+        "intensity": 0.7449547629736923
+      },
+      {
+        "district": "kottayam",
+        "date": "2021-05-16",
+        "intensity": 0.866317047633359
+      }
+    ],
+    [
+      {
+        "district": "alappuzha",
+        "date": "2021-05-13",
+        "intensity": 2.632921897659298
+      },
+      {
+        "district": "pathanamthitta",
+        "date": "2021-05-15",
+        "intensity": 0.7449547629736923
+      },
+      {
+        "district": "kollam",
+        "date": "2021-05-16",
+        "intensity": 0.4593246735820704
+      }
+    ],
+    [
+      {
+        "district": "alappuzha",
+        "date": "2021-05-13",
+        "intensity": 2.632921897659298
+      },
+      {
+        "district": "pathanamthitta",
+        "date": "2021-05-14",
+        "intensity": 1.1474374421363271
+      },
+      {
+        "district": "kottayam",
+        "date": "2021-05-16",
+        "intensity": 0.866317047633359
+      }
+    ],
+    [
+      {
+        "district": "alappuzha",
+        "date": "2021-05-13",
+        "intensity": 2.632921897659298
+      },
+      {
+        "district": "pathanamthitta",
+        "date": "2021-05-14",
+        "intensity": 1.1474374421363271
+      },
+      {
+        "district": "kottayam",
+        "date": "2021-05-15",
+        "intensity": 1.1682448336701377
+      },
+      {
+        "district": "ernakulam",
+        "date": "2021-05-16",
+        "intensity": 1.0481695512994729
+      },
+      {
+        "district": "thrissur",
+        "date": "2021-05-17",
+        "intensity": 0.1770475214756266
+      }
+    ],
+    [
+      {
+        "district": "alappuzha",
+        "date": "2021-05-13",
+        "intensity": 2.632921897659298
+      },
+      {
+        "district": "pathanamthitta",
+        "date": "2021-05-14",
+        "intensity": 1.1474374421363271
+      },
+      {
+        "district": "kollam",
+        "date": "2021-05-16",
+        "intensity": 0.4593246735820704
+      }
+    ],
+    [
+      {
+        "district": "alappuzha",
+        "date": "2021-05-13",
+        "intensity": 2.632921897659298
+      },
+      {
+        "district": "pathanamthitta",
+        "date": "2021-05-14",
+        "intensity": 1.1474374421363271
+      },
+      {
+        "district": "kollam",
+        "date": "2021-05-15",
+        "intensity": 0.9728500668119382
+      }
+    ],
+    [
+      {
+        "district": "alappuzha",
+        "date": "2021-05-13",
+        "intensity": 2.632921897659298
+      },
+      {
+        "district": "kottayam",
+        "date": "2021-05-15",
+        "intensity": 1.1682448336701377
+      },
+      {
+        "district": "pathanamthitta",
+        "date": "2021-05-16",
+        "intensity": 0.3527641298962923
+      }
+    ],
+    [
+      {
+        "district": "alappuzha",
+        "date": "2021-05-13",
+        "intensity": 2.632921897659298
+      },
+      {
+        "district": "kottayam",
+        "date": "2021-05-15",
+        "intensity": 1.1682448336701377
+      },
+      {
+        "district": "ernakulam",
+        "date": "2021-05-16",
+        "intensity": 1.0481695512994729
+      },
+      {
+        "district": "thrissur",
+        "date": "2021-05-17",
+        "intensity": 0.1770475214756266
+      }
+    ],
+    [
+      {
+        "district": "alappuzha",
+        "date": "2021-05-13",
+        "intensity": 2.632921897659298
+      },
+      {
+        "district": "kottayam",
+        "date": "2021-05-14",
+        "intensity": 1.5362282061056016
+      },
+      {
+        "district": "pathanamthitta",
+        "date": "2021-05-16",
+        "intensity": 0.3527641298962923
+      }
+    ],
+    [
+      {
+        "district": "alappuzha",
+        "date": "2021-05-13",
+        "intensity": 2.632921897659298
+      },
+      {
+        "district": "kottayam",
+        "date": "2021-05-14",
+        "intensity": 1.5362282061056016
+      },
+      {
+        "district": "pathanamthitta",
+        "date": "2021-05-15",
+        "intensity": 0.7449547629736923
+      },
+      {
+        "district": "kollam",
+        "date": "2021-05-16",
+        "intensity": 0.4593246735820704
+      }
+    ],
+    [
+      {
+        "district": "alappuzha",
+        "date": "2021-05-13",
+        "intensity": 2.632921897659298
+      },
+      {
+        "district": "kottayam",
+        "date": "2021-05-14",
+        "intensity": 1.5362282061056016
+      },
+      {
+        "district": "ernakulam",
+        "date": "2021-05-16",
+        "intensity": 1.0481695512994729
+      },
+      {
+        "district": "thrissur",
+        "date": "2021-05-17",
+        "intensity": 0.1770475214756266
+      }
+    ],
+    [
+      {
+        "district": "alappuzha",
+        "date": "2021-05-13",
+        "intensity": 2.632921897659298
+      },
+      {
+        "district": "kottayam",
+        "date": "2021-05-14",
+        "intensity": 1.5362282061056016
+      },
+      {
+        "district": "ernakulam",
+        "date": "2021-05-15",
+        "intensity": 1.1419687147628614
+      },
+      {
+        "district": "thrissur",
+        "date": "2021-05-17",
+        "intensity": 0.1770475214756266
+      }
+    ],
+    [
+      {
+        "district": "alappuzha",
+        "date": "2021-05-13",
+        "intensity": 2.632921897659298
+      },
+      {
+        "district": "kottayam",
+        "date": "2021-05-14",
+        "intensity": 1.5362282061056016
+      },
+      {
+        "district": "ernakulam",
+        "date": "2021-05-15",
+        "intensity": 1.1419687147628614
+      },
+      {
+        "district": "thrissur",
+        "date": "2021-05-16",
+        "intensity": 1.35384958879177
+      }
+    ],
+    [
+      {
+        "district": "alappuzha",
+        "date": "2021-05-13",
+        "intensity": 2.632921897659298
+      },
+      {
+        "district": "kollam",
+        "date": "2021-05-15",
+        "intensity": 0.9728500668119382
+      },
+      {
+        "district": "pathanamthitta",
+        "date": "2021-05-16",
+        "intensity": 0.3527641298962923
+      }
+    ],
+    [
+      {
+        "district": "alappuzha",
+        "date": "2021-05-13",
+        "intensity": 2.632921897659298
+      },
+      {
+        "district": "kollam",
+        "date": "2021-05-14",
+        "intensity": 1.2961284938909188
+      },
+      {
+        "district": "pathanamthitta",
+        "date": "2021-05-16",
+        "intensity": 0.3527641298962923
+      }
+    ],
+    [
+      {
+        "district": "alappuzha",
+        "date": "2021-05-13",
+        "intensity": 2.632921897659298
+      },
+      {
+        "district": "kollam",
+        "date": "2021-05-14",
+        "intensity": 1.2961284938909188
+      },
+      {
+        "district": "pathanamthitta",
+        "date": "2021-05-15",
+        "intensity": 0.7449547629736923
+      },
+      {
+        "district": "kottayam",
+        "date": "2021-05-16",
+        "intensity": 0.866317047633359
+      }
+    ],
+    [
+      {
+        "district": "alappuzha",
+        "date": "2021-05-13",
+        "intensity": 2.632921897659298
+      },
+      {
+        "district": "ernakulam",
+        "date": "2021-05-15",
+        "intensity": 1.1419687147628614
+      },
+      {
+        "district": "thrissur",
+        "date": "2021-05-17",
+        "intensity": 0.1770475214756266
+      }
+    ],
+    [
+      {
+        "district": "alappuzha",
+        "date": "2021-05-13",
+        "intensity": 2.632921897659298
+      },
+      {
+        "district": "ernakulam",
+        "date": "2021-05-15",
+        "intensity": 1.1419687147628614
+      },
+      {
+        "district": "thrissur",
+        "date": "2021-05-16",
+        "intensity": 1.35384958879177
+      }
+    ],
+    [
+      {
+        "district": "alappuzha",
+        "date": "2021-05-13",
+        "intensity": 2.632921897659298
+      },
+      {
+        "district": "ernakulam",
+        "date": "2021-05-15",
+        "intensity": 1.1419687147628614
+      },
+      {
+        "district": "kottayam",
+        "date": "2021-05-16",
+        "intensity": 0.866317047633359
+      }
+    ],
+    [
+      {
+        "district": "alappuzha",
+        "date": "2021-05-13",
+        "intensity": 2.632921897659298
+      },
+      {
+        "district": "ernakulam",
+        "date": "2021-05-14",
+        "intensity": 1.30015580180883
+      },
+      {
+        "district": "thrissur",
+        "date": "2021-05-16",
+        "intensity": 1.35384958879177
+      }
+    ],
+    [
+      {
+        "district": "alappuzha",
+        "date": "2021-05-13",
+        "intensity": 2.632921897659298
+      },
+      {
+        "district": "ernakulam",
+        "date": "2021-05-14",
+        "intensity": 1.30015580180883
+      },
+      {
+        "district": "thrissur",
+        "date": "2021-05-15",
+        "intensity": 1.331896649257935
+      },
+      {
+        "district": "palakkad",
+        "date": "2021-05-16",
+        "intensity": 0.6845544758147023
+      }
+    ],
+    [
+      {
+        "district": "alappuzha",
+        "date": "2021-05-13",
+        "intensity": 2.632921897659298
+      },
+      {
+        "district": "ernakulam",
+        "date": "2021-05-14",
+        "intensity": 1.30015580180883
+      },
+      {
+        "district": "thrissur",
+        "date": "2021-05-15",
+        "intensity": 1.331896649257935
+      },
+      {
+        "district": "malappuram",
+        "date": "2021-05-16",
+        "intensity": 0.8433939676667568
+      },
+      {
+        "district": "kozhikode",
+        "date": "2021-05-17",
+        "intensity": 0.4627542594092181
+      }
+    ],
+    [
+      {
+        "district": "alappuzha",
+        "date": "2021-05-13",
+        "intensity": 2.632921897659298
+      },
+      {
+        "district": "ernakulam",
+        "date": "2021-05-14",
+        "intensity": 1.30015580180883
+      },
+      {
+        "district": "kottayam",
+        "date": "2021-05-16",
+        "intensity": 0.866317047633359
+      }
+    ],
+    [
+      {
+        "district": "alappuzha",
+        "date": "2021-05-13",
+        "intensity": 2.632921897659298
+      },
+      {
+        "district": "ernakulam",
+        "date": "2021-05-14",
+        "intensity": 1.30015580180883
+      },
+      {
+        "district": "kottayam",
+        "date": "2021-05-15",
+        "intensity": 1.1682448336701377
+      },
+      {
+        "district": "pathanamthitta",
+        "date": "2021-05-16",
+        "intensity": 0.3527641298962923
+      }
+    ],
+    [
+      {
+        "district": "alappuzha",
+        "date": "2021-05-14",
+        "intensity": 2.9351849852716456
+      },
+      {
+        "district": "pathanamthitta",
+        "date": "2021-05-16",
+        "intensity": 0.3527641298962923
+      }
+    ],
+    [
+      {
+        "district": "alappuzha",
+        "date": "2021-05-14",
+        "intensity": 2.9351849852716456
+      },
+      {
+        "district": "pathanamthitta",
+        "date": "2021-05-15",
+        "intensity": 0.7449547629736923
+      },
+      {
+        "district": "kottayam",
+        "date": "2021-05-16",
+        "intensity": 0.866317047633359
+      }
+    ],
+    [
+      {
+        "district": "alappuzha",
+        "date": "2021-05-14",
+        "intensity": 2.9351849852716456
+      },
+      {
+        "district": "pathanamthitta",
+        "date": "2021-05-15",
+        "intensity": 0.7449547629736923
+      },
+      {
+        "district": "kollam",
+        "date": "2021-05-16",
+        "intensity": 0.4593246735820704
+      }
+    ],
+    [
+      {
+        "district": "alappuzha",
+        "date": "2021-05-14",
+        "intensity": 2.9351849852716456
+      },
+      {
+        "district": "kottayam",
+        "date": "2021-05-16",
+        "intensity": 0.866317047633359
+      }
+    ],
+    [
+      {
+        "district": "alappuzha",
+        "date": "2021-05-14",
+        "intensity": 2.9351849852716456
+      },
+      {
+        "district": "kottayam",
+        "date": "2021-05-15",
+        "intensity": 1.1682448336701377
+      },
+      {
+        "district": "pathanamthitta",
+        "date": "2021-05-16",
+        "intensity": 0.3527641298962923
+      }
+    ],
+    [
+      {
+        "district": "alappuzha",
+        "date": "2021-05-14",
+        "intensity": 2.9351849852716456
+      },
+      {
+        "district": "kottayam",
+        "date": "2021-05-15",
+        "intensity": 1.1682448336701377
+      },
+      {
+        "district": "ernakulam",
+        "date": "2021-05-16",
+        "intensity": 1.0481695512994729
+      },
+      {
+        "district": "thrissur",
+        "date": "2021-05-17",
+        "intensity": 0.1770475214756266
+      }
+    ],
+    [
+      {
+        "district": "alappuzha",
+        "date": "2021-05-14",
+        "intensity": 2.9351849852716456
+      },
+      {
+        "district": "kollam",
+        "date": "2021-05-16",
+        "intensity": 0.4593246735820704
+      }
+    ],
+    [
+      {
+        "district": "alappuzha",
+        "date": "2021-05-14",
+        "intensity": 2.9351849852716456
+      },
+      {
+        "district": "kollam",
+        "date": "2021-05-15",
+        "intensity": 0.9728500668119382
+      },
+      {
+        "district": "pathanamthitta",
+        "date": "2021-05-16",
+        "intensity": 0.3527641298962923
+      }
+    ],
+    [
+      {
+        "district": "alappuzha",
+        "date": "2021-05-14",
+        "intensity": 2.9351849852716456
+      },
+      {
+        "district": "ernakulam",
+        "date": "2021-05-16",
+        "intensity": 1.0481695512994729
+      },
+      {
+        "district": "thrissur",
+        "date": "2021-05-17",
+        "intensity": 0.1770475214756266
+      }
+    ],
+    [
+      {
+        "district": "alappuzha",
+        "date": "2021-05-14",
+        "intensity": 2.9351849852716456
+      },
+      {
+        "district": "ernakulam",
+        "date": "2021-05-15",
+        "intensity": 1.1419687147628614
+      },
+      {
+        "district": "thrissur",
+        "date": "2021-05-17",
+        "intensity": 0.1770475214756266
+      }
+    ],
+    [
+      {
+        "district": "alappuzha",
+        "date": "2021-05-14",
+        "intensity": 2.9351849852716456
+      },
+      {
+        "district": "ernakulam",
+        "date": "2021-05-15",
+        "intensity": 1.1419687147628614
+      },
+      {
+        "district": "thrissur",
+        "date": "2021-05-16",
+        "intensity": 1.35384958879177
+      }
+    ],
+    [
+      {
+        "district": "alappuzha",
+        "date": "2021-05-14",
+        "intensity": 2.9351849852716456
+      },
+      {
+        "district": "ernakulam",
+        "date": "2021-05-15",
+        "intensity": 1.1419687147628614
+      },
+      {
+        "district": "kottayam",
+        "date": "2021-05-16",
+        "intensity": 0.866317047633359
+      }
+    ],
+    [
+      {
+        "district": "alappuzha",
+        "date": "2021-05-15",
+        "intensity": 2.627855661038152
+      },
+      {
+        "district": "pathanamthitta",
+        "date": "2021-05-16",
+        "intensity": 0.3527641298962923
+      }
+    ],
+    [
+      {
+        "district": "alappuzha",
+        "date": "2021-05-15",
+        "intensity": 2.627855661038152
+      },
+      {
+        "district": "kottayam",
+        "date": "2021-05-16",
+        "intensity": 0.866317047633359
+      }
+    ],
+    [
+      {
+        "district": "alappuzha",
+        "date": "2021-05-15",
+        "intensity": 2.627855661038152
+      },
+      {
+        "district": "kollam",
+        "date": "2021-05-16",
+        "intensity": 0.4593246735820704
+      }
+    ],
+    [
+      {
+        "district": "alappuzha",
+        "date": "2021-05-15",
+        "intensity": 2.627855661038152
+      },
+      {
+        "district": "ernakulam",
+        "date": "2021-05-16",
+        "intensity": 1.0481695512994729
+      },
+      {
+        "district": "thrissur",
+        "date": "2021-05-17",
+        "intensity": 0.1770475214756266
+      }
+    ],
+    [
+      {
+        "district": "alappuzha",
+        "date": "2021-05-16",
+        "intensity": 1.6113240158193889
+      }
+    ]
+  ],
+  "amreli": [
+    [
+      {
+        "district": "amreli",
+        "date": "2021-05-17",
+        "intensity": 0.1615332353432606
+      }
+    ]
+  ],
+  "anand": [
+    [
+      {
+        "district": "anand",
+        "date": "2021-05-18",
+        "intensity": 0.4828734299463685
+      }
+    ]
+  ],
+  "bharuch": [
+    [
+      {
+        "district": "bharuch",
+        "date": "2021-05-18",
+        "intensity": 0.2822463278070859
+      }
+    ]
+  ],
+  "bhavnagar": [
+    [
+      {
+        "district": "bhavnagar",
+        "date": "2021-05-17",
+        "intensity": 0.2901347605248024
+      },
+      {
+        "district": "anand",
+        "date": "2021-05-18",
+        "intensity": 0.4828734299463685
+      }
+    ]
+  ],
+  "dakshinakannada": [
+    [
+      {
+        "district": "dakshinakannada",
+        "date": "2021-05-15",
+        "intensity": 0.3491313553433848
+      },
+      {
+        "district": "kodagu",
+        "date": "2021-05-16",
+        "intensity": 0.2240160133490359
+      },
+      {
+        "district": "kannur",
+        "date": "2021-05-17",
+        "intensity": 0.2266803859954069
+      }
+    ],
+    [
+      {
+        "district": "dakshinakannada",
+        "date": "2021-05-15",
+        "intensity": 0.3491313553433848
+      },
+      {
+        "district": "kasaragod",
+        "date": "2021-05-16",
+        "intensity": 0.3752149703302864
+      },
+      {
+        "district": "mahe",
+        "date": "2021-05-17",
+        "intensity": 0.2701181742717058
+      }
+    ],
+    [
+      {
+        "district": "dakshinakannada",
+        "date": "2021-05-15",
+        "intensity": 0.3491313553433848
+      },
+      {
+        "district": "kasaragod",
+        "date": "2021-05-16",
+        "intensity": 0.3752149703302864
+      },
+      {
+        "district": "kannur",
+        "date": "2021-05-17",
+        "intensity": 0.2266803859954069
+      }
+    ]
+  ],
+  "daman": [
+    [
+      {
+        "district": "daman",
+        "date": "2021-05-17",
+        "intensity": 1.6886997940204445
+      },
+      {
+        "district": "valsad",
+        "date": "2021-05-19",
+        "intensity": 0.3142905293008326
+      }
+    ],
+    [
+      {
+        "district": "daman",
+        "date": "2021-05-17",
+        "intensity": 1.6886997940204445
+      },
+      {
+        "district": "valsad",
+        "date": "2021-05-18",
+        "intensity": 0.5194438925689401
+      },
+      {
+        "district": "palghar",
+        "date": "2021-05-19",
+        "intensity": 0.4741422367799591
+      }
+    ],
+    [
+      {
+        "district": "daman",
+        "date": "2021-05-17",
+        "intensity": 1.6886997940204445
+      },
+      {
+        "district": "valsad",
+        "date": "2021-05-18",
+        "intensity": 0.5194438925689401
+      },
+      {
+        "district": "navsari",
+        "date": "2021-05-19",
+        "intensity": 0.185669087946797
+      }
+    ],
+    [
+      {
+        "district": "daman",
+        "date": "2021-05-18",
+        "intensity": 0.758948522373592
+      },
+      {
+        "district": "valsad",
+        "date": "2021-05-19",
+        "intensity": 0.3142905293008326
+      }
+    ],
+    [
+      {
+        "district": "daman",
+        "date": "2021-05-19",
+        "intensity": 0.6180394794584172
+      }
+    ]
+  ],
+  "ernakulam": [
+    [
+      {
+        "district": "ernakulam",
+        "date": "2021-05-14",
+        "intensity": 1.30015580180883
+      },
+      {
+        "district": "thrissur",
+        "date": "2021-05-16",
+        "intensity": 1.35384958879177
+      }
+    ],
+    [
+      {
+        "district": "ernakulam",
+        "date": "2021-05-14",
+        "intensity": 1.30015580180883
+      },
+      {
+        "district": "thrissur",
+        "date": "2021-05-15",
+        "intensity": 1.331896649257935
+      },
+      {
+        "district": "palakkad",
+        "date": "2021-05-16",
+        "intensity": 0.6845544758147023
+      }
+    ],
+    [
+      {
+        "district": "ernakulam",
+        "date": "2021-05-14",
+        "intensity": 1.30015580180883
+      },
+      {
+        "district": "thrissur",
+        "date": "2021-05-15",
+        "intensity": 1.331896649257935
+      },
+      {
+        "district": "malappuram",
+        "date": "2021-05-16",
+        "intensity": 0.8433939676667568
+      },
+      {
+        "district": "kozhikode",
+        "date": "2021-05-17",
+        "intensity": 0.4627542594092181
+      }
+    ],
+    [
+      {
+        "district": "ernakulam",
+        "date": "2021-05-14",
+        "intensity": 1.30015580180883
+      },
+      {
+        "district": "kottayam",
+        "date": "2021-05-16",
+        "intensity": 0.866317047633359
+      }
+    ],
+    [
+      {
+        "district": "ernakulam",
+        "date": "2021-05-14",
+        "intensity": 1.30015580180883
+      },
+      {
+        "district": "kottayam",
+        "date": "2021-05-15",
+        "intensity": 1.1682448336701377
+      },
+      {
+        "district": "pathanamthitta",
+        "date": "2021-05-16",
+        "intensity": 0.3527641298962923
+      }
+    ],
+    [
+      {
+        "district": "ernakulam",
+        "date": "2021-05-14",
+        "intensity": 1.30015580180883
+      },
+      {
+        "district": "kottayam",
+        "date": "2021-05-15",
+        "intensity": 1.1682448336701377
+      },
+      {
+        "district": "alappuzha",
+        "date": "2021-05-16",
+        "intensity": 1.6113240158193889
+      }
+    ],
+    [
+      {
+        "district": "ernakulam",
+        "date": "2021-05-14",
+        "intensity": 1.30015580180883
+      },
+      {
+        "district": "alappuzha",
+        "date": "2021-05-16",
+        "intensity": 1.6113240158193889
+      }
+    ],
+    [
+      {
+        "district": "ernakulam",
+        "date": "2021-05-14",
+        "intensity": 1.30015580180883
+      },
+      {
+        "district": "alappuzha",
+        "date": "2021-05-15",
+        "intensity": 2.627855661038152
+      },
+      {
+        "district": "pathanamthitta",
+        "date": "2021-05-16",
+        "intensity": 0.3527641298962923
+      }
+    ],
+    [
+      {
+        "district": "ernakulam",
+        "date": "2021-05-14",
+        "intensity": 1.30015580180883
+      },
+      {
+        "district": "alappuzha",
+        "date": "2021-05-15",
+        "intensity": 2.627855661038152
+      },
+      {
+        "district": "kottayam",
+        "date": "2021-05-16",
+        "intensity": 0.866317047633359
+      }
+    ],
+    [
+      {
+        "district": "ernakulam",
+        "date": "2021-05-14",
+        "intensity": 1.30015580180883
+      },
+      {
+        "district": "alappuzha",
+        "date": "2021-05-15",
+        "intensity": 2.627855661038152
+      },
+      {
+        "district": "kollam",
+        "date": "2021-05-16",
+        "intensity": 0.4593246735820704
+      }
+    ],
+    [
+      {
+        "district": "ernakulam",
+        "date": "2021-05-15",
+        "intensity": 1.1419687147628614
+      },
+      {
+        "district": "thrissur",
+        "date": "2021-05-17",
+        "intensity": 0.1770475214756266
+      }
+    ],
+    [
+      {
+        "district": "ernakulam",
+        "date": "2021-05-15",
+        "intensity": 1.1419687147628614
+      },
+      {
+        "district": "thrissur",
+        "date": "2021-05-16",
+        "intensity": 1.35384958879177
+      }
+    ],
+    [
+      {
+        "district": "ernakulam",
+        "date": "2021-05-15",
+        "intensity": 1.1419687147628614
+      },
+      {
+        "district": "kottayam",
+        "date": "2021-05-16",
+        "intensity": 0.866317047633359
+      }
+    ],
+    [
+      {
+        "district": "ernakulam",
+        "date": "2021-05-15",
+        "intensity": 1.1419687147628614
+      },
+      {
+        "district": "alappuzha",
+        "date": "2021-05-16",
+        "intensity": 1.6113240158193889
+      }
+    ],
+    [
+      {
+        "district": "ernakulam",
+        "date": "2021-05-16",
+        "intensity": 1.0481695512994729
+      },
+      {
+        "district": "thrissur",
+        "date": "2021-05-17",
+        "intensity": 0.1770475214756266
+      }
+    ]
+  ],
+  "girsomnath": [
+    [
+      {
+        "district": "girsomnath",
+        "date": "2021-05-17",
+        "intensity": 0.2750966671851807
+      }
+    ]
+  ],
+  "idukki": [
+    [
+      {
+        "district": "idukki",
+        "date": "2021-05-14",
+        "intensity": 0.4034567943770921
+      },
+      {
+        "district": "thrissur",
+        "date": "2021-05-16",
+        "intensity": 1.35384958879177
+      }
+    ],
+    [
+      {
+        "district": "idukki",
+        "date": "2021-05-14",
+        "intensity": 0.4034567943770921
+      },
+      {
+        "district": "thrissur",
+        "date": "2021-05-15",
+        "intensity": 1.331896649257935
+      },
+      {
+        "district": "palakkad",
+        "date": "2021-05-16",
+        "intensity": 0.6845544758147023
+      }
+    ],
+    [
+      {
+        "district": "idukki",
+        "date": "2021-05-14",
+        "intensity": 0.4034567943770921
+      },
+      {
+        "district": "thrissur",
+        "date": "2021-05-15",
+        "intensity": 1.331896649257935
+      },
+      {
+        "district": "malappuram",
+        "date": "2021-05-16",
+        "intensity": 0.8433939676667568
+      },
+      {
+        "district": "kozhikode",
+        "date": "2021-05-17",
+        "intensity": 0.4627542594092181
+      }
+    ],
+    [
+      {
+        "district": "idukki",
+        "date": "2021-05-14",
+        "intensity": 0.4034567943770921
+      },
+      {
+        "district": "thrissur",
+        "date": "2021-05-15",
+        "intensity": 1.331896649257935
+      },
+      {
+        "district": "ernakulam",
+        "date": "2021-05-16",
+        "intensity": 1.0481695512994729
+      }
+    ],
+    [
+      {
+        "district": "idukki",
+        "date": "2021-05-14",
+        "intensity": 0.4034567943770921
+      },
+      {
+        "district": "pathanamthitta",
+        "date": "2021-05-16",
+        "intensity": 0.3527641298962923
+      }
+    ],
+    [
+      {
+        "district": "idukki",
+        "date": "2021-05-14",
+        "intensity": 0.4034567943770921
+      },
+      {
+        "district": "pathanamthitta",
+        "date": "2021-05-15",
+        "intensity": 0.7449547629736923
+      },
+      {
+        "district": "kottayam",
+        "date": "2021-05-16",
+        "intensity": 0.866317047633359
+      }
+    ],
+    [
+      {
+        "district": "idukki",
+        "date": "2021-05-14",
+        "intensity": 0.4034567943770921
+      },
+      {
+        "district": "pathanamthitta",
+        "date": "2021-05-15",
+        "intensity": 0.7449547629736923
+      },
+      {
+        "district": "kollam",
+        "date": "2021-05-16",
+        "intensity": 0.4593246735820704
+      }
+    ],
+    [
+      {
+        "district": "idukki",
+        "date": "2021-05-14",
+        "intensity": 0.4034567943770921
+      },
+      {
+        "district": "pathanamthitta",
+        "date": "2021-05-15",
+        "intensity": 0.7449547629736923
+      },
+      {
+        "district": "alappuzha",
+        "date": "2021-05-16",
+        "intensity": 1.6113240158193889
+      }
+    ],
+    [
+      {
+        "district": "idukki",
+        "date": "2021-05-14",
+        "intensity": 0.4034567943770921
+      },
+      {
+        "district": "kottayam",
+        "date": "2021-05-16",
+        "intensity": 0.866317047633359
+      }
+    ],
+    [
+      {
+        "district": "idukki",
+        "date": "2021-05-14",
+        "intensity": 0.4034567943770921
+      },
+      {
+        "district": "kottayam",
+        "date": "2021-05-15",
+        "intensity": 1.1682448336701377
+      },
+      {
+        "district": "pathanamthitta",
+        "date": "2021-05-16",
+        "intensity": 0.3527641298962923
+      }
+    ],
+    [
+      {
+        "district": "idukki",
+        "date": "2021-05-14",
+        "intensity": 0.4034567943770921
+      },
+      {
+        "district": "kottayam",
+        "date": "2021-05-15",
+        "intensity": 1.1682448336701377
+      },
+      {
+        "district": "ernakulam",
+        "date": "2021-05-16",
+        "intensity": 1.0481695512994729
+      },
+      {
+        "district": "thrissur",
+        "date": "2021-05-17",
+        "intensity": 0.1770475214756266
+      }
+    ],
+    [
+      {
+        "district": "idukki",
+        "date": "2021-05-14",
+        "intensity": 0.4034567943770921
+      },
+      {
+        "district": "kottayam",
+        "date": "2021-05-15",
+        "intensity": 1.1682448336701377
+      },
+      {
+        "district": "alappuzha",
+        "date": "2021-05-16",
+        "intensity": 1.6113240158193889
+      }
+    ],
+    [
+      {
+        "district": "idukki",
+        "date": "2021-05-14",
+        "intensity": 0.4034567943770921
+      },
+      {
+        "district": "ernakulam",
+        "date": "2021-05-16",
+        "intensity": 1.0481695512994729
+      },
+      {
+        "district": "thrissur",
+        "date": "2021-05-17",
+        "intensity": 0.1770475214756266
+      }
+    ],
+    [
+      {
+        "district": "idukki",
+        "date": "2021-05-14",
+        "intensity": 0.4034567943770921
+      },
+      {
+        "district": "ernakulam",
+        "date": "2021-05-15",
+        "intensity": 1.1419687147628614
+      },
+      {
+        "district": "thrissur",
+        "date": "2021-05-17",
+        "intensity": 0.1770475214756266
+      }
+    ],
+    [
+      {
+        "district": "idukki",
+        "date": "2021-05-14",
+        "intensity": 0.4034567943770921
+      },
+      {
+        "district": "ernakulam",
+        "date": "2021-05-15",
+        "intensity": 1.1419687147628614
+      },
+      {
+        "district": "thrissur",
+        "date": "2021-05-16",
+        "intensity": 1.35384958879177
+      }
+    ],
+    [
+      {
+        "district": "idukki",
+        "date": "2021-05-14",
+        "intensity": 0.4034567943770921
+      },
+      {
+        "district": "ernakulam",
+        "date": "2021-05-15",
+        "intensity": 1.1419687147628614
+      },
+      {
+        "district": "kottayam",
+        "date": "2021-05-16",
+        "intensity": 0.866317047633359
+      }
+    ],
+    [
+      {
+        "district": "idukki",
+        "date": "2021-05-14",
+        "intensity": 0.4034567943770921
+      },
+      {
+        "district": "ernakulam",
+        "date": "2021-05-15",
+        "intensity": 1.1419687147628614
+      },
+      {
+        "district": "alappuzha",
+        "date": "2021-05-16",
+        "intensity": 1.6113240158193889
+      }
+    ]
+  ],
+  "kannur": [
+    [
+      {
+        "district": "kannur",
+        "date": "2021-05-14",
+        "intensity": 0.4945751556464105
+      },
+      {
+        "district": "wayanad",
+        "date": "2021-05-16",
+        "intensity": 0.5291405365361953
+      },
+      {
+        "district": "kozhikode",
+        "date": "2021-05-17",
+        "intensity": 0.4627542594092181
+      }
+    ],
+    [
+      {
+        "district": "kannur",
+        "date": "2021-05-14",
+        "intensity": 0.4945751556464105
+      },
+      {
+        "district": "wayanad",
+        "date": "2021-05-15",
+        "intensity": 0.385951671321147
+      },
+      {
+        "district": "malappuram",
+        "date": "2021-05-16",
+        "intensity": 0.8433939676667568
+      },
+      {
+        "district": "thrissur",
+        "date": "2021-05-17",
+        "intensity": 0.1770475214756266
+      }
+    ],
+    [
+      {
+        "district": "kannur",
+        "date": "2021-05-14",
+        "intensity": 0.4945751556464105
+      },
+      {
+        "district": "wayanad",
+        "date": "2021-05-15",
+        "intensity": 0.385951671321147
+      },
+      {
+        "district": "malappuram",
+        "date": "2021-05-16",
+        "intensity": 0.8433939676667568
+      },
+      {
+        "district": "kozhikode",
+        "date": "2021-05-17",
+        "intensity": 0.4627542594092181
+      }
+    ],
+    [
+      {
+        "district": "kannur",
+        "date": "2021-05-14",
+        "intensity": 0.4945751556464105
+      },
+      {
+        "district": "wayanad",
+        "date": "2021-05-15",
+        "intensity": 0.385951671321147
+      },
+      {
+        "district": "kozhikode",
+        "date": "2021-05-17",
+        "intensity": 0.4627542594092181
+      }
+    ],
+    [
+      {
+        "district": "kannur",
+        "date": "2021-05-14",
+        "intensity": 0.4945751556464105
+      },
+      {
+        "district": "wayanad",
+        "date": "2021-05-15",
+        "intensity": 0.385951671321147
+      },
+      {
+        "district": "kozhikode",
+        "date": "2021-05-16",
+        "intensity": 1.124415675470118
+      }
+    ],
+    [
+      {
+        "district": "kannur",
+        "date": "2021-05-14",
+        "intensity": 0.4945751556464105
+      },
+      {
+        "district": "wayanad",
+        "date": "2021-05-15",
+        "intensity": 0.385951671321147
+      },
+      {
+        "district": "kodagu",
+        "date": "2021-05-16",
+        "intensity": 0.2240160133490359
+      }
+    ],
+    [
+      {
+        "district": "kannur",
+        "date": "2021-05-14",
+        "intensity": 0.4945751556464105
+      },
+      {
+        "district": "mahe",
+        "date": "2021-05-16",
+        "intensity": 0.8550324464422561
+      }
+    ],
+    [
+      {
+        "district": "kannur",
+        "date": "2021-05-14",
+        "intensity": 0.4945751556464105
+      },
+      {
+        "district": "mahe",
+        "date": "2021-05-15",
+        "intensity": 0.5713831782650619
+      },
+      {
+        "district": "kasaragod",
+        "date": "2021-05-16",
+        "intensity": 0.3752149703302864
+      }
+    ],
+    [
+      {
+        "district": "kannur",
+        "date": "2021-05-14",
+        "intensity": 0.4945751556464105
+      },
+      {
+        "district": "kozhikode",
+        "date": "2021-05-16",
+        "intensity": 1.124415675470118
+      }
+    ],
+    [
+      {
+        "district": "kannur",
+        "date": "2021-05-14",
+        "intensity": 0.4945751556464105
+      },
+      {
+        "district": "kozhikode",
+        "date": "2021-05-15",
+        "intensity": 0.7744949814137096
+      },
+      {
+        "district": "wayanad",
+        "date": "2021-05-16",
+        "intensity": 0.5291405365361953
+      }
+    ],
+    [
+      {
+        "district": "kannur",
+        "date": "2021-05-14",
+        "intensity": 0.4945751556464105
+      },
+      {
+        "district": "kozhikode",
+        "date": "2021-05-15",
+        "intensity": 0.7744949814137096
+      },
+      {
+        "district": "malappuram",
+        "date": "2021-05-16",
+        "intensity": 0.8433939676667568
+      },
+      {
+        "district": "thrissur",
+        "date": "2021-05-17",
+        "intensity": 0.1770475214756266
+      }
+    ],
+    [
+      {
+        "district": "kannur",
+        "date": "2021-05-14",
+        "intensity": 0.4945751556464105
+      },
+      {
+        "district": "kodagu",
+        "date": "2021-05-16",
+        "intensity": 0.2240160133490359
+      }
+    ],
+    [
+      {
+        "district": "kannur",
+        "date": "2021-05-14",
+        "intensity": 0.4945751556464105
+      },
+      {
+        "district": "kodagu",
+        "date": "2021-05-15",
+        "intensity": 0.5173074427530722
+      },
+      {
+        "district": "wayanad",
+        "date": "2021-05-16",
+        "intensity": 0.5291405365361953
+      },
+      {
+        "district": "kozhikode",
+        "date": "2021-05-17",
+        "intensity": 0.4627542594092181
+      }
+    ],
+    [
+      {
+        "district": "kannur",
+        "date": "2021-05-14",
+        "intensity": 0.4945751556464105
+      },
+      {
+        "district": "kodagu",
+        "date": "2021-05-15",
+        "intensity": 0.5173074427530722
+      },
+      {
+        "district": "kasaragod",
+        "date": "2021-05-16",
+        "intensity": 0.3752149703302864
+      },
+      {
+        "district": "mahe",
+        "date": "2021-05-17",
+        "intensity": 0.2701181742717058
+      }
+    ],
+    [
+      {
+        "district": "kannur",
+        "date": "2021-05-14",
+        "intensity": 0.4945751556464105
+      },
+      {
+        "district": "kasaragod",
+        "date": "2021-05-16",
+        "intensity": 0.3752149703302864
+      },
+      {
+        "district": "mahe",
+        "date": "2021-05-17",
+        "intensity": 0.2701181742717058
+      }
+    ],
+    [
+      {
+        "district": "kannur",
+        "date": "2021-05-14",
+        "intensity": 0.4945751556464105
+      },
+      {
+        "district": "kasaragod",
+        "date": "2021-05-15",
+        "intensity": 0.2459333708286986
+      },
+      {
+        "district": "mahe",
+        "date": "2021-05-17",
+        "intensity": 0.2701181742717058
+      }
+    ],
+    [
+      {
+        "district": "kannur",
+        "date": "2021-05-14",
+        "intensity": 0.4945751556464105
+      },
+      {
+        "district": "kasaragod",
+        "date": "2021-05-15",
+        "intensity": 0.2459333708286986
+      },
+      {
+        "district": "mahe",
+        "date": "2021-05-16",
+        "intensity": 0.8550324464422561
+      }
+    ],
+    [
+      {
+        "district": "kannur",
+        "date": "2021-05-14",
+        "intensity": 0.4945751556464105
+      },
+      {
+        "district": "kasaragod",
+        "date": "2021-05-15",
+        "intensity": 0.2459333708286986
+      },
+      {
+        "district": "kodagu",
+        "date": "2021-05-16",
+        "intensity": 0.2240160133490359
+      }
+    ],
+    [
+      {
+        "district": "kannur",
+        "date": "2021-05-15",
+        "intensity": 0.6265510816101939
+      },
+      {
+        "district": "wayanad",
+        "date": "2021-05-16",
+        "intensity": 0.5291405365361953
+      },
+      {
+        "district": "kozhikode",
+        "date": "2021-05-17",
+        "intensity": 0.4627542594092181
+      }
+    ],
+    [
+      {
+        "district": "kannur",
+        "date": "2021-05-15",
+        "intensity": 0.6265510816101939
+      },
+      {
+        "district": "mahe",
+        "date": "2021-05-17",
+        "intensity": 0.2701181742717058
+      }
+    ],
+    [
+      {
+        "district": "kannur",
+        "date": "2021-05-15",
+        "intensity": 0.6265510816101939
+      },
+      {
+        "district": "mahe",
+        "date": "2021-05-16",
+        "intensity": 0.8550324464422561
+      }
+    ],
+    [
+      {
+        "district": "kannur",
+        "date": "2021-05-15",
+        "intensity": 0.6265510816101939
+      },
+      {
+        "district": "kozhikode",
+        "date": "2021-05-17",
+        "intensity": 0.4627542594092181
+      }
+    ],
+    [
+      {
+        "district": "kannur",
+        "date": "2021-05-15",
+        "intensity": 0.6265510816101939
+      },
+      {
+        "district": "kozhikode",
+        "date": "2021-05-16",
+        "intensity": 1.124415675470118
+      }
+    ],
+    [
+      {
+        "district": "kannur",
+        "date": "2021-05-15",
+        "intensity": 0.6265510816101939
+      },
+      {
+        "district": "kodagu",
+        "date": "2021-05-16",
+        "intensity": 0.2240160133490359
+      }
+    ],
+    [
+      {
+        "district": "kannur",
+        "date": "2021-05-15",
+        "intensity": 0.6265510816101939
+      },
+      {
+        "district": "kasaragod",
+        "date": "2021-05-16",
+        "intensity": 0.3752149703302864
+      },
+      {
+        "district": "mahe",
+        "date": "2021-05-17",
+        "intensity": 0.2701181742717058
+      }
+    ],
+    [
+      {
+        "district": "kannur",
+        "date": "2021-05-16",
+        "intensity": 0.730818894484421
+      },
+      {
+        "district": "mahe",
+        "date": "2021-05-17",
+        "intensity": 0.2701181742717058
+      }
+    ],
+    [
+      {
+        "district": "kannur",
+        "date": "2021-05-16",
+        "intensity": 0.730818894484421
+      },
+      {
+        "district": "kozhikode",
+        "date": "2021-05-17",
+        "intensity": 0.4627542594092181
+      }
+    ],
+    [
+      {
+        "district": "kannur",
+        "date": "2021-05-17",
+        "intensity": 0.2266803859954069
+      }
+    ]
+  ],
+  "kasaragod": [
+    [
+      {
+        "district": "kasaragod",
+        "date": "2021-05-14",
+        "intensity": 0.5403395592672385
+      },
+      {
+        "district": "mahe",
+        "date": "2021-05-16",
+        "intensity": 0.8550324464422561
+      },
+      {
+        "district": "kannur",
+        "date": "2021-05-17",
+        "intensity": 0.2266803859954069
+      }
+    ],
+    [
+      {
+        "district": "kasaragod",
+        "date": "2021-05-14",
+        "intensity": 0.5403395592672385
+      },
+      {
+        "district": "mahe",
+        "date": "2021-05-15",
+        "intensity": 0.5713831782650619
+      },
+      {
+        "district": "kannur",
+        "date": "2021-05-17",
+        "intensity": 0.2266803859954069
+      }
+    ],
+    [
+      {
+        "district": "kasaragod",
+        "date": "2021-05-14",
+        "intensity": 0.5403395592672385
+      },
+      {
+        "district": "mahe",
+        "date": "2021-05-15",
+        "intensity": 0.5713831782650619
+      },
+      {
+        "district": "kannur",
+        "date": "2021-05-16",
+        "intensity": 0.730818894484421
+      },
+      {
+        "district": "kozhikode",
+        "date": "2021-05-17",
+        "intensity": 0.4627542594092181
+      }
+    ],
+    [
+      {
+        "district": "kasaragod",
+        "date": "2021-05-14",
+        "intensity": 0.5403395592672385
+      },
+      {
+        "district": "kodagu",
+        "date": "2021-05-16",
+        "intensity": 0.2240160133490359
+      },
+      {
+        "district": "kannur",
+        "date": "2021-05-17",
+        "intensity": 0.2266803859954069
+      }
+    ],
+    [
+      {
+        "district": "kasaragod",
+        "date": "2021-05-14",
+        "intensity": 0.5403395592672385
+      },
+      {
+        "district": "kodagu",
+        "date": "2021-05-15",
+        "intensity": 0.5173074427530722
+      },
+      {
+        "district": "wayanad",
+        "date": "2021-05-16",
+        "intensity": 0.5291405365361953
+      },
+      {
+        "district": "kozhikode",
+        "date": "2021-05-17",
+        "intensity": 0.4627542594092181
+      }
+    ],
+    [
+      {
+        "district": "kasaragod",
+        "date": "2021-05-14",
+        "intensity": 0.5403395592672385
+      },
+      {
+        "district": "kodagu",
+        "date": "2021-05-15",
+        "intensity": 0.5173074427530722
+      },
+      {
+        "district": "wayanad",
+        "date": "2021-05-16",
+        "intensity": 0.5291405365361953
+      },
+      {
+        "district": "kannur",
+        "date": "2021-05-17",
+        "intensity": 0.2266803859954069
+      }
+    ],
+    [
+      {
+        "district": "kasaragod",
+        "date": "2021-05-14",
+        "intensity": 0.5403395592672385
+      },
+      {
+        "district": "kodagu",
+        "date": "2021-05-15",
+        "intensity": 0.5173074427530722
+      },
+      {
+        "district": "kannur",
+        "date": "2021-05-17",
+        "intensity": 0.2266803859954069
+      }
+    ],
+    [
+      {
+        "district": "kasaragod",
+        "date": "2021-05-14",
+        "intensity": 0.5403395592672385
+      },
+      {
+        "district": "kodagu",
+        "date": "2021-05-15",
+        "intensity": 0.5173074427530722
+      },
+      {
+        "district": "kannur",
+        "date": "2021-05-16",
+        "intensity": 0.730818894484421
+      },
+      {
+        "district": "mahe",
+        "date": "2021-05-17",
+        "intensity": 0.2701181742717058
+      }
+    ],
+    [
+      {
+        "district": "kasaragod",
+        "date": "2021-05-14",
+        "intensity": 0.5403395592672385
+      },
+      {
+        "district": "kodagu",
+        "date": "2021-05-15",
+        "intensity": 0.5173074427530722
+      },
+      {
+        "district": "kannur",
+        "date": "2021-05-16",
+        "intensity": 0.730818894484421
+      },
+      {
+        "district": "kozhikode",
+        "date": "2021-05-17",
+        "intensity": 0.4627542594092181
+      }
+    ],
+    [
+      {
+        "district": "kasaragod",
+        "date": "2021-05-14",
+        "intensity": 0.5403395592672385
+      },
+      {
+        "district": "kannur",
+        "date": "2021-05-16",
+        "intensity": 0.730818894484421
+      },
+      {
+        "district": "mahe",
+        "date": "2021-05-17",
+        "intensity": 0.2701181742717058
+      }
+    ],
+    [
+      {
+        "district": "kasaragod",
+        "date": "2021-05-14",
+        "intensity": 0.5403395592672385
+      },
+      {
+        "district": "kannur",
+        "date": "2021-05-16",
+        "intensity": 0.730818894484421
+      },
+      {
+        "district": "kozhikode",
+        "date": "2021-05-17",
+        "intensity": 0.4627542594092181
+      }
+    ],
+    [
+      {
+        "district": "kasaragod",
+        "date": "2021-05-14",
+        "intensity": 0.5403395592672385
+      },
+      {
+        "district": "kannur",
+        "date": "2021-05-15",
+        "intensity": 0.6265510816101939
+      },
+      {
+        "district": "wayanad",
+        "date": "2021-05-16",
+        "intensity": 0.5291405365361953
+      },
+      {
+        "district": "kozhikode",
+        "date": "2021-05-17",
+        "intensity": 0.4627542594092181
+      }
+    ],
+    [
+      {
+        "district": "kasaragod",
+        "date": "2021-05-14",
+        "intensity": 0.5403395592672385
+      },
+      {
+        "district": "kannur",
+        "date": "2021-05-15",
+        "intensity": 0.6265510816101939
+      },
+      {
+        "district": "mahe",
+        "date": "2021-05-17",
+        "intensity": 0.2701181742717058
+      }
+    ],
+    [
+      {
+        "district": "kasaragod",
+        "date": "2021-05-14",
+        "intensity": 0.5403395592672385
+      },
+      {
+        "district": "kannur",
+        "date": "2021-05-15",
+        "intensity": 0.6265510816101939
+      },
+      {
+        "district": "mahe",
+        "date": "2021-05-16",
+        "intensity": 0.8550324464422561
+      }
+    ],
+    [
+      {
+        "district": "kasaragod",
+        "date": "2021-05-14",
+        "intensity": 0.5403395592672385
+      },
+      {
+        "district": "kannur",
+        "date": "2021-05-15",
+        "intensity": 0.6265510816101939
+      },
+      {
+        "district": "kozhikode",
+        "date": "2021-05-17",
+        "intensity": 0.4627542594092181
+      }
+    ],
+    [
+      {
+        "district": "kasaragod",
+        "date": "2021-05-14",
+        "intensity": 0.5403395592672385
+      },
+      {
+        "district": "kannur",
+        "date": "2021-05-15",
+        "intensity": 0.6265510816101939
+      },
+      {
+        "district": "kozhikode",
+        "date": "2021-05-16",
+        "intensity": 1.124415675470118
+      }
+    ],
+    [
+      {
+        "district": "kasaragod",
+        "date": "2021-05-14",
+        "intensity": 0.5403395592672385
+      },
+      {
+        "district": "kannur",
+        "date": "2021-05-15",
+        "intensity": 0.6265510816101939
+      },
+      {
+        "district": "kodagu",
+        "date": "2021-05-16",
+        "intensity": 0.2240160133490359
+      }
+    ],
+    [
+      {
+        "district": "kasaragod",
+        "date": "2021-05-14",
+        "intensity": 0.5403395592672385
+      },
+      {
+        "district": "dakshinakannada",
+        "date": "2021-05-15",
+        "intensity": 0.3491313553433848
+      },
+      {
+        "district": "kodagu",
+        "date": "2021-05-16",
+        "intensity": 0.2240160133490359
+      },
+      {
+        "district": "kannur",
+        "date": "2021-05-17",
+        "intensity": 0.2266803859954069
+      }
+    ],
+    [
+      {
+        "district": "kasaragod",
+        "date": "2021-05-15",
+        "intensity": 0.2459333708286986
+      },
+      {
+        "district": "mahe",
+        "date": "2021-05-17",
+        "intensity": 0.2701181742717058
+      }
+    ],
+    [
+      {
+        "district": "kasaragod",
+        "date": "2021-05-15",
+        "intensity": 0.2459333708286986
+      },
+      {
+        "district": "mahe",
+        "date": "2021-05-16",
+        "intensity": 0.8550324464422561
+      },
+      {
+        "district": "kannur",
+        "date": "2021-05-17",
+        "intensity": 0.2266803859954069
+      }
+    ],
+    [
+      {
+        "district": "kasaragod",
+        "date": "2021-05-15",
+        "intensity": 0.2459333708286986
+      },
+      {
+        "district": "kodagu",
+        "date": "2021-05-16",
+        "intensity": 0.2240160133490359
+      },
+      {
+        "district": "kannur",
+        "date": "2021-05-17",
+        "intensity": 0.2266803859954069
+      }
+    ],
+    [
+      {
+        "district": "kasaragod",
+        "date": "2021-05-15",
+        "intensity": 0.2459333708286986
+      },
+      {
+        "district": "kannur",
+        "date": "2021-05-17",
+        "intensity": 0.2266803859954069
+      }
+    ],
+    [
+      {
+        "district": "kasaragod",
+        "date": "2021-05-15",
+        "intensity": 0.2459333708286986
+      },
+      {
+        "district": "kannur",
+        "date": "2021-05-16",
+        "intensity": 0.730818894484421
+      },
+      {
+        "district": "mahe",
+        "date": "2021-05-17",
+        "intensity": 0.2701181742717058
+      }
+    ],
+    [
+      {
+        "district": "kasaragod",
+        "date": "2021-05-15",
+        "intensity": 0.2459333708286986
+      },
+      {
+        "district": "kannur",
+        "date": "2021-05-16",
+        "intensity": 0.730818894484421
+      },
+      {
+        "district": "kozhikode",
+        "date": "2021-05-17",
+        "intensity": 0.4627542594092181
+      }
+    ],
+    [
+      {
+        "district": "kasaragod",
+        "date": "2021-05-16",
+        "intensity": 0.3752149703302864
+      },
+      {
+        "district": "mahe",
+        "date": "2021-05-17",
+        "intensity": 0.2701181742717058
+      }
+    ],
+    [
+      {
+        "district": "kasaragod",
+        "date": "2021-05-16",
+        "intensity": 0.3752149703302864
+      },
+      {
+        "district": "kannur",
+        "date": "2021-05-17",
+        "intensity": 0.2266803859954069
+      }
+    ]
+  ],
+  "kheda": [
+    [
+      {
+        "district": "kheda",
+        "date": "2021-05-18",
+        "intensity": 0.1853521378454241
+      }
+    ]
+  ],
+  "kodagu": [
+    [
+      {
+        "district": "kodagu",
+        "date": "2021-05-15",
+        "intensity": 0.5173074427530722
+      },
+      {
+        "district": "wayanad",
+        "date": "2021-05-16",
+        "intensity": 0.5291405365361953
+      },
+      {
+        "district": "kozhikode",
+        "date": "2021-05-17",
+        "intensity": 0.4627542594092181
+      }
+    ],
+    [
+      {
+        "district": "kodagu",
+        "date": "2021-05-15",
+        "intensity": 0.5173074427530722
+      },
+      {
+        "district": "wayanad",
+        "date": "2021-05-16",
+        "intensity": 0.5291405365361953
+      },
+      {
+        "district": "kannur",
+        "date": "2021-05-17",
+        "intensity": 0.2266803859954069
+      }
+    ],
+    [
+      {
+        "district": "kodagu",
+        "date": "2021-05-15",
+        "intensity": 0.5173074427530722
+      },
+      {
+        "district": "kasaragod",
+        "date": "2021-05-16",
+        "intensity": 0.3752149703302864
+      },
+      {
+        "district": "mahe",
+        "date": "2021-05-17",
+        "intensity": 0.2701181742717058
+      }
+    ],
+    [
+      {
+        "district": "kodagu",
+        "date": "2021-05-15",
+        "intensity": 0.5173074427530722
+      },
+      {
+        "district": "kasaragod",
+        "date": "2021-05-16",
+        "intensity": 0.3752149703302864
+      },
+      {
+        "district": "kannur",
+        "date": "2021-05-17",
+        "intensity": 0.2266803859954069
+      }
+    ],
+    [
+      {
+        "district": "kodagu",
+        "date": "2021-05-15",
+        "intensity": 0.5173074427530722
+      },
+      {
+        "district": "kannur",
+        "date": "2021-05-17",
+        "intensity": 0.2266803859954069
+      }
+    ],
+    [
+      {
+        "district": "kodagu",
+        "date": "2021-05-15",
+        "intensity": 0.5173074427530722
+      },
+      {
+        "district": "kannur",
+        "date": "2021-05-16",
+        "intensity": 0.730818894484421
+      },
+      {
+        "district": "mahe",
+        "date": "2021-05-17",
+        "intensity": 0.2701181742717058
+      }
+    ],
+    [
+      {
+        "district": "kodagu",
+        "date": "2021-05-15",
+        "intensity": 0.5173074427530722
+      },
+      {
+        "district": "kannur",
+        "date": "2021-05-16",
+        "intensity": 0.730818894484421
+      },
+      {
+        "district": "kozhikode",
+        "date": "2021-05-17",
+        "intensity": 0.4627542594092181
+      }
+    ],
+    [
+      {
+        "district": "kodagu",
+        "date": "2021-05-16",
+        "intensity": 0.2240160133490359
+      },
+      {
+        "district": "kannur",
+        "date": "2021-05-17",
+        "intensity": 0.2266803859954069
+      }
+    ]
+  ],
+  "kolhapur": [
+    [
+      {
+        "district": "kolhapur",
+        "date": "2021-05-16",
+        "intensity": 0.2689107944721799
+      },
+      {
+        "district": "ratnagiri",
+        "date": "2021-05-17",
+        "intensity": 0.1816848097051083
+      }
+    ]
+  ],
+  "kollam": [
+    [
+      {
+        "district": "kollam",
+        "date": "2021-05-13",
+        "intensity": 0.8299639677263421
+      },
+      {
+        "district": "pathanamthitta",
+        "date": "2021-05-15",
+        "intensity": 0.7449547629736923
+      },
+      {
+        "district": "kottayam",
+        "date": "2021-05-16",
+        "intensity": 0.866317047633359
+      }
+    ],
+    [
+      {
+        "district": "kollam",
+        "date": "2021-05-13",
+        "intensity": 0.8299639677263421
+      },
+      {
+        "district": "pathanamthitta",
+        "date": "2021-05-15",
+        "intensity": 0.7449547629736923
+      },
+      {
+        "district": "alappuzha",
+        "date": "2021-05-16",
+        "intensity": 1.6113240158193889
+      }
+    ],
+    [
+      {
+        "district": "kollam",
+        "date": "2021-05-13",
+        "intensity": 0.8299639677263421
+      },
+      {
+        "district": "pathanamthitta",
+        "date": "2021-05-14",
+        "intensity": 1.1474374421363271
+      },
+      {
+        "district": "kottayam",
+        "date": "2021-05-16",
+        "intensity": 0.866317047633359
+      }
+    ],
+    [
+      {
+        "district": "kollam",
+        "date": "2021-05-13",
+        "intensity": 0.8299639677263421
+      },
+      {
+        "district": "pathanamthitta",
+        "date": "2021-05-14",
+        "intensity": 1.1474374421363271
+      },
+      {
+        "district": "kottayam",
+        "date": "2021-05-15",
+        "intensity": 1.1682448336701377
+      },
+      {
+        "district": "ernakulam",
+        "date": "2021-05-16",
+        "intensity": 1.0481695512994729
+      },
+      {
+        "district": "thrissur",
+        "date": "2021-05-17",
+        "intensity": 0.1770475214756266
+      }
+    ],
+    [
+      {
+        "district": "kollam",
+        "date": "2021-05-13",
+        "intensity": 0.8299639677263421
+      },
+      {
+        "district": "pathanamthitta",
+        "date": "2021-05-14",
+        "intensity": 1.1474374421363271
+      },
+      {
+        "district": "kottayam",
+        "date": "2021-05-15",
+        "intensity": 1.1682448336701377
+      },
+      {
+        "district": "alappuzha",
+        "date": "2021-05-16",
+        "intensity": 1.6113240158193889
+      }
+    ],
+    [
+      {
+        "district": "kollam",
+        "date": "2021-05-13",
+        "intensity": 0.8299639677263421
+      },
+      {
+        "district": "pathanamthitta",
+        "date": "2021-05-14",
+        "intensity": 1.1474374421363271
+      },
+      {
+        "district": "alappuzha",
+        "date": "2021-05-16",
+        "intensity": 1.6113240158193889
+      }
+    ],
+    [
+      {
+        "district": "kollam",
+        "date": "2021-05-13",
+        "intensity": 0.8299639677263421
+      },
+      {
+        "district": "pathanamthitta",
+        "date": "2021-05-14",
+        "intensity": 1.1474374421363271
+      },
+      {
+        "district": "alappuzha",
+        "date": "2021-05-15",
+        "intensity": 2.627855661038152
+      },
+      {
+        "district": "kottayam",
+        "date": "2021-05-16",
+        "intensity": 0.866317047633359
+      }
+    ],
+    [
+      {
+        "district": "kollam",
+        "date": "2021-05-13",
+        "intensity": 0.8299639677263421
+      },
+      {
+        "district": "pathanamthitta",
+        "date": "2021-05-14",
+        "intensity": 1.1474374421363271
+      },
+      {
+        "district": "alappuzha",
+        "date": "2021-05-15",
+        "intensity": 2.627855661038152
+      },
+      {
+        "district": "ernakulam",
+        "date": "2021-05-16",
+        "intensity": 1.0481695512994729
+      },
+      {
+        "district": "thrissur",
+        "date": "2021-05-17",
+        "intensity": 0.1770475214756266
+      }
+    ],
+    [
+      {
+        "district": "kollam",
+        "date": "2021-05-13",
+        "intensity": 0.8299639677263421
+      },
+      {
+        "district": "alappuzha",
+        "date": "2021-05-15",
+        "intensity": 2.627855661038152
+      },
+      {
+        "district": "pathanamthitta",
+        "date": "2021-05-16",
+        "intensity": 0.3527641298962923
+      }
+    ],
+    [
+      {
+        "district": "kollam",
+        "date": "2021-05-13",
+        "intensity": 0.8299639677263421
+      },
+      {
+        "district": "alappuzha",
+        "date": "2021-05-15",
+        "intensity": 2.627855661038152
+      },
+      {
+        "district": "kottayam",
+        "date": "2021-05-16",
+        "intensity": 0.866317047633359
+      }
+    ],
+    [
+      {
+        "district": "kollam",
+        "date": "2021-05-13",
+        "intensity": 0.8299639677263421
+      },
+      {
+        "district": "alappuzha",
+        "date": "2021-05-15",
+        "intensity": 2.627855661038152
+      },
+      {
+        "district": "ernakulam",
+        "date": "2021-05-16",
+        "intensity": 1.0481695512994729
+      },
+      {
+        "district": "thrissur",
+        "date": "2021-05-17",
+        "intensity": 0.1770475214756266
+      }
+    ],
+    [
+      {
+        "district": "kollam",
+        "date": "2021-05-13",
+        "intensity": 0.8299639677263421
+      },
+      {
+        "district": "alappuzha",
+        "date": "2021-05-14",
+        "intensity": 2.9351849852716456
+      },
+      {
+        "district": "pathanamthitta",
+        "date": "2021-05-16",
+        "intensity": 0.3527641298962923
+      }
+    ],
+    [
+      {
+        "district": "kollam",
+        "date": "2021-05-13",
+        "intensity": 0.8299639677263421
+      },
+      {
+        "district": "alappuzha",
+        "date": "2021-05-14",
+        "intensity": 2.9351849852716456
+      },
+      {
+        "district": "pathanamthitta",
+        "date": "2021-05-15",
+        "intensity": 0.7449547629736923
+      },
+      {
+        "district": "kottayam",
+        "date": "2021-05-16",
+        "intensity": 0.866317047633359
+      }
+    ],
+    [
+      {
+        "district": "kollam",
+        "date": "2021-05-13",
+        "intensity": 0.8299639677263421
+      },
+      {
+        "district": "alappuzha",
+        "date": "2021-05-14",
+        "intensity": 2.9351849852716456
+      },
+      {
+        "district": "kottayam",
+        "date": "2021-05-16",
+        "intensity": 0.866317047633359
+      }
+    ],
+    [
+      {
+        "district": "kollam",
+        "date": "2021-05-13",
+        "intensity": 0.8299639677263421
+      },
+      {
+        "district": "alappuzha",
+        "date": "2021-05-14",
+        "intensity": 2.9351849852716456
+      },
+      {
+        "district": "kottayam",
+        "date": "2021-05-15",
+        "intensity": 1.1682448336701377
+      },
+      {
+        "district": "pathanamthitta",
+        "date": "2021-05-16",
+        "intensity": 0.3527641298962923
+      }
+    ],
+    [
+      {
+        "district": "kollam",
+        "date": "2021-05-13",
+        "intensity": 0.8299639677263421
+      },
+      {
+        "district": "alappuzha",
+        "date": "2021-05-14",
+        "intensity": 2.9351849852716456
+      },
+      {
+        "district": "kottayam",
+        "date": "2021-05-15",
+        "intensity": 1.1682448336701377
+      },
+      {
+        "district": "ernakulam",
+        "date": "2021-05-16",
+        "intensity": 1.0481695512994729
+      },
+      {
+        "district": "thrissur",
+        "date": "2021-05-17",
+        "intensity": 0.1770475214756266
+      }
+    ],
+    [
+      {
+        "district": "kollam",
+        "date": "2021-05-13",
+        "intensity": 0.8299639677263421
+      },
+      {
+        "district": "alappuzha",
+        "date": "2021-05-14",
+        "intensity": 2.9351849852716456
+      },
+      {
+        "district": "ernakulam",
+        "date": "2021-05-16",
+        "intensity": 1.0481695512994729
+      },
+      {
+        "district": "thrissur",
+        "date": "2021-05-17",
+        "intensity": 0.1770475214756266
+      }
+    ],
+    [
+      {
+        "district": "kollam",
+        "date": "2021-05-13",
+        "intensity": 0.8299639677263421
+      },
+      {
+        "district": "alappuzha",
+        "date": "2021-05-14",
+        "intensity": 2.9351849852716456
+      },
+      {
+        "district": "ernakulam",
+        "date": "2021-05-15",
+        "intensity": 1.1419687147628614
+      },
+      {
+        "district": "thrissur",
+        "date": "2021-05-17",
+        "intensity": 0.1770475214756266
+      }
+    ],
+    [
+      {
+        "district": "kollam",
+        "date": "2021-05-13",
+        "intensity": 0.8299639677263421
+      },
+      {
+        "district": "alappuzha",
+        "date": "2021-05-14",
+        "intensity": 2.9351849852716456
+      },
+      {
+        "district": "ernakulam",
+        "date": "2021-05-15",
+        "intensity": 1.1419687147628614
+      },
+      {
+        "district": "thrissur",
+        "date": "2021-05-16",
+        "intensity": 1.35384958879177
+      }
+    ],
+    [
+      {
+        "district": "kollam",
+        "date": "2021-05-13",
+        "intensity": 0.8299639677263421
+      },
+      {
+        "district": "alappuzha",
+        "date": "2021-05-14",
+        "intensity": 2.9351849852716456
+      },
+      {
+        "district": "ernakulam",
+        "date": "2021-05-15",
+        "intensity": 1.1419687147628614
+      },
+      {
+        "district": "kottayam",
+        "date": "2021-05-16",
+        "intensity": 0.866317047633359
+      }
+    ],
+    [
+      {
+        "district": "kollam",
+        "date": "2021-05-14",
+        "intensity": 1.2961284938909188
+      },
+      {
+        "district": "pathanamthitta",
+        "date": "2021-05-16",
+        "intensity": 0.3527641298962923
+      }
+    ],
+    [
+      {
+        "district": "kollam",
+        "date": "2021-05-14",
+        "intensity": 1.2961284938909188
+      },
+      {
+        "district": "pathanamthitta",
+        "date": "2021-05-15",
+        "intensity": 0.7449547629736923
+      },
+      {
+        "district": "kottayam",
+        "date": "2021-05-16",
+        "intensity": 0.866317047633359
+      }
+    ],
+    [
+      {
+        "district": "kollam",
+        "date": "2021-05-14",
+        "intensity": 1.2961284938909188
+      },
+      {
+        "district": "pathanamthitta",
+        "date": "2021-05-15",
+        "intensity": 0.7449547629736923
+      },
+      {
+        "district": "alappuzha",
+        "date": "2021-05-16",
+        "intensity": 1.6113240158193889
+      }
+    ],
+    [
+      {
+        "district": "kollam",
+        "date": "2021-05-14",
+        "intensity": 1.2961284938909188
+      },
+      {
+        "district": "alappuzha",
+        "date": "2021-05-16",
+        "intensity": 1.6113240158193889
+      }
+    ],
+    [
+      {
+        "district": "kollam",
+        "date": "2021-05-14",
+        "intensity": 1.2961284938909188
+      },
+      {
+        "district": "alappuzha",
+        "date": "2021-05-15",
+        "intensity": 2.627855661038152
+      },
+      {
+        "district": "pathanamthitta",
+        "date": "2021-05-16",
+        "intensity": 0.3527641298962923
+      }
+    ],
+    [
+      {
+        "district": "kollam",
+        "date": "2021-05-14",
+        "intensity": 1.2961284938909188
+      },
+      {
+        "district": "alappuzha",
+        "date": "2021-05-15",
+        "intensity": 2.627855661038152
+      },
+      {
+        "district": "kottayam",
+        "date": "2021-05-16",
+        "intensity": 0.866317047633359
+      }
+    ],
+    [
+      {
+        "district": "kollam",
+        "date": "2021-05-14",
+        "intensity": 1.2961284938909188
+      },
+      {
+        "district": "alappuzha",
+        "date": "2021-05-15",
+        "intensity": 2.627855661038152
+      },
+      {
+        "district": "ernakulam",
+        "date": "2021-05-16",
+        "intensity": 1.0481695512994729
+      },
+      {
+        "district": "thrissur",
+        "date": "2021-05-17",
+        "intensity": 0.1770475214756266
+      }
+    ],
+    [
+      {
+        "district": "kollam",
+        "date": "2021-05-15",
+        "intensity": 0.9728500668119382
+      },
+      {
+        "district": "pathanamthitta",
+        "date": "2021-05-16",
+        "intensity": 0.3527641298962923
+      }
+    ],
+    [
+      {
+        "district": "kollam",
+        "date": "2021-05-15",
+        "intensity": 0.9728500668119382
+      },
+      {
+        "district": "alappuzha",
+        "date": "2021-05-16",
+        "intensity": 1.6113240158193889
+      }
+    ],
+    [
+      {
+        "district": "kollam",
+        "date": "2021-05-16",
+        "intensity": 0.4593246735820704
+      }
+    ]
+  ],
+  "kottayam": [
+    [
+      {
+        "district": "kottayam",
+        "date": "2021-05-13",
+        "intensity": 0.7893916114312596
+      },
+      {
+        "district": "pathanamthitta",
+        "date": "2021-05-15",
+        "intensity": 0.7449547629736923
+      },
+      {
+        "district": "kollam",
+        "date": "2021-05-16",
+        "intensity": 0.4593246735820704
+      }
+    ],
+    [
+      {
+        "district": "kottayam",
+        "date": "2021-05-13",
+        "intensity": 0.7893916114312596
+      },
+      {
+        "district": "pathanamthitta",
+        "date": "2021-05-15",
+        "intensity": 0.7449547629736923
+      },
+      {
+        "district": "alappuzha",
+        "date": "2021-05-16",
+        "intensity": 1.6113240158193889
+      }
+    ],
+    [
+      {
+        "district": "kottayam",
+        "date": "2021-05-13",
+        "intensity": 0.7893916114312596
+      },
+      {
+        "district": "pathanamthitta",
+        "date": "2021-05-14",
+        "intensity": 1.1474374421363271
+      },
+      {
+        "district": "kollam",
+        "date": "2021-05-16",
+        "intensity": 0.4593246735820704
+      }
+    ],
+    [
+      {
+        "district": "kottayam",
+        "date": "2021-05-13",
+        "intensity": 0.7893916114312596
+      },
+      {
+        "district": "pathanamthitta",
+        "date": "2021-05-14",
+        "intensity": 1.1474374421363271
+      },
+      {
+        "district": "kollam",
+        "date": "2021-05-15",
+        "intensity": 0.9728500668119382
+      },
+      {
+        "district": "alappuzha",
+        "date": "2021-05-16",
+        "intensity": 1.6113240158193889
+      }
+    ],
+    [
+      {
+        "district": "kottayam",
+        "date": "2021-05-13",
+        "intensity": 0.7893916114312596
+      },
+      {
+        "district": "pathanamthitta",
+        "date": "2021-05-14",
+        "intensity": 1.1474374421363271
+      },
+      {
+        "district": "alappuzha",
+        "date": "2021-05-16",
+        "intensity": 1.6113240158193889
+      }
+    ],
+    [
+      {
+        "district": "kottayam",
+        "date": "2021-05-13",
+        "intensity": 0.7893916114312596
+      },
+      {
+        "district": "pathanamthitta",
+        "date": "2021-05-14",
+        "intensity": 1.1474374421363271
+      },
+      {
+        "district": "alappuzha",
+        "date": "2021-05-15",
+        "intensity": 2.627855661038152
+      },
+      {
+        "district": "kollam",
+        "date": "2021-05-16",
+        "intensity": 0.4593246735820704
+      }
+    ],
+    [
+      {
+        "district": "kottayam",
+        "date": "2021-05-13",
+        "intensity": 0.7893916114312596
+      },
+      {
+        "district": "pathanamthitta",
+        "date": "2021-05-14",
+        "intensity": 1.1474374421363271
+      },
+      {
+        "district": "alappuzha",
+        "date": "2021-05-15",
+        "intensity": 2.627855661038152
+      },
+      {
+        "district": "ernakulam",
+        "date": "2021-05-16",
+        "intensity": 1.0481695512994729
+      },
+      {
+        "district": "thrissur",
+        "date": "2021-05-17",
+        "intensity": 0.1770475214756266
+      }
+    ],
+    [
+      {
+        "district": "kottayam",
+        "date": "2021-05-13",
+        "intensity": 0.7893916114312596
+      },
+      {
+        "district": "idukki",
+        "date": "2021-05-14",
+        "intensity": 0.4034567943770921
+      },
+      {
+        "district": "thrissur",
+        "date": "2021-05-16",
+        "intensity": 1.35384958879177
+      }
+    ],
+    [
+      {
+        "district": "kottayam",
+        "date": "2021-05-13",
+        "intensity": 0.7893916114312596
+      },
+      {
+        "district": "idukki",
+        "date": "2021-05-14",
+        "intensity": 0.4034567943770921
+      },
+      {
+        "district": "thrissur",
+        "date": "2021-05-15",
+        "intensity": 1.331896649257935
+      },
+      {
+        "district": "palakkad",
+        "date": "2021-05-16",
+        "intensity": 0.6845544758147023
+      }
+    ],
+    [
+      {
+        "district": "kottayam",
+        "date": "2021-05-13",
+        "intensity": 0.7893916114312596
+      },
+      {
+        "district": "idukki",
+        "date": "2021-05-14",
+        "intensity": 0.4034567943770921
+      },
+      {
+        "district": "thrissur",
+        "date": "2021-05-15",
+        "intensity": 1.331896649257935
+      },
+      {
+        "district": "malappuram",
+        "date": "2021-05-16",
+        "intensity": 0.8433939676667568
+      },
+      {
+        "district": "kozhikode",
+        "date": "2021-05-17",
+        "intensity": 0.4627542594092181
+      }
+    ],
+    [
+      {
+        "district": "kottayam",
+        "date": "2021-05-13",
+        "intensity": 0.7893916114312596
+      },
+      {
+        "district": "idukki",
+        "date": "2021-05-14",
+        "intensity": 0.4034567943770921
+      },
+      {
+        "district": "thrissur",
+        "date": "2021-05-15",
+        "intensity": 1.331896649257935
+      },
+      {
+        "district": "ernakulam",
+        "date": "2021-05-16",
+        "intensity": 1.0481695512994729
+      }
+    ],
+    [
+      {
+        "district": "kottayam",
+        "date": "2021-05-13",
+        "intensity": 0.7893916114312596
+      },
+      {
+        "district": "idukki",
+        "date": "2021-05-14",
+        "intensity": 0.4034567943770921
+      },
+      {
+        "district": "pathanamthitta",
+        "date": "2021-05-16",
+        "intensity": 0.3527641298962923
+      }
+    ],
+    [
+      {
+        "district": "kottayam",
+        "date": "2021-05-13",
+        "intensity": 0.7893916114312596
+      },
+      {
+        "district": "idukki",
+        "date": "2021-05-14",
+        "intensity": 0.4034567943770921
+      },
+      {
+        "district": "pathanamthitta",
+        "date": "2021-05-15",
+        "intensity": 0.7449547629736923
+      },
+      {
+        "district": "kollam",
+        "date": "2021-05-16",
+        "intensity": 0.4593246735820704
+      }
+    ],
+    [
+      {
+        "district": "kottayam",
+        "date": "2021-05-13",
+        "intensity": 0.7893916114312596
+      },
+      {
+        "district": "idukki",
+        "date": "2021-05-14",
+        "intensity": 0.4034567943770921
+      },
+      {
+        "district": "pathanamthitta",
+        "date": "2021-05-15",
+        "intensity": 0.7449547629736923
+      },
+      {
+        "district": "alappuzha",
+        "date": "2021-05-16",
+        "intensity": 1.6113240158193889
+      }
+    ],
+    [
+      {
+        "district": "kottayam",
+        "date": "2021-05-13",
+        "intensity": 0.7893916114312596
+      },
+      {
+        "district": "idukki",
+        "date": "2021-05-14",
+        "intensity": 0.4034567943770921
+      },
+      {
+        "district": "ernakulam",
+        "date": "2021-05-16",
+        "intensity": 1.0481695512994729
+      },
+      {
+        "district": "thrissur",
+        "date": "2021-05-17",
+        "intensity": 0.1770475214756266
+      }
+    ],
+    [
+      {
+        "district": "kottayam",
+        "date": "2021-05-13",
+        "intensity": 0.7893916114312596
+      },
+      {
+        "district": "idukki",
+        "date": "2021-05-14",
+        "intensity": 0.4034567943770921
+      },
+      {
+        "district": "ernakulam",
+        "date": "2021-05-15",
+        "intensity": 1.1419687147628614
+      },
+      {
+        "district": "thrissur",
+        "date": "2021-05-17",
+        "intensity": 0.1770475214756266
+      }
+    ],
+    [
+      {
+        "district": "kottayam",
+        "date": "2021-05-13",
+        "intensity": 0.7893916114312596
+      },
+      {
+        "district": "idukki",
+        "date": "2021-05-14",
+        "intensity": 0.4034567943770921
+      },
+      {
+        "district": "ernakulam",
+        "date": "2021-05-15",
+        "intensity": 1.1419687147628614
+      },
+      {
+        "district": "thrissur",
+        "date": "2021-05-16",
+        "intensity": 1.35384958879177
+      }
+    ],
+    [
+      {
+        "district": "kottayam",
+        "date": "2021-05-13",
+        "intensity": 0.7893916114312596
+      },
+      {
+        "district": "idukki",
+        "date": "2021-05-14",
+        "intensity": 0.4034567943770921
+      },
+      {
+        "district": "ernakulam",
+        "date": "2021-05-15",
+        "intensity": 1.1419687147628614
+      },
+      {
+        "district": "alappuzha",
+        "date": "2021-05-16",
+        "intensity": 1.6113240158193889
+      }
+    ],
+    [
+      {
+        "district": "kottayam",
+        "date": "2021-05-13",
+        "intensity": 0.7893916114312596
+      },
+      {
+        "district": "ernakulam",
+        "date": "2021-05-15",
+        "intensity": 1.1419687147628614
+      },
+      {
+        "district": "thrissur",
+        "date": "2021-05-17",
+        "intensity": 0.1770475214756266
+      }
+    ],
+    [
+      {
+        "district": "kottayam",
+        "date": "2021-05-13",
+        "intensity": 0.7893916114312596
+      },
+      {
+        "district": "ernakulam",
+        "date": "2021-05-15",
+        "intensity": 1.1419687147628614
+      },
+      {
+        "district": "thrissur",
+        "date": "2021-05-16",
+        "intensity": 1.35384958879177
+      }
+    ],
+    [
+      {
+        "district": "kottayam",
+        "date": "2021-05-13",
+        "intensity": 0.7893916114312596
+      },
+      {
+        "district": "ernakulam",
+        "date": "2021-05-15",
+        "intensity": 1.1419687147628614
+      },
+      {
+        "district": "alappuzha",
+        "date": "2021-05-16",
+        "intensity": 1.6113240158193889
+      }
+    ],
+    [
+      {
+        "district": "kottayam",
+        "date": "2021-05-13",
+        "intensity": 0.7893916114312596
+      },
+      {
+        "district": "ernakulam",
+        "date": "2021-05-14",
+        "intensity": 1.30015580180883
+      },
+      {
+        "district": "thrissur",
+        "date": "2021-05-16",
+        "intensity": 1.35384958879177
+      }
+    ],
+    [
+      {
+        "district": "kottayam",
+        "date": "2021-05-13",
+        "intensity": 0.7893916114312596
+      },
+      {
+        "district": "ernakulam",
+        "date": "2021-05-14",
+        "intensity": 1.30015580180883
+      },
+      {
+        "district": "thrissur",
+        "date": "2021-05-15",
+        "intensity": 1.331896649257935
+      },
+      {
+        "district": "palakkad",
+        "date": "2021-05-16",
+        "intensity": 0.6845544758147023
+      }
+    ],
+    [
+      {
+        "district": "kottayam",
+        "date": "2021-05-13",
+        "intensity": 0.7893916114312596
+      },
+      {
+        "district": "ernakulam",
+        "date": "2021-05-14",
+        "intensity": 1.30015580180883
+      },
+      {
+        "district": "thrissur",
+        "date": "2021-05-15",
+        "intensity": 1.331896649257935
+      },
+      {
+        "district": "malappuram",
+        "date": "2021-05-16",
+        "intensity": 0.8433939676667568
+      },
+      {
+        "district": "kozhikode",
+        "date": "2021-05-17",
+        "intensity": 0.4627542594092181
+      }
+    ],
+    [
+      {
+        "district": "kottayam",
+        "date": "2021-05-13",
+        "intensity": 0.7893916114312596
+      },
+      {
+        "district": "ernakulam",
+        "date": "2021-05-14",
+        "intensity": 1.30015580180883
+      },
+      {
+        "district": "alappuzha",
+        "date": "2021-05-16",
+        "intensity": 1.6113240158193889
+      }
+    ],
+    [
+      {
+        "district": "kottayam",
+        "date": "2021-05-13",
+        "intensity": 0.7893916114312596
+      },
+      {
+        "district": "ernakulam",
+        "date": "2021-05-14",
+        "intensity": 1.30015580180883
+      },
+      {
+        "district": "alappuzha",
+        "date": "2021-05-15",
+        "intensity": 2.627855661038152
+      },
+      {
+        "district": "pathanamthitta",
+        "date": "2021-05-16",
+        "intensity": 0.3527641298962923
+      }
+    ],
+    [
+      {
+        "district": "kottayam",
+        "date": "2021-05-13",
+        "intensity": 0.7893916114312596
+      },
+      {
+        "district": "ernakulam",
+        "date": "2021-05-14",
+        "intensity": 1.30015580180883
+      },
+      {
+        "district": "alappuzha",
+        "date": "2021-05-15",
+        "intensity": 2.627855661038152
+      },
+      {
+        "district": "kollam",
+        "date": "2021-05-16",
+        "intensity": 0.4593246735820704
+      }
+    ],
+    [
+      {
+        "district": "kottayam",
+        "date": "2021-05-13",
+        "intensity": 0.7893916114312596
+      },
+      {
+        "district": "alappuzha",
+        "date": "2021-05-15",
+        "intensity": 2.627855661038152
+      },
+      {
+        "district": "pathanamthitta",
+        "date": "2021-05-16",
+        "intensity": 0.3527641298962923
+      }
+    ],
+    [
+      {
+        "district": "kottayam",
+        "date": "2021-05-13",
+        "intensity": 0.7893916114312596
+      },
+      {
+        "district": "alappuzha",
+        "date": "2021-05-15",
+        "intensity": 2.627855661038152
+      },
+      {
+        "district": "kollam",
+        "date": "2021-05-16",
+        "intensity": 0.4593246735820704
+      }
+    ],
+    [
+      {
+        "district": "kottayam",
+        "date": "2021-05-13",
+        "intensity": 0.7893916114312596
+      },
+      {
+        "district": "alappuzha",
+        "date": "2021-05-15",
+        "intensity": 2.627855661038152
+      },
+      {
+        "district": "ernakulam",
+        "date": "2021-05-16",
+        "intensity": 1.0481695512994729
+      },
+      {
+        "district": "thrissur",
+        "date": "2021-05-17",
+        "intensity": 0.1770475214756266
+      }
+    ],
+    [
+      {
+        "district": "kottayam",
+        "date": "2021-05-13",
+        "intensity": 0.7893916114312596
+      },
+      {
+        "district": "alappuzha",
+        "date": "2021-05-14",
+        "intensity": 2.9351849852716456
+      },
+      {
+        "district": "pathanamthitta",
+        "date": "2021-05-16",
+        "intensity": 0.3527641298962923
+      }
+    ],
+    [
+      {
+        "district": "kottayam",
+        "date": "2021-05-13",
+        "intensity": 0.7893916114312596
+      },
+      {
+        "district": "alappuzha",
+        "date": "2021-05-14",
+        "intensity": 2.9351849852716456
+      },
+      {
+        "district": "pathanamthitta",
+        "date": "2021-05-15",
+        "intensity": 0.7449547629736923
+      },
+      {
+        "district": "kollam",
+        "date": "2021-05-16",
+        "intensity": 0.4593246735820704
+      }
+    ],
+    [
+      {
+        "district": "kottayam",
+        "date": "2021-05-13",
+        "intensity": 0.7893916114312596
+      },
+      {
+        "district": "alappuzha",
+        "date": "2021-05-14",
+        "intensity": 2.9351849852716456
+      },
+      {
+        "district": "kollam",
+        "date": "2021-05-16",
+        "intensity": 0.4593246735820704
+      }
+    ],
+    [
+      {
+        "district": "kottayam",
+        "date": "2021-05-13",
+        "intensity": 0.7893916114312596
+      },
+      {
+        "district": "alappuzha",
+        "date": "2021-05-14",
+        "intensity": 2.9351849852716456
+      },
+      {
+        "district": "kollam",
+        "date": "2021-05-15",
+        "intensity": 0.9728500668119382
+      },
+      {
+        "district": "pathanamthitta",
+        "date": "2021-05-16",
+        "intensity": 0.3527641298962923
+      }
+    ],
+    [
+      {
+        "district": "kottayam",
+        "date": "2021-05-13",
+        "intensity": 0.7893916114312596
+      },
+      {
+        "district": "alappuzha",
+        "date": "2021-05-14",
+        "intensity": 2.9351849852716456
+      },
+      {
+        "district": "ernakulam",
+        "date": "2021-05-16",
+        "intensity": 1.0481695512994729
+      },
+      {
+        "district": "thrissur",
+        "date": "2021-05-17",
+        "intensity": 0.1770475214756266
+      }
+    ],
+    [
+      {
+        "district": "kottayam",
+        "date": "2021-05-13",
+        "intensity": 0.7893916114312596
+      },
+      {
+        "district": "alappuzha",
+        "date": "2021-05-14",
+        "intensity": 2.9351849852716456
+      },
+      {
+        "district": "ernakulam",
+        "date": "2021-05-15",
+        "intensity": 1.1419687147628614
+      },
+      {
+        "district": "thrissur",
+        "date": "2021-05-17",
+        "intensity": 0.1770475214756266
+      }
+    ],
+    [
+      {
+        "district": "kottayam",
+        "date": "2021-05-13",
+        "intensity": 0.7893916114312596
+      },
+      {
+        "district": "alappuzha",
+        "date": "2021-05-14",
+        "intensity": 2.9351849852716456
+      },
+      {
+        "district": "ernakulam",
+        "date": "2021-05-15",
+        "intensity": 1.1419687147628614
+      },
+      {
+        "district": "thrissur",
+        "date": "2021-05-16",
+        "intensity": 1.35384958879177
+      }
+    ],
+    [
+      {
+        "district": "kottayam",
+        "date": "2021-05-14",
+        "intensity": 1.5362282061056016
+      },
+      {
+        "district": "pathanamthitta",
+        "date": "2021-05-16",
+        "intensity": 0.3527641298962923
+      }
+    ],
+    [
+      {
+        "district": "kottayam",
+        "date": "2021-05-14",
+        "intensity": 1.5362282061056016
+      },
+      {
+        "district": "pathanamthitta",
+        "date": "2021-05-15",
+        "intensity": 0.7449547629736923
+      },
+      {
+        "district": "kollam",
+        "date": "2021-05-16",
+        "intensity": 0.4593246735820704
+      }
+    ],
+    [
+      {
+        "district": "kottayam",
+        "date": "2021-05-14",
+        "intensity": 1.5362282061056016
+      },
+      {
+        "district": "pathanamthitta",
+        "date": "2021-05-15",
+        "intensity": 0.7449547629736923
+      },
+      {
+        "district": "alappuzha",
+        "date": "2021-05-16",
+        "intensity": 1.6113240158193889
+      }
+    ],
+    [
+      {
+        "district": "kottayam",
+        "date": "2021-05-14",
+        "intensity": 1.5362282061056016
+      },
+      {
+        "district": "ernakulam",
+        "date": "2021-05-16",
+        "intensity": 1.0481695512994729
+      },
+      {
+        "district": "thrissur",
+        "date": "2021-05-17",
+        "intensity": 0.1770475214756266
+      }
+    ],
+    [
+      {
+        "district": "kottayam",
+        "date": "2021-05-14",
+        "intensity": 1.5362282061056016
+      },
+      {
+        "district": "ernakulam",
+        "date": "2021-05-15",
+        "intensity": 1.1419687147628614
+      },
+      {
+        "district": "thrissur",
+        "date": "2021-05-17",
+        "intensity": 0.1770475214756266
+      }
+    ],
+    [
+      {
+        "district": "kottayam",
+        "date": "2021-05-14",
+        "intensity": 1.5362282061056016
+      },
+      {
+        "district": "ernakulam",
+        "date": "2021-05-15",
+        "intensity": 1.1419687147628614
+      },
+      {
+        "district": "thrissur",
+        "date": "2021-05-16",
+        "intensity": 1.35384958879177
+      }
+    ],
+    [
+      {
+        "district": "kottayam",
+        "date": "2021-05-14",
+        "intensity": 1.5362282061056016
+      },
+      {
+        "district": "ernakulam",
+        "date": "2021-05-15",
+        "intensity": 1.1419687147628614
+      },
+      {
+        "district": "alappuzha",
+        "date": "2021-05-16",
+        "intensity": 1.6113240158193889
+      }
+    ],
+    [
+      {
+        "district": "kottayam",
+        "date": "2021-05-14",
+        "intensity": 1.5362282061056016
+      },
+      {
+        "district": "alappuzha",
+        "date": "2021-05-16",
+        "intensity": 1.6113240158193889
+      }
+    ],
+    [
+      {
+        "district": "kottayam",
+        "date": "2021-05-14",
+        "intensity": 1.5362282061056016
+      },
+      {
+        "district": "alappuzha",
+        "date": "2021-05-15",
+        "intensity": 2.627855661038152
+      },
+      {
+        "district": "pathanamthitta",
+        "date": "2021-05-16",
+        "intensity": 0.3527641298962923
+      }
+    ],
+    [
+      {
+        "district": "kottayam",
+        "date": "2021-05-14",
+        "intensity": 1.5362282061056016
+      },
+      {
+        "district": "alappuzha",
+        "date": "2021-05-15",
+        "intensity": 2.627855661038152
+      },
+      {
+        "district": "kollam",
+        "date": "2021-05-16",
+        "intensity": 0.4593246735820704
+      }
+    ],
+    [
+      {
+        "district": "kottayam",
+        "date": "2021-05-14",
+        "intensity": 1.5362282061056016
+      },
+      {
+        "district": "alappuzha",
+        "date": "2021-05-15",
+        "intensity": 2.627855661038152
+      },
+      {
+        "district": "ernakulam",
+        "date": "2021-05-16",
+        "intensity": 1.0481695512994729
+      },
+      {
+        "district": "thrissur",
+        "date": "2021-05-17",
+        "intensity": 0.1770475214756266
+      }
+    ],
+    [
+      {
+        "district": "kottayam",
+        "date": "2021-05-15",
+        "intensity": 1.1682448336701377
+      },
+      {
+        "district": "pathanamthitta",
+        "date": "2021-05-16",
+        "intensity": 0.3527641298962923
+      }
+    ],
+    [
+      {
+        "district": "kottayam",
+        "date": "2021-05-15",
+        "intensity": 1.1682448336701377
+      },
+      {
+        "district": "ernakulam",
+        "date": "2021-05-16",
+        "intensity": 1.0481695512994729
+      },
+      {
+        "district": "thrissur",
+        "date": "2021-05-17",
+        "intensity": 0.1770475214756266
+      }
+    ],
+    [
+      {
+        "district": "kottayam",
+        "date": "2021-05-15",
+        "intensity": 1.1682448336701377
+      },
+      {
+        "district": "alappuzha",
+        "date": "2021-05-16",
+        "intensity": 1.6113240158193889
+      }
+    ],
+    [
+      {
+        "district": "kottayam",
+        "date": "2021-05-16",
+        "intensity": 0.866317047633359
+      }
+    ]
+  ],
+  "kozhikode": [
+    [
+      {
+        "district": "kozhikode",
+        "date": "2021-05-14",
+        "intensity": 0.7784573025278699
+      },
+      {
+        "district": "wayanad",
+        "date": "2021-05-16",
+        "intensity": 0.5291405365361953
+      },
+      {
+        "district": "kannur",
+        "date": "2021-05-17",
+        "intensity": 0.2266803859954069
+      }
+    ],
+    [
+      {
+        "district": "kozhikode",
+        "date": "2021-05-14",
+        "intensity": 0.7784573025278699
+      },
+      {
+        "district": "wayanad",
+        "date": "2021-05-15",
+        "intensity": 0.385951671321147
+      },
+      {
+        "district": "malappuram",
+        "date": "2021-05-16",
+        "intensity": 0.8433939676667568
+      },
+      {
+        "district": "thrissur",
+        "date": "2021-05-17",
+        "intensity": 0.1770475214756266
+      }
+    ],
+    [
+      {
+        "district": "kozhikode",
+        "date": "2021-05-14",
+        "intensity": 0.7784573025278699
+      },
+      {
+        "district": "wayanad",
+        "date": "2021-05-15",
+        "intensity": 0.385951671321147
+      },
+      {
+        "district": "kodagu",
+        "date": "2021-05-16",
+        "intensity": 0.2240160133490359
+      },
+      {
+        "district": "kannur",
+        "date": "2021-05-17",
+        "intensity": 0.2266803859954069
+      }
+    ],
+    [
+      {
+        "district": "kozhikode",
+        "date": "2021-05-14",
+        "intensity": 0.7784573025278699
+      },
+      {
+        "district": "wayanad",
+        "date": "2021-05-15",
+        "intensity": 0.385951671321147
+      },
+      {
+        "district": "kannur",
+        "date": "2021-05-17",
+        "intensity": 0.2266803859954069
+      }
+    ],
+    [
+      {
+        "district": "kozhikode",
+        "date": "2021-05-14",
+        "intensity": 0.7784573025278699
+      },
+      {
+        "district": "wayanad",
+        "date": "2021-05-15",
+        "intensity": 0.385951671321147
+      },
+      {
+        "district": "kannur",
+        "date": "2021-05-16",
+        "intensity": 0.730818894484421
+      },
+      {
+        "district": "mahe",
+        "date": "2021-05-17",
+        "intensity": 0.2701181742717058
+      }
+    ],
+    [
+      {
+        "district": "kozhikode",
+        "date": "2021-05-14",
+        "intensity": 0.7784573025278699
+      },
+      {
+        "district": "malappuram",
+        "date": "2021-05-16",
+        "intensity": 0.8433939676667568
+      },
+      {
+        "district": "thrissur",
+        "date": "2021-05-17",
+        "intensity": 0.1770475214756266
+      }
+    ],
+    [
+      {
+        "district": "kozhikode",
+        "date": "2021-05-14",
+        "intensity": 0.7784573025278699
+      },
+      {
+        "district": "malappuram",
+        "date": "2021-05-15",
+        "intensity": 0.5965610882129113
+      },
+      {
+        "district": "wayanad",
+        "date": "2021-05-16",
+        "intensity": 0.5291405365361953
+      },
+      {
+        "district": "kannur",
+        "date": "2021-05-17",
+        "intensity": 0.2266803859954069
+      }
+    ],
+    [
+      {
+        "district": "kozhikode",
+        "date": "2021-05-14",
+        "intensity": 0.7784573025278699
+      },
+      {
+        "district": "malappuram",
+        "date": "2021-05-15",
+        "intensity": 0.5965610882129113
+      },
+      {
+        "district": "thrissur",
+        "date": "2021-05-17",
+        "intensity": 0.1770475214756266
+      }
+    ],
+    [
+      {
+        "district": "kozhikode",
+        "date": "2021-05-14",
+        "intensity": 0.7784573025278699
+      },
+      {
+        "district": "malappuram",
+        "date": "2021-05-15",
+        "intensity": 0.5965610882129113
+      },
+      {
+        "district": "thrissur",
+        "date": "2021-05-16",
+        "intensity": 1.35384958879177
+      }
+    ],
+    [
+      {
+        "district": "kozhikode",
+        "date": "2021-05-14",
+        "intensity": 0.7784573025278699
+      },
+      {
+        "district": "malappuram",
+        "date": "2021-05-15",
+        "intensity": 0.5965610882129113
+      },
+      {
+        "district": "palakkad",
+        "date": "2021-05-16",
+        "intensity": 0.6845544758147023
+      },
+      {
+        "district": "thrissur",
+        "date": "2021-05-17",
+        "intensity": 0.1770475214756266
+      }
+    ],
+    [
+      {
+        "district": "kozhikode",
+        "date": "2021-05-14",
+        "intensity": 0.7784573025278699
+      },
+      {
+        "district": "kannur",
+        "date": "2021-05-16",
+        "intensity": 0.730818894484421
+      },
+      {
+        "district": "mahe",
+        "date": "2021-05-17",
+        "intensity": 0.2701181742717058
+      }
+    ],
+    [
+      {
+        "district": "kozhikode",
+        "date": "2021-05-14",
+        "intensity": 0.7784573025278699
+      },
+      {
+        "district": "kannur",
+        "date": "2021-05-15",
+        "intensity": 0.6265510816101939
+      },
+      {
+        "district": "wayanad",
+        "date": "2021-05-16",
+        "intensity": 0.5291405365361953
+      }
+    ],
+    [
+      {
+        "district": "kozhikode",
+        "date": "2021-05-14",
+        "intensity": 0.7784573025278699
+      },
+      {
+        "district": "kannur",
+        "date": "2021-05-15",
+        "intensity": 0.6265510816101939
+      },
+      {
+        "district": "mahe",
+        "date": "2021-05-17",
+        "intensity": 0.2701181742717058
+      }
+    ],
+    [
+      {
+        "district": "kozhikode",
+        "date": "2021-05-14",
+        "intensity": 0.7784573025278699
+      },
+      {
+        "district": "kannur",
+        "date": "2021-05-15",
+        "intensity": 0.6265510816101939
+      },
+      {
+        "district": "mahe",
+        "date": "2021-05-16",
+        "intensity": 0.8550324464422561
+      }
+    ],
+    [
+      {
+        "district": "kozhikode",
+        "date": "2021-05-14",
+        "intensity": 0.7784573025278699
+      },
+      {
+        "district": "kannur",
+        "date": "2021-05-15",
+        "intensity": 0.6265510816101939
+      },
+      {
+        "district": "kodagu",
+        "date": "2021-05-16",
+        "intensity": 0.2240160133490359
+      }
+    ],
+    [
+      {
+        "district": "kozhikode",
+        "date": "2021-05-14",
+        "intensity": 0.7784573025278699
+      },
+      {
+        "district": "kannur",
+        "date": "2021-05-15",
+        "intensity": 0.6265510816101939
+      },
+      {
+        "district": "kasaragod",
+        "date": "2021-05-16",
+        "intensity": 0.3752149703302864
+      },
+      {
+        "district": "mahe",
+        "date": "2021-05-17",
+        "intensity": 0.2701181742717058
+      }
+    ],
+    [
+      {
+        "district": "kozhikode",
+        "date": "2021-05-15",
+        "intensity": 0.7744949814137096
+      },
+      {
+        "district": "wayanad",
+        "date": "2021-05-16",
+        "intensity": 0.5291405365361953
+      },
+      {
+        "district": "kannur",
+        "date": "2021-05-17",
+        "intensity": 0.2266803859954069
+      }
+    ],
+    [
+      {
+        "district": "kozhikode",
+        "date": "2021-05-15",
+        "intensity": 0.7744949814137096
+      },
+      {
+        "district": "malappuram",
+        "date": "2021-05-16",
+        "intensity": 0.8433939676667568
+      },
+      {
+        "district": "thrissur",
+        "date": "2021-05-17",
+        "intensity": 0.1770475214756266
+      }
+    ],
+    [
+      {
+        "district": "kozhikode",
+        "date": "2021-05-15",
+        "intensity": 0.7744949814137096
+      },
+      {
+        "district": "kannur",
+        "date": "2021-05-17",
+        "intensity": 0.2266803859954069
+      }
+    ],
+    [
+      {
+        "district": "kozhikode",
+        "date": "2021-05-15",
+        "intensity": 0.7744949814137096
+      },
+      {
+        "district": "kannur",
+        "date": "2021-05-16",
+        "intensity": 0.730818894484421
+      },
+      {
+        "district": "mahe",
+        "date": "2021-05-17",
+        "intensity": 0.2701181742717058
+      }
+    ],
+    [
+      {
+        "district": "kozhikode",
+        "date": "2021-05-16",
+        "intensity": 1.124415675470118
+      },
+      {
+        "district": "kannur",
+        "date": "2021-05-17",
+        "intensity": 0.2266803859954069
+      }
+    ],
+    [
+      {
+        "district": "kozhikode",
+        "date": "2021-05-17",
+        "intensity": 0.4627542594092181
+      }
+    ]
+  ],
+  "mahe": [
+    [
+      {
+        "district": "mahe",
+        "date": "2021-05-14",
+        "intensity": 0.9474752029387437
+      },
+      {
+        "district": "kasaragod",
+        "date": "2021-05-16",
+        "intensity": 0.3752149703302864
+      },
+      {
+        "district": "kannur",
+        "date": "2021-05-17",
+        "intensity": 0.2266803859954069
+      }
+    ],
+    [
+      {
+        "district": "mahe",
+        "date": "2021-05-14",
+        "intensity": 0.9474752029387437
+      },
+      {
+        "district": "kasaragod",
+        "date": "2021-05-15",
+        "intensity": 0.2459333708286986
+      },
+      {
+        "district": "kodagu",
+        "date": "2021-05-16",
+        "intensity": 0.2240160133490359
+      },
+      {
+        "district": "kannur",
+        "date": "2021-05-17",
+        "intensity": 0.2266803859954069
+      }
+    ],
+    [
+      {
+        "district": "mahe",
+        "date": "2021-05-14",
+        "intensity": 0.9474752029387437
+      },
+      {
+        "district": "kasaragod",
+        "date": "2021-05-15",
+        "intensity": 0.2459333708286986
+      },
+      {
+        "district": "kannur",
+        "date": "2021-05-17",
+        "intensity": 0.2266803859954069
+      }
+    ],
+    [
+      {
+        "district": "mahe",
+        "date": "2021-05-14",
+        "intensity": 0.9474752029387437
+      },
+      {
+        "district": "kasaragod",
+        "date": "2021-05-15",
+        "intensity": 0.2459333708286986
+      },
+      {
+        "district": "kannur",
+        "date": "2021-05-16",
+        "intensity": 0.730818894484421
+      },
+      {
+        "district": "kozhikode",
+        "date": "2021-05-17",
+        "intensity": 0.4627542594092181
+      }
+    ],
+    [
+      {
+        "district": "mahe",
+        "date": "2021-05-14",
+        "intensity": 0.9474752029387437
+      },
+      {
+        "district": "kannur",
+        "date": "2021-05-16",
+        "intensity": 0.730818894484421
+      },
+      {
+        "district": "kozhikode",
+        "date": "2021-05-17",
+        "intensity": 0.4627542594092181
+      }
+    ],
+    [
+      {
+        "district": "mahe",
+        "date": "2021-05-14",
+        "intensity": 0.9474752029387437
+      },
+      {
+        "district": "kannur",
+        "date": "2021-05-15",
+        "intensity": 0.6265510816101939
+      },
+      {
+        "district": "wayanad",
+        "date": "2021-05-16",
+        "intensity": 0.5291405365361953
+      },
+      {
+        "district": "kozhikode",
+        "date": "2021-05-17",
+        "intensity": 0.4627542594092181
+      }
+    ],
+    [
+      {
+        "district": "mahe",
+        "date": "2021-05-14",
+        "intensity": 0.9474752029387437
+      },
+      {
+        "district": "kannur",
+        "date": "2021-05-15",
+        "intensity": 0.6265510816101939
+      },
+      {
+        "district": "kozhikode",
+        "date": "2021-05-17",
+        "intensity": 0.4627542594092181
+      }
+    ],
+    [
+      {
+        "district": "mahe",
+        "date": "2021-05-14",
+        "intensity": 0.9474752029387437
+      },
+      {
+        "district": "kannur",
+        "date": "2021-05-15",
+        "intensity": 0.6265510816101939
+      },
+      {
+        "district": "kozhikode",
+        "date": "2021-05-16",
+        "intensity": 1.124415675470118
+      }
+    ],
+    [
+      {
+        "district": "mahe",
+        "date": "2021-05-14",
+        "intensity": 0.9474752029387437
+      },
+      {
+        "district": "kannur",
+        "date": "2021-05-15",
+        "intensity": 0.6265510816101939
+      },
+      {
+        "district": "kodagu",
+        "date": "2021-05-16",
+        "intensity": 0.2240160133490359
+      }
+    ],
+    [
+      {
+        "district": "mahe",
+        "date": "2021-05-14",
+        "intensity": 0.9474752029387437
+      },
+      {
+        "district": "kannur",
+        "date": "2021-05-15",
+        "intensity": 0.6265510816101939
+      },
+      {
+        "district": "kasaragod",
+        "date": "2021-05-16",
+        "intensity": 0.3752149703302864
+      }
+    ],
+    [
+      {
+        "district": "mahe",
+        "date": "2021-05-15",
+        "intensity": 0.5713831782650619
+      },
+      {
+        "district": "kasaragod",
+        "date": "2021-05-16",
+        "intensity": 0.3752149703302864
+      },
+      {
+        "district": "kannur",
+        "date": "2021-05-17",
+        "intensity": 0.2266803859954069
+      }
+    ],
+    [
+      {
+        "district": "mahe",
+        "date": "2021-05-15",
+        "intensity": 0.5713831782650619
+      },
+      {
+        "district": "kannur",
+        "date": "2021-05-17",
+        "intensity": 0.2266803859954069
+      }
+    ],
+    [
+      {
+        "district": "mahe",
+        "date": "2021-05-15",
+        "intensity": 0.5713831782650619
+      },
+      {
+        "district": "kannur",
+        "date": "2021-05-16",
+        "intensity": 0.730818894484421
+      },
+      {
+        "district": "kozhikode",
+        "date": "2021-05-17",
+        "intensity": 0.4627542594092181
+      }
+    ],
+    [
+      {
+        "district": "mahe",
+        "date": "2021-05-16",
+        "intensity": 0.8550324464422561
+      },
+      {
+        "district": "kannur",
+        "date": "2021-05-17",
+        "intensity": 0.2266803859954069
+      }
+    ],
+    [
+      {
+        "district": "mahe",
+        "date": "2021-05-17",
+        "intensity": 0.2701181742717058
+      }
+    ]
+  ],
+  "malappuram": [
+    [
+      {
+        "district": "malappuram",
+        "date": "2021-05-14",
+        "intensity": 1.42979136012079
+      },
+      {
+        "district": "wayanad",
+        "date": "2021-05-16",
+        "intensity": 0.5291405365361953
+      },
+      {
+        "district": "kozhikode",
+        "date": "2021-05-17",
+        "intensity": 0.4627542594092181
+      }
+    ],
+    [
+      {
+        "district": "malappuram",
+        "date": "2021-05-14",
+        "intensity": 1.42979136012079
+      },
+      {
+        "district": "wayanad",
+        "date": "2021-05-16",
+        "intensity": 0.5291405365361953
+      },
+      {
+        "district": "kannur",
+        "date": "2021-05-17",
+        "intensity": 0.2266803859954069
+      }
+    ],
+    [
+      {
+        "district": "malappuram",
+        "date": "2021-05-14",
+        "intensity": 1.42979136012079
+      },
+      {
+        "district": "wayanad",
+        "date": "2021-05-15",
+        "intensity": 0.385951671321147
+      },
+      {
+        "district": "kozhikode",
+        "date": "2021-05-17",
+        "intensity": 0.4627542594092181
+      }
+    ],
+    [
+      {
+        "district": "malappuram",
+        "date": "2021-05-14",
+        "intensity": 1.42979136012079
+      },
+      {
+        "district": "wayanad",
+        "date": "2021-05-15",
+        "intensity": 0.385951671321147
+      },
+      {
+        "district": "kozhikode",
+        "date": "2021-05-16",
+        "intensity": 1.124415675470118
+      },
+      {
+        "district": "kannur",
+        "date": "2021-05-17",
+        "intensity": 0.2266803859954069
+      }
+    ],
+    [
+      {
+        "district": "malappuram",
+        "date": "2021-05-14",
+        "intensity": 1.42979136012079
+      },
+      {
+        "district": "wayanad",
+        "date": "2021-05-15",
+        "intensity": 0.385951671321147
+      },
+      {
+        "district": "kodagu",
+        "date": "2021-05-16",
+        "intensity": 0.2240160133490359
+      },
+      {
+        "district": "kannur",
+        "date": "2021-05-17",
+        "intensity": 0.2266803859954069
+      }
+    ],
+    [
+      {
+        "district": "malappuram",
+        "date": "2021-05-14",
+        "intensity": 1.42979136012079
+      },
+      {
+        "district": "wayanad",
+        "date": "2021-05-15",
+        "intensity": 0.385951671321147
+      },
+      {
+        "district": "kannur",
+        "date": "2021-05-17",
+        "intensity": 0.2266803859954069
+      }
+    ],
+    [
+      {
+        "district": "malappuram",
+        "date": "2021-05-14",
+        "intensity": 1.42979136012079
+      },
+      {
+        "district": "wayanad",
+        "date": "2021-05-15",
+        "intensity": 0.385951671321147
+      },
+      {
+        "district": "kannur",
+        "date": "2021-05-16",
+        "intensity": 0.730818894484421
+      },
+      {
+        "district": "mahe",
+        "date": "2021-05-17",
+        "intensity": 0.2701181742717058
+      }
+    ],
+    [
+      {
+        "district": "malappuram",
+        "date": "2021-05-14",
+        "intensity": 1.42979136012079
+      },
+      {
+        "district": "wayanad",
+        "date": "2021-05-15",
+        "intensity": 0.385951671321147
+      },
+      {
+        "district": "kannur",
+        "date": "2021-05-16",
+        "intensity": 0.730818894484421
+      },
+      {
+        "district": "kozhikode",
+        "date": "2021-05-17",
+        "intensity": 0.4627542594092181
+      }
+    ],
+    [
+      {
+        "district": "malappuram",
+        "date": "2021-05-14",
+        "intensity": 1.42979136012079
+      },
+      {
+        "district": "thrissur",
+        "date": "2021-05-16",
+        "intensity": 1.35384958879177
+      }
+    ],
+    [
+      {
+        "district": "malappuram",
+        "date": "2021-05-14",
+        "intensity": 1.42979136012079
+      },
+      {
+        "district": "thrissur",
+        "date": "2021-05-15",
+        "intensity": 1.331896649257935
+      },
+      {
+        "district": "palakkad",
+        "date": "2021-05-16",
+        "intensity": 0.6845544758147023
+      }
+    ],
+    [
+      {
+        "district": "malappuram",
+        "date": "2021-05-14",
+        "intensity": 1.42979136012079
+      },
+      {
+        "district": "thrissur",
+        "date": "2021-05-15",
+        "intensity": 1.331896649257935
+      },
+      {
+        "district": "ernakulam",
+        "date": "2021-05-16",
+        "intensity": 1.0481695512994729
+      }
+    ],
+    [
+      {
+        "district": "malappuram",
+        "date": "2021-05-14",
+        "intensity": 1.42979136012079
+      },
+      {
+        "district": "palakkad",
+        "date": "2021-05-16",
+        "intensity": 0.6845544758147023
+      },
+      {
+        "district": "thrissur",
+        "date": "2021-05-17",
+        "intensity": 0.1770475214756266
+      }
+    ],
+    [
+      {
+        "district": "malappuram",
+        "date": "2021-05-14",
+        "intensity": 1.42979136012079
+      },
+      {
+        "district": "palakkad",
+        "date": "2021-05-15",
+        "intensity": 0.4496091430612595
+      },
+      {
+        "district": "thrissur",
+        "date": "2021-05-17",
+        "intensity": 0.1770475214756266
+      }
+    ],
+    [
+      {
+        "district": "malappuram",
+        "date": "2021-05-14",
+        "intensity": 1.42979136012079
+      },
+      {
+        "district": "palakkad",
+        "date": "2021-05-15",
+        "intensity": 0.4496091430612595
+      },
+      {
+        "district": "thrissur",
+        "date": "2021-05-16",
+        "intensity": 1.35384958879177
+      }
+    ],
+    [
+      {
+        "district": "malappuram",
+        "date": "2021-05-14",
+        "intensity": 1.42979136012079
+      },
+      {
+        "district": "kozhikode",
+        "date": "2021-05-16",
+        "intensity": 1.124415675470118
+      },
+      {
+        "district": "kannur",
+        "date": "2021-05-17",
+        "intensity": 0.2266803859954069
+      }
+    ],
+    [
+      {
+        "district": "malappuram",
+        "date": "2021-05-14",
+        "intensity": 1.42979136012079
+      },
+      {
+        "district": "kozhikode",
+        "date": "2021-05-15",
+        "intensity": 0.7744949814137096
+      },
+      {
+        "district": "wayanad",
+        "date": "2021-05-16",
+        "intensity": 0.5291405365361953
+      },
+      {
+        "district": "kannur",
+        "date": "2021-05-17",
+        "intensity": 0.2266803859954069
+      }
+    ],
+    [
+      {
+        "district": "malappuram",
+        "date": "2021-05-14",
+        "intensity": 1.42979136012079
+      },
+      {
+        "district": "kozhikode",
+        "date": "2021-05-15",
+        "intensity": 0.7744949814137096
+      },
+      {
+        "district": "kannur",
+        "date": "2021-05-17",
+        "intensity": 0.2266803859954069
+      }
+    ],
+    [
+      {
+        "district": "malappuram",
+        "date": "2021-05-14",
+        "intensity": 1.42979136012079
+      },
+      {
+        "district": "kozhikode",
+        "date": "2021-05-15",
+        "intensity": 0.7744949814137096
+      },
+      {
+        "district": "kannur",
+        "date": "2021-05-16",
+        "intensity": 0.730818894484421
+      },
+      {
+        "district": "mahe",
+        "date": "2021-05-17",
+        "intensity": 0.2701181742717058
+      }
+    ],
+    [
+      {
+        "district": "malappuram",
+        "date": "2021-05-15",
+        "intensity": 0.5965610882129113
+      },
+      {
+        "district": "wayanad",
+        "date": "2021-05-16",
+        "intensity": 0.5291405365361953
+      },
+      {
+        "district": "kozhikode",
+        "date": "2021-05-17",
+        "intensity": 0.4627542594092181
+      }
+    ],
+    [
+      {
+        "district": "malappuram",
+        "date": "2021-05-15",
+        "intensity": 0.5965610882129113
+      },
+      {
+        "district": "wayanad",
+        "date": "2021-05-16",
+        "intensity": 0.5291405365361953
+      },
+      {
+        "district": "kannur",
+        "date": "2021-05-17",
+        "intensity": 0.2266803859954069
+      }
+    ],
+    [
+      {
+        "district": "malappuram",
+        "date": "2021-05-15",
+        "intensity": 0.5965610882129113
+      },
+      {
+        "district": "thrissur",
+        "date": "2021-05-17",
+        "intensity": 0.1770475214756266
+      }
+    ],
+    [
+      {
+        "district": "malappuram",
+        "date": "2021-05-15",
+        "intensity": 0.5965610882129113
+      },
+      {
+        "district": "thrissur",
+        "date": "2021-05-16",
+        "intensity": 1.35384958879177
+      }
+    ],
+    [
+      {
+        "district": "malappuram",
+        "date": "2021-05-15",
+        "intensity": 0.5965610882129113
+      },
+      {
+        "district": "palakkad",
+        "date": "2021-05-16",
+        "intensity": 0.6845544758147023
+      },
+      {
+        "district": "thrissur",
+        "date": "2021-05-17",
+        "intensity": 0.1770475214756266
+      }
+    ],
+    [
+      {
+        "district": "malappuram",
+        "date": "2021-05-15",
+        "intensity": 0.5965610882129113
+      },
+      {
+        "district": "kozhikode",
+        "date": "2021-05-17",
+        "intensity": 0.4627542594092181
+      }
+    ],
+    [
+      {
+        "district": "malappuram",
+        "date": "2021-05-15",
+        "intensity": 0.5965610882129113
+      },
+      {
+        "district": "kozhikode",
+        "date": "2021-05-16",
+        "intensity": 1.124415675470118
+      },
+      {
+        "district": "kannur",
+        "date": "2021-05-17",
+        "intensity": 0.2266803859954069
+      }
+    ],
+    [
+      {
+        "district": "malappuram",
+        "date": "2021-05-16",
+        "intensity": 0.8433939676667568
+      },
+      {
+        "district": "thrissur",
+        "date": "2021-05-17",
+        "intensity": 0.1770475214756266
+      }
+    ],
+    [
+      {
+        "district": "malappuram",
+        "date": "2021-05-16",
+        "intensity": 0.8433939676667568
+      },
+      {
+        "district": "kozhikode",
+        "date": "2021-05-17",
+        "intensity": 0.4627542594092181
+      }
+    ]
+  ],
+  "mumbaisuburban": [
+    [
+      {
+        "district": "mumbaisuburban",
+        "date": "2021-05-17",
+        "intensity": 1.5253167195668282
+      },
+      {
+        "district": "palghar",
+        "date": "2021-05-19",
+        "intensity": 0.4741422367799591
+      }
+    ],
+    [
+      {
+        "district": "mumbaisuburban",
+        "date": "2021-05-17",
+        "intensity": 1.5253167195668282
+      },
+      {
+        "district": "palghar",
+        "date": "2021-05-18",
+        "intensity": 0.5669631565941865
+      },
+      {
+        "district": "valsad",
+        "date": "2021-05-19",
+        "intensity": 0.3142905293008326
+      }
+    ],
+    [
+      {
+        "district": "mumbaisuburban",
+        "date": "2021-05-18",
+        "intensity": 0.5871624751828791
+      },
+      {
+        "district": "palghar",
+        "date": "2021-05-19",
+        "intensity": 0.4741422367799591
+      }
+    ],
+    [
+      {
+        "district": "mumbaisuburban",
+        "date": "2021-05-19",
+        "intensity": 0.3290175552487883
+      }
+    ]
+  ],
+  "navsari": [
+    [
+      {
+        "district": "navsari",
+        "date": "2021-05-17",
+        "intensity": 0.6547020048574808
+      },
+      {
+        "district": "valsad",
+        "date": "2021-05-19",
+        "intensity": 0.3142905293008326
+      }
+    ],
+    [
+      {
+        "district": "navsari",
+        "date": "2021-05-17",
+        "intensity": 0.6547020048574808
+      },
+      {
+        "district": "valsad",
+        "date": "2021-05-18",
+        "intensity": 0.5194438925689401
+      },
+      {
+        "district": "palghar",
+        "date": "2021-05-19",
+        "intensity": 0.4741422367799591
+      }
+    ],
+    [
+      {
+        "district": "navsari",
+        "date": "2021-05-17",
+        "intensity": 0.6547020048574808
+      },
+      {
+        "district": "valsad",
+        "date": "2021-05-18",
+        "intensity": 0.5194438925689401
+      },
+      {
+        "district": "daman",
+        "date": "2021-05-19",
+        "intensity": 0.6180394794584172
+      }
+    ],
+    [
+      {
+        "district": "navsari",
+        "date": "2021-05-17",
+        "intensity": 0.6547020048574808
+      },
+      {
+        "district": "surat",
+        "date": "2021-05-18",
+        "intensity": 0.1847668844362813
+      }
+    ],
+    [
+      {
+        "district": "navsari",
+        "date": "2021-05-18",
+        "intensity": 0.381213027929304
+      },
+      {
+        "district": "valsad",
+        "date": "2021-05-19",
+        "intensity": 0.3142905293008326
+      }
+    ],
+    [
+      {
+        "district": "navsari",
+        "date": "2021-05-19",
+        "intensity": 0.185669087946797
+      }
+    ]
+  ],
+  "northgoa": [
+    [
+      {
+        "district": "northgoa",
+        "date": "2021-05-16",
+        "intensity": 0.5196831498771586
+      }
+    ]
+  ],
+  "palakkad": [
+    [
+      {
+        "district": "palakkad",
+        "date": "2021-05-14",
+        "intensity": 1.0944521432753076
+      },
+      {
+        "district": "thrissur",
+        "date": "2021-05-16",
+        "intensity": 1.35384958879177
+      }
+    ],
+    [
+      {
+        "district": "palakkad",
+        "date": "2021-05-14",
+        "intensity": 1.0944521432753076
+      },
+      {
+        "district": "thrissur",
+        "date": "2021-05-15",
+        "intensity": 1.331896649257935
+      },
+      {
+        "district": "malappuram",
+        "date": "2021-05-16",
+        "intensity": 0.8433939676667568
+      },
+      {
+        "district": "kozhikode",
+        "date": "2021-05-17",
+        "intensity": 0.4627542594092181
+      }
+    ],
+    [
+      {
+        "district": "palakkad",
+        "date": "2021-05-14",
+        "intensity": 1.0944521432753076
+      },
+      {
+        "district": "thrissur",
+        "date": "2021-05-15",
+        "intensity": 1.331896649257935
+      },
+      {
+        "district": "ernakulam",
+        "date": "2021-05-16",
+        "intensity": 1.0481695512994729
+      }
+    ],
+    [
+      {
+        "district": "palakkad",
+        "date": "2021-05-14",
+        "intensity": 1.0944521432753076
+      },
+      {
+        "district": "malappuram",
+        "date": "2021-05-16",
+        "intensity": 0.8433939676667568
+      },
+      {
+        "district": "thrissur",
+        "date": "2021-05-17",
+        "intensity": 0.1770475214756266
+      }
+    ],
+    [
+      {
+        "district": "palakkad",
+        "date": "2021-05-14",
+        "intensity": 1.0944521432753076
+      },
+      {
+        "district": "malappuram",
+        "date": "2021-05-16",
+        "intensity": 0.8433939676667568
+      },
+      {
+        "district": "kozhikode",
+        "date": "2021-05-17",
+        "intensity": 0.4627542594092181
+      }
+    ],
+    [
+      {
+        "district": "palakkad",
+        "date": "2021-05-14",
+        "intensity": 1.0944521432753076
+      },
+      {
+        "district": "malappuram",
+        "date": "2021-05-15",
+        "intensity": 0.5965610882129113
+      },
+      {
+        "district": "wayanad",
+        "date": "2021-05-16",
+        "intensity": 0.5291405365361953
+      },
+      {
+        "district": "kozhikode",
+        "date": "2021-05-17",
+        "intensity": 0.4627542594092181
+      }
+    ],
+    [
+      {
+        "district": "palakkad",
+        "date": "2021-05-14",
+        "intensity": 1.0944521432753076
+      },
+      {
+        "district": "malappuram",
+        "date": "2021-05-15",
+        "intensity": 0.5965610882129113
+      },
+      {
+        "district": "wayanad",
+        "date": "2021-05-16",
+        "intensity": 0.5291405365361953
+      },
+      {
+        "district": "kannur",
+        "date": "2021-05-17",
+        "intensity": 0.2266803859954069
+      }
+    ],
+    [
+      {
+        "district": "palakkad",
+        "date": "2021-05-14",
+        "intensity": 1.0944521432753076
+      },
+      {
+        "district": "malappuram",
+        "date": "2021-05-15",
+        "intensity": 0.5965610882129113
+      },
+      {
+        "district": "thrissur",
+        "date": "2021-05-17",
+        "intensity": 0.1770475214756266
+      }
+    ],
+    [
+      {
+        "district": "palakkad",
+        "date": "2021-05-14",
+        "intensity": 1.0944521432753076
+      },
+      {
+        "district": "malappuram",
+        "date": "2021-05-15",
+        "intensity": 0.5965610882129113
+      },
+      {
+        "district": "thrissur",
+        "date": "2021-05-16",
+        "intensity": 1.35384958879177
+      }
+    ],
+    [
+      {
+        "district": "palakkad",
+        "date": "2021-05-14",
+        "intensity": 1.0944521432753076
+      },
+      {
+        "district": "malappuram",
+        "date": "2021-05-15",
+        "intensity": 0.5965610882129113
+      },
+      {
+        "district": "kozhikode",
+        "date": "2021-05-17",
+        "intensity": 0.4627542594092181
+      }
+    ],
+    [
+      {
+        "district": "palakkad",
+        "date": "2021-05-14",
+        "intensity": 1.0944521432753076
+      },
+      {
+        "district": "malappuram",
+        "date": "2021-05-15",
+        "intensity": 0.5965610882129113
+      },
+      {
+        "district": "kozhikode",
+        "date": "2021-05-16",
+        "intensity": 1.124415675470118
+      },
+      {
+        "district": "kannur",
+        "date": "2021-05-17",
+        "intensity": 0.2266803859954069
+      }
+    ],
+    [
+      {
+        "district": "palakkad",
+        "date": "2021-05-15",
+        "intensity": 0.4496091430612595
+      },
+      {
+        "district": "thrissur",
+        "date": "2021-05-17",
+        "intensity": 0.1770475214756266
+      }
+    ],
+    [
+      {
+        "district": "palakkad",
+        "date": "2021-05-15",
+        "intensity": 0.4496091430612595
+      },
+      {
+        "district": "thrissur",
+        "date": "2021-05-16",
+        "intensity": 1.35384958879177
+      }
+    ],
+    [
+      {
+        "district": "palakkad",
+        "date": "2021-05-15",
+        "intensity": 0.4496091430612595
+      },
+      {
+        "district": "malappuram",
+        "date": "2021-05-16",
+        "intensity": 0.8433939676667568
+      },
+      {
+        "district": "thrissur",
+        "date": "2021-05-17",
+        "intensity": 0.1770475214756266
+      }
+    ],
+    [
+      {
+        "district": "palakkad",
+        "date": "2021-05-15",
+        "intensity": 0.4496091430612595
+      },
+      {
+        "district": "malappuram",
+        "date": "2021-05-16",
+        "intensity": 0.8433939676667568
+      },
+      {
+        "district": "kozhikode",
+        "date": "2021-05-17",
+        "intensity": 0.4627542594092181
+      }
+    ],
+    [
+      {
+        "district": "palakkad",
+        "date": "2021-05-16",
+        "intensity": 0.6845544758147023
+      },
+      {
+        "district": "thrissur",
+        "date": "2021-05-17",
+        "intensity": 0.1770475214756266
+      }
+    ]
+  ],
+  "palghar": [
+    [
+      {
+        "district": "palghar",
+        "date": "2021-05-17",
+        "intensity": 1.0862495312410891
+      },
+      {
+        "district": "valsad",
+        "date": "2021-05-19",
+        "intensity": 0.3142905293008326
+      }
+    ],
+    [
+      {
+        "district": "palghar",
+        "date": "2021-05-17",
+        "intensity": 1.0862495312410891
+      },
+      {
+        "district": "valsad",
+        "date": "2021-05-18",
+        "intensity": 0.5194438925689401
+      },
+      {
+        "district": "navsari",
+        "date": "2021-05-19",
+        "intensity": 0.185669087946797
+      }
+    ],
+    [
+      {
+        "district": "palghar",
+        "date": "2021-05-17",
+        "intensity": 1.0862495312410891
+      },
+      {
+        "district": "valsad",
+        "date": "2021-05-18",
+        "intensity": 0.5194438925689401
+      },
+      {
+        "district": "daman",
+        "date": "2021-05-19",
+        "intensity": 0.6180394794584172
+      }
+    ],
+    [
+      {
+        "district": "palghar",
+        "date": "2021-05-17",
+        "intensity": 1.0862495312410891
+      },
+      {
+        "district": "mumbaisuburban",
+        "date": "2021-05-19",
+        "intensity": 0.3290175552487883
+      }
+    ],
+    [
+      {
+        "district": "palghar",
+        "date": "2021-05-17",
+        "intensity": 1.0862495312410891
+      },
+      {
+        "district": "mumbaisuburban",
+        "date": "2021-05-18",
+        "intensity": 0.5871624751828791
+      }
+    ],
+    [
+      {
+        "district": "palghar",
+        "date": "2021-05-18",
+        "intensity": 0.5669631565941865
+      },
+      {
+        "district": "valsad",
+        "date": "2021-05-19",
+        "intensity": 0.3142905293008326
+      }
+    ],
+    [
+      {
+        "district": "palghar",
+        "date": "2021-05-18",
+        "intensity": 0.5669631565941865
+      },
+      {
+        "district": "mumbaisuburban",
+        "date": "2021-05-19",
+        "intensity": 0.3290175552487883
+      }
+    ],
+    [
+      {
+        "district": "palghar",
+        "date": "2021-05-19",
+        "intensity": 0.4741422367799591
+      }
+    ]
+  ],
+  "panchmahals": [
+    [
+      {
+        "district": "panchmahals",
+        "date": "2021-05-18",
+        "intensity": 0.2800213296289514
+      }
+    ]
+  ],
+  "pathanamthitta": [
+    [
+      {
+        "district": "pathanamthitta",
+        "date": "2021-05-13",
+        "intensity": 0.5040127359564228
+      },
+      {
+        "district": "kottayam",
+        "date": "2021-05-15",
+        "intensity": 1.1682448336701377
+      },
+      {
+        "district": "ernakulam",
+        "date": "2021-05-16",
+        "intensity": 1.0481695512994729
+      },
+      {
+        "district": "thrissur",
+        "date": "2021-05-17",
+        "intensity": 0.1770475214756266
+      }
+    ],
+    [
+      {
+        "district": "pathanamthitta",
+        "date": "2021-05-13",
+        "intensity": 0.5040127359564228
+      },
+      {
+        "district": "kottayam",
+        "date": "2021-05-15",
+        "intensity": 1.1682448336701377
+      },
+      {
+        "district": "alappuzha",
+        "date": "2021-05-16",
+        "intensity": 1.6113240158193889
+      }
+    ],
+    [
+      {
+        "district": "pathanamthitta",
+        "date": "2021-05-13",
+        "intensity": 0.5040127359564228
+      },
+      {
+        "district": "kottayam",
+        "date": "2021-05-14",
+        "intensity": 1.5362282061056016
+      },
+      {
+        "district": "ernakulam",
+        "date": "2021-05-16",
+        "intensity": 1.0481695512994729
+      },
+      {
+        "district": "thrissur",
+        "date": "2021-05-17",
+        "intensity": 0.1770475214756266
+      }
+    ],
+    [
+      {
+        "district": "pathanamthitta",
+        "date": "2021-05-13",
+        "intensity": 0.5040127359564228
+      },
+      {
+        "district": "kottayam",
+        "date": "2021-05-14",
+        "intensity": 1.5362282061056016
+      },
+      {
+        "district": "ernakulam",
+        "date": "2021-05-15",
+        "intensity": 1.1419687147628614
+      },
+      {
+        "district": "thrissur",
+        "date": "2021-05-17",
+        "intensity": 0.1770475214756266
+      }
+    ],
+    [
+      {
+        "district": "pathanamthitta",
+        "date": "2021-05-13",
+        "intensity": 0.5040127359564228
+      },
+      {
+        "district": "kottayam",
+        "date": "2021-05-14",
+        "intensity": 1.5362282061056016
+      },
+      {
+        "district": "ernakulam",
+        "date": "2021-05-15",
+        "intensity": 1.1419687147628614
+      },
+      {
+        "district": "thrissur",
+        "date": "2021-05-16",
+        "intensity": 1.35384958879177
+      }
+    ],
+    [
+      {
+        "district": "pathanamthitta",
+        "date": "2021-05-13",
+        "intensity": 0.5040127359564228
+      },
+      {
+        "district": "kottayam",
+        "date": "2021-05-14",
+        "intensity": 1.5362282061056016
+      },
+      {
+        "district": "ernakulam",
+        "date": "2021-05-15",
+        "intensity": 1.1419687147628614
+      },
+      {
+        "district": "alappuzha",
+        "date": "2021-05-16",
+        "intensity": 1.6113240158193889
+      }
+    ],
+    [
+      {
+        "district": "pathanamthitta",
+        "date": "2021-05-13",
+        "intensity": 0.5040127359564228
+      },
+      {
+        "district": "kottayam",
+        "date": "2021-05-14",
+        "intensity": 1.5362282061056016
+      },
+      {
+        "district": "alappuzha",
+        "date": "2021-05-16",
+        "intensity": 1.6113240158193889
+      }
+    ],
+    [
+      {
+        "district": "pathanamthitta",
+        "date": "2021-05-13",
+        "intensity": 0.5040127359564228
+      },
+      {
+        "district": "kottayam",
+        "date": "2021-05-14",
+        "intensity": 1.5362282061056016
+      },
+      {
+        "district": "alappuzha",
+        "date": "2021-05-15",
+        "intensity": 2.627855661038152
+      },
+      {
+        "district": "kollam",
+        "date": "2021-05-16",
+        "intensity": 0.4593246735820704
+      }
+    ],
+    [
+      {
+        "district": "pathanamthitta",
+        "date": "2021-05-13",
+        "intensity": 0.5040127359564228
+      },
+      {
+        "district": "kottayam",
+        "date": "2021-05-14",
+        "intensity": 1.5362282061056016
+      },
+      {
+        "district": "alappuzha",
+        "date": "2021-05-15",
+        "intensity": 2.627855661038152
+      },
+      {
+        "district": "ernakulam",
+        "date": "2021-05-16",
+        "intensity": 1.0481695512994729
+      },
+      {
+        "district": "thrissur",
+        "date": "2021-05-17",
+        "intensity": 0.1770475214756266
+      }
+    ],
+    [
+      {
+        "district": "pathanamthitta",
+        "date": "2021-05-13",
+        "intensity": 0.5040127359564228
+      },
+      {
+        "district": "kollam",
+        "date": "2021-05-15",
+        "intensity": 0.9728500668119382
+      },
+      {
+        "district": "alappuzha",
+        "date": "2021-05-16",
+        "intensity": 1.6113240158193889
+      }
+    ],
+    [
+      {
+        "district": "pathanamthitta",
+        "date": "2021-05-13",
+        "intensity": 0.5040127359564228
+      },
+      {
+        "district": "kollam",
+        "date": "2021-05-14",
+        "intensity": 1.2961284938909188
+      },
+      {
+        "district": "alappuzha",
+        "date": "2021-05-16",
+        "intensity": 1.6113240158193889
+      }
+    ],
+    [
+      {
+        "district": "pathanamthitta",
+        "date": "2021-05-13",
+        "intensity": 0.5040127359564228
+      },
+      {
+        "district": "kollam",
+        "date": "2021-05-14",
+        "intensity": 1.2961284938909188
+      },
+      {
+        "district": "alappuzha",
+        "date": "2021-05-15",
+        "intensity": 2.627855661038152
+      },
+      {
+        "district": "kottayam",
+        "date": "2021-05-16",
+        "intensity": 0.866317047633359
+      }
+    ],
+    [
+      {
+        "district": "pathanamthitta",
+        "date": "2021-05-13",
+        "intensity": 0.5040127359564228
+      },
+      {
+        "district": "kollam",
+        "date": "2021-05-14",
+        "intensity": 1.2961284938909188
+      },
+      {
+        "district": "alappuzha",
+        "date": "2021-05-15",
+        "intensity": 2.627855661038152
+      },
+      {
+        "district": "ernakulam",
+        "date": "2021-05-16",
+        "intensity": 1.0481695512994729
+      },
+      {
+        "district": "thrissur",
+        "date": "2021-05-17",
+        "intensity": 0.1770475214756266
+      }
+    ],
+    [
+      {
+        "district": "pathanamthitta",
+        "date": "2021-05-13",
+        "intensity": 0.5040127359564228
+      },
+      {
+        "district": "idukki",
+        "date": "2021-05-14",
+        "intensity": 0.4034567943770921
+      },
+      {
+        "district": "thrissur",
+        "date": "2021-05-16",
+        "intensity": 1.35384958879177
+      }
+    ],
+    [
+      {
+        "district": "pathanamthitta",
+        "date": "2021-05-13",
+        "intensity": 0.5040127359564228
+      },
+      {
+        "district": "idukki",
+        "date": "2021-05-14",
+        "intensity": 0.4034567943770921
+      },
+      {
+        "district": "thrissur",
+        "date": "2021-05-15",
+        "intensity": 1.331896649257935
+      },
+      {
+        "district": "palakkad",
+        "date": "2021-05-16",
+        "intensity": 0.6845544758147023
+      }
+    ],
+    [
+      {
+        "district": "pathanamthitta",
+        "date": "2021-05-13",
+        "intensity": 0.5040127359564228
+      },
+      {
+        "district": "idukki",
+        "date": "2021-05-14",
+        "intensity": 0.4034567943770921
+      },
+      {
+        "district": "thrissur",
+        "date": "2021-05-15",
+        "intensity": 1.331896649257935
+      },
+      {
+        "district": "malappuram",
+        "date": "2021-05-16",
+        "intensity": 0.8433939676667568
+      },
+      {
+        "district": "kozhikode",
+        "date": "2021-05-17",
+        "intensity": 0.4627542594092181
+      }
+    ],
+    [
+      {
+        "district": "pathanamthitta",
+        "date": "2021-05-13",
+        "intensity": 0.5040127359564228
+      },
+      {
+        "district": "idukki",
+        "date": "2021-05-14",
+        "intensity": 0.4034567943770921
+      },
+      {
+        "district": "thrissur",
+        "date": "2021-05-15",
+        "intensity": 1.331896649257935
+      },
+      {
+        "district": "ernakulam",
+        "date": "2021-05-16",
+        "intensity": 1.0481695512994729
+      }
+    ],
+    [
+      {
+        "district": "pathanamthitta",
+        "date": "2021-05-13",
+        "intensity": 0.5040127359564228
+      },
+      {
+        "district": "idukki",
+        "date": "2021-05-14",
+        "intensity": 0.4034567943770921
+      },
+      {
+        "district": "kottayam",
+        "date": "2021-05-16",
+        "intensity": 0.866317047633359
+      }
+    ],
+    [
+      {
+        "district": "pathanamthitta",
+        "date": "2021-05-13",
+        "intensity": 0.5040127359564228
+      },
+      {
+        "district": "idukki",
+        "date": "2021-05-14",
+        "intensity": 0.4034567943770921
+      },
+      {
+        "district": "kottayam",
+        "date": "2021-05-15",
+        "intensity": 1.1682448336701377
+      },
+      {
+        "district": "ernakulam",
+        "date": "2021-05-16",
+        "intensity": 1.0481695512994729
+      },
+      {
+        "district": "thrissur",
+        "date": "2021-05-17",
+        "intensity": 0.1770475214756266
+      }
+    ],
+    [
+      {
+        "district": "pathanamthitta",
+        "date": "2021-05-13",
+        "intensity": 0.5040127359564228
+      },
+      {
+        "district": "idukki",
+        "date": "2021-05-14",
+        "intensity": 0.4034567943770921
+      },
+      {
+        "district": "kottayam",
+        "date": "2021-05-15",
+        "intensity": 1.1682448336701377
+      },
+      {
+        "district": "alappuzha",
+        "date": "2021-05-16",
+        "intensity": 1.6113240158193889
+      }
+    ],
+    [
+      {
+        "district": "pathanamthitta",
+        "date": "2021-05-13",
+        "intensity": 0.5040127359564228
+      },
+      {
+        "district": "idukki",
+        "date": "2021-05-14",
+        "intensity": 0.4034567943770921
+      },
+      {
+        "district": "ernakulam",
+        "date": "2021-05-16",
+        "intensity": 1.0481695512994729
+      },
+      {
+        "district": "thrissur",
+        "date": "2021-05-17",
+        "intensity": 0.1770475214756266
+      }
+    ],
+    [
+      {
+        "district": "pathanamthitta",
+        "date": "2021-05-13",
+        "intensity": 0.5040127359564228
+      },
+      {
+        "district": "idukki",
+        "date": "2021-05-14",
+        "intensity": 0.4034567943770921
+      },
+      {
+        "district": "ernakulam",
+        "date": "2021-05-15",
+        "intensity": 1.1419687147628614
+      },
+      {
+        "district": "thrissur",
+        "date": "2021-05-17",
+        "intensity": 0.1770475214756266
+      }
+    ],
+    [
+      {
+        "district": "pathanamthitta",
+        "date": "2021-05-13",
+        "intensity": 0.5040127359564228
+      },
+      {
+        "district": "idukki",
+        "date": "2021-05-14",
+        "intensity": 0.4034567943770921
+      },
+      {
+        "district": "ernakulam",
+        "date": "2021-05-15",
+        "intensity": 1.1419687147628614
+      },
+      {
+        "district": "thrissur",
+        "date": "2021-05-16",
+        "intensity": 1.35384958879177
+      }
+    ],
+    [
+      {
+        "district": "pathanamthitta",
+        "date": "2021-05-13",
+        "intensity": 0.5040127359564228
+      },
+      {
+        "district": "idukki",
+        "date": "2021-05-14",
+        "intensity": 0.4034567943770921
+      },
+      {
+        "district": "ernakulam",
+        "date": "2021-05-15",
+        "intensity": 1.1419687147628614
+      },
+      {
+        "district": "kottayam",
+        "date": "2021-05-16",
+        "intensity": 0.866317047633359
+      }
+    ],
+    [
+      {
+        "district": "pathanamthitta",
+        "date": "2021-05-13",
+        "intensity": 0.5040127359564228
+      },
+      {
+        "district": "idukki",
+        "date": "2021-05-14",
+        "intensity": 0.4034567943770921
+      },
+      {
+        "district": "ernakulam",
+        "date": "2021-05-15",
+        "intensity": 1.1419687147628614
+      },
+      {
+        "district": "alappuzha",
+        "date": "2021-05-16",
+        "intensity": 1.6113240158193889
+      }
+    ],
+    [
+      {
+        "district": "pathanamthitta",
+        "date": "2021-05-13",
+        "intensity": 0.5040127359564228
+      },
+      {
+        "district": "alappuzha",
+        "date": "2021-05-15",
+        "intensity": 2.627855661038152
+      },
+      {
+        "district": "kottayam",
+        "date": "2021-05-16",
+        "intensity": 0.866317047633359
+      }
+    ],
+    [
+      {
+        "district": "pathanamthitta",
+        "date": "2021-05-13",
+        "intensity": 0.5040127359564228
+      },
+      {
+        "district": "alappuzha",
+        "date": "2021-05-15",
+        "intensity": 2.627855661038152
+      },
+      {
+        "district": "kollam",
+        "date": "2021-05-16",
+        "intensity": 0.4593246735820704
+      }
+    ],
+    [
+      {
+        "district": "pathanamthitta",
+        "date": "2021-05-13",
+        "intensity": 0.5040127359564228
+      },
+      {
+        "district": "alappuzha",
+        "date": "2021-05-15",
+        "intensity": 2.627855661038152
+      },
+      {
+        "district": "ernakulam",
+        "date": "2021-05-16",
+        "intensity": 1.0481695512994729
+      },
+      {
+        "district": "thrissur",
+        "date": "2021-05-17",
+        "intensity": 0.1770475214756266
+      }
+    ],
+    [
+      {
+        "district": "pathanamthitta",
+        "date": "2021-05-13",
+        "intensity": 0.5040127359564228
+      },
+      {
+        "district": "alappuzha",
+        "date": "2021-05-14",
+        "intensity": 2.9351849852716456
+      },
+      {
+        "district": "kottayam",
+        "date": "2021-05-16",
+        "intensity": 0.866317047633359
+      }
+    ],
+    [
+      {
+        "district": "pathanamthitta",
+        "date": "2021-05-13",
+        "intensity": 0.5040127359564228
+      },
+      {
+        "district": "alappuzha",
+        "date": "2021-05-14",
+        "intensity": 2.9351849852716456
+      },
+      {
+        "district": "kottayam",
+        "date": "2021-05-15",
+        "intensity": 1.1682448336701377
+      },
+      {
+        "district": "ernakulam",
+        "date": "2021-05-16",
+        "intensity": 1.0481695512994729
+      },
+      {
+        "district": "thrissur",
+        "date": "2021-05-17",
+        "intensity": 0.1770475214756266
+      }
+    ],
+    [
+      {
+        "district": "pathanamthitta",
+        "date": "2021-05-13",
+        "intensity": 0.5040127359564228
+      },
+      {
+        "district": "alappuzha",
+        "date": "2021-05-14",
+        "intensity": 2.9351849852716456
+      },
+      {
+        "district": "kollam",
+        "date": "2021-05-16",
+        "intensity": 0.4593246735820704
+      }
+    ],
+    [
+      {
+        "district": "pathanamthitta",
+        "date": "2021-05-13",
+        "intensity": 0.5040127359564228
+      },
+      {
+        "district": "alappuzha",
+        "date": "2021-05-14",
+        "intensity": 2.9351849852716456
+      },
+      {
+        "district": "kollam",
+        "date": "2021-05-15",
+        "intensity": 0.9728500668119382
+      }
+    ],
+    [
+      {
+        "district": "pathanamthitta",
+        "date": "2021-05-13",
+        "intensity": 0.5040127359564228
+      },
+      {
+        "district": "alappuzha",
+        "date": "2021-05-14",
+        "intensity": 2.9351849852716456
+      },
+      {
+        "district": "ernakulam",
+        "date": "2021-05-16",
+        "intensity": 1.0481695512994729
+      },
+      {
+        "district": "thrissur",
+        "date": "2021-05-17",
+        "intensity": 0.1770475214756266
+      }
+    ],
+    [
+      {
+        "district": "pathanamthitta",
+        "date": "2021-05-13",
+        "intensity": 0.5040127359564228
+      },
+      {
+        "district": "alappuzha",
+        "date": "2021-05-14",
+        "intensity": 2.9351849852716456
+      },
+      {
+        "district": "ernakulam",
+        "date": "2021-05-15",
+        "intensity": 1.1419687147628614
+      },
+      {
+        "district": "thrissur",
+        "date": "2021-05-17",
+        "intensity": 0.1770475214756266
+      }
+    ],
+    [
+      {
+        "district": "pathanamthitta",
+        "date": "2021-05-13",
+        "intensity": 0.5040127359564228
+      },
+      {
+        "district": "alappuzha",
+        "date": "2021-05-14",
+        "intensity": 2.9351849852716456
+      },
+      {
+        "district": "ernakulam",
+        "date": "2021-05-15",
+        "intensity": 1.1419687147628614
+      },
+      {
+        "district": "thrissur",
+        "date": "2021-05-16",
+        "intensity": 1.35384958879177
+      }
+    ],
+    [
+      {
+        "district": "pathanamthitta",
+        "date": "2021-05-13",
+        "intensity": 0.5040127359564228
+      },
+      {
+        "district": "alappuzha",
+        "date": "2021-05-14",
+        "intensity": 2.9351849852716456
+      },
+      {
+        "district": "ernakulam",
+        "date": "2021-05-15",
+        "intensity": 1.1419687147628614
+      },
+      {
+        "district": "kottayam",
+        "date": "2021-05-16",
+        "intensity": 0.866317047633359
+      }
+    ],
+    [
+      {
+        "district": "pathanamthitta",
+        "date": "2021-05-14",
+        "intensity": 1.1474374421363271
+      },
+      {
+        "district": "kottayam",
+        "date": "2021-05-16",
+        "intensity": 0.866317047633359
+      }
+    ],
+    [
+      {
+        "district": "pathanamthitta",
+        "date": "2021-05-14",
+        "intensity": 1.1474374421363271
+      },
+      {
+        "district": "kottayam",
+        "date": "2021-05-15",
+        "intensity": 1.1682448336701377
+      },
+      {
+        "district": "ernakulam",
+        "date": "2021-05-16",
+        "intensity": 1.0481695512994729
+      },
+      {
+        "district": "thrissur",
+        "date": "2021-05-17",
+        "intensity": 0.1770475214756266
+      }
+    ],
+    [
+      {
+        "district": "pathanamthitta",
+        "date": "2021-05-14",
+        "intensity": 1.1474374421363271
+      },
+      {
+        "district": "kottayam",
+        "date": "2021-05-15",
+        "intensity": 1.1682448336701377
+      },
+      {
+        "district": "alappuzha",
+        "date": "2021-05-16",
+        "intensity": 1.6113240158193889
+      }
+    ],
+    [
+      {
+        "district": "pathanamthitta",
+        "date": "2021-05-14",
+        "intensity": 1.1474374421363271
+      },
+      {
+        "district": "kollam",
+        "date": "2021-05-16",
+        "intensity": 0.4593246735820704
+      }
+    ],
+    [
+      {
+        "district": "pathanamthitta",
+        "date": "2021-05-14",
+        "intensity": 1.1474374421363271
+      },
+      {
+        "district": "kollam",
+        "date": "2021-05-15",
+        "intensity": 0.9728500668119382
+      },
+      {
+        "district": "alappuzha",
+        "date": "2021-05-16",
+        "intensity": 1.6113240158193889
+      }
+    ],
+    [
+      {
+        "district": "pathanamthitta",
+        "date": "2021-05-14",
+        "intensity": 1.1474374421363271
+      },
+      {
+        "district": "alappuzha",
+        "date": "2021-05-16",
+        "intensity": 1.6113240158193889
+      }
+    ],
+    [
+      {
+        "district": "pathanamthitta",
+        "date": "2021-05-14",
+        "intensity": 1.1474374421363271
+      },
+      {
+        "district": "alappuzha",
+        "date": "2021-05-15",
+        "intensity": 2.627855661038152
+      },
+      {
+        "district": "kottayam",
+        "date": "2021-05-16",
+        "intensity": 0.866317047633359
+      }
+    ],
+    [
+      {
+        "district": "pathanamthitta",
+        "date": "2021-05-14",
+        "intensity": 1.1474374421363271
+      },
+      {
+        "district": "alappuzha",
+        "date": "2021-05-15",
+        "intensity": 2.627855661038152
+      },
+      {
+        "district": "kollam",
+        "date": "2021-05-16",
+        "intensity": 0.4593246735820704
+      }
+    ],
+    [
+      {
+        "district": "pathanamthitta",
+        "date": "2021-05-14",
+        "intensity": 1.1474374421363271
+      },
+      {
+        "district": "alappuzha",
+        "date": "2021-05-15",
+        "intensity": 2.627855661038152
+      },
+      {
+        "district": "ernakulam",
+        "date": "2021-05-16",
+        "intensity": 1.0481695512994729
+      },
+      {
+        "district": "thrissur",
+        "date": "2021-05-17",
+        "intensity": 0.1770475214756266
+      }
+    ],
+    [
+      {
+        "district": "pathanamthitta",
+        "date": "2021-05-15",
+        "intensity": 0.7449547629736923
+      },
+      {
+        "district": "kottayam",
+        "date": "2021-05-16",
+        "intensity": 0.866317047633359
+      }
+    ],
+    [
+      {
+        "district": "pathanamthitta",
+        "date": "2021-05-15",
+        "intensity": 0.7449547629736923
+      },
+      {
+        "district": "kollam",
+        "date": "2021-05-16",
+        "intensity": 0.4593246735820704
+      }
+    ],
+    [
+      {
+        "district": "pathanamthitta",
+        "date": "2021-05-15",
+        "intensity": 0.7449547629736923
+      },
+      {
+        "district": "alappuzha",
+        "date": "2021-05-16",
+        "intensity": 1.6113240158193889
+      }
+    ],
+    [
+      {
+        "district": "pathanamthitta",
+        "date": "2021-05-16",
+        "intensity": 0.3527641298962923
+      }
+    ]
+  ],
+  "raigarh": [
+    [
+      {
+        "district": "raigarh",
+        "date": "2021-05-17",
+        "intensity": 0.5817696183592187
+      },
+      {
+        "district": "mumbaisuburban",
+        "date": "2021-05-19",
+        "intensity": 0.3290175552487883
+      }
+    ],
+    [
+      {
+        "district": "raigarh",
+        "date": "2021-05-17",
+        "intensity": 0.5817696183592187
+      },
+      {
+        "district": "mumbaisuburban",
+        "date": "2021-05-18",
+        "intensity": 0.5871624751828791
+      },
+      {
+        "district": "palghar",
+        "date": "2021-05-19",
+        "intensity": 0.4741422367799591
+      }
+    ],
+    [
+      {
+        "district": "raigarh",
+        "date": "2021-05-17",
+        "intensity": 0.5817696183592187
+      },
+      {
+        "district": "mumbaisuburban",
+        "date": "2021-05-19",
+        "intensity": 0.3290175552487883
+      }
+    ],
+    [
+      {
+        "district": "raigarh",
+        "date": "2021-05-17",
+        "intensity": 0.5817696183592187
+      },
+      {
+        "district": "mumbaisuburban",
+        "date": "2021-05-18",
+        "intensity": 0.5871624751828791
+      },
+      {
+        "district": "palghar",
+        "date": "2021-05-19",
+        "intensity": 0.4741422367799591
+      }
+    ],
+    [
+      {
+        "district": "raigarh",
+        "date": "2021-05-17",
+        "intensity": 0.6007901003352186
+      },
+      {
+        "district": "mumbaisuburban",
+        "date": "2021-05-19",
+        "intensity": 0.3290175552487883
+      }
+    ],
+    [
+      {
+        "district": "raigarh",
+        "date": "2021-05-17",
+        "intensity": 0.6007901003352186
+      },
+      {
+        "district": "mumbaisuburban",
+        "date": "2021-05-18",
+        "intensity": 0.5871624751828791
+      },
+      {
+        "district": "palghar",
+        "date": "2021-05-19",
+        "intensity": 0.4741422367799591
+      }
+    ],
+    [
+      {
+        "district": "raigarh",
+        "date": "2021-05-17",
+        "intensity": 0.6007901003352186
+      },
+      {
+        "district": "mumbaisuburban",
+        "date": "2021-05-19",
+        "intensity": 0.3290175552487883
+      }
+    ],
+    [
+      {
+        "district": "raigarh",
+        "date": "2021-05-17",
+        "intensity": 0.6007901003352186
+      },
+      {
+        "district": "mumbaisuburban",
+        "date": "2021-05-18",
+        "intensity": 0.5871624751828791
+      },
+      {
+        "district": "palghar",
+        "date": "2021-05-19",
+        "intensity": 0.4741422367799591
+      }
+    ]
+  ],
+  "ratnagiri": [
+    [
+      {
+        "district": "ratnagiri",
+        "date": "2021-05-16",
+        "intensity": 0.6191059508101994
+      },
+      {
+        "district": "raigarh",
+        "date": "2021-05-17",
+        "intensity": 0.6007901003352186
+      },
+      {
+        "district": "mumbaisuburban",
+        "date": "2021-05-19",
+        "intensity": 0.3290175552487883
+      }
+    ],
+    [
+      {
+        "district": "ratnagiri",
+        "date": "2021-05-16",
+        "intensity": 0.6191059508101994
+      },
+      {
+        "district": "raigarh",
+        "date": "2021-05-17",
+        "intensity": 0.6007901003352186
+      },
+      {
+        "district": "mumbaisuburban",
+        "date": "2021-05-18",
+        "intensity": 0.5871624751828791
+      },
+      {
+        "district": "palghar",
+        "date": "2021-05-19",
+        "intensity": 0.4741422367799591
+      }
+    ],
+    [
+      {
+        "district": "ratnagiri",
+        "date": "2021-05-16",
+        "intensity": 0.6191059508101994
+      },
+      {
+        "district": "raigarh",
+        "date": "2021-05-17",
+        "intensity": 0.6007901003352186
+      },
+      {
+        "district": "mumbaisuburban",
+        "date": "2021-05-19",
+        "intensity": 0.3290175552487883
+      }
+    ],
+    [
+      {
+        "district": "ratnagiri",
+        "date": "2021-05-16",
+        "intensity": 0.6191059508101994
+      },
+      {
+        "district": "raigarh",
+        "date": "2021-05-17",
+        "intensity": 0.6007901003352186
+      },
+      {
+        "district": "mumbaisuburban",
+        "date": "2021-05-18",
+        "intensity": 0.5871624751828791
+      },
+      {
+        "district": "palghar",
+        "date": "2021-05-19",
+        "intensity": 0.4741422367799591
+      }
+    ],
+    [
+      {
+        "district": "ratnagiri",
+        "date": "2021-05-16",
+        "intensity": 0.6191059508101994
+      },
+      {
+        "district": "raigarh",
+        "date": "2021-05-17",
+        "intensity": 0.5817696183592187
+      },
+      {
+        "district": "mumbaisuburban",
+        "date": "2021-05-19",
+        "intensity": 0.3290175552487883
+      }
+    ],
+    [
+      {
+        "district": "ratnagiri",
+        "date": "2021-05-16",
+        "intensity": 0.6191059508101994
+      },
+      {
+        "district": "raigarh",
+        "date": "2021-05-17",
+        "intensity": 0.5817696183592187
+      },
+      {
+        "district": "mumbaisuburban",
+        "date": "2021-05-18",
+        "intensity": 0.5871624751828791
+      },
+      {
+        "district": "palghar",
+        "date": "2021-05-19",
+        "intensity": 0.4741422367799591
+      }
+    ],
+    [
+      {
+        "district": "ratnagiri",
+        "date": "2021-05-16",
+        "intensity": 0.6191059508101994
+      },
+      {
+        "district": "raigarh",
+        "date": "2021-05-17",
+        "intensity": 0.5817696183592187
+      },
+      {
+        "district": "mumbaisuburban",
+        "date": "2021-05-19",
+        "intensity": 0.3290175552487883
+      }
+    ],
+    [
+      {
+        "district": "ratnagiri",
+        "date": "2021-05-16",
+        "intensity": 0.6191059508101994
+      },
+      {
+        "district": "raigarh",
+        "date": "2021-05-17",
+        "intensity": 0.5817696183592187
+      },
+      {
+        "district": "mumbaisuburban",
+        "date": "2021-05-18",
+        "intensity": 0.5871624751828791
+      },
+      {
+        "district": "palghar",
+        "date": "2021-05-19",
+        "intensity": 0.4741422367799591
+      }
+    ],
+    [
+      {
+        "district": "ratnagiri",
+        "date": "2021-05-17",
+        "intensity": 0.1816848097051083
+      }
+    ]
+  ],
+  "sindhudurg": [
+    [
+      {
+        "district": "sindhudurg",
+        "date": "2021-05-16",
+        "intensity": 0.7509428098753692
+      },
+      {
+        "district": "ratnagiri",
+        "date": "2021-05-17",
+        "intensity": 0.1816848097051083
+      }
+    ]
+  ],
+  "southgoa": [
+    [
+      {
+        "district": "southgoa",
+        "date": "2021-05-15",
+        "intensity": 0.5060066795175258
+      },
+      {
+        "district": "uttarakannada",
+        "date": "2021-05-16",
+        "intensity": 0.2155131286979851
+      }
+    ],
+    [
+      {
+        "district": "southgoa",
+        "date": "2021-05-15",
+        "intensity": 0.5060066795175258
+      },
+      {
+        "district": "northgoa",
+        "date": "2021-05-16",
+        "intensity": 0.5196831498771586
+      }
+    ],
+    [
+      {
+        "district": "southgoa",
+        "date": "2021-05-16",
+        "intensity": 0.531093677442998
+      }
+    ]
+  ],
+  "surat": [
+    [
+      {
+        "district": "surat",
+        "date": "2021-05-17",
+        "intensity": 0.322960940196119
+      },
+      {
+        "district": "navsari",
+        "date": "2021-05-19",
+        "intensity": 0.185669087946797
+      }
+    ],
+    [
+      {
+        "district": "surat",
+        "date": "2021-05-17",
+        "intensity": 0.322960940196119
+      },
+      {
+        "district": "navsari",
+        "date": "2021-05-18",
+        "intensity": 0.381213027929304
+      },
+      {
+        "district": "valsad",
+        "date": "2021-05-19",
+        "intensity": 0.3142905293008326
+      }
+    ],
+    [
+      {
+        "district": "surat",
+        "date": "2021-05-17",
+        "intensity": 0.322960940196119
+      },
+      {
+        "district": "bharuch",
+        "date": "2021-05-18",
+        "intensity": 0.2822463278070859
+      }
+    ],
+    [
+      {
+        "district": "surat",
+        "date": "2021-05-18",
+        "intensity": 0.1847668844362813
+      },
+      {
+        "district": "navsari",
+        "date": "2021-05-19",
+        "intensity": 0.185669087946797
+      }
+    ]
+  ],
+  "thane": [
+    [
+      {
+        "district": "thane",
+        "date": "2021-05-17",
+        "intensity": 0.6626760839219508
+      },
+      {
+        "district": "palghar",
+        "date": "2021-05-19",
+        "intensity": 0.4741422367799591
+      }
+    ],
+    [
+      {
+        "district": "thane",
+        "date": "2021-05-17",
+        "intensity": 0.6626760839219508
+      },
+      {
+        "district": "palghar",
+        "date": "2021-05-18",
+        "intensity": 0.5669631565941865
+      },
+      {
+        "district": "valsad",
+        "date": "2021-05-19",
+        "intensity": 0.3142905293008326
+      }
+    ],
+    [
+      {
+        "district": "thane",
+        "date": "2021-05-17",
+        "intensity": 0.6626760839219508
+      },
+      {
+        "district": "palghar",
+        "date": "2021-05-18",
+        "intensity": 0.5669631565941865
+      },
+      {
+        "district": "mumbaisuburban",
+        "date": "2021-05-19",
+        "intensity": 0.3290175552487883
+      }
+    ],
+    [
+      {
+        "district": "thane",
+        "date": "2021-05-17",
+        "intensity": 0.6626760839219508
+      },
+      {
+        "district": "mumbaisuburban",
+        "date": "2021-05-19",
+        "intensity": 0.3290175552487883
+      }
+    ],
+    [
+      {
+        "district": "thane",
+        "date": "2021-05-17",
+        "intensity": 0.6626760839219508
+      },
+      {
+        "district": "mumbaisuburban",
+        "date": "2021-05-18",
+        "intensity": 0.5871624751828791
+      },
+      {
+        "district": "palghar",
+        "date": "2021-05-19",
+        "intensity": 0.4741422367799591
+      }
+    ]
+  ],
+  "thrissur": [
+    [
+      {
+        "district": "thrissur",
+        "date": "2021-05-14",
+        "intensity": 2.063134306421904
+      },
+      {
+        "district": "palakkad",
+        "date": "2021-05-16",
+        "intensity": 0.6845544758147023
+      }
+    ],
+    [
+      {
+        "district": "thrissur",
+        "date": "2021-05-14",
+        "intensity": 2.063134306421904
+      },
+      {
+        "district": "palakkad",
+        "date": "2021-05-15",
+        "intensity": 0.4496091430612595
+      },
+      {
+        "district": "malappuram",
+        "date": "2021-05-16",
+        "intensity": 0.8433939676667568
+      },
+      {
+        "district": "kozhikode",
+        "date": "2021-05-17",
+        "intensity": 0.4627542594092181
+      }
+    ],
+    [
+      {
+        "district": "thrissur",
+        "date": "2021-05-14",
+        "intensity": 2.063134306421904
+      },
+      {
+        "district": "malappuram",
+        "date": "2021-05-16",
+        "intensity": 0.8433939676667568
+      },
+      {
+        "district": "kozhikode",
+        "date": "2021-05-17",
+        "intensity": 0.4627542594092181
+      }
+    ],
+    [
+      {
+        "district": "thrissur",
+        "date": "2021-05-14",
+        "intensity": 2.063134306421904
+      },
+      {
+        "district": "malappuram",
+        "date": "2021-05-15",
+        "intensity": 0.5965610882129113
+      },
+      {
+        "district": "wayanad",
+        "date": "2021-05-16",
+        "intensity": 0.5291405365361953
+      },
+      {
+        "district": "kozhikode",
+        "date": "2021-05-17",
+        "intensity": 0.4627542594092181
+      }
+    ],
+    [
+      {
+        "district": "thrissur",
+        "date": "2021-05-14",
+        "intensity": 2.063134306421904
+      },
+      {
+        "district": "malappuram",
+        "date": "2021-05-15",
+        "intensity": 0.5965610882129113
+      },
+      {
+        "district": "wayanad",
+        "date": "2021-05-16",
+        "intensity": 0.5291405365361953
+      },
+      {
+        "district": "kannur",
+        "date": "2021-05-17",
+        "intensity": 0.2266803859954069
+      }
+    ],
+    [
+      {
+        "district": "thrissur",
+        "date": "2021-05-14",
+        "intensity": 2.063134306421904
+      },
+      {
+        "district": "malappuram",
+        "date": "2021-05-15",
+        "intensity": 0.5965610882129113
+      },
+      {
+        "district": "palakkad",
+        "date": "2021-05-16",
+        "intensity": 0.6845544758147023
+      }
+    ],
+    [
+      {
+        "district": "thrissur",
+        "date": "2021-05-14",
+        "intensity": 2.063134306421904
+      },
+      {
+        "district": "malappuram",
+        "date": "2021-05-15",
+        "intensity": 0.5965610882129113
+      },
+      {
+        "district": "kozhikode",
+        "date": "2021-05-17",
+        "intensity": 0.4627542594092181
+      }
+    ],
+    [
+      {
+        "district": "thrissur",
+        "date": "2021-05-14",
+        "intensity": 2.063134306421904
+      },
+      {
+        "district": "malappuram",
+        "date": "2021-05-15",
+        "intensity": 0.5965610882129113
+      },
+      {
+        "district": "kozhikode",
+        "date": "2021-05-16",
+        "intensity": 1.124415675470118
+      },
+      {
+        "district": "kannur",
+        "date": "2021-05-17",
+        "intensity": 0.2266803859954069
+      }
+    ],
+    [
+      {
+        "district": "thrissur",
+        "date": "2021-05-14",
+        "intensity": 2.063134306421904
+      },
+      {
+        "district": "ernakulam",
+        "date": "2021-05-16",
+        "intensity": 1.0481695512994729
+      }
+    ],
+    [
+      {
+        "district": "thrissur",
+        "date": "2021-05-14",
+        "intensity": 2.063134306421904
+      },
+      {
+        "district": "ernakulam",
+        "date": "2021-05-15",
+        "intensity": 1.1419687147628614
+      },
+      {
+        "district": "kottayam",
+        "date": "2021-05-16",
+        "intensity": 0.866317047633359
+      }
+    ],
+    [
+      {
+        "district": "thrissur",
+        "date": "2021-05-14",
+        "intensity": 2.063134306421904
+      },
+      {
+        "district": "ernakulam",
+        "date": "2021-05-15",
+        "intensity": 1.1419687147628614
+      },
+      {
+        "district": "alappuzha",
+        "date": "2021-05-16",
+        "intensity": 1.6113240158193889
+      }
+    ],
+    [
+      {
+        "district": "thrissur",
+        "date": "2021-05-15",
+        "intensity": 1.331896649257935
+      },
+      {
+        "district": "palakkad",
+        "date": "2021-05-16",
+        "intensity": 0.6845544758147023
+      }
+    ],
+    [
+      {
+        "district": "thrissur",
+        "date": "2021-05-15",
+        "intensity": 1.331896649257935
+      },
+      {
+        "district": "malappuram",
+        "date": "2021-05-16",
+        "intensity": 0.8433939676667568
+      },
+      {
+        "district": "kozhikode",
+        "date": "2021-05-17",
+        "intensity": 0.4627542594092181
+      }
+    ],
+    [
+      {
+        "district": "thrissur",
+        "date": "2021-05-15",
+        "intensity": 1.331896649257935
+      },
+      {
+        "district": "ernakulam",
+        "date": "2021-05-16",
+        "intensity": 1.0481695512994729
+      }
+    ],
+    [
+      {
+        "district": "thrissur",
+        "date": "2021-05-16",
+        "intensity": 1.35384958879177
+      }
+    ],
+    [
+      {
+        "district": "thrissur",
+        "date": "2021-05-17",
+        "intensity": 0.1770475214756266
+      }
+    ]
+  ],
+  "udupi": [
+    [
+      {
+        "district": "udupi",
+        "date": "2021-05-15",
+        "intensity": 0.7916235836848904
+      },
+      {
+        "district": "uttarakannada",
+        "date": "2021-05-16",
+        "intensity": 0.2155131286979851
+      }
+    ]
+  ],
+  "uttarakannada": [
+    [
+      {
+        "district": "uttarakannada",
+        "date": "2021-05-15",
+        "intensity": 0.5921597941409261
+      },
+      {
+        "district": "southgoa",
+        "date": "2021-05-16",
+        "intensity": 0.531093677442998
+      }
+    ],
+    [
+      {
+        "district": "uttarakannada",
+        "date": "2021-05-15",
+        "intensity": 0.5921597941409261
+      },
+      {
+        "district": "northgoa",
+        "date": "2021-05-16",
+        "intensity": 0.5196831498771586
+      }
+    ],
+    [
+      {
+        "district": "uttarakannada",
+        "date": "2021-05-16",
+        "intensity": 0.2155131286979851
+      }
+    ]
+  ],
+  "vadodara": [
+    [
+      {
+        "district": "vadodara",
+        "date": "2021-05-18",
+        "intensity": 0.4111199923231844
+      }
+    ]
+  ],
+  "valsad": [
+    [
+      {
+        "district": "valsad",
+        "date": "2021-05-17",
+        "intensity": 0.8945673619460105
+      },
+      {
+        "district": "palghar",
+        "date": "2021-05-19",
+        "intensity": 0.4741422367799591
+      }
+    ],
+    [
+      {
+        "district": "valsad",
+        "date": "2021-05-17",
+        "intensity": 0.8945673619460105
+      },
+      {
+        "district": "palghar",
+        "date": "2021-05-18",
+        "intensity": 0.5669631565941865
+      },
+      {
+        "district": "mumbaisuburban",
+        "date": "2021-05-19",
+        "intensity": 0.3290175552487883
+      }
+    ],
+    [
+      {
+        "district": "valsad",
+        "date": "2021-05-17",
+        "intensity": 0.8945673619460105
+      },
+      {
+        "district": "navsari",
+        "date": "2021-05-19",
+        "intensity": 0.185669087946797
+      }
+    ],
+    [
+      {
+        "district": "valsad",
+        "date": "2021-05-17",
+        "intensity": 0.8945673619460105
+      },
+      {
+        "district": "navsari",
+        "date": "2021-05-18",
+        "intensity": 0.381213027929304
+      }
+    ],
+    [
+      {
+        "district": "valsad",
+        "date": "2021-05-17",
+        "intensity": 0.8945673619460105
+      },
+      {
+        "district": "daman",
+        "date": "2021-05-19",
+        "intensity": 0.6180394794584172
+      }
+    ],
+    [
+      {
+        "district": "valsad",
+        "date": "2021-05-17",
+        "intensity": 0.8945673619460105
+      },
+      {
+        "district": "daman",
+        "date": "2021-05-18",
+        "intensity": 0.758948522373592
+      }
+    ],
+    [
+      {
+        "district": "valsad",
+        "date": "2021-05-18",
+        "intensity": 0.5194438925689401
+      },
+      {
+        "district": "palghar",
+        "date": "2021-05-19",
+        "intensity": 0.4741422367799591
+      }
+    ],
+    [
+      {
+        "district": "valsad",
+        "date": "2021-05-18",
+        "intensity": 0.5194438925689401
+      },
+      {
+        "district": "navsari",
+        "date": "2021-05-19",
+        "intensity": 0.185669087946797
+      }
+    ],
+    [
+      {
+        "district": "valsad",
+        "date": "2021-05-18",
+        "intensity": 0.5194438925689401
+      },
+      {
+        "district": "daman",
+        "date": "2021-05-19",
+        "intensity": 0.6180394794584172
+      }
+    ],
+    [
+      {
+        "district": "valsad",
+        "date": "2021-05-19",
+        "intensity": 0.3142905293008326
+      }
+    ]
+  ],
+  "wayanad": [
+    [
+      {
+        "district": "wayanad",
+        "date": "2021-05-14",
+        "intensity": 0.2303169024149942
+      },
+      {
+        "district": "malappuram",
+        "date": "2021-05-16",
+        "intensity": 0.8433939676667568
+      },
+      {
+        "district": "thrissur",
+        "date": "2021-05-17",
+        "intensity": 0.1770475214756266
+      }
+    ],
+    [
+      {
+        "district": "wayanad",
+        "date": "2021-05-14",
+        "intensity": 0.2303169024149942
+      },
+      {
+        "district": "malappuram",
+        "date": "2021-05-16",
+        "intensity": 0.8433939676667568
+      },
+      {
+        "district": "kozhikode",
+        "date": "2021-05-17",
+        "intensity": 0.4627542594092181
+      }
+    ],
+    [
+      {
+        "district": "wayanad",
+        "date": "2021-05-14",
+        "intensity": 0.2303169024149942
+      },
+      {
+        "district": "malappuram",
+        "date": "2021-05-15",
+        "intensity": 0.5965610882129113
+      },
+      {
+        "district": "thrissur",
+        "date": "2021-05-17",
+        "intensity": 0.1770475214756266
+      }
+    ],
+    [
+      {
+        "district": "wayanad",
+        "date": "2021-05-14",
+        "intensity": 0.2303169024149942
+      },
+      {
+        "district": "malappuram",
+        "date": "2021-05-15",
+        "intensity": 0.5965610882129113
+      },
+      {
+        "district": "thrissur",
+        "date": "2021-05-16",
+        "intensity": 1.35384958879177
+      }
+    ],
+    [
+      {
+        "district": "wayanad",
+        "date": "2021-05-14",
+        "intensity": 0.2303169024149942
+      },
+      {
+        "district": "malappuram",
+        "date": "2021-05-15",
+        "intensity": 0.5965610882129113
+      },
+      {
+        "district": "palakkad",
+        "date": "2021-05-16",
+        "intensity": 0.6845544758147023
+      },
+      {
+        "district": "thrissur",
+        "date": "2021-05-17",
+        "intensity": 0.1770475214756266
+      }
+    ],
+    [
+      {
+        "district": "wayanad",
+        "date": "2021-05-14",
+        "intensity": 0.2303169024149942
+      },
+      {
+        "district": "malappuram",
+        "date": "2021-05-15",
+        "intensity": 0.5965610882129113
+      },
+      {
+        "district": "kozhikode",
+        "date": "2021-05-17",
+        "intensity": 0.4627542594092181
+      }
+    ],
+    [
+      {
+        "district": "wayanad",
+        "date": "2021-05-14",
+        "intensity": 0.2303169024149942
+      },
+      {
+        "district": "malappuram",
+        "date": "2021-05-15",
+        "intensity": 0.5965610882129113
+      },
+      {
+        "district": "kozhikode",
+        "date": "2021-05-16",
+        "intensity": 1.124415675470118
+      },
+      {
+        "district": "kannur",
+        "date": "2021-05-17",
+        "intensity": 0.2266803859954069
+      }
+    ],
+    [
+      {
+        "district": "wayanad",
+        "date": "2021-05-14",
+        "intensity": 0.2303169024149942
+      },
+      {
+        "district": "kozhikode",
+        "date": "2021-05-16",
+        "intensity": 1.124415675470118
+      },
+      {
+        "district": "kannur",
+        "date": "2021-05-17",
+        "intensity": 0.2266803859954069
+      }
+    ],
+    [
+      {
+        "district": "wayanad",
+        "date": "2021-05-14",
+        "intensity": 0.2303169024149942
+      },
+      {
+        "district": "kozhikode",
+        "date": "2021-05-15",
+        "intensity": 0.7744949814137096
+      },
+      {
+        "district": "malappuram",
+        "date": "2021-05-16",
+        "intensity": 0.8433939676667568
+      },
+      {
+        "district": "thrissur",
+        "date": "2021-05-17",
+        "intensity": 0.1770475214756266
+      }
+    ],
+    [
+      {
+        "district": "wayanad",
+        "date": "2021-05-14",
+        "intensity": 0.2303169024149942
+      },
+      {
+        "district": "kozhikode",
+        "date": "2021-05-15",
+        "intensity": 0.7744949814137096
+      },
+      {
+        "district": "kannur",
+        "date": "2021-05-17",
+        "intensity": 0.2266803859954069
+      }
+    ],
+    [
+      {
+        "district": "wayanad",
+        "date": "2021-05-14",
+        "intensity": 0.2303169024149942
+      },
+      {
+        "district": "kozhikode",
+        "date": "2021-05-15",
+        "intensity": 0.7744949814137096
+      },
+      {
+        "district": "kannur",
+        "date": "2021-05-16",
+        "intensity": 0.730818894484421
+      },
+      {
+        "district": "mahe",
+        "date": "2021-05-17",
+        "intensity": 0.2701181742717058
+      }
+    ],
+    [
+      {
+        "district": "wayanad",
+        "date": "2021-05-14",
+        "intensity": 0.2303169024149942
+      },
+      {
+        "district": "kodagu",
+        "date": "2021-05-16",
+        "intensity": 0.2240160133490359
+      },
+      {
+        "district": "kannur",
+        "date": "2021-05-17",
+        "intensity": 0.2266803859954069
+      }
+    ],
+    [
+      {
+        "district": "wayanad",
+        "date": "2021-05-14",
+        "intensity": 0.2303169024149942
+      },
+      {
+        "district": "kodagu",
+        "date": "2021-05-15",
+        "intensity": 0.5173074427530722
+      },
+      {
+        "district": "kasaragod",
+        "date": "2021-05-16",
+        "intensity": 0.3752149703302864
+      },
+      {
+        "district": "mahe",
+        "date": "2021-05-17",
+        "intensity": 0.2701181742717058
+      }
+    ],
+    [
+      {
+        "district": "wayanad",
+        "date": "2021-05-14",
+        "intensity": 0.2303169024149942
+      },
+      {
+        "district": "kodagu",
+        "date": "2021-05-15",
+        "intensity": 0.5173074427530722
+      },
+      {
+        "district": "kasaragod",
+        "date": "2021-05-16",
+        "intensity": 0.3752149703302864
+      },
+      {
+        "district": "kannur",
+        "date": "2021-05-17",
+        "intensity": 0.2266803859954069
+      }
+    ],
+    [
+      {
+        "district": "wayanad",
+        "date": "2021-05-14",
+        "intensity": 0.2303169024149942
+      },
+      {
+        "district": "kodagu",
+        "date": "2021-05-15",
+        "intensity": 0.5173074427530722
+      },
+      {
+        "district": "kannur",
+        "date": "2021-05-17",
+        "intensity": 0.2266803859954069
+      }
+    ],
+    [
+      {
+        "district": "wayanad",
+        "date": "2021-05-14",
+        "intensity": 0.2303169024149942
+      },
+      {
+        "district": "kodagu",
+        "date": "2021-05-15",
+        "intensity": 0.5173074427530722
+      },
+      {
+        "district": "kannur",
+        "date": "2021-05-16",
+        "intensity": 0.730818894484421
+      },
+      {
+        "district": "mahe",
+        "date": "2021-05-17",
+        "intensity": 0.2701181742717058
+      }
+    ],
+    [
+      {
+        "district": "wayanad",
+        "date": "2021-05-14",
+        "intensity": 0.2303169024149942
+      },
+      {
+        "district": "kodagu",
+        "date": "2021-05-15",
+        "intensity": 0.5173074427530722
+      },
+      {
+        "district": "kannur",
+        "date": "2021-05-16",
+        "intensity": 0.730818894484421
+      },
+      {
+        "district": "kozhikode",
+        "date": "2021-05-17",
+        "intensity": 0.4627542594092181
+      }
+    ],
+    [
+      {
+        "district": "wayanad",
+        "date": "2021-05-14",
+        "intensity": 0.2303169024149942
+      },
+      {
+        "district": "kannur",
+        "date": "2021-05-16",
+        "intensity": 0.730818894484421
+      },
+      {
+        "district": "mahe",
+        "date": "2021-05-17",
+        "intensity": 0.2701181742717058
+      }
+    ],
+    [
+      {
+        "district": "wayanad",
+        "date": "2021-05-14",
+        "intensity": 0.2303169024149942
+      },
+      {
+        "district": "kannur",
+        "date": "2021-05-16",
+        "intensity": 0.730818894484421
+      },
+      {
+        "district": "kozhikode",
+        "date": "2021-05-17",
+        "intensity": 0.4627542594092181
+      }
+    ],
+    [
+      {
+        "district": "wayanad",
+        "date": "2021-05-14",
+        "intensity": 0.2303169024149942
+      },
+      {
+        "district": "kannur",
+        "date": "2021-05-15",
+        "intensity": 0.6265510816101939
+      },
+      {
+        "district": "mahe",
+        "date": "2021-05-17",
+        "intensity": 0.2701181742717058
+      }
+    ],
+    [
+      {
+        "district": "wayanad",
+        "date": "2021-05-14",
+        "intensity": 0.2303169024149942
+      },
+      {
+        "district": "kannur",
+        "date": "2021-05-15",
+        "intensity": 0.6265510816101939
+      },
+      {
+        "district": "mahe",
+        "date": "2021-05-16",
+        "intensity": 0.8550324464422561
+      }
+    ],
+    [
+      {
+        "district": "wayanad",
+        "date": "2021-05-14",
+        "intensity": 0.2303169024149942
+      },
+      {
+        "district": "kannur",
+        "date": "2021-05-15",
+        "intensity": 0.6265510816101939
+      },
+      {
+        "district": "kozhikode",
+        "date": "2021-05-17",
+        "intensity": 0.4627542594092181
+      }
+    ],
+    [
+      {
+        "district": "wayanad",
+        "date": "2021-05-14",
+        "intensity": 0.2303169024149942
+      },
+      {
+        "district": "kannur",
+        "date": "2021-05-15",
+        "intensity": 0.6265510816101939
+      },
+      {
+        "district": "kozhikode",
+        "date": "2021-05-16",
+        "intensity": 1.124415675470118
+      }
+    ],
+    [
+      {
+        "district": "wayanad",
+        "date": "2021-05-14",
+        "intensity": 0.2303169024149942
+      },
+      {
+        "district": "kannur",
+        "date": "2021-05-15",
+        "intensity": 0.6265510816101939
+      },
+      {
+        "district": "kodagu",
+        "date": "2021-05-16",
+        "intensity": 0.2240160133490359
+      }
+    ],
+    [
+      {
+        "district": "wayanad",
+        "date": "2021-05-14",
+        "intensity": 0.2303169024149942
+      },
+      {
+        "district": "kannur",
+        "date": "2021-05-15",
+        "intensity": 0.6265510816101939
+      },
+      {
+        "district": "kasaragod",
+        "date": "2021-05-16",
+        "intensity": 0.3752149703302864
+      },
+      {
+        "district": "mahe",
+        "date": "2021-05-17",
+        "intensity": 0.2701181742717058
+      }
+    ],
+    [
+      {
+        "district": "wayanad",
+        "date": "2021-05-15",
+        "intensity": 0.385951671321147
+      },
+      {
+        "district": "malappuram",
+        "date": "2021-05-16",
+        "intensity": 0.8433939676667568
+      },
+      {
+        "district": "thrissur",
+        "date": "2021-05-17",
+        "intensity": 0.1770475214756266
+      }
+    ],
+    [
+      {
+        "district": "wayanad",
+        "date": "2021-05-15",
+        "intensity": 0.385951671321147
+      },
+      {
+        "district": "malappuram",
+        "date": "2021-05-16",
+        "intensity": 0.8433939676667568
+      },
+      {
+        "district": "kozhikode",
+        "date": "2021-05-17",
+        "intensity": 0.4627542594092181
+      }
+    ],
+    [
+      {
+        "district": "wayanad",
+        "date": "2021-05-15",
+        "intensity": 0.385951671321147
+      },
+      {
+        "district": "kozhikode",
+        "date": "2021-05-17",
+        "intensity": 0.4627542594092181
+      }
+    ],
+    [
+      {
+        "district": "wayanad",
+        "date": "2021-05-15",
+        "intensity": 0.385951671321147
+      },
+      {
+        "district": "kozhikode",
+        "date": "2021-05-16",
+        "intensity": 1.124415675470118
+      },
+      {
+        "district": "kannur",
+        "date": "2021-05-17",
+        "intensity": 0.2266803859954069
+      }
+    ],
+    [
+      {
+        "district": "wayanad",
+        "date": "2021-05-15",
+        "intensity": 0.385951671321147
+      },
+      {
+        "district": "kodagu",
+        "date": "2021-05-16",
+        "intensity": 0.2240160133490359
+      },
+      {
+        "district": "kannur",
+        "date": "2021-05-17",
+        "intensity": 0.2266803859954069
+      }
+    ],
+    [
+      {
+        "district": "wayanad",
+        "date": "2021-05-15",
+        "intensity": 0.385951671321147
+      },
+      {
+        "district": "kannur",
+        "date": "2021-05-17",
+        "intensity": 0.2266803859954069
+      }
+    ],
+    [
+      {
+        "district": "wayanad",
+        "date": "2021-05-15",
+        "intensity": 0.385951671321147
+      },
+      {
+        "district": "kannur",
+        "date": "2021-05-16",
+        "intensity": 0.730818894484421
+      },
+      {
+        "district": "mahe",
+        "date": "2021-05-17",
+        "intensity": 0.2701181742717058
+      }
+    ],
+    [
+      {
+        "district": "wayanad",
+        "date": "2021-05-15",
+        "intensity": 0.385951671321147
+      },
+      {
+        "district": "kannur",
+        "date": "2021-05-16",
+        "intensity": 0.730818894484421
+      },
+      {
+        "district": "kozhikode",
+        "date": "2021-05-17",
+        "intensity": 0.4627542594092181
+      }
+    ],
+    [
+      {
+        "district": "wayanad",
+        "date": "2021-05-16",
+        "intensity": 0.5291405365361953
+      },
+      {
+        "district": "kozhikode",
+        "date": "2021-05-17",
+        "intensity": 0.4627542594092181
+      }
+    ],
+    [
+      {
+        "district": "wayanad",
+        "date": "2021-05-16",
+        "intensity": 0.5291405365361953
+      },
+      {
+        "district": "kannur",
+        "date": "2021-05-17",
+        "intensity": 0.2266803859954069
+      }
+    ]
+  ]
+}

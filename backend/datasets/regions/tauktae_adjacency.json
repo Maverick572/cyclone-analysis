@@ -1,0 +1,1489 @@
+{
+  "anantapur": [
+    "bellary",
+    "chikballapura",
+    "chitradurga",
+    "chittoor",
+    "kurnool",
+    "tumkur",
+    "y.s.r."
+  ],
+  "chittoor": [
+    "anantapur",
+    "chikballapura",
+    "kolar",
+    "krishnagiri",
+    "nellore",
+    "thiruvallur",
+    "vellore",
+    "y.s.r."
+  ],
+  "guntur": [
+    "krishna",
+    "mahbubnagar",
+    "nalgonda",
+    "prakasam"
+  ],
+  "krishna": [
+    "guntur",
+    "khammam",
+    "nalgonda",
+    "westgodavari"
+  ],
+  "kurnool": [
+    "anantapur",
+    "bellary",
+    "mahbubnagar",
+    "prakasam",
+    "raichur",
+    "y.s.r."
+  ],
+  "nellore": [
+    "chittoor",
+    "prakasam",
+    "thiruvallur",
+    "y.s.r."
+  ],
+  "prakasam": [
+    "guntur",
+    "kurnool",
+    "mahbubnagar",
+    "nellore",
+    "y.s.r."
+  ],
+  "westgodavari": [
+    "khammam",
+    "krishna"
+  ],
+  "y.s.r.": [
+    "anantapur",
+    "chittoor",
+    "kurnool",
+    "nellore",
+    "prakasam"
+  ],
+  "bijapur": [
+    "dantewada",
+    "garhchiroli",
+    "karimnagar",
+    "khammam",
+    "narayanpur",
+    "sukma",
+    "warangal"
+  ],
+  "dantewada": [
+    "bijapur",
+    "narayanpur",
+    "sukma"
+  ],
+  "narayanpur": [
+    "bijapur",
+    "dantewada",
+    "garhchiroli",
+    "uttarbastarkanker"
+  ],
+  "sukma": [
+    "bijapur",
+    "dantewada",
+    "khammam"
+  ],
+  "uttarbastarkanker": [
+    "garhchiroli",
+    "narayanpur"
+  ],
+  "dadraandnagarhaveli": [
+    "nashik",
+    "palghar",
+    "valsad"
+  ],
+  "daman": [
+    "valsad"
+  ],
+  "diu": [
+    "girsomnath",
+    "junagadh"
+  ],
+  "northgoa": [
+    "belgaum",
+    "sindhudurg",
+    "southgoa",
+    "uttarakannada"
+  ],
+  "southgoa": [
+    "belgaum",
+    "northgoa",
+    "uttarakannada"
+  ],
+  "ahmadabad": [
+    "anand",
+    "bhavnagar",
+    "botad",
+    "gandhinagar",
+    "kheda",
+    "mahesana",
+    "patan",
+    "surendranagar"
+  ],
+  "amreli": [
+    "bhavnagar",
+    "botad",
+    "junagadh",
+    "rajkot"
+  ],
+  "anand": [
+    "ahmadabad",
+    "bharuch",
+    "bhavnagar",
+    "kheda",
+    "vadodara"
+  ],
+  "aravalli": [
+    "dungarpur",
+    "gandhinagar",
+    "kheda",
+    "mahisagar",
+    "sabarkantha",
+    "udaipur"
+  ],
+  "banaskantha": [
+    "jalor",
+    "kachchh",
+    "mahesana",
+    "patan",
+    "sabarkantha",
+    "sirohi"
+  ],
+  "bharuch": [
+    "anand",
+    "narmada",
+    "surat",
+    "vadodara"
+  ],
+  "bhavnagar": [
+    "ahmadabad",
+    "amreli",
+    "anand",
+    "botad"
+  ],
+  "botad": [
+    "ahmadabad",
+    "amreli",
+    "bhavnagar",
+    "rajkot",
+    "surendranagar"
+  ],
+  "chhotaudaipur": [
+    "alirajpur",
+    "dahod",
+    "nandurbar",
+    "narmada",
+    "panchmahals",
+    "vadodara"
+  ],
+  "dahod": [
+    "alirajpur",
+    "banswara",
+    "chhotaudaipur",
+    "jhabua",
+    "mahisagar",
+    "panchmahals"
+  ],
+  "devbhumidwarka": [
+    "jamnagar",
+    "porbandar"
+  ],
+  "gandhinagar": [
+    "ahmadabad",
+    "aravalli",
+    "kheda",
+    "mahesana",
+    "sabarkantha"
+  ],
+  "girsomnath": [
+    "diu",
+    "junagadh"
+  ],
+  "jamnagar": [
+    "devbhumidwarka",
+    "kachchh",
+    "morbi",
+    "porbandar",
+    "rajkot"
+  ],
+  "junagadh": [
+    "amreli",
+    "diu",
+    "girsomnath",
+    "porbandar",
+    "rajkot"
+  ],
+  "kachchh": [
+    "banaskantha",
+    "jalor",
+    "jamnagar",
+    "morbi",
+    "patan",
+    "surendranagar"
+  ],
+  "kheda": [
+    "ahmadabad",
+    "anand",
+    "aravalli",
+    "gandhinagar",
+    "mahisagar",
+    "panchmahals",
+    "vadodara"
+  ],
+  "mahesana": [
+    "ahmadabad",
+    "banaskantha",
+    "gandhinagar",
+    "patan",
+    "sabarkantha",
+    "surendranagar"
+  ],
+  "mahisagar": [
+    "aravalli",
+    "banswara",
+    "dahod",
+    "dungarpur",
+    "kheda",
+    "panchmahals"
+  ],
+  "morbi": [
+    "jamnagar",
+    "kachchh",
+    "rajkot",
+    "surendranagar"
+  ],
+  "narmada": [
+    "bharuch",
+    "chhotaudaipur",
+    "nandurbar",
+    "surat",
+    "tapi",
+    "vadodara"
+  ],
+  "navsari": [
+    "nashik",
+    "surat",
+    "tapi",
+    "thedangs",
+    "valsad"
+  ],
+  "panchmahals": [
+    "chhotaudaipur",
+    "dahod",
+    "kheda",
+    "mahisagar",
+    "vadodara"
+  ],
+  "patan": [
+    "ahmadabad",
+    "banaskantha",
+    "kachchh",
+    "mahesana",
+    "surendranagar"
+  ],
+  "porbandar": [
+    "devbhumidwarka",
+    "jamnagar",
+    "junagadh",
+    "rajkot"
+  ],
+  "rajkot": [
+    "amreli",
+    "botad",
+    "jamnagar",
+    "junagadh",
+    "morbi",
+    "porbandar",
+    "surendranagar"
+  ],
+  "sabarkantha": [
+    "aravalli",
+    "banaskantha",
+    "gandhinagar",
+    "mahesana",
+    "sirohi",
+    "udaipur"
+  ],
+  "surat": [
+    "bharuch",
+    "narmada",
+    "navsari",
+    "tapi"
+  ],
+  "surendranagar": [
+    "ahmadabad",
+    "botad",
+    "kachchh",
+    "mahesana",
+    "morbi",
+    "patan",
+    "rajkot"
+  ],
+  "tapi": [
+    "dhule",
+    "nandurbar",
+    "narmada",
+    "navsari",
+    "surat",
+    "thedangs"
+  ],
+  "thedangs": [
+    "dhule",
+    "nandurbar",
+    "nashik",
+    "navsari",
+    "tapi"
+  ],
+  "vadodara": [
+    "anand",
+    "bharuch",
+    "chhotaudaipur",
+    "kheda",
+    "narmada",
+    "panchmahals"
+  ],
+  "valsad": [
+    "dadraandnagarhaveli",
+    "daman",
+    "nashik",
+    "navsari",
+    "palghar"
+  ],
+  "bagalkot": [
+    "belgaum",
+    "gadag",
+    "koppal",
+    "raichur"
+  ],
+  "bangalore": [
+    "bangalorerural",
+    "kolar",
+    "krishnagiri",
+    "ramanagara"
+  ],
+  "bangalorerural": [
+    "bangalore",
+    "chikballapura",
+    "kolar",
+    "krishnagiri",
+    "ramanagara",
+    "tumkur"
+  ],
+  "belgaum": [
+    "bagalkot",
+    "dharwad",
+    "gadag",
+    "kolhapur",
+    "northgoa",
+    "sangli",
+    "sindhudurg",
+    "southgoa",
+    "uttarakannada"
+  ],
+  "bellary": [
+    "anantapur",
+    "chitradurga",
+    "davanagere",
+    "gadag",
+    "haveri",
+    "koppal",
+    "kurnool",
+    "raichur"
+  ],
+  "bidar": [
+    "gulbarga",
+    "latur",
+    "medak",
+    "nanded",
+    "nizamabad",
+    "osmanabad"
+  ],
+  "chamrajnagar": [
+    "dharmapuri",
+    "erode",
+    "krishnagiri",
+    "mandya",
+    "mysore",
+    "ramanagara",
+    "salem",
+    "thenilgiris",
+    "wayanad"
+  ],
+  "chikballapura": [
+    "anantapur",
+    "bangalorerural",
+    "chittoor",
+    "kolar",
+    "tumkur"
+  ],
+  "chikmagalur": [
+    "chitradurga",
+    "dakshinakannada",
+    "davanagere",
+    "hassan",
+    "shimoga",
+    "tumkur",
+    "udupi"
+  ],
+  "chitradurga": [
+    "anantapur",
+    "bellary",
+    "chikmagalur",
+    "davanagere",
+    "hassan",
+    "tumkur"
+  ],
+  "dakshinakannada": [
+    "chikmagalur",
+    "hassan",
+    "kasaragod",
+    "kodagu",
+    "udupi"
+  ],
+  "davanagere": [
+    "bellary",
+    "chikmagalur",
+    "chitradurga",
+    "haveri",
+    "shimoga"
+  ],
+  "dharwad": [
+    "belgaum",
+    "gadag",
+    "haveri",
+    "uttarakannada"
+  ],
+  "gadag": [
+    "bagalkot",
+    "belgaum",
+    "bellary",
+    "dharwad",
+    "haveri",
+    "koppal"
+  ],
+  "gulbarga": [
+    "bidar",
+    "mahbubnagar",
+    "medak",
+    "osmanabad",
+    "rangareddy",
+    "solapur",
+    "yadgir"
+  ],
+  "hassan": [
+    "chikmagalur",
+    "chitradurga",
+    "dakshinakannada",
+    "kodagu",
+    "mandya",
+    "mysore",
+    "tumkur"
+  ],
+  "haveri": [
+    "bellary",
+    "davanagere",
+    "dharwad",
+    "gadag",
+    "shimoga",
+    "uttarakannada"
+  ],
+  "kodagu": [
+    "dakshinakannada",
+    "hassan",
+    "kannur",
+    "kasaragod",
+    "mysore",
+    "wayanad"
+  ],
+  "kolar": [
+    "bangalore",
+    "bangalorerural",
+    "chikballapura",
+    "chittoor",
+    "krishnagiri"
+  ],
+  "koppal": [
+    "bagalkot",
+    "bellary",
+    "gadag",
+    "raichur"
+  ],
+  "mandya": [
+    "chamrajnagar",
+    "hassan",
+    "mysore",
+    "ramanagara",
+    "tumkur"
+  ],
+  "mysore": [
+    "chamrajnagar",
+    "hassan",
+    "kodagu",
+    "mandya",
+    "wayanad"
+  ],
+  "raichur": [
+    "bagalkot",
+    "bellary",
+    "koppal",
+    "kurnool",
+    "mahbubnagar",
+    "yadgir"
+  ],
+  "ramanagara": [
+    "bangalore",
+    "bangalorerural",
+    "chamrajnagar",
+    "krishnagiri",
+    "mandya",
+    "tumkur"
+  ],
+  "shimoga": [
+    "chikmagalur",
+    "davanagere",
+    "haveri",
+    "udupi",
+    "uttarakannada"
+  ],
+  "tumkur": [
+    "anantapur",
+    "bangalorerural",
+    "chikballapura",
+    "chikmagalur",
+    "chitradurga",
+    "hassan",
+    "mandya",
+    "ramanagara"
+  ],
+  "udupi": [
+    "chikmagalur",
+    "dakshinakannada",
+    "shimoga",
+    "uttarakannada"
+  ],
+  "uttarakannada": [
+    "belgaum",
+    "dharwad",
+    "haveri",
+    "northgoa",
+    "shimoga",
+    "southgoa",
+    "udupi"
+  ],
+  "yadgir": [
+    "gulbarga",
+    "mahbubnagar",
+    "raichur"
+  ],
+  "alappuzha": [
+    "ernakulam",
+    "kollam",
+    "kottayam",
+    "pathanamthitta"
+  ],
+  "ernakulam": [
+    "alappuzha",
+    "idukki",
+    "kottayam",
+    "thrissur"
+  ],
+  "idukki": [
+    "coimbatore",
+    "dindigul",
+    "ernakulam",
+    "kottayam",
+    "pathanamthitta",
+    "theni",
+    "thrissur",
+    "tiruppur",
+    "virudunagar"
+  ],
+  "kannur": [
+    "kasaragod",
+    "kodagu",
+    "kozhikode",
+    "mahe",
+    "wayanad"
+  ],
+  "kasaragod": [
+    "dakshinakannada",
+    "kannur",
+    "kodagu",
+    "mahe"
+  ],
+  "kollam": [
+    "alappuzha",
+    "pathanamthitta"
+  ],
+  "kottayam": [
+    "alappuzha",
+    "ernakulam",
+    "idukki",
+    "pathanamthitta"
+  ],
+  "kozhikode": [
+    "kannur",
+    "malappuram",
+    "wayanad"
+  ],
+  "malappuram": [
+    "kozhikode",
+    "palakkad",
+    "thenilgiris",
+    "thrissur",
+    "wayanad"
+  ],
+  "palakkad": [
+    "coimbatore",
+    "malappuram",
+    "thenilgiris",
+    "thrissur"
+  ],
+  "pathanamthitta": [
+    "alappuzha",
+    "idukki",
+    "kollam",
+    "kottayam"
+  ],
+  "thrissur": [
+    "coimbatore",
+    "ernakulam",
+    "idukki",
+    "malappuram",
+    "palakkad"
+  ],
+  "wayanad": [
+    "chamrajnagar",
+    "kannur",
+    "kodagu",
+    "kozhikode",
+    "malappuram",
+    "mysore",
+    "thenilgiris"
+  ],
+  "lakshadweep": [],
+  "agarmalwa": [
+    "jhalawar",
+    "rajgarh",
+    "ratlam",
+    "shajapur",
+    "ujjain"
+  ],
+  "alirajpur": [
+    "barwani",
+    "chhotaudaipur",
+    "dahod",
+    "dhar",
+    "jhabua",
+    "nandurbar"
+  ],
+  "barwani": [
+    "alirajpur",
+    "dhar",
+    "dhule",
+    "jalgaon",
+    "nandurbar",
+    "westnimar"
+  ],
+  "betul": [
+    "amravati",
+    "chhindwara",
+    "eastnimar",
+    "harda",
+    "hoshangabad"
+  ],
+  "bhopal": [
+    "raisen",
+    "rajgarh",
+    "sehore",
+    "vidisha"
+  ],
+  "burhanpur": [
+    "amravati",
+    "buldana",
+    "eastnimar",
+    "jalgaon",
+    "westnimar"
+  ],
+  "chhindwara": [
+    "amravati",
+    "betul",
+    "hoshangabad",
+    "nagpur",
+    "narsimhapur",
+    "seoni"
+  ],
+  "dewas": [
+    "eastnimar",
+    "harda",
+    "indore",
+    "sehore",
+    "shajapur",
+    "ujjain",
+    "westnimar"
+  ],
+  "dhar": [
+    "alirajpur",
+    "barwani",
+    "indore",
+    "jhabua",
+    "ratlam",
+    "ujjain",
+    "westnimar"
+  ],
+  "eastnimar": [
+    "amravati",
+    "betul",
+    "burhanpur",
+    "dewas",
+    "harda",
+    "westnimar"
+  ],
+  "harda": [
+    "betul",
+    "dewas",
+    "eastnimar",
+    "hoshangabad",
+    "sehore"
+  ],
+  "hoshangabad": [
+    "betul",
+    "chhindwara",
+    "harda",
+    "narsimhapur",
+    "raisen",
+    "sehore"
+  ],
+  "indore": [
+    "dewas",
+    "dhar",
+    "ujjain",
+    "westnimar"
+  ],
+  "jhabua": [
+    "alirajpur",
+    "banswara",
+    "dahod",
+    "dhar",
+    "ratlam"
+  ],
+  "mandsaur": [
+    "chittaurgarh",
+    "jhalawar",
+    "neemuch",
+    "pratapgarh",
+    "ratlam"
+  ],
+  "narsimhapur": [
+    "chhindwara",
+    "hoshangabad",
+    "raisen",
+    "seoni"
+  ],
+  "neemuch": [
+    "chittaurgarh",
+    "mandsaur",
+    "pratapgarh"
+  ],
+  "raisen": [
+    "bhopal",
+    "hoshangabad",
+    "narsimhapur",
+    "sehore",
+    "vidisha"
+  ],
+  "rajgarh": [
+    "agarmalwa",
+    "bhopal",
+    "jhalawar",
+    "sehore",
+    "shajapur"
+  ],
+  "ratlam": [
+    "agarmalwa",
+    "banswara",
+    "dhar",
+    "jhabua",
+    "jhalawar",
+    "mandsaur",
+    "pratapgarh",
+    "ujjain"
+  ],
+  "sehore": [
+    "bhopal",
+    "dewas",
+    "harda",
+    "hoshangabad",
+    "raisen",
+    "rajgarh",
+    "shajapur"
+  ],
+  "seoni": [
+    "chhindwara",
+    "nagpur",
+    "narsimhapur"
+  ],
+  "shajapur": [
+    "agarmalwa",
+    "dewas",
+    "rajgarh",
+    "sehore",
+    "ujjain"
+  ],
+  "ujjain": [
+    "agarmalwa",
+    "dewas",
+    "dhar",
+    "indore",
+    "jhalawar",
+    "ratlam",
+    "shajapur"
+  ],
+  "vidisha": [
+    "bhopal",
+    "raisen"
+  ],
+  "westnimar": [
+    "barwani",
+    "burhanpur",
+    "dewas",
+    "dhar",
+    "eastnimar",
+    "indore",
+    "jalgaon"
+  ],
+  "ahmadnagar": [
+    "aurangabad",
+    "bid",
+    "nashik",
+    "pune",
+    "solapur",
+    "thane"
+  ],
+  "akola": [
+    "amravati",
+    "buldana",
+    "washim"
+  ],
+  "amravati": [
+    "akola",
+    "betul",
+    "buldana",
+    "burhanpur",
+    "chhindwara",
+    "eastnimar",
+    "nagpur",
+    "wardha",
+    "washim",
+    "yavatmal"
+  ],
+  "aurangabad": [
+    "ahmadnagar",
+    "bid",
+    "jalgaon",
+    "jalna",
+    "nashik"
+  ],
+  "bhandara": [
+    "chandrapur",
+    "garhchiroli",
+    "gondiya",
+    "nagpur"
+  ],
+  "bid": [
+    "ahmadnagar",
+    "aurangabad",
+    "jalna",
+    "latur",
+    "osmanabad",
+    "parbhani",
+    "solapur"
+  ],
+  "buldana": [
+    "akola",
+    "amravati",
+    "burhanpur",
+    "hingoli",
+    "jalgaon",
+    "jalna",
+    "parbhani",
+    "washim"
+  ],
+  "chandrapur": [
+    "adilabad",
+    "bhandara",
+    "garhchiroli",
+    "gondiya",
+    "nagpur",
+    "wardha",
+    "yavatmal"
+  ],
+  "dhule": [
+    "barwani",
+    "jalgaon",
+    "nandurbar",
+    "nashik",
+    "tapi",
+    "thedangs"
+  ],
+  "garhchiroli": [
+    "adilabad",
+    "bhandara",
+    "bijapur",
+    "chandrapur",
+    "gondiya",
+    "karimnagar",
+    "narayanpur",
+    "uttarbastarkanker"
+  ],
+  "gondiya": [
+    "bhandara",
+    "chandrapur",
+    "garhchiroli"
+  ],
+  "hingoli": [
+    "buldana",
+    "nanded",
+    "parbhani",
+    "washim",
+    "yavatmal"
+  ],
+  "jalgaon": [
+    "aurangabad",
+    "barwani",
+    "buldana",
+    "burhanpur",
+    "dhule",
+    "jalna",
+    "nashik",
+    "westnimar"
+  ],
+  "jalna": [
+    "aurangabad",
+    "bid",
+    "buldana",
+    "jalgaon",
+    "parbhani"
+  ],
+  "kolhapur": [
+    "belgaum",
+    "ratnagiri",
+    "sangli",
+    "satara",
+    "sindhudurg"
+  ],
+  "latur": [
+    "bid",
+    "bidar",
+    "nanded",
+    "osmanabad",
+    "parbhani"
+  ],
+  "mumbaicity": [
+    "mumbaisuburban",
+    "raigarh"
+  ],
+  "mumbaisuburban": [
+    "mumbaicity",
+    "palghar",
+    "raigarh",
+    "thane"
+  ],
+  "nagpur": [
+    "amravati",
+    "bhandara",
+    "chandrapur",
+    "chhindwara",
+    "seoni",
+    "wardha"
+  ],
+  "nanded": [
+    "adilabad",
+    "bidar",
+    "hingoli",
+    "latur",
+    "nizamabad",
+    "parbhani",
+    "yavatmal"
+  ],
+  "nandurbar": [
+    "alirajpur",
+    "barwani",
+    "chhotaudaipur",
+    "dhule",
+    "narmada",
+    "tapi",
+    "thedangs"
+  ],
+  "nashik": [
+    "ahmadnagar",
+    "aurangabad",
+    "dadraandnagarhaveli",
+    "dhule",
+    "jalgaon",
+    "navsari",
+    "palghar",
+    "thane",
+    "thedangs",
+    "valsad"
+  ],
+  "osmanabad": [
+    "bid",
+    "bidar",
+    "gulbarga",
+    "latur",
+    "solapur"
+  ],
+  "palghar": [
+    "dadraandnagarhaveli",
+    "mumbaisuburban",
+    "nashik",
+    "thane",
+    "valsad"
+  ],
+  "parbhani": [
+    "bid",
+    "buldana",
+    "hingoli",
+    "jalna",
+    "latur",
+    "nanded",
+    "washim"
+  ],
+  "pune": [
+    "ahmadnagar",
+    "raigarh",
+    "satara",
+    "solapur",
+    "thane"
+  ],
+  "raigarh": [
+    "mumbaicity",
+    "mumbaisuburban",
+    "pune",
+    "ratnagiri",
+    "satara",
+    "thane"
+  ],
+  "ratnagiri": [
+    "kolhapur",
+    "raigarh",
+    "sangli",
+    "satara",
+    "sindhudurg"
+  ],
+  "sangli": [
+    "belgaum",
+    "kolhapur",
+    "ratnagiri",
+    "satara",
+    "solapur"
+  ],
+  "satara": [
+    "kolhapur",
+    "pune",
+    "raigarh",
+    "ratnagiri",
+    "sangli",
+    "solapur"
+  ],
+  "sindhudurg": [
+    "belgaum",
+    "kolhapur",
+    "northgoa",
+    "ratnagiri"
+  ],
+  "solapur": [
+    "ahmadnagar",
+    "bid",
+    "gulbarga",
+    "osmanabad",
+    "pune",
+    "sangli",
+    "satara"
+  ],
+  "thane": [
+    "ahmadnagar",
+    "mumbaisuburban",
+    "nashik",
+    "palghar",
+    "pune",
+    "raigarh"
+  ],
+  "wardha": [
+    "amravati",
+    "chandrapur",
+    "nagpur",
+    "yavatmal"
+  ],
+  "washim": [
+    "akola",
+    "amravati",
+    "buldana",
+    "hingoli",
+    "parbhani",
+    "yavatmal"
+  ],
+  "yavatmal": [
+    "adilabad",
+    "amravati",
+    "chandrapur",
+    "hingoli",
+    "nanded",
+    "wardha",
+    "washim"
+  ],
+  "mahe": [
+    "kannur",
+    "kasaragod"
+  ],
+  "puducherry": [
+    "cuddalore",
+    "viluppuram"
+  ],
+  "banswara": [
+    "dahod",
+    "dungarpur",
+    "jhabua",
+    "mahisagar",
+    "pratapgarh",
+    "ratlam"
+  ],
+  "chittaurgarh": [
+    "mandsaur",
+    "neemuch",
+    "pratapgarh",
+    "rajsamand",
+    "udaipur"
+  ],
+  "dungarpur": [
+    "aravalli",
+    "banswara",
+    "mahisagar",
+    "pratapgarh",
+    "udaipur"
+  ],
+  "jalor": [
+    "banaskantha",
+    "kachchh",
+    "sirohi"
+  ],
+  "jhalawar": [
+    "agarmalwa",
+    "mandsaur",
+    "rajgarh",
+    "ratlam",
+    "ujjain"
+  ],
+  "pratapgarh": [
+    "banswara",
+    "chittaurgarh",
+    "dungarpur",
+    "mandsaur",
+    "neemuch",
+    "ratlam",
+    "udaipur"
+  ],
+  "rajsamand": [
+    "chittaurgarh",
+    "udaipur"
+  ],
+  "sirohi": [
+    "banaskantha",
+    "jalor",
+    "sabarkantha",
+    "udaipur"
+  ],
+  "udaipur": [
+    "aravalli",
+    "chittaurgarh",
+    "dungarpur",
+    "pratapgarh",
+    "rajsamand",
+    "sabarkantha",
+    "sirohi"
+  ],
+  "ariyalur": [
+    "cuddalore",
+    "perambalur",
+    "thanjavur",
+    "tiruchirappalli"
+  ],
+  "chennai": [
+    "kancheepuram",
+    "thiruvallur"
+  ],
+  "coimbatore": [
+    "erode",
+    "idukki",
+    "palakkad",
+    "thenilgiris",
+    "thrissur",
+    "tiruppur"
+  ],
+  "cuddalore": [
+    "ariyalur",
+    "perambalur",
+    "puducherry",
+    "salem",
+    "thanjavur",
+    "viluppuram"
+  ],
+  "dharmapuri": [
+    "chamrajnagar",
+    "erode",
+    "krishnagiri",
+    "salem",
+    "tiruvannamalai",
+    "viluppuram"
+  ],
+  "dindigul": [
+    "idukki",
+    "karur",
+    "madurai",
+    "sivaganga",
+    "theni",
+    "tiruchirappalli",
+    "tiruppur"
+  ],
+  "erode": [
+    "chamrajnagar",
+    "coimbatore",
+    "dharmapuri",
+    "karur",
+    "namakkal",
+    "salem",
+    "thenilgiris",
+    "tiruppur"
+  ],
+  "kancheepuram": [
+    "chennai",
+    "thiruvallur",
+    "tiruvannamalai",
+    "vellore",
+    "viluppuram"
+  ],
+  "karur": [
+    "dindigul",
+    "erode",
+    "namakkal",
+    "pudukkottai",
+    "tiruchirappalli",
+    "tiruppur"
+  ],
+  "krishnagiri": [
+    "bangalore",
+    "bangalorerural",
+    "chamrajnagar",
+    "chittoor",
+    "dharmapuri",
+    "kolar",
+    "ramanagara",
+    "tiruvannamalai",
+    "vellore"
+  ],
+  "madurai": [
+    "dindigul",
+    "pudukkottai",
+    "sivaganga",
+    "theni",
+    "tiruchirappalli",
+    "virudunagar"
+  ],
+  "namakkal": [
+    "erode",
+    "karur",
+    "salem",
+    "tiruchirappalli"
+  ],
+  "perambalur": [
+    "ariyalur",
+    "cuddalore",
+    "salem",
+    "tiruchirappalli",
+    "viluppuram"
+  ],
+  "pudukkottai": [
+    "karur",
+    "madurai",
+    "sivaganga",
+    "thanjavur",
+    "tiruchirappalli"
+  ],
+  "salem": [
+    "chamrajnagar",
+    "cuddalore",
+    "dharmapuri",
+    "erode",
+    "namakkal",
+    "perambalur",
+    "tiruchirappalli",
+    "viluppuram"
+  ],
+  "sivaganga": [
+    "dindigul",
+    "madurai",
+    "pudukkottai",
+    "tiruchirappalli",
+    "virudunagar"
+  ],
+  "thanjavur": [
+    "ariyalur",
+    "cuddalore",
+    "pudukkottai",
+    "thiruvarur",
+    "tiruchirappalli"
+  ],
+  "thenilgiris": [
+    "chamrajnagar",
+    "coimbatore",
+    "erode",
+    "malappuram",
+    "palakkad",
+    "wayanad"
+  ],
+  "theni": [
+    "dindigul",
+    "idukki",
+    "madurai",
+    "virudunagar"
+  ],
+  "thiruvallur": [
+    "chennai",
+    "chittoor",
+    "kancheepuram",
+    "nellore",
+    "vellore"
+  ],
+  "thiruvarur": [
+    "thanjavur"
+  ],
+  "tiruchirappalli": [
+    "ariyalur",
+    "dindigul",
+    "karur",
+    "madurai",
+    "namakkal",
+    "perambalur",
+    "pudukkottai",
+    "salem",
+    "sivaganga",
+    "thanjavur"
+  ],
+  "tiruppur": [
+    "coimbatore",
+    "dindigul",
+    "erode",
+    "idukki",
+    "karur"
+  ],
+  "tiruvannamalai": [
+    "dharmapuri",
+    "kancheepuram",
+    "krishnagiri",
+    "vellore",
+    "viluppuram"
+  ],
+  "vellore": [
+    "chittoor",
+    "kancheepuram",
+    "krishnagiri",
+    "thiruvallur",
+    "tiruvannamalai"
+  ],
+  "viluppuram": [
+    "cuddalore",
+    "dharmapuri",
+    "kancheepuram",
+    "perambalur",
+    "puducherry",
+    "salem",
+    "tiruvannamalai"
+  ],
+  "virudunagar": [
+    "idukki",
+    "madurai",
+    "sivaganga",
+    "theni"
+  ],
+  "adilabad": [
+    "chandrapur",
+    "garhchiroli",
+    "karimnagar",
+    "nanded",
+    "nizamabad",
+    "yavatmal"
+  ],
+  "hyderabad": [
+    "rangareddy"
+  ],
+  "karimnagar": [
+    "adilabad",
+    "bijapur",
+    "garhchiroli",
+    "medak",
+    "nizamabad",
+    "warangal"
+  ],
+  "khammam": [
+    "bijapur",
+    "krishna",
+    "nalgonda",
+    "sukma",
+    "warangal",
+    "westgodavari"
+  ],
+  "mahbubnagar": [
+    "gulbarga",
+    "guntur",
+    "kurnool",
+    "nalgonda",
+    "prakasam",
+    "raichur",
+    "rangareddy",
+    "yadgir"
+  ],
+  "medak": [
+    "bidar",
+    "gulbarga",
+    "karimnagar",
+    "nalgonda",
+    "nizamabad",
+    "rangareddy",
+    "warangal"
+  ],
+  "nalgonda": [
+    "guntur",
+    "khammam",
+    "krishna",
+    "mahbubnagar",
+    "medak",
+    "rangareddy",
+    "warangal"
+  ],
+  "nizamabad": [
+    "adilabad",
+    "bidar",
+    "karimnagar",
+    "medak",
+    "nanded"
+  ],
+  "rangareddy": [
+    "gulbarga",
+    "hyderabad",
+    "mahbubnagar",
+    "medak",
+    "nalgonda"
+  ],
+  "warangal": [
+    "bijapur",
+    "karimnagar",
+    "khammam",
+    "medak",
+    "nalgonda"
+  ]
+}

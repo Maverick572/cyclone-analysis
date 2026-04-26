@@ -1,0 +1,1122 @@
+{
+  "baksa": [
+    [
+      {
+        "district": "baksa",
+        "date": "2019-05-04",
+        "intensity": 0.2027505403503576
+      },
+      {
+        "district": "kamrup",
+        "date": "2019-05-05",
+        "intensity": 0.2572215040801635
+      }
+    ]
+  ],
+  "baleshwar": [
+    [
+      {
+        "district": "baleshwar",
+        "date": "2019-05-03",
+        "intensity": 0.7069363158373664
+      }
+    ]
+  ],
+  "bankura": [
+    [
+      {
+        "district": "bankura",
+        "date": "2019-05-03",
+        "intensity": 1.2772156347617278
+      }
+    ]
+  ],
+  "barpeta": [
+    [
+      {
+        "district": "barpeta",
+        "date": "2019-04-30",
+        "intensity": 0.3242412772393166
+      },
+      {
+        "district": "bongaigaon",
+        "date": "2019-05-02",
+        "intensity": 0.2617917769630093
+      },
+      {
+        "district": "goalpara",
+        "date": "2019-05-04",
+        "intensity": 0.3995478308206597
+      },
+      {
+        "district": "kamrup",
+        "date": "2019-05-05",
+        "intensity": 0.2572215040801635
+      }
+    ],
+    [
+      {
+        "district": "barpeta",
+        "date": "2019-04-30",
+        "intensity": 0.3242412772393166
+      },
+      {
+        "district": "bongaigaon",
+        "date": "2019-05-02",
+        "intensity": 0.2617917769630093
+      },
+      {
+        "district": "baksa",
+        "date": "2019-05-04",
+        "intensity": 0.2027505403503576
+      },
+      {
+        "district": "kamrup",
+        "date": "2019-05-05",
+        "intensity": 0.2572215040801635
+      }
+    ],
+    [
+      {
+        "district": "barpeta",
+        "date": "2019-04-30",
+        "intensity": 0.3242412772393166
+      },
+      {
+        "district": "bongaigaon",
+        "date": "2019-05-01",
+        "intensity": 0.3584384189761059
+      }
+    ],
+    [
+      {
+        "district": "barpeta",
+        "date": "2019-05-04",
+        "intensity": 0.272937962705571
+      },
+      {
+        "district": "kamrup",
+        "date": "2019-05-05",
+        "intensity": 0.2572215040801635
+      }
+    ]
+  ],
+  "bhadrak": [
+    [
+      {
+        "district": "bhadrak",
+        "date": "2019-05-03",
+        "intensity": 0.3081998235691439
+      },
+      {
+        "district": "kendrapara",
+        "date": "2019-05-04",
+        "intensity": 0.1525720392560961
+      }
+    ],
+    [
+      {
+        "district": "bhadrak",
+        "date": "2019-05-03",
+        "intensity": 0.3081998235691439
+      },
+      {
+        "district": "jajapur",
+        "date": "2019-05-04",
+        "intensity": 0.2743097553079447
+      }
+    ]
+  ],
+  "birbhum": [
+    [
+      {
+        "district": "birbhum",
+        "date": "2019-05-03",
+        "intensity": 0.4732606566923063
+      }
+    ]
+  ],
+  "bongaigaon": [
+    [
+      {
+        "district": "bongaigaon",
+        "date": "2019-04-30",
+        "intensity": 0.2877207078337867
+      }
+    ],
+    [
+      {
+        "district": "bongaigaon",
+        "date": "2019-05-01",
+        "intensity": 0.3584384189761059
+      }
+    ],
+    [
+      {
+        "district": "bongaigaon",
+        "date": "2019-05-02",
+        "intensity": 0.2617917769630093
+      },
+      {
+        "district": "goalpara",
+        "date": "2019-05-04",
+        "intensity": 0.3995478308206597
+      },
+      {
+        "district": "kamrup",
+        "date": "2019-05-05",
+        "intensity": 0.2572215040801635
+      }
+    ],
+    [
+      {
+        "district": "bongaigaon",
+        "date": "2019-05-02",
+        "intensity": 0.2617917769630093
+      },
+      {
+        "district": "barpeta",
+        "date": "2019-05-04",
+        "intensity": 0.272937962705571
+      },
+      {
+        "district": "kamrup",
+        "date": "2019-05-05",
+        "intensity": 0.2572215040801635
+      }
+    ],
+    [
+      {
+        "district": "bongaigaon",
+        "date": "2019-05-02",
+        "intensity": 0.2617917769630093
+      },
+      {
+        "district": "baksa",
+        "date": "2019-05-04",
+        "intensity": 0.2027505403503576
+      },
+      {
+        "district": "kamrup",
+        "date": "2019-05-05",
+        "intensity": 0.2572215040801635
+      }
+    ]
+  ],
+  "cuttack": [
+    [
+      {
+        "district": "cuttack",
+        "date": "2019-05-03",
+        "intensity": 1.3607715370571656
+      },
+      {
+        "district": "khordha",
+        "date": "2019-05-04",
+        "intensity": 0.249135557573062
+      }
+    ],
+    [
+      {
+        "district": "cuttack",
+        "date": "2019-05-03",
+        "intensity": 1.3607715370571656
+      },
+      {
+        "district": "kendrapara",
+        "date": "2019-05-04",
+        "intensity": 0.1525720392560961
+      }
+    ],
+    [
+      {
+        "district": "cuttack",
+        "date": "2019-05-03",
+        "intensity": 1.3607715370571656
+      },
+      {
+        "district": "jajapur",
+        "date": "2019-05-04",
+        "intensity": 0.2743097553079447
+      }
+    ],
+    [
+      {
+        "district": "cuttack",
+        "date": "2019-05-03",
+        "intensity": 1.3607715370571656
+      },
+      {
+        "district": "dhenkanal",
+        "date": "2019-05-04",
+        "intensity": 0.1683610708463598
+      }
+    ],
+    [
+      {
+        "district": "cuttack",
+        "date": "2019-05-04",
+        "intensity": 0.3526789421243462
+      }
+    ]
+  ],
+  "darrang": [
+    [
+      {
+        "district": "darrang",
+        "date": "2019-05-01",
+        "intensity": 0.2778933573416423
+      }
+    ],
+    [
+      {
+        "district": "darrang",
+        "date": "2019-05-04",
+        "intensity": 0.6019087882158761
+      },
+      {
+        "district": "kamrupmetropolitan",
+        "date": "2019-05-05",
+        "intensity": 0.3522825855597147
+      }
+    ],
+    [
+      {
+        "district": "darrang",
+        "date": "2019-05-04",
+        "intensity": 0.6019087882158761
+      },
+      {
+        "district": "kamrup",
+        "date": "2019-05-05",
+        "intensity": 0.2572215040801635
+      }
+    ]
+  ],
+  "dhanbad": [
+    [
+      {
+        "district": "dhanbad",
+        "date": "2019-05-03",
+        "intensity": 0.1724695630455779
+      }
+    ]
+  ],
+  "dhenkanal": [
+    [
+      {
+        "district": "dhenkanal",
+        "date": "2019-05-03",
+        "intensity": 1.2942177499287617
+      },
+      {
+        "district": "jajapur",
+        "date": "2019-05-04",
+        "intensity": 0.2743097553079447
+      }
+    ],
+    [
+      {
+        "district": "dhenkanal",
+        "date": "2019-05-03",
+        "intensity": 1.2942177499287617
+      },
+      {
+        "district": "cuttack",
+        "date": "2019-05-04",
+        "intensity": 0.3526789421243462
+      }
+    ],
+    [
+      {
+        "district": "dhenkanal",
+        "date": "2019-05-04",
+        "intensity": 0.1683610708463598
+      }
+    ]
+  ],
+  "eastgarohills": [
+    [
+      {
+        "district": "eastgarohills",
+        "date": "2019-05-04",
+        "intensity": 0.3859036633982958
+      },
+      {
+        "district": "kamrup",
+        "date": "2019-05-05",
+        "intensity": 0.2572215040801635
+      }
+    ]
+  ],
+  "eastkhasihills": [
+    [
+      {
+        "district": "eastkhasihills",
+        "date": "2019-05-04",
+        "intensity": 0.5003207688814771
+      }
+    ]
+  ],
+  "gajapati": [
+    [
+      {
+        "district": "gajapati",
+        "date": "2019-05-02",
+        "intensity": 0.2626367641818518
+      }
+    ]
+  ],
+  "goalpara": [
+    [
+      {
+        "district": "goalpara",
+        "date": "2019-05-04",
+        "intensity": 0.3995478308206597
+      },
+      {
+        "district": "kamrup",
+        "date": "2019-05-05",
+        "intensity": 0.2572215040801635
+      }
+    ]
+  ],
+  "jagatsinghapur": [
+    [
+      {
+        "district": "jagatsinghapur",
+        "date": "2019-05-02",
+        "intensity": 0.1669320954162029
+      },
+      {
+        "district": "puri",
+        "date": "2019-05-03",
+        "intensity": 0.6280466409670931
+      },
+      {
+        "district": "khordha",
+        "date": "2019-05-04",
+        "intensity": 0.249135557573062
+      }
+    ],
+    [
+      {
+        "district": "jagatsinghapur",
+        "date": "2019-05-02",
+        "intensity": 0.1669320954162029
+      },
+      {
+        "district": "puri",
+        "date": "2019-05-03",
+        "intensity": 0.6280466409670931
+      },
+      {
+        "district": "cuttack",
+        "date": "2019-05-04",
+        "intensity": 0.3526789421243462
+      }
+    ],
+    [
+      {
+        "district": "jagatsinghapur",
+        "date": "2019-05-02",
+        "intensity": 0.1669320954162029
+      },
+      {
+        "district": "kendrapara",
+        "date": "2019-05-04",
+        "intensity": 0.1525720392560961
+      }
+    ],
+    [
+      {
+        "district": "jagatsinghapur",
+        "date": "2019-05-02",
+        "intensity": 0.1669320954162029
+      },
+      {
+        "district": "kendrapara",
+        "date": "2019-05-03",
+        "intensity": 0.1647317994624393
+      },
+      {
+        "district": "jajapur",
+        "date": "2019-05-04",
+        "intensity": 0.2743097553079447
+      }
+    ],
+    [
+      {
+        "district": "jagatsinghapur",
+        "date": "2019-05-02",
+        "intensity": 0.1669320954162029
+      },
+      {
+        "district": "kendrapara",
+        "date": "2019-05-03",
+        "intensity": 0.1647317994624393
+      },
+      {
+        "district": "cuttack",
+        "date": "2019-05-04",
+        "intensity": 0.3526789421243462
+      }
+    ],
+    [
+      {
+        "district": "jagatsinghapur",
+        "date": "2019-05-02",
+        "intensity": 0.1669320954162029
+      },
+      {
+        "district": "cuttack",
+        "date": "2019-05-04",
+        "intensity": 0.3526789421243462
+      }
+    ],
+    [
+      {
+        "district": "jagatsinghapur",
+        "date": "2019-05-02",
+        "intensity": 0.1669320954162029
+      },
+      {
+        "district": "cuttack",
+        "date": "2019-05-03",
+        "intensity": 1.3607715370571656
+      },
+      {
+        "district": "khordha",
+        "date": "2019-05-04",
+        "intensity": 0.249135557573062
+      }
+    ],
+    [
+      {
+        "district": "jagatsinghapur",
+        "date": "2019-05-02",
+        "intensity": 0.1669320954162029
+      },
+      {
+        "district": "cuttack",
+        "date": "2019-05-03",
+        "intensity": 1.3607715370571656
+      },
+      {
+        "district": "kendrapara",
+        "date": "2019-05-04",
+        "intensity": 0.1525720392560961
+      }
+    ],
+    [
+      {
+        "district": "jagatsinghapur",
+        "date": "2019-05-02",
+        "intensity": 0.1669320954162029
+      },
+      {
+        "district": "cuttack",
+        "date": "2019-05-03",
+        "intensity": 1.3607715370571656
+      },
+      {
+        "district": "jajapur",
+        "date": "2019-05-04",
+        "intensity": 0.2743097553079447
+      }
+    ],
+    [
+      {
+        "district": "jagatsinghapur",
+        "date": "2019-05-02",
+        "intensity": 0.1669320954162029
+      },
+      {
+        "district": "cuttack",
+        "date": "2019-05-03",
+        "intensity": 1.3607715370571656
+      },
+      {
+        "district": "dhenkanal",
+        "date": "2019-05-04",
+        "intensity": 0.1683610708463598
+      }
+    ],
+    [
+      {
+        "district": "jagatsinghapur",
+        "date": "2019-05-03",
+        "intensity": 0.4061323068483816
+      },
+      {
+        "district": "kendrapara",
+        "date": "2019-05-04",
+        "intensity": 0.1525720392560961
+      }
+    ],
+    [
+      {
+        "district": "jagatsinghapur",
+        "date": "2019-05-03",
+        "intensity": 0.4061323068483816
+      },
+      {
+        "district": "cuttack",
+        "date": "2019-05-04",
+        "intensity": 0.3526789421243462
+      }
+    ]
+  ],
+  "jajapur": [
+    [
+      {
+        "district": "jajapur",
+        "date": "2019-05-03",
+        "intensity": 1.209489217177959
+      },
+      {
+        "district": "kendrapara",
+        "date": "2019-05-04",
+        "intensity": 0.1525720392560961
+      }
+    ],
+    [
+      {
+        "district": "jajapur",
+        "date": "2019-05-03",
+        "intensity": 1.209489217177959
+      },
+      {
+        "district": "dhenkanal",
+        "date": "2019-05-04",
+        "intensity": 0.1683610708463598
+      }
+    ],
+    [
+      {
+        "district": "jajapur",
+        "date": "2019-05-03",
+        "intensity": 1.209489217177959
+      },
+      {
+        "district": "cuttack",
+        "date": "2019-05-04",
+        "intensity": 0.3526789421243462
+      }
+    ],
+    [
+      {
+        "district": "jajapur",
+        "date": "2019-05-04",
+        "intensity": 0.2743097553079447
+      }
+    ]
+  ],
+  "jamtara": [
+    [
+      {
+        "district": "jamtara",
+        "date": "2019-05-03",
+        "intensity": 0.378827507472172
+      }
+    ]
+  ],
+  "kamrup": [
+    [
+      {
+        "district": "kamrup",
+        "date": "2019-05-04",
+        "intensity": 1.0853933267408764
+      },
+      {
+        "district": "kamrupmetropolitan",
+        "date": "2019-05-05",
+        "intensity": 0.3522825855597147
+      }
+    ],
+    [
+      {
+        "district": "kamrup",
+        "date": "2019-05-05",
+        "intensity": 0.2572215040801635
+      }
+    ]
+  ],
+  "kamrupmetropolitan": [
+    [
+      {
+        "district": "kamrupmetropolitan",
+        "date": "2019-05-04",
+        "intensity": 1.323454693135986
+      },
+      {
+        "district": "kamrup",
+        "date": "2019-05-05",
+        "intensity": 0.2572215040801635
+      }
+    ],
+    [
+      {
+        "district": "kamrupmetropolitan",
+        "date": "2019-05-05",
+        "intensity": 0.3522825855597147
+      }
+    ]
+  ],
+  "kendrapara": [
+    [
+      {
+        "district": "kendrapara",
+        "date": "2019-05-02",
+        "intensity": 0.669768138252615
+      },
+      {
+        "district": "jajapur",
+        "date": "2019-05-04",
+        "intensity": 0.2743097553079447
+      }
+    ],
+    [
+      {
+        "district": "kendrapara",
+        "date": "2019-05-02",
+        "intensity": 0.669768138252615
+      },
+      {
+        "district": "jajapur",
+        "date": "2019-05-03",
+        "intensity": 1.209489217177959
+      },
+      {
+        "district": "dhenkanal",
+        "date": "2019-05-04",
+        "intensity": 0.1683610708463598
+      }
+    ],
+    [
+      {
+        "district": "kendrapara",
+        "date": "2019-05-02",
+        "intensity": 0.669768138252615
+      },
+      {
+        "district": "jajapur",
+        "date": "2019-05-03",
+        "intensity": 1.209489217177959
+      },
+      {
+        "district": "cuttack",
+        "date": "2019-05-04",
+        "intensity": 0.3526789421243462
+      }
+    ],
+    [
+      {
+        "district": "kendrapara",
+        "date": "2019-05-02",
+        "intensity": 0.669768138252615
+      },
+      {
+        "district": "jagatsinghapur",
+        "date": "2019-05-03",
+        "intensity": 0.4061323068483816
+      },
+      {
+        "district": "cuttack",
+        "date": "2019-05-04",
+        "intensity": 0.3526789421243462
+      }
+    ],
+    [
+      {
+        "district": "kendrapara",
+        "date": "2019-05-02",
+        "intensity": 0.669768138252615
+      },
+      {
+        "district": "cuttack",
+        "date": "2019-05-04",
+        "intensity": 0.3526789421243462
+      }
+    ],
+    [
+      {
+        "district": "kendrapara",
+        "date": "2019-05-02",
+        "intensity": 0.669768138252615
+      },
+      {
+        "district": "cuttack",
+        "date": "2019-05-03",
+        "intensity": 1.3607715370571656
+      },
+      {
+        "district": "khordha",
+        "date": "2019-05-04",
+        "intensity": 0.249135557573062
+      }
+    ],
+    [
+      {
+        "district": "kendrapara",
+        "date": "2019-05-02",
+        "intensity": 0.669768138252615
+      },
+      {
+        "district": "cuttack",
+        "date": "2019-05-03",
+        "intensity": 1.3607715370571656
+      },
+      {
+        "district": "jajapur",
+        "date": "2019-05-04",
+        "intensity": 0.2743097553079447
+      }
+    ],
+    [
+      {
+        "district": "kendrapara",
+        "date": "2019-05-02",
+        "intensity": 0.669768138252615
+      },
+      {
+        "district": "cuttack",
+        "date": "2019-05-03",
+        "intensity": 1.3607715370571656
+      },
+      {
+        "district": "dhenkanal",
+        "date": "2019-05-04",
+        "intensity": 0.1683610708463598
+      }
+    ],
+    [
+      {
+        "district": "kendrapara",
+        "date": "2019-05-02",
+        "intensity": 0.669768138252615
+      },
+      {
+        "district": "bhadrak",
+        "date": "2019-05-03",
+        "intensity": 0.3081998235691439
+      },
+      {
+        "district": "jajapur",
+        "date": "2019-05-04",
+        "intensity": 0.2743097553079447
+      }
+    ],
+    [
+      {
+        "district": "kendrapara",
+        "date": "2019-05-03",
+        "intensity": 0.1647317994624393
+      },
+      {
+        "district": "jajapur",
+        "date": "2019-05-04",
+        "intensity": 0.2743097553079447
+      }
+    ],
+    [
+      {
+        "district": "kendrapara",
+        "date": "2019-05-03",
+        "intensity": 0.1647317994624393
+      },
+      {
+        "district": "cuttack",
+        "date": "2019-05-04",
+        "intensity": 0.3526789421243462
+      }
+    ],
+    [
+      {
+        "district": "kendrapara",
+        "date": "2019-05-04",
+        "intensity": 0.1525720392560961
+      }
+    ]
+  ],
+  "kendujhar": [
+    [
+      {
+        "district": "kendujhar",
+        "date": "2019-05-03",
+        "intensity": 0.949047523704156
+      },
+      {
+        "district": "jajapur",
+        "date": "2019-05-04",
+        "intensity": 0.2743097553079447
+      }
+    ],
+    [
+      {
+        "district": "kendujhar",
+        "date": "2019-05-03",
+        "intensity": 0.949047523704156
+      },
+      {
+        "district": "dhenkanal",
+        "date": "2019-05-04",
+        "intensity": 0.1683610708463598
+      }
+    ]
+  ],
+  "khordha": [
+    [
+      {
+        "district": "khordha",
+        "date": "2019-05-03",
+        "intensity": 1.1071776213383382
+      },
+      {
+        "district": "cuttack",
+        "date": "2019-05-04",
+        "intensity": 0.3526789421243462
+      }
+    ],
+    [
+      {
+        "district": "khordha",
+        "date": "2019-05-04",
+        "intensity": 0.249135557573062
+      }
+    ]
+  ],
+  "mayurbhanj": [
+    [
+      {
+        "district": "mayurbhanj",
+        "date": "2019-05-03",
+        "intensity": 0.8904894240864354
+      }
+    ]
+  ],
+  "morigaon": [
+    [
+      {
+        "district": "morigaon",
+        "date": "2019-05-04",
+        "intensity": 0.5698008283479383
+      },
+      {
+        "district": "kamrupmetropolitan",
+        "date": "2019-05-05",
+        "intensity": 0.3522825855597147
+      }
+    ]
+  ],
+  "nadia": [
+    [
+      {
+        "district": "nadia",
+        "date": "2019-05-03",
+        "intensity": 0.3343579770032597
+      }
+    ]
+  ],
+  "nagaon": [
+    [
+      {
+        "district": "nagaon",
+        "date": "2019-05-04",
+        "intensity": 0.8359301947380369
+      }
+    ]
+  ],
+  "nalbari": [
+    [
+      {
+        "district": "nalbari",
+        "date": "2019-05-04",
+        "intensity": 0.395647634481655
+      },
+      {
+        "district": "kamrup",
+        "date": "2019-05-05",
+        "intensity": 0.2572215040801635
+      }
+    ]
+  ],
+  "nayagarh": [
+    [
+      {
+        "district": "nayagarh",
+        "date": "2019-05-03",
+        "intensity": 0.8809325926353374
+      },
+      {
+        "district": "khordha",
+        "date": "2019-05-04",
+        "intensity": 0.249135557573062
+      }
+    ],
+    [
+      {
+        "district": "nayagarh",
+        "date": "2019-05-03",
+        "intensity": 0.8809325926353374
+      },
+      {
+        "district": "cuttack",
+        "date": "2019-05-04",
+        "intensity": 0.3526789421243462
+      }
+    ]
+  ],
+  "northgarohills": [
+    [
+      {
+        "district": "northgarohills",
+        "date": "2019-05-04",
+        "intensity": 0.1605258104837836
+      }
+    ]
+  ],
+  "pakur": [
+    [
+      {
+        "district": "pakur",
+        "date": "2019-05-03",
+        "intensity": 0.1862321739148229
+      }
+    ]
+  ],
+  "pashchimisinghbhum": [
+    [
+      {
+        "district": "pashchimisinghbhum",
+        "date": "2019-05-03",
+        "intensity": 0.574946433547617
+      }
+    ]
+  ],
+  "purbamedinipur": [
+    [
+      {
+        "district": "purbamedinipur",
+        "date": "2019-05-03",
+        "intensity": 0.2401658538717734
+      }
+    ]
+  ],
+  "purbisinghbhum": [
+    [
+      {
+        "district": "purbisinghbhum",
+        "date": "2019-05-03",
+        "intensity": 1.0895297477623465
+      }
+    ]
+  ],
+  "puri": [
+    [
+      {
+        "district": "puri",
+        "date": "2019-05-03",
+        "intensity": 0.6280466409670931
+      },
+      {
+        "district": "khordha",
+        "date": "2019-05-04",
+        "intensity": 0.249135557573062
+      }
+    ],
+    [
+      {
+        "district": "puri",
+        "date": "2019-05-03",
+        "intensity": 0.6280466409670931
+      },
+      {
+        "district": "cuttack",
+        "date": "2019-05-04",
+        "intensity": 0.3526789421243462
+      }
+    ]
+  ],
+  "puruliya": [
+    [
+      {
+        "district": "puruliya",
+        "date": "2019-05-03",
+        "intensity": 0.9879454627247404
+      }
+    ]
+  ],
+  "ribhoi": [
+    [
+      {
+        "district": "ribhoi",
+        "date": "2019-05-04",
+        "intensity": 1.0884903846887306
+      },
+      {
+        "district": "kamrupmetropolitan",
+        "date": "2019-05-05",
+        "intensity": 0.3522825855597147
+      }
+    ],
+    [
+      {
+        "district": "ribhoi",
+        "date": "2019-05-04",
+        "intensity": 1.0884903846887306
+      },
+      {
+        "district": "kamrup",
+        "date": "2019-05-05",
+        "intensity": 0.2572215040801635
+      }
+    ]
+  ],
+  "saraikelakharsawan": [
+    [
+      {
+        "district": "saraikelakharsawan",
+        "date": "2019-05-03",
+        "intensity": 0.9127578644418202
+      }
+    ]
+  ],
+  "srikakulam": [
+    [
+      {
+        "district": "srikakulam",
+        "date": "2019-05-02",
+        "intensity": 0.586857351627527
+      }
+    ]
+  ],
+  "udalguri": [
+    [
+      {
+        "district": "udalguri",
+        "date": "2019-05-04",
+        "intensity": 0.5098917395186133
+      },
+      {
+        "district": "kamrup",
+        "date": "2019-05-05",
+        "intensity": 0.2572215040801635
+      }
+    ]
+  ],
+  "westkhasihills": [
+    [
+      {
+        "district": "westkhasihills",
+        "date": "2019-05-04",
+        "intensity": 0.8345547411755796
+      },
+      {
+        "district": "kamrup",
+        "date": "2019-05-05",
+        "intensity": 0.2572215040801635
+      }
+    ]
+  ]
+}

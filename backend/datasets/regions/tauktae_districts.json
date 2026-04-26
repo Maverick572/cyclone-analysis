@@ -1,0 +1,1650 @@
+[
+  {
+    "district": "ratnagiri",
+    "state": "maharashtra",
+    "district_key": "maharashtra_ratnagiri",
+    "lat": 17.27274,
+    "lon": 73.46055,
+    "distance_km": 133.52
+  },
+  {
+    "district": "sindhudurg",
+    "state": "maharashtra",
+    "district_key": "maharashtra_sindhudurg",
+    "lat": 16.13225,
+    "lon": 73.74294,
+    "distance_km": 138.8
+  },
+  {
+    "district": "kolhapur",
+    "state": "maharashtra",
+    "district_key": "maharashtra_kolhapur",
+    "lat": 16.46678,
+    "lon": 74.1673,
+    "distance_km": 177.81
+  },
+  {
+    "district": "northgoa",
+    "state": "goa",
+    "district_key": "goa_northgoa",
+    "lat": 15.55098,
+    "lon": 73.98402,
+    "distance_km": 190.5
+  },
+  {
+    "district": "satara",
+    "state": "maharashtra",
+    "district_key": "maharashtra_satara",
+    "lat": 17.66775,
+    "lon": 74.18115,
+    "distance_km": 220.88
+  },
+  {
+    "district": "southgoa",
+    "state": "goa",
+    "district_key": "goa_southgoa",
+    "lat": 15.19536,
+    "lon": 74.12039,
+    "distance_km": 226.02
+  },
+  {
+    "district": "raigarh",
+    "state": "maharashtra",
+    "district_key": "maharashtra_raigarh",
+    "lat": 18.50997,
+    "lon": 73.23018,
+    "distance_km": 236.53
+  },
+  {
+    "district": "sangli",
+    "state": "maharashtra",
+    "district_key": "maharashtra_sangli",
+    "lat": 17.1107,
+    "lon": 74.77489,
+    "distance_km": 251.49
+  },
+  {
+    "district": "belgaum",
+    "state": "karnataka",
+    "district_key": "karnataka_belgaum",
+    "lat": 16.11779,
+    "lon": 74.82794,
+    "distance_km": 252.05
+  },
+  {
+    "district": "mumbaicity",
+    "state": "maharashtra",
+    "district_key": "maharashtra_mumbaicity",
+    "lat": 18.9857,
+    "lon": 72.83741,
+    "distance_km": 278.7
+  },
+  {
+    "district": "pune",
+    "state": "maharashtra",
+    "district_key": "maharashtra_pune",
+    "lat": 18.57053,
+    "lon": 74.07659,
+    "distance_km": 284.51
+  },
+  {
+    "district": "uttarakannada",
+    "state": "karnataka",
+    "district_key": "karnataka_uttarakannada",
+    "lat": 14.78753,
+    "lon": 74.62398,
+    "distance_km": 296.61
+  },
+  {
+    "district": "mumbaisuburban",
+    "state": "maharashtra",
+    "district_key": "maharashtra_mumbaisuburban",
+    "lat": 19.14269,
+    "lon": 72.88211,
+    "distance_km": 296.62
+  },
+  {
+    "district": "dharwad",
+    "state": "karnataka",
+    "district_key": "karnataka_dharwad",
+    "lat": 15.38645,
+    "lon": 75.1562,
+    "distance_km": 309.81
+  },
+  {
+    "district": "thane",
+    "state": "maharashtra",
+    "district_key": "maharashtra_thane",
+    "lat": 19.35998,
+    "lon": 73.33175,
+    "distance_km": 329.96
+  },
+  {
+    "district": "bagalkot",
+    "state": "karnataka",
+    "district_key": "karnataka_bagalkot",
+    "lat": 16.21802,
+    "lon": 75.62657,
+    "distance_km": 335.05
+  },
+  {
+    "district": "solapur",
+    "state": "maharashtra",
+    "district_key": "maharashtra_solapur",
+    "lat": 17.78882,
+    "lon": 75.4852,
+    "distance_km": 348.05
+  },
+  {
+    "district": "gadag",
+    "state": "karnataka",
+    "district_key": "karnataka_gadag",
+    "lat": 15.42787,
+    "lon": 75.66668,
+    "distance_km": 358.91
+  },
+  {
+    "district": "haveri",
+    "state": "karnataka",
+    "district_key": "karnataka_haveri",
+    "lat": 14.73442,
+    "lon": 75.41857,
+    "distance_km": 369.08
+  },
+  {
+    "district": "bijapur",
+    "state": "karnataka",
+    "district_key": "karnataka_bijapur",
+    "lat": 16.79153,
+    "lon": 75.95341,
+    "distance_km": 369.33
+  },
+  {
+    "district": "palghar",
+    "state": "maharashtra",
+    "district_key": "maharashtra_palghar",
+    "lat": 19.79094,
+    "lon": 73.02004,
+    "distance_km": 370.04
+  },
+  {
+    "district": "ahmadnagar",
+    "state": "maharashtra",
+    "district_key": "maharashtra_ahmadnagar",
+    "lat": 19.23321,
+    "lon": 74.64545,
+    "distance_km": 379.35
+  },
+  {
+    "district": "shimoga",
+    "state": "karnataka",
+    "district_key": "karnataka_shimoga",
+    "lat": 14.05222,
+    "lon": 75.17608,
+    "distance_km": 395.56
+  },
+  {
+    "district": "koppal",
+    "state": "karnataka",
+    "district_key": "karnataka_koppal",
+    "lat": 15.55798,
+    "lon": 76.22041,
+    "distance_km": 411.16
+  },
+  {
+    "district": "dadraandnagarhaveli",
+    "state": "dadraandnagarhaveli",
+    "district_key": "dadraandnagarhaveli_dadraandnagarhaveli",
+    "lat": 20.1948,
+    "lon": 73.08083,
+    "distance_km": 415.39
+  },
+  {
+    "district": "osmanabad",
+    "state": "maharashtra",
+    "district_key": "maharashtra_osmanabad",
+    "lat": 18.18822,
+    "lon": 76.03932,
+    "distance_km": 419.93
+  },
+  {
+    "district": "udupi",
+    "state": "karnataka",
+    "district_key": "karnataka_udupi",
+    "lat": 13.46479,
+    "lon": 74.88269,
+    "distance_km": 423.55
+  },
+  {
+    "district": "daman",
+    "state": "damananddiu",
+    "district_key": "damananddiu_daman",
+    "lat": 20.41389,
+    "lon": 72.85943,
+    "distance_km": 436.85
+  },
+  {
+    "district": "davanagere",
+    "state": "karnataka",
+    "district_key": "karnataka_davanagere",
+    "lat": 14.35155,
+    "lon": 75.93135,
+    "distance_km": 438.55
+  },
+  {
+    "district": "valsad",
+    "state": "gujarat",
+    "district_key": "gujarat_valsad",
+    "lat": 20.41825,
+    "lon": 73.12213,
+    "distance_km": 440.6
+  },
+  {
+    "district": "bid",
+    "state": "maharashtra",
+    "district_key": "maharashtra_bid",
+    "lat": 18.9251,
+    "lon": 75.80192,
+    "distance_km": 441.61
+  },
+  {
+    "district": "nashik",
+    "state": "maharashtra",
+    "district_key": "maharashtra_nashik",
+    "lat": 20.25998,
+    "lon": 74.07785,
+    "distance_km": 450.01
+  },
+  {
+    "district": "bellary",
+    "state": "karnataka",
+    "district_key": "karnataka_bellary",
+    "lat": 15.10502,
+    "lon": 76.53054,
+    "distance_km": 458.27
+  },
+  {
+    "district": "yadgir",
+    "state": "karnataka",
+    "district_key": "karnataka_yadgir",
+    "lat": 16.62276,
+    "lon": 76.9112,
+    "distance_km": 470.34
+  },
+  {
+    "district": "raichur",
+    "state": "karnataka",
+    "district_key": "karnataka_raichur",
+    "lat": 16.08552,
+    "lon": 76.89012,
+    "distance_km": 470.81
+  },
+  {
+    "district": "gulbarga",
+    "state": "karnataka",
+    "district_key": "karnataka_gulbarga",
+    "lat": 17.25711,
+    "lon": 76.86716,
+    "distance_km": 472.24
+  },
+  {
+    "district": "chikmagalur",
+    "state": "karnataka",
+    "district_key": "karnataka_chikmagalur",
+    "lat": 13.44942,
+    "lon": 75.68954,
+    "distance_km": 482.09
+  },
+  {
+    "district": "navsari",
+    "state": "gujarat",
+    "district_key": "gujarat_navsari",
+    "lat": 20.81253,
+    "lon": 73.10328,
+    "distance_km": 483.72
+  },
+  {
+    "district": "aurangabad",
+    "state": "maharashtra",
+    "district_key": "maharashtra_aurangabad",
+    "lat": 20.02266,
+    "lon": 75.2759,
+    "distance_km": 489.2
+  },
+  {
+    "district": "thedangs",
+    "state": "gujarat",
+    "district_key": "gujarat_thedangs",
+    "lat": 20.79856,
+    "lon": 73.70615,
+    "distance_km": 494.57
+  },
+  {
+    "district": "diu",
+    "state": "damananddiu",
+    "district_key": "damananddiu_diu",
+    "lat": 20.71714,
+    "lon": 70.94055,
+    "distance_km": 496.87
+  },
+  {
+    "district": "latur",
+    "state": "maharashtra",
+    "district_key": "maharashtra_latur",
+    "lat": 18.37352,
+    "lon": 76.75956,
+    "distance_km": 497.55
+  },
+  {
+    "district": "chitradurga",
+    "state": "karnataka",
+    "district_key": "karnataka_chitradurga",
+    "lat": 14.16195,
+    "lon": 76.51245,
+    "distance_km": 502.69
+  },
+  {
+    "district": "dakshinakannada",
+    "state": "karnataka",
+    "district_key": "karnataka_dakshinakannada",
+    "lat": 12.83301,
+    "lon": 75.26665,
+    "distance_km": 504.77
+  },
+  {
+    "district": "jalna",
+    "state": "maharashtra",
+    "district_key": "maharashtra_jalna",
+    "lat": 19.81975,
+    "lon": 75.98258,
+    "distance_km": 521.15
+  },
+  {
+    "district": "bidar",
+    "state": "karnataka",
+    "district_key": "karnataka_bidar",
+    "lat": 17.95022,
+    "lon": 77.2235,
+    "distance_km": 526.92
+  },
+  {
+    "district": "girsomnath",
+    "state": "gujarat",
+    "district_key": "gujarat_girsomnath",
+    "lat": 20.92539,
+    "lon": 70.62183,
+    "distance_km": 530.32
+  },
+  {
+    "district": "kasaragod",
+    "state": "kerala",
+    "district_key": "kerala_kasaragod",
+    "lat": 12.4593,
+    "lon": 75.15246,
+    "distance_km": 532.34
+  },
+  {
+    "district": "surat",
+    "state": "gujarat",
+    "district_key": "gujarat_surat",
+    "lat": 21.26411,
+    "lon": 73.07408,
+    "distance_km": 533.17
+  },
+  {
+    "district": "tapi",
+    "state": "gujarat",
+    "district_key": "gujarat_tapi",
+    "lat": 21.19237,
+    "lon": 73.63815,
+    "distance_km": 535.33
+  },
+  {
+    "district": "parbhani",
+    "state": "maharashtra",
+    "district_key": "maharashtra_parbhani",
+    "lat": 19.28586,
+    "lon": 76.6815,
+    "distance_km": 540.08
+  },
+  {
+    "district": "hassan",
+    "state": "karnataka",
+    "district_key": "karnataka_hassan",
+    "lat": 12.98962,
+    "lon": 76.1049,
+    "distance_km": 550.07
+  },
+  {
+    "district": "dhule",
+    "state": "maharashtra",
+    "district_key": "maharashtra_dhule",
+    "lat": 21.11153,
+    "lon": 74.60487,
+    "distance_km": 558.56
+  },
+  {
+    "district": "amreli",
+    "state": "gujarat",
+    "district_key": "gujarat_amreli",
+    "lat": 21.42111,
+    "lon": 71.26367,
+    "distance_km": 562.42
+  },
+  {
+    "district": "junagadh",
+    "state": "gujarat",
+    "district_key": "gujarat_junagadh",
+    "lat": 21.25579,
+    "lon": 70.57102,
+    "distance_km": 566.4
+  },
+  {
+    "district": "bhavnagar",
+    "state": "gujarat",
+    "district_key": "gujarat_bhavnagar",
+    "lat": 21.59829,
+    "lon": 71.92333,
+    "distance_km": 570.13
+  },
+  {
+    "district": "mahe",
+    "state": "puducherry",
+    "district_key": "puducherry_mahe",
+    "lat": 12.07427,
+    "lon": 75.286,
+    "distance_km": 576.41
+  },
+  {
+    "district": "tumkur",
+    "state": "karnataka",
+    "district_key": "karnataka_tumkur",
+    "lat": 13.51352,
+    "lon": 76.94148,
+    "distance_km": 581.17
+  },
+  {
+    "district": "kodagu",
+    "state": "karnataka",
+    "district_key": "karnataka_kodagu",
+    "lat": 12.31872,
+    "lon": 75.79915,
+    "distance_km": 585.1
+  },
+  {
+    "district": "jalgaon",
+    "state": "maharashtra",
+    "district_key": "maharashtra_jalgaon",
+    "lat": 20.93745,
+    "lon": 75.49129,
+    "distance_km": 585.35
+  },
+  {
+    "district": "anantapur",
+    "state": "andhrapradesh",
+    "district_key": "andhrapradesh_anantapur",
+    "lat": 14.47515,
+    "lon": 77.57077,
+    "distance_km": 588.13
+  },
+  {
+    "district": "bharuch",
+    "state": "gujarat",
+    "district_key": "gujarat_bharuch",
+    "lat": 21.78721,
+    "lon": 72.92287,
+    "distance_km": 589.59
+  },
+  {
+    "district": "nandurbar",
+    "state": "maharashtra",
+    "district_key": "maharashtra_nandurbar",
+    "lat": 21.54728,
+    "lon": 74.21994,
+    "distance_km": 589.61
+  },
+  {
+    "district": "narmada",
+    "state": "gujarat",
+    "district_key": "gujarat_narmada",
+    "lat": 21.71154,
+    "lon": 73.65744,
+    "distance_km": 592.11
+  },
+  {
+    "district": "kurnool",
+    "state": "andhrapradesh",
+    "district_key": "andhrapradesh_kurnool",
+    "lat": 15.52803,
+    "lon": 78.00006,
+    "distance_km": 597.67
+  },
+  {
+    "district": "hingoli",
+    "state": "maharashtra",
+    "district_key": "maharashtra_hingoli",
+    "lat": 19.61532,
+    "lon": 77.11656,
+    "distance_km": 598.42
+  },
+  {
+    "district": "kannur",
+    "state": "kerala",
+    "district_key": "kerala_kannur",
+    "lat": 11.99232,
+    "lon": 75.53615,
+    "distance_km": 598.53
+  },
+  {
+    "district": "mahbubnagar",
+    "state": "telangana",
+    "district_key": "telangana_mahbubnagar",
+    "lat": 16.49341,
+    "lon": 78.14044,
+    "distance_km": 601.35
+  },
+  {
+    "district": "buldana",
+    "state": "maharashtra",
+    "district_key": "maharashtra_buldana",
+    "lat": 20.51085,
+    "lon": 76.40428,
+    "distance_km": 606.87
+  },
+  {
+    "district": "rangareddy",
+    "state": "telangana",
+    "district_key": "telangana_rangareddy",
+    "lat": 17.28404,
+    "lon": 78.1722,
+    "distance_km": 609.75
+  },
+  {
+    "district": "nanded",
+    "state": "maharashtra",
+    "district_key": "maharashtra_nanded",
+    "lat": 19.11524,
+    "lon": 77.62071,
+    "distance_km": 615.12
+  },
+  {
+    "district": "botad",
+    "state": "gujarat",
+    "district_key": "gujarat_botad",
+    "lat": 22.04094,
+    "lon": 71.6115,
+    "distance_km": 623.13
+  },
+  {
+    "district": "medak",
+    "state": "telangana",
+    "district_key": "telangana_medak",
+    "lat": 17.88485,
+    "lon": 78.21078,
+    "distance_km": 625.84
+  },
+  {
+    "district": "mandya",
+    "state": "karnataka",
+    "district_key": "karnataka_mandya",
+    "lat": 12.6036,
+    "lon": 76.79054,
+    "distance_km": 633.13
+  },
+  {
+    "district": "porbandar",
+    "state": "gujarat",
+    "district_key": "gujarat_porbandar",
+    "lat": 21.63769,
+    "lon": 69.80211,
+    "distance_km": 637.72
+  },
+  {
+    "district": "mysore",
+    "state": "karnataka",
+    "district_key": "karnataka_mysore",
+    "lat": 12.20218,
+    "lon": 76.43605,
+    "distance_km": 638.8
+  },
+  {
+    "district": "nizamabad",
+    "state": "telangana",
+    "district_key": "telangana_nizamabad",
+    "lat": 18.52392,
+    "lon": 78.13938,
+    "distance_km": 638.9
+  },
+  {
+    "district": "rajkot",
+    "state": "gujarat",
+    "district_key": "gujarat_rajkot",
+    "lat": 22.01507,
+    "lon": 70.76069,
+    "distance_km": 639.82
+  },
+  {
+    "district": "hyderabad",
+    "state": "telangana",
+    "district_key": "telangana_hyderabad",
+    "lat": 17.38572,
+    "lon": 78.46413,
+    "distance_km": 641.96
+  },
+  {
+    "district": "vadodara",
+    "state": "gujarat",
+    "district_key": "gujarat_vadodara",
+    "lat": 22.24587,
+    "lon": 73.24965,
+    "distance_km": 643.73
+  },
+  {
+    "district": "barwani",
+    "state": "madhyapradesh",
+    "district_key": "madhyapradesh_barwani",
+    "lat": 21.78966,
+    "lon": 75.02328,
+    "distance_km": 645.09
+  },
+  {
+    "district": "washim",
+    "state": "maharashtra",
+    "district_key": "maharashtra_washim",
+    "lat": 20.23844,
+    "lon": 77.21647,
+    "distance_km": 648.38
+  },
+  {
+    "district": "chhotaudaipur",
+    "state": "gujarat",
+    "district_key": "gujarat_chhotaudaipur",
+    "lat": 22.20505,
+    "lon": 73.86189,
+    "distance_km": 650.25
+  },
+  {
+    "district": "bangalorerural",
+    "state": "karnataka",
+    "district_key": "karnataka_bangalorerural",
+    "lat": 13.21781,
+    "lon": 77.56625,
+    "distance_km": 655.42
+  },
+  {
+    "district": "chikballapura",
+    "state": "karnataka",
+    "district_key": "karnataka_chikballapura",
+    "lat": 13.56881,
+    "lon": 77.82825,
+    "distance_km": 658.43
+  },
+  {
+    "district": "wayanad",
+    "state": "kerala",
+    "district_key": "kerala_wayanad",
+    "lat": 11.70476,
+    "lon": 76.09166,
+    "distance_km": 658.96
+  },
+  {
+    "district": "anand",
+    "state": "gujarat",
+    "district_key": "gujarat_anand",
+    "lat": 22.45022,
+    "lon": 72.79105,
+    "distance_km": 662.34
+  },
+  {
+    "district": "kozhikode",
+    "state": "kerala",
+    "district_key": "kerala_kozhikode",
+    "lat": 11.48074,
+    "lon": 75.8315,
+    "distance_km": 663.78
+  },
+  {
+    "district": "ramanagara",
+    "state": "karnataka",
+    "district_key": "karnataka_ramanagara",
+    "lat": 12.67003,
+    "lon": 77.32772,
+    "distance_km": 671.67
+  },
+  {
+    "district": "lakshadweep",
+    "state": "lakshadweep",
+    "district_key": "lakshadweep_lakshadweep",
+    "lat": 10.46742,
+    "lon": 72.93381,
+    "distance_km": 672.43
+  },
+  {
+    "district": "akola",
+    "state": "maharashtra",
+    "district_key": "maharashtra_akola",
+    "lat": 20.75029,
+    "lon": 77.04456,
+    "distance_km": 672.7
+  },
+  {
+    "district": "bangalore",
+    "state": "karnataka",
+    "district_key": "karnataka_bangalore",
+    "lat": 12.94227,
+    "lon": 77.58684,
+    "distance_km": 675.02
+  },
+  {
+    "district": "alirajpur",
+    "state": "madhyapradesh",
+    "district_key": "madhyapradesh_alirajpur",
+    "lat": 22.3157,
+    "lon": 74.36768,
+    "distance_km": 675.66
+  },
+  {
+    "district": "burhanpur",
+    "state": "madhyapradesh",
+    "district_key": "madhyapradesh_burhanpur",
+    "lat": 21.37435,
+    "lon": 76.36907,
+    "distance_km": 677.66
+  },
+  {
+    "district": "jamnagar",
+    "state": "gujarat",
+    "district_key": "gujarat_jamnagar",
+    "lat": 22.33646,
+    "lon": 70.23198,
+    "distance_km": 691.15
+  },
+  {
+    "district": "ahmadabad",
+    "state": "gujarat",
+    "district_key": "gujarat_ahmadabad",
+    "lat": 22.7273,
+    "lon": 72.20334,
+    "distance_km": 693.14
+  },
+  {
+    "district": "westnimar",
+    "state": "madhyapradesh",
+    "district_key": "madhyapradesh_westnimar",
+    "lat": 21.92316,
+    "lon": 75.7744,
+    "distance_km": 694.07
+  },
+  {
+    "district": "devbhumidwarka",
+    "state": "gujarat",
+    "district_key": "gujarat_devbhumidwarka",
+    "lat": 22.12422,
+    "lon": 69.47263,
+    "distance_km": 701.37
+  },
+  {
+    "district": "panchmahals",
+    "state": "gujarat",
+    "district_key": "gujarat_panchmahals",
+    "lat": 22.73437,
+    "lon": 73.61155,
+    "distance_km": 702.93
+  },
+  {
+    "district": "surendranagar",
+    "state": "gujarat",
+    "district_key": "gujarat_surendranagar",
+    "lat": 22.76789,
+    "lon": 71.60656,
+    "distance_km": 703.2
+  },
+  {
+    "district": "chamrajnagar",
+    "state": "karnataka",
+    "district_key": "karnataka_chamrajnagar",
+    "lat": 11.9487,
+    "lon": 77.09031,
+    "distance_km": 707.64
+  },
+  {
+    "district": "y.s.r.",
+    "state": "andhrapradesh",
+    "district_key": "andhrapradesh_y.s.r.",
+    "lat": 14.45077,
+    "lon": 78.77428,
+    "distance_km": 709.87
+  },
+  {
+    "district": "kheda",
+    "state": "gujarat",
+    "district_key": "gujarat_kheda",
+    "lat": 22.87646,
+    "lon": 73.02347,
+    "distance_km": 711.14
+  },
+  {
+    "district": "malappuram",
+    "state": "kerala",
+    "district_key": "kerala_malappuram",
+    "lat": 11.12932,
+    "lon": 76.15162,
+    "distance_km": 715.52
+  },
+  {
+    "district": "thenilgiris",
+    "state": "tamilnadu",
+    "district_key": "tamilnadu_thenilgiris",
+    "lat": 11.44834,
+    "lon": 76.63286,
+    "distance_km": 717.11
+  },
+  {
+    "district": "yavatmal",
+    "state": "maharashtra",
+    "district_key": "maharashtra_yavatmal",
+    "lat": 20.08393,
+    "lon": 78.158,
+    "distance_km": 717.95
+  },
+  {
+    "district": "kolar",
+    "state": "karnataka",
+    "district_key": "karnataka_kolar",
+    "lat": 13.12872,
+    "lon": 78.20853,
+    "distance_km": 718.99
+  },
+  {
+    "district": "dahod",
+    "state": "gujarat",
+    "district_key": "gujarat_dahod",
+    "lat": 22.79753,
+    "lon": 74.06683,
+    "distance_km": 719.19
+  },
+  {
+    "district": "dhar",
+    "state": "madhyapradesh",
+    "district_key": "madhyapradesh_dhar",
+    "lat": 22.50017,
+    "lon": 75.10524,
+    "distance_km": 720.84
+  },
+  {
+    "district": "morbi",
+    "state": "gujarat",
+    "district_key": "gujarat_morbi",
+    "lat": 22.82446,
+    "lon": 70.93665,
+    "distance_km": 722.02
+  },
+  {
+    "district": "nalgonda",
+    "state": "telangana",
+    "district_key": "telangana_nalgonda",
+    "lat": 17.06188,
+    "lon": 79.28146,
+    "distance_km": 724.61
+  },
+  {
+    "district": "eastnimar",
+    "state": "madhyapradesh",
+    "district_key": "madhyapradesh_eastnimar",
+    "lat": 21.93878,
+    "lon": 76.57002,
+    "distance_km": 740.38
+  },
+  {
+    "district": "krishnagiri",
+    "state": "tamilnadu",
+    "district_key": "tamilnadu_krishnagiri",
+    "lat": 12.4792,
+    "lon": 78.02168,
+    "distance_km": 743.69
+  },
+  {
+    "district": "amravati",
+    "state": "maharashtra",
+    "district_key": "maharashtra_amravati",
+    "lat": 21.18928,
+    "lon": 77.56876,
+    "distance_km": 745.77
+  },
+  {
+    "district": "gandhinagar",
+    "state": "gujarat",
+    "district_key": "gujarat_gandhinagar",
+    "lat": 23.20807,
+    "lon": 72.69962,
+    "distance_km": 746.19
+  },
+  {
+    "district": "jhabua",
+    "state": "madhyapradesh",
+    "district_key": "madhyapradesh_jhabua",
+    "lat": 22.8934,
+    "lon": 74.674,
+    "distance_km": 746.41
+  },
+  {
+    "district": "karimnagar",
+    "state": "telangana",
+    "district_key": "telangana_karimnagar",
+    "lat": 18.54624,
+    "lon": 79.2348,
+    "distance_km": 749.41
+  },
+  {
+    "district": "adilabad",
+    "state": "telangana",
+    "district_key": "telangana_adilabad",
+    "lat": 19.25441,
+    "lon": 78.96663,
+    "distance_km": 749.64
+  },
+  {
+    "district": "prakasam",
+    "state": "andhrapradesh",
+    "district_key": "andhrapradesh_prakasam",
+    "lat": 15.61129,
+    "lon": 79.50954,
+    "distance_km": 755.47
+  },
+  {
+    "district": "mahisagar",
+    "state": "gujarat",
+    "district_key": "gujarat_mahisagar",
+    "lat": 23.20726,
+    "lon": 73.76868,
+    "distance_km": 757.51
+  },
+  {
+    "district": "erode",
+    "state": "tamilnadu",
+    "district_key": "tamilnadu_erode",
+    "lat": 11.49485,
+    "lon": 77.40371,
+    "distance_km": 767.75
+  },
+  {
+    "district": "palakkad",
+    "state": "kerala",
+    "district_key": "kerala_palakkad",
+    "lat": 10.78718,
+    "lon": 76.54824,
+    "distance_km": 771.16
+  },
+  {
+    "district": "indore",
+    "state": "madhyapradesh",
+    "district_key": "madhyapradesh_indore",
+    "lat": 22.71628,
+    "lon": 75.78147,
+    "distance_km": 771.86
+  },
+  {
+    "district": "chittoor",
+    "state": "andhrapradesh",
+    "district_key": "andhrapradesh_chittoor",
+    "lat": 13.45664,
+    "lon": 79.00395,
+    "distance_km": 776.17
+  },
+  {
+    "district": "aravalli",
+    "state": "gujarat",
+    "district_key": "gujarat_aravalli",
+    "lat": 23.46916,
+    "lon": 73.33319,
+    "distance_km": 779.8
+  },
+  {
+    "district": "dharmapuri",
+    "state": "tamilnadu",
+    "district_key": "tamilnadu_dharmapuri",
+    "lat": 12.08635,
+    "lon": 78.1838,
+    "distance_km": 784.67
+  },
+  {
+    "district": "mahesana",
+    "state": "gujarat",
+    "district_key": "gujarat_mahesana",
+    "lat": 23.57962,
+    "lon": 72.4963,
+    "distance_km": 787.22
+  },
+  {
+    "district": "thrissur",
+    "state": "kerala",
+    "district_key": "kerala_thrissur",
+    "lat": 10.46556,
+    "lon": 76.31194,
+    "distance_km": 787.37
+  },
+  {
+    "district": "warangal",
+    "state": "telangana",
+    "district_key": "telangana_warangal",
+    "lat": 17.94994,
+    "lon": 79.79167,
+    "distance_km": 790.97
+  },
+  {
+    "district": "coimbatore",
+    "state": "tamilnadu",
+    "district_key": "tamilnadu_coimbatore",
+    "lat": 10.8268,
+    "lon": 76.93086,
+    "distance_km": 791.78
+  },
+  {
+    "district": "wardha",
+    "state": "maharashtra",
+    "district_key": "maharashtra_wardha",
+    "lat": 20.79635,
+    "lon": 78.58278,
+    "distance_km": 799.15
+  },
+  {
+    "district": "banswara",
+    "state": "rajasthan",
+    "district_key": "rajasthan_banswara",
+    "lat": 23.47713,
+    "lon": 74.36534,
+    "distance_km": 799.89
+  },
+  {
+    "district": "harda",
+    "state": "madhyapradesh",
+    "district_key": "madhyapradesh_harda",
+    "lat": 22.23718,
+    "lon": 77.118,
+    "distance_km": 800.86
+  },
+  {
+    "district": "nellore",
+    "state": "andhrapradesh",
+    "district_key": "andhrapradesh_nellore",
+    "lat": 14.43524,
+    "lon": 79.72,
+    "distance_km": 807.01
+  },
+  {
+    "district": "dewas",
+    "state": "madhyapradesh",
+    "district_key": "madhyapradesh_dewas",
+    "lat": 22.74846,
+    "lon": 76.45424,
+    "distance_km": 808.72
+  },
+  {
+    "district": "guntur",
+    "state": "andhrapradesh",
+    "district_key": "andhrapradesh_guntur",
+    "lat": 16.2914,
+    "lon": 80.08129,
+    "distance_km": 809.01
+  },
+  {
+    "district": "vellore",
+    "state": "tamilnadu",
+    "district_key": "tamilnadu_vellore",
+    "lat": 12.80069,
+    "lon": 78.99817,
+    "distance_km": 810.97
+  },
+  {
+    "district": "patan",
+    "state": "gujarat",
+    "district_key": "gujarat_patan",
+    "lat": 23.76792,
+    "lon": 71.80012,
+    "distance_km": 811.45
+  },
+  {
+    "district": "sabarkantha",
+    "state": "gujarat",
+    "district_key": "gujarat_sabarkantha",
+    "lat": 23.80469,
+    "lon": 73.03746,
+    "distance_km": 814.18
+  },
+  {
+    "district": "dungarpur",
+    "state": "rajasthan",
+    "district_key": "rajasthan_dungarpur",
+    "lat": 23.73411,
+    "lon": 73.85794,
+    "distance_km": 816.77
+  },
+  {
+    "district": "salem",
+    "state": "tamilnadu",
+    "district_key": "tamilnadu_salem",
+    "lat": 11.66313,
+    "lon": 78.20916,
+    "distance_km": 817.39
+  },
+  {
+    "district": "tiruppur",
+    "state": "tamilnadu",
+    "district_key": "tamilnadu_tiruppur",
+    "lat": 10.84558,
+    "lon": 77.35241,
+    "distance_km": 818.48
+  },
+  {
+    "district": "betul",
+    "state": "madhyapradesh",
+    "district_key": "madhyapradesh_betul",
+    "lat": 21.87974,
+    "lon": 77.86699,
+    "distance_km": 821.69
+  },
+  {
+    "district": "ratlam",
+    "state": "madhyapradesh",
+    "district_key": "madhyapradesh_ratlam",
+    "lat": 23.50417,
+    "lon": 75.09014,
+    "distance_km": 824.43
+  },
+  {
+    "district": "ujjain",
+    "state": "madhyapradesh",
+    "district_key": "madhyapradesh_ujjain",
+    "lat": 23.33517,
+    "lon": 75.66742,
+    "distance_km": 828.93
+  },
+  {
+    "district": "kachchh",
+    "state": "gujarat",
+    "district_key": "gujarat_kachchh",
+    "lat": 23.62541,
+    "lon": 69.9672,
+    "distance_km": 835.23
+  },
+  {
+    "district": "chandrapur",
+    "state": "maharashtra",
+    "district_key": "maharashtra_chandrapur",
+    "lat": 20.11669,
+    "lon": 79.43778,
+    "distance_km": 835.36
+  },
+  {
+    "district": "ernakulam",
+    "state": "kerala",
+    "district_key": "kerala_ernakulam",
+    "lat": 10.05531,
+    "lon": 76.47427,
+    "distance_km": 835.64
+  },
+  {
+    "district": "namakkal",
+    "state": "tamilnadu",
+    "district_key": "tamilnadu_namakkal",
+    "lat": 11.30538,
+    "lon": 78.12244,
+    "distance_km": 837.63
+  },
+  {
+    "district": "tiruvannamalai",
+    "state": "tamilnadu",
+    "district_key": "tamilnadu_tiruvannamalai",
+    "lat": 12.4187,
+    "lon": 79.15446,
+    "distance_km": 847.96
+  },
+  {
+    "district": "nagpur",
+    "state": "maharashtra",
+    "district_key": "maharashtra_nagpur",
+    "lat": 21.17701,
+    "lon": 79.08209,
+    "distance_km": 865.95
+  },
+  {
+    "district": "banaskantha",
+    "state": "gujarat",
+    "district_key": "gujarat_banaskantha",
+    "lat": 24.28105,
+    "lon": 72.03934,
+    "distance_km": 866.54
+  },
+  {
+    "district": "pratapgarh",
+    "state": "rajasthan",
+    "district_key": "rajasthan_pratapgarh",
+    "lat": 24.03083,
+    "lon": 74.68124,
+    "distance_km": 867.69
+  },
+  {
+    "district": "sehore",
+    "state": "madhyapradesh",
+    "district_key": "madhyapradesh_sehore",
+    "lat": 22.99475,
+    "lon": 77.12503,
+    "distance_km": 869.18
+  },
+  {
+    "district": "karur",
+    "state": "tamilnadu",
+    "district_key": "tamilnadu_karur",
+    "lat": 10.83181,
+    "lon": 78.11837,
+    "distance_km": 874.86
+  },
+  {
+    "district": "shajapur",
+    "state": "madhyapradesh",
+    "district_key": "madhyapradesh_shajapur",
+    "lat": 23.3863,
+    "lon": 76.55815,
+    "distance_km": 875.19
+  },
+  {
+    "district": "thiruvallur",
+    "state": "tamilnadu",
+    "district_key": "tamilnadu_thiruvallur",
+    "lat": 13.23527,
+    "lon": 79.9325,
+    "distance_km": 877.26
+  },
+  {
+    "district": "khammam",
+    "state": "telangana",
+    "district_key": "telangana_khammam",
+    "lat": 17.59,
+    "lon": 80.67907,
+    "distance_km": 877.85
+  },
+  {
+    "district": "idukki",
+    "state": "kerala",
+    "district_key": "kerala_idukki",
+    "lat": 9.87382,
+    "lon": 77.01326,
+    "distance_km": 883.91
+  },
+  {
+    "district": "krishna",
+    "state": "andhrapradesh",
+    "district_key": "andhrapradesh_krishna",
+    "lat": 16.55044,
+    "lon": 80.79287,
+    "distance_km": 883.99
+  },
+  {
+    "district": "kottayam",
+    "state": "kerala",
+    "district_key": "kerala_kottayam",
+    "lat": 9.6283,
+    "lon": 76.64873,
+    "distance_km": 886.28
+  },
+  {
+    "district": "hoshangabad",
+    "state": "madhyapradesh",
+    "district_key": "madhyapradesh_hoshangabad",
+    "lat": 22.59132,
+    "lon": 77.98438,
+    "distance_km": 888.02
+  },
+  {
+    "district": "viluppuram",
+    "state": "tamilnadu",
+    "district_key": "tamilnadu_viluppuram",
+    "lat": 11.96032,
+    "lon": 79.28436,
+    "distance_km": 888.34
+  },
+  {
+    "district": "udaipur",
+    "state": "rajasthan",
+    "district_key": "rajasthan_udaipur",
+    "lat": 24.41097,
+    "lon": 73.71461,
+    "distance_km": 888.69
+  },
+  {
+    "district": "dindigul",
+    "state": "tamilnadu",
+    "district_key": "tamilnadu_dindigul",
+    "lat": 10.37929,
+    "lon": 77.80496,
+    "distance_km": 889.94
+  },
+  {
+    "district": "garhchiroli",
+    "state": "maharashtra",
+    "district_key": "maharashtra_garhchiroli",
+    "lat": 19.78233,
+    "lon": 80.23422,
+    "distance_km": 894.86
+  },
+  {
+    "district": "alappuzha",
+    "state": "kerala",
+    "district_key": "kerala_alappuzha",
+    "lat": 9.41332,
+    "lon": 76.44597,
+    "distance_km": 896.39
+  },
+  {
+    "district": "agarmalwa",
+    "state": "madhyapradesh",
+    "district_key": "madhyapradesh_agarmalwa",
+    "lat": 23.83396,
+    "lon": 76.07026,
+    "distance_km": 896.46
+  },
+  {
+    "district": "perambalur",
+    "state": "tamilnadu",
+    "district_key": "tamilnadu_perambalur",
+    "lat": 11.26044,
+    "lon": 78.87775,
+    "distance_km": 901.67
+  },
+  {
+    "district": "tiruchirappalli",
+    "state": "tamilnadu",
+    "district_key": "tamilnadu_tiruchirappalli",
+    "lat": 10.87661,
+    "lon": 78.55481,
+    "distance_km": 904.69
+  },
+  {
+    "district": "kancheepuram",
+    "state": "tamilnadu",
+    "district_key": "tamilnadu_kancheepuram",
+    "lat": 12.6813,
+    "lon": 79.93612,
+    "distance_km": 905.69
+  },
+  {
+    "district": "theni",
+    "state": "tamilnadu",
+    "district_key": "tamilnadu_theni",
+    "lat": 9.88078,
+    "lon": 77.42394,
+    "distance_km": 908.58
+  },
+  {
+    "district": "mandsaur",
+    "state": "madhyapradesh",
+    "district_key": "madhyapradesh_mandsaur",
+    "lat": 24.215,
+    "lon": 75.40407,
+    "distance_km": 909.61
+  },
+  {
+    "district": "chhindwara",
+    "state": "madhyapradesh",
+    "district_key": "madhyapradesh_chhindwara",
+    "lat": 22.12347,
+    "lon": 78.85003,
+    "distance_km": 913.51
+  },
+  {
+    "district": "bijapur",
+    "state": "chhattisgarh",
+    "district_key": "chhattisgarh_bijapur",
+    "lat": 18.83824,
+    "lon": 80.76851,
+    "distance_km": 913.67
+  },
+  {
+    "district": "chennai",
+    "state": "tamilnadu",
+    "district_key": "tamilnadu_chennai",
+    "lat": 13.04797,
+    "lon": 80.23501,
+    "distance_km": 915.79
+  },
+  {
+    "district": "sirohi",
+    "state": "rajasthan",
+    "district_key": "rajasthan_sirohi",
+    "lat": 24.75839,
+    "lon": 72.779,
+    "distance_km": 918.75
+  },
+  {
+    "district": "bhopal",
+    "state": "madhyapradesh",
+    "district_key": "madhyapradesh_bhopal",
+    "lat": 23.48196,
+    "lon": 77.39179,
+    "distance_km": 929.28
+  },
+  {
+    "district": "rajgarh",
+    "state": "madhyapradesh",
+    "district_key": "madhyapradesh_rajgarh",
+    "lat": 23.86533,
+    "lon": 76.73114,
+    "distance_km": 930.25
+  },
+  {
+    "district": "cuddalore",
+    "state": "tamilnadu",
+    "district_key": "tamilnadu_cuddalore",
+    "lat": 11.52509,
+    "lon": 79.44525,
+    "distance_km": 931.13
+  },
+  {
+    "district": "bhandara",
+    "state": "maharashtra",
+    "district_key": "maharashtra_bhandara",
+    "lat": 21.15986,
+    "lon": 79.86917,
+    "distance_km": 932.44
+  },
+  {
+    "district": "puducherry",
+    "state": "puducherry",
+    "district_key": "puducherry_puducherry",
+    "lat": 11.90954,
+    "lon": 79.74826,
+    "distance_km": 933.05
+  },
+  {
+    "district": "pathanamthitta",
+    "state": "kerala",
+    "district_key": "kerala_pathanamthitta",
+    "lat": 9.27611,
+    "lon": 76.91336,
+    "distance_km": 934.73
+  },
+  {
+    "district": "ariyalur",
+    "state": "tamilnadu",
+    "district_key": "tamilnadu_ariyalur",
+    "lat": 11.14675,
+    "lon": 79.22819,
+    "distance_km": 938.94
+  },
+  {
+    "district": "neemuch",
+    "state": "madhyapradesh",
+    "district_key": "madhyapradesh_neemuch",
+    "lat": 24.60926,
+    "lon": 75.14323,
+    "distance_km": 942.67
+  },
+  {
+    "district": "madurai",
+    "state": "tamilnadu",
+    "district_key": "tamilnadu_madurai",
+    "lat": 9.90995,
+    "lon": 77.98957,
+    "distance_km": 943.22
+  },
+  {
+    "district": "westgodavari",
+    "state": "andhrapradesh",
+    "district_key": "andhrapradesh_westgodavari",
+    "lat": 16.8869,
+    "lon": 81.39223,
+    "distance_km": 948.0
+  },
+  {
+    "district": "raisen",
+    "state": "madhyapradesh",
+    "district_key": "madhyapradesh_raisen",
+    "lat": 23.22064,
+    "lon": 78.11335,
+    "distance_km": 950.0
+  },
+  {
+    "district": "jhalawar",
+    "state": "rajasthan",
+    "district_key": "rajasthan_jhalawar",
+    "lat": 24.33311,
+    "lon": 76.19373,
+    "distance_km": 952.09
+  },
+  {
+    "district": "gondiya",
+    "state": "maharashtra",
+    "district_key": "maharashtra_gondiya",
+    "lat": 21.12098,
+    "lon": 80.15476,
+    "distance_km": 955.31
+  },
+  {
+    "district": "jalor",
+    "state": "rajasthan",
+    "district_key": "rajasthan_jalor",
+    "lat": 25.095,
+    "lon": 72.21692,
+    "distance_km": 956.17
+  },
+  {
+    "district": "chittaurgarh",
+    "state": "rajasthan",
+    "district_key": "rajasthan_chittaurgarh",
+    "lat": 24.83553,
+    "lon": 74.78185,
+    "distance_km": 956.71
+  },
+  {
+    "district": "sukma",
+    "state": "chhattisgarh",
+    "district_key": "chhattisgarh_sukma",
+    "lat": 18.25315,
+    "lon": 81.34301,
+    "distance_km": 958.33
+  },
+  {
+    "district": "kollam",
+    "state": "kerala",
+    "district_key": "kerala_kollam",
+    "lat": 8.95408,
+    "lon": 76.86775,
+    "distance_km": 963.37
+  },
+  {
+    "district": "narayanpur",
+    "state": "chhattisgarh",
+    "district_key": "chhattisgarh_narayanpur",
+    "lat": 19.57123,
+    "lon": 81.07091,
+    "distance_km": 968.22
+  },
+  {
+    "district": "pudukkottai",
+    "state": "tamilnadu",
+    "district_key": "tamilnadu_pudukkottai",
+    "lat": 10.34202,
+    "lon": 78.86661,
+    "distance_km": 970.81
+  },
+  {
+    "district": "thanjavur",
+    "state": "tamilnadu",
+    "district_key": "tamilnadu_thanjavur",
+    "lat": 10.65534,
+    "lon": 79.22355,
+    "distance_km": 974.64
+  },
+  {
+    "district": "virudunagar",
+    "state": "tamilnadu",
+    "district_key": "tamilnadu_virudunagar",
+    "lat": 9.48058,
+    "lon": 77.89439,
+    "distance_km": 974.85
+  },
+  {
+    "district": "dantewada",
+    "state": "chhattisgarh",
+    "district_key": "chhattisgarh_dantewada",
+    "lat": 18.81786,
+    "lon": 81.37543,
+    "distance_km": 974.91
+  },
+  {
+    "district": "rajsamand",
+    "state": "rajasthan",
+    "district_key": "rajasthan_rajsamand",
+    "lat": 25.19733,
+    "lon": 73.87525,
+    "distance_km": 977.57
+  },
+  {
+    "district": "sivaganga",
+    "state": "tamilnadu",
+    "district_key": "tamilnadu_sivaganga",
+    "lat": 9.90702,
+    "lon": 78.57603,
+    "distance_km": 984.64
+  },
+  {
+    "district": "vidisha",
+    "state": "madhyapradesh",
+    "district_key": "madhyapradesh_vidisha",
+    "lat": 23.89694,
+    "lon": 77.80819,
+    "distance_km": 991.33
+  },
+  {
+    "district": "seoni",
+    "state": "madhyapradesh",
+    "district_key": "madhyapradesh_seoni",
+    "lat": 22.31738,
+    "lon": 79.68392,
+    "distance_km": 992.63
+  },
+  {
+    "district": "narsimhapur",
+    "state": "madhyapradesh",
+    "district_key": "madhyapradesh_narsimhapur",
+    "lat": 22.9374,
+    "lon": 79.08127,
+    "distance_km": 993.08
+  },
+  {
+    "district": "uttarbastarkanker",
+    "state": "chhattisgarh",
+    "district_key": "chhattisgarh_uttarbastarkanker",
+    "lat": 20.13415,
+    "lon": 81.12118,
+    "distance_km": 995.48
+  },
+  {
+    "district": "thiruvarur",
+    "state": "tamilnadu",
+    "district_key": "tamilnadu_thiruvarur",
+    "lat": 10.66927,
+    "lon": 79.53456,
+    "distance_km": 998.91
+  }
+]

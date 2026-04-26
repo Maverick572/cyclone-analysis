@@ -2,19 +2,42 @@ import json
 import geopandas as gpd
 import numpy as np
 import os
+import sys
 
 
-GEOJSON_FILE = r"C:\Vault\Projects\cyclone-rainfall-analysis\backend\datasets\district_shapes.json"
+# -------------------------
+# CYCLONE INPUT
+# -------------------------
 
-REGION_FILE = r"C:\Vault\Projects\cyclone-rainfall-analysis\backend\datasets\regions\amphan_districts.json"
-
-OUTPUT_FILE = r"C:\Vault\Projects\cyclone-rainfall-analysis\backend\datasets\regions\amphan_adjacency.json"
+CYCLONE_NAME = sys.argv[1] if len(sys.argv) > 1 else "amphan"
 
 
-# buffer distance for adjacency (meters)
+# -------------------------
+# PATHS
+# -------------------------
+
+BASE_DIR = r"C:\Vault\Projects\cyclone-rainfall-analysis\backend\datasets"
+
+GEOJSON_FILE = os.path.join(BASE_DIR, "district_shapes.json")
+
+REGION_FILE = os.path.join(
+    BASE_DIR,
+    "regions",
+    f"{CYCLONE_NAME}_districts.json"
+)
+
+OUTPUT_FILE = os.path.join(
+    BASE_DIR,
+    "regions",
+    f"{CYCLONE_NAME}_adjacency.json"
+)
+
+
+# -------------------------
+# CONFIG
+# -------------------------
+
 BUFFER_METERS = 5000
-
-# distance tolerance for matching region districts
 MAX_MATCH_DISTANCE_KM = 80
 
 
@@ -36,6 +59,9 @@ region_lookup = {
 
 region_districts = set(region_lookup.keys())
 
+print(f"\nCYCLONE: {CYCLONE_NAME}")
+print("region districts:", len(region_districts))
+
 
 # -------------------------
 # LOAD SHAPES
@@ -43,11 +69,8 @@ region_districts = set(region_lookup.keys())
 
 districts = gpd.read_file(GEOJSON_FILE)
 
-
-# convert to metric CRS for geometry ops
 districts_metric = districts.to_crs("EPSG:3857")
-
-districts_latlon = districts.to_crs("EPSG:4326")
+districts_latlon = districts.to_crs("EPSG:4326")  # (not used, but kept if needed)
 
 
 districts_metric["district"] = (
@@ -58,12 +81,16 @@ districts_metric["district"] = (
 )
 
 
-# centroid using metric CRS (accurate)
+# -------------------------
+# CENTROIDS (ACCURATE)
+# -------------------------
+
 centroids = districts_metric.geometry.centroid
 
-districts_metric["lon"] = centroids.to_crs("EPSG:4326").x
+centroids_latlon = centroids.to_crs("EPSG:4326")
 
-districts_metric["lat"] = centroids.to_crs("EPSG:4326").y
+districts_metric["lon"] = centroids_latlon.x
+districts_metric["lat"] = centroids_latlon.y
 
 
 # -------------------------
@@ -95,7 +122,7 @@ def haversine_km(lon1, lat1, lon2, lat2):
 
 
 # -------------------------
-# FILTER REGION DISTRICTS
+# FILTER VALID DISTRICTS
 # -------------------------
 
 valid_rows = []
@@ -107,7 +134,6 @@ for _, row in districts_metric.iterrows():
     if name not in region_lookup:
         valid_rows.append(False)
         continue
-
 
     ref = region_lookup[name]
 
@@ -143,37 +169,26 @@ spatial_index = districts_metric.sindex
 
 adjacency = {}
 
-
 for idx, row in districts_metric.iterrows():
 
     district_name = row["district"]
-
     geom = row["geometry_buffered"]
-
 
     possible_matches_index = list(
         spatial_index.intersection(geom.bounds)
     )
 
-
-    possible_matches = districts_metric.iloc[
-        possible_matches_index
-    ]
-
+    possible_matches = districts_metric.iloc[possible_matches_index]
 
     neighbors = []
-
 
     for _, candidate in possible_matches.iterrows():
 
         if candidate["district"] == district_name:
             continue
 
-
         if geom.intersects(candidate.geometry):
-
             neighbors.append(candidate["district"])
-
 
     adjacency[district_name] = sorted(set(neighbors))
 
@@ -182,11 +197,7 @@ for idx, row in districts_metric.iterrows():
 # SAVE
 # -------------------------
 
-os.makedirs(
-    r"C:\Vault\Projects\cyclone-rainfall-analysis\backend\datasets\regions",
-    exist_ok=True
-)
-
+os.makedirs(os.path.dirname(OUTPUT_FILE), exist_ok=True)
 
 with open(OUTPUT_FILE, "w") as f:
     json.dump(adjacency, f, indent=2)
@@ -197,9 +208,7 @@ with open(OUTPUT_FILE, "w") as f:
 # -------------------------
 
 print("\nadjacency generated")
-
 print("districts:", len(adjacency))
 
 print("\nsample:")
-
 print(list(adjacency.items())[:5])

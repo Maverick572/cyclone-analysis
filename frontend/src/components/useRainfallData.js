@@ -1,5 +1,4 @@
 import { useEffect, useState } from "react"
-import { getRainfall, getDistricts } from "../services/api"
 import districtsGeo from "../data/district_shapes.json"
 import {
   getRainfall,

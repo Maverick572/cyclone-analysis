@@ -131,6 +131,8 @@ Open http://localhost:5173
 | `GET /cyclones/{name}/analysis` | Complete analysis summary |
 | `GET /cyclones/comparison/all` | Compare all cyclones |
 | `GET /districts` | GeoJSON district boundaries |
+| `GET /insights/{cyclone}` | Complete Hybrid ML Anomaly Insights for a cyclone |
+| `GET /insights/{cyclone}/{district}` | ML Insights for a specific district |
 
 ---
 
@@ -177,6 +179,7 @@ Districts meeting 2+ criteria are flagged **MEDIUM** risk; 3 criteria = **HIGH**
 - `rasterio` — raster transforms
 - `numpy` + `pandas` — data processing
 - `scipy` — statistical functions
+- `scikit-learn` — Isolation Forest anomaly detection
 
 ### Frontend
 - `react` + `react-router-dom` — SPA framework

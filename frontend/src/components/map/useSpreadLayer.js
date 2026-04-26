@@ -26,7 +26,8 @@ export default function useSpreadLayer({
   targetDistrict,
   spreadType,
   mode,
-  floodRisk
+  floodRisk,
+  onDistrictClick
 }){
 
   const districtLayerRef = useRef(null)
@@ -100,6 +101,11 @@ export default function useSpreadLayer({
             const riskVal = riskMap[key] ?? 0
 
             layer.on({
+
+              click: () => {
+                onDistrictClick?.(key, riskVal, district)
+              },
+
               mouseover: (e) => {
                 e.target.setStyle({ weight: 2, color: "#00d4ff" })
                 L.popup({ closeButton: false, offset: [0, -5] })
@@ -116,10 +122,12 @@ export default function useSpreadLayer({
                   `)
                   .openOn(map)
               },
+
               mouseout: (e) => {
                 e.target.setStyle({ weight: 0.8, color: "#1a3050" })
                 map.closePopup()
               }
+
             })
           }
         }).addTo(map)

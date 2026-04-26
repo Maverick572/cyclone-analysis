@@ -7,6 +7,7 @@ import RainfallLegend from "../components/Legend"
 import MapHeader from "../components/MapHeader"
 import DistrictSelector from "../components/DistrictSelector"
 import useRainfallData from "../components/useRainfallData"
+import ImpactPanel from "../components/ImpactPanel"
 
 const CYCLONE_META = {
   amphan: {
@@ -32,17 +33,17 @@ export default function RainfallMap(){
     color: "#00d4ff"
   }
   const [viewCyclone,setViewCyclone] = useState(true)
-  const {
+const {
   geojson,
   allRainfall,
   allFlood,
   cycloneTrack,
   dates,
   loading,
-
   graph,
   graphDistricts,
-  floodRisk
+  floodRisk,
+  districtMetadata
 } = useRainfallData(cyclone)
 
   const [index,setIndex]=useState(0)
@@ -50,14 +51,30 @@ export default function RainfallMap(){
   const [slice,setSlice]=useState({})
   const [selectedDistrict,setSelectedDistrict]=useState(null)
   const [districtInfo,setDistrictInfo]=useState(null)
-
+  const [selectedMetadata, setSelectedMetadata] = useState(null)
   const [sourceDistrict,setSourceDistrict]=useState("")
   const [targetDistrict,setTargetDistrict]=useState("")
   const [spreadType,setSpreadType]=useState("source")
 
-  const handleDistrictClick=(district,value)=>{
-    setSelectedDistrict(district)
-    setDistrictInfo({district,value})
+  const handleDistrictClick = (districtKey, value, displayName) => {
+
+    setSelectedDistrict(districtKey)
+
+    const key = districtKey
+      .toLowerCase()
+      .replace(/\s+/g,'')
+      .replace(/-/g,'')
+
+    const meta = districtMetadata?.find(d => d.district === key)
+
+    if (meta) {
+      setSelectedMetadata({
+        ...meta,
+        displayName  
+      })
+    } else {
+      setSelectedMetadata(null)
+    }
   }
 
   const dropdownStyle={
@@ -241,31 +258,45 @@ useEffect(()=>{
         <div style={{
           width:300,
           borderLeft:'1px solid #1a2a42',
-          padding:'1rem'
+          display:'flex',
+          flexDirection:'column'
         }}>
 
-          {mode !== "spread" && (
-            <TimelineSlider
-              dates={dates}
-              currentIndex={index}
-              onIndexChange={setIndex}
-              viewCyclone={viewCyclone}
-              setViewCyclone={setViewCyclone}
-            />
-          )}
+          {/* TOP CONTROLS */}
+          <div style={{ padding:'1rem' }}>
 
-          {mode === "spread" && (
-            <DistrictSelector
-              graph={graph}
-              districtList={graphDistricts}
-              spreadType={spreadType}
-              setSpreadType={setSpreadType}
-              sourceDistrict={sourceDistrict}
-              setSourceDistrict={setSourceDistrict}
-              targetDistrict={targetDistrict}
-              setTargetDistrict={setTargetDistrict}
-            />
-          )}
+            {mode !== "spread" && (
+              <TimelineSlider
+                dates={dates}
+                currentIndex={index}
+                onIndexChange={setIndex}
+                viewCyclone={viewCyclone}
+                setViewCyclone={setViewCyclone}
+              />
+            )}
+
+            {mode === "spread" && (
+              <DistrictSelector
+                graph={graph}
+                districtList={graphDistricts}
+                spreadType={spreadType}
+                setSpreadType={setSpreadType}
+                sourceDistrict={sourceDistrict}
+                setSourceDistrict={setSourceDistrict}
+                targetDistrict={targetDistrict}
+                setTargetDistrict={setTargetDistrict}
+              />
+            )}
+
+          </div>
+
+          {/* METADATA PANEL */}
+          <div style={{
+            flex:1,
+            borderTop:'1px solid #1a2a42'
+          }}>
+            <ImpactPanel selectedMetadata={selectedMetadata} />
+          </div>
 
         </div>
 

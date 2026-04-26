@@ -204,30 +204,45 @@ DISTRICT_METADATA_FILE = os.path.join(
     "district_metadata.csv"
 )
 
+# global cache (same pattern as _cache)
 _district_metadata_cache = None
 
 
-@app.get("/district-metadata")
-def get_district_metadata():
-
+def load_district_metadata():
     global _district_metadata_cache
 
+    # return cached version if already loaded
+    if _district_metadata_cache is not None:
+        return _district_metadata_cache
+
     try:
-        if _district_metadata_cache is None:
-            df = pd.read_csv(DISTRICT_METADATA_FILE)
+        df = pd.read_csv(DISTRICT_METADATA_FILE)
 
-            # ensure district is normalized (just in case)
-            df["district"] = (
-                df["district"]
-                .astype(str)
-                .str.lower()
-                .str.replace(" ", "", regex=False)
-                .str.replace("-", "", regex=False)
-            )
+        # enforce normalization (defensive)
+        df["district"] = (
+            df["district"]
+            .astype(str)
+            .str.lower()
+            .str.replace(" ", "", regex=False)
+            .str.replace("-", "", regex=False)
+        )
 
-            _district_metadata_cache = df.to_dict(orient="records")
+        _district_metadata_cache = df.to_dict(orient="records")
+
+        print(f"✅ District metadata loaded ({len(_district_metadata_cache)} records)")
 
         return _district_metadata_cache
 
     except FileNotFoundError:
+        print("❌ district_metadata.csv not found")
+        return None
+
+
+@app.get("/district-metadata")
+def get_district_metadata():
+    data = load_district_metadata()
+
+    if not data:
         return {"error": "district_metadata.csv not found"}
+
+    return data

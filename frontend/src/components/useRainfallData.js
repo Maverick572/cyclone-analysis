@@ -28,6 +28,7 @@ export default function useRainfallData(cyclone){
   const [loading,setLoading]=useState(true)
   const [graph,setGraph]=useState({})
   const [graphDistricts,setGraphDistricts]=useState([])
+  const [districtMetadata, setDistrictMetadata] = useState([])
 
   useEffect(()=>{
 
@@ -43,7 +44,9 @@ export default function useRainfallData(cyclone){
       const trackKey=`track_${cyclone}`
       const graphKey=`graph_${cyclone}`
       const floodRiskKey = `floodrisk_${cyclone}`
+      const metadataKey = "district_metadata"
 
+      let metadata = sessionStorage.getItem(metadataKey)
       let floodRiskData = sessionStorage.getItem(floodRiskKey)
       let rainRows=sessionStorage.getItem(rainKey)
       let floodRows=sessionStorage.getItem(floodKey)
@@ -99,6 +102,19 @@ export default function useRainfallData(cyclone){
           sessionStorage.setItem(floodRiskKey, JSON.stringify(floodRiskData))
         } else floodRiskData = JSON.parse(floodRiskData)
 
+        if (!metadata) {
+          const r = await fetch(`http://localhost:8000/district-metadata`)
+          metadata = await r.json()
+
+          if (metadata.error) {
+            console.error("❌ Metadata error:", metadata)
+            metadata = []
+          }
+
+          sessionStorage.setItem(metadataKey, JSON.stringify(metadata))
+        } else {
+          metadata = JSON.parse(metadata)
+        }
         /* ---------------- GRAPH NORMALIZATION ---------------- */
 
         const normalizedGraph = {}
@@ -234,6 +250,7 @@ export default function useRainfallData(cyclone){
         setAllFlood(floodRows)
         setCycloneTrack(track)
         setFloodRisk(floodRiskData)
+        setDistrictMetadata(metadata)
 
         const uniqueDates=[
           ...new Set([
@@ -267,6 +284,7 @@ export default function useRainfallData(cyclone){
     loading,
     graph,
     graphDistricts,
-    floodRisk
+    floodRisk,
+    districtMetadata
   }
 }

@@ -72,7 +72,7 @@ export default function useDistrictLayer({
 
           layer.on({
 
-            click: () => onDistrictClick?.(did, v),
+            click: () => onDistrictClick?.(did, v, district),
 
             mouseover: (e) => {
 
@@ -98,7 +98,6 @@ export default function useDistrictLayer({
                   </div>
                 `)
                 .openOn(map)
-
             },
 
             mouseout: (e) => {

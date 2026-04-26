@@ -1,6 +1,15 @@
 import { useEffect, useState } from "react"
 import { getRainfall, getDistricts } from "../services/api"
 import districtsGeo from "../data/district_shapes.json"
+import {
+  getRainfall,
+  getDistricts,
+  getFloodIntensity,
+  getCycloneTrack,
+  getGraph,
+  getFloodRisk,
+  getDistrictMetadata
+} from "../services/api"
 
 const MAX_DIST_KM = 80
 
@@ -55,56 +64,81 @@ export default function useRainfallData(cyclone){
       let graphData=sessionStorage.getItem(graphKey)
 
       try {
+        // ---------------- RAINFALL ----------------
+        if (!rainRows) {
+          rainRows = await getRainfall(cyclone)
 
-        if(!rainRows){
-          rainRows=await getRainfall(cyclone)
           if (!rainRows || rainRows.error) {
             console.error("❌ Rainfall error:", rainRows)
             return
           }
-          sessionStorage.setItem(rainKey,JSON.stringify(rainRows))
-        } else rainRows=JSON.parse(rainRows)
 
-        if(!floodRows){
-          const r=await fetch(`http://localhost:8000/flood-intensity/${cyclone}`)
-          floodRows=await r.json()
-          if (floodRows.error) {
+          sessionStorage.setItem(rainKey, JSON.stringify(rainRows))
+        } else {
+          rainRows = JSON.parse(rainRows)
+        }
+
+
+        // ---------------- FLOOD ----------------
+        if (!floodRows) {
+          floodRows = await getFloodIntensity(cyclone)
+
+          if (!floodRows || floodRows.error) {
             console.error("❌ Flood error:", floodRows)
             return
           }
-          sessionStorage.setItem(floodKey,JSON.stringify(floodRows))
-        } else floodRows=JSON.parse(floodRows)
 
-        if(!allowedDistricts){
-          allowedDistricts=await getDistricts(cyclone)
+          sessionStorage.setItem(floodKey, JSON.stringify(floodRows))
+        } else {
+          floodRows = JSON.parse(floodRows)
+        }
+
+
+        // ---------------- DISTRICTS ----------------
+        if (!allowedDistricts) {
+          allowedDistricts = await getDistricts(cyclone)
+
           if (!allowedDistricts || allowedDistricts.error) {
             console.error("❌ District error:", allowedDistricts)
             return
           }
-          sessionStorage.setItem(districtKey,JSON.stringify(allowedDistricts))
-        } else allowedDistricts=JSON.parse(allowedDistricts)
 
-        if(!track){
-          const r=await fetch(`http://localhost:8000/cyclone-track/${cyclone}`)
-          track=await r.json()
-          sessionStorage.setItem(trackKey,JSON.stringify(track))
-        } else track=JSON.parse(track)
+          sessionStorage.setItem(districtKey, JSON.stringify(allowedDistricts))
+        } else {
+          allowedDistricts = JSON.parse(allowedDistricts)
+        }
 
-        if(!graphData){
-          const r=await fetch(`http://localhost:8000/graph/${cyclone}`)
-          graphData=await r.json()
-          sessionStorage.setItem(graphKey,JSON.stringify(graphData))
-        } else graphData=JSON.parse(graphData)
 
-        if(!floodRiskData){
-          const r = await fetch(`http://localhost:8000/flood-risk/${cyclone}`)
-          floodRiskData = await r.json()
+        // ---------------- TRACK ----------------
+        if (!track) {
+          track = await getCycloneTrack(cyclone)
+          sessionStorage.setItem(trackKey, JSON.stringify(track))
+        } else {
+          track = JSON.parse(track)
+        }
+
+
+        // ---------------- GRAPH ----------------
+        if (!graphData) {
+          graphData = await getGraph(cyclone)
+          sessionStorage.setItem(graphKey, JSON.stringify(graphData))
+        } else {
+          graphData = JSON.parse(graphData)
+        }
+
+
+        // ---------------- FLOOD RISK ----------------
+        if (!floodRiskData) {
+          floodRiskData = await getFloodRisk(cyclone)
           sessionStorage.setItem(floodRiskKey, JSON.stringify(floodRiskData))
-        } else floodRiskData = JSON.parse(floodRiskData)
+        } else {
+          floodRiskData = JSON.parse(floodRiskData)
+        }
 
+
+        // ---------------- METADATA ----------------
         if (!metadata) {
-          const r = await fetch(`http://localhost:8000/district-metadata`)
-          metadata = await r.json()
+          metadata = await getDistrictMetadata()
 
           if (metadata.error) {
             console.error("❌ Metadata error:", metadata)

@@ -1,94 +1,80 @@
-const BASE_URL = "http://localhost:8000"
+const BASE_URL = import.meta.env.VITE_API_URL || "http://localhost:8000"
+
+// -----------------------------
+// HELPER
+// -----------------------------
+
+async function fetchJSON(url) {
+  const res = await fetch(url)
+
+  if (!res.ok) {
+    throw new Error(`API error: ${res.status}`)
+  }
+
+  return res.json()
+}
 
 
 // -----------------------------
 // FLOOD INTENSITY
 // -----------------------------
 
-export async function getFloodIntensity(cyclone = "amphan") {
+export const getFloodIntensity = (cyclone = "amphan") =>
+  fetchJSON(`${BASE_URL}/flood-intensity/${cyclone}`)
 
-    const response = await fetch(
-        `${BASE_URL}/flood-intensity/${cyclone}`
-    )
-
-    return await response.json()
-}
-
-
-
-export async function getFloodIntensityByDistrict(
-    district,
-    cyclone = "amphan"
-) {
-
-    const response = await fetch(
-        `${BASE_URL}/flood-intensity/${cyclone}/${district}`
-    )
-
-    return await response.json()
-}
-
+export const getFloodIntensityByDistrict = (district, cyclone = "amphan") =>
+  fetchJSON(`${BASE_URL}/flood-intensity/${cyclone}/${district}`)
 
 
 // -----------------------------
 // RAINFALL
 // -----------------------------
 
-export async function getRainfall(cyclone = "amphan") {
+export const getRainfall = (cyclone = "amphan") =>
+  fetchJSON(`${BASE_URL}/rainfall/${cyclone}`)
 
-    const response = await fetch(
-        `${BASE_URL}/rainfall/${cyclone}`
-    )
-
-    return await response.json()
-}
-
-
-
-export async function getRainfallByDistrict(
-    district,
-    cyclone = "amphan"
-) {
-
-    const response = await fetch(
-        `${BASE_URL}/rainfall/${cyclone}/${district}`
-    )
-
-    return await response.json()
-}
-
+export const getRainfallByDistrict = (district, cyclone = "amphan") =>
+  fetchJSON(`${BASE_URL}/rainfall/${cyclone}/${district}`)
 
 
 // -----------------------------
-// SPATIOTEMPORAL GRAPH
+// GRAPH
 // -----------------------------
 
-export async function getGraph(cyclone = "amphan") {
+export const getGraph = (cyclone = "amphan") =>
+  fetchJSON(`${BASE_URL}/graph/${cyclone}`)
 
-    const response = await fetch(
-        `${BASE_URL}/graph/${cyclone}`
-    )
-
-    return await response.json()
-}
-
-export async function getDistricts(cyclone) {
-  const res = await fetch(
-    `http://localhost:8000/districts/${cyclone}`
-  )
-
-  return res.json()
-}
+export const getGraphFromDistrict = (district, cyclone = "amphan") =>
+  fetchJSON(`${BASE_URL}/graph/${cyclone}/${district}`)
 
 
-export async function getGraphFromDistrict(
-    district,
-    cyclone = "amphan"
-) {
+// -----------------------------
+// DISTRICTS
+// -----------------------------
 
-    const response = await fetch(
-        `${BASE_URL}/graph/${cyclone}/${district}`
-    )
+export const getDistricts = (cyclone = "amphan") =>
+  fetchJSON(`${BASE_URL}/districts/${cyclone}`)
 
-    return await response.json()
-}
+
+// -----------------------------
+// CYCLONE TRACK
+// -----------------------------
+
+export const getCycloneTrack = (cyclone = "amphan") =>
+  fetchJSON(`${BASE_URL}/cyclone-track/${cyclone}`)
+
+
+// -----------------------------
+// FLOOD RISK
+// -----------------------------
+
+export const getFloodRisk = (cyclone = "amphan") =>
+  fetchJSON(`${BASE_URL}/flood-risk/${cyclone}`)
+
+
+// -----------------------------
+// METADATA (no cyclone)
+// -----------------------------
+
+export const getDistrictMetadata = () =>
+  fetchJSON(`${BASE_URL}/district-metadata`)

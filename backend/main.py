@@ -22,7 +22,7 @@ app.add_middleware(
 # FILE PATHS
 # -------------------------
 
-BASE = r"C:\Vault\Projects\cyclone-rainfall-analysis\backend\datasets"
+BASE = os.path.join(os.path.dirname(__file__), "datasets")
 
 
 FLOOD_INTENSITY = os.path.join(
@@ -169,3 +169,52 @@ def flood_risk_by_district(district: str):
         r for r in flood_risk_data
         if r["district"].lower() == district.lower()
     ]
+
+
+# -------------------------
+# ML INSIGHTS ENGINE
+# -------------------------
+
+ML_OUTPUT_DIR = os.path.join(os.path.dirname(__file__), "ML", "outputs")
+
+# in-memory cache for loaded insights
+_insights_cache = {}
+
+
+@app.get("/insights/{cyclone}")
+def get_insights(cyclone: str):
+    """
+    Serve the hybrid ML + analytics insights for a given cyclone.
+    Returns nested JSON: { district: { date: { metrics } } }
+    """
+    cyclone = cyclone.lower()
+
+    if cyclone not in _insights_cache:
+        filepath = os.path.join(
+            ML_OUTPUT_DIR,
+            f"hybrid_insights_{cyclone}.json"
+        )
+        if not os.path.exists(filepath):
+            return {"error": f"No insights found for '{cyclone}'. Run the ML engine first."}
+        with open(filepath) as f:
+            _insights_cache[cyclone] = json.load(f)
+
+    return _insights_cache[cyclone]
+
+
+@app.get("/insights/{cyclone}/{district}")
+def get_district_insights(cyclone: str, district: str):
+    """
+    Serve insights for a single district within a cyclone.
+    """
+    all_data = get_insights(cyclone)
+
+    if "error" in all_data:
+        return all_data
+
+    district = district.lower().replace(" ", "").replace("-", "")
+
+    if district not in all_data:
+        return {"error": f"District '{district}' not found in {cyclone} insights."}
+
+    return all_data[district]

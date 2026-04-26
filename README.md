@@ -156,15 +156,6 @@ Open http://localhost:5173
 
 Districts meeting 2+ criteria are flagged **MEDIUM** risk; 3 criteria = **HIGH** risk.
 
-### Hybrid ML Insights Engine
-
-The project features an advanced Unsupervised Machine Learning pipeline (`backend/ML/ml_analytics_engine.py`) designed to detect localized extreme weather anomalies:
-
-1. **Consecutive Rainy Days**: Computes rolling streaks of sustained rainfall (> 5.0 mm).
-2. **Spatial SPI (Z-scores)**: Standardizes precipitation across all districts for a single day to highlight highly localized extreme cloudbursts compared to the national average.
-3. **Isolation Forest Model**: Merges dynamic rainfall metrics (SPI, streak) with static district vulnerabilities (historical flooded area, population) to train an `sklearn.ensemble.IsolationForest` (5% contamination rate).
-4. **Scoring & Flagging**: Identifies multivariate outlier districts (`is_ml_anomaly`) and assigns a normalized 0-1 severity score (`ml_severity_score`).
-
 ### Rainfall Color Scale
 
 | Color | Range |

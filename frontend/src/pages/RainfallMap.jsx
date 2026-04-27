@@ -278,7 +278,6 @@ useEffect(()=>{
                   setViewCyclone={setViewCyclone}
                 />
               )}
-
               {mode === "spread" && (
                 <DistrictSelector
                   graph={graph}
@@ -294,7 +293,7 @@ useEffect(()=>{
 
             </div>
 
-            {/* METADATA PANEL */}
+            {/* METADATA */}
             <div style={{
               flex:1,
               borderTop:'1px solid #1a2a42'

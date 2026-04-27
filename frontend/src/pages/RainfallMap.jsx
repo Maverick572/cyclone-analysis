@@ -8,6 +8,7 @@ import MapHeader from "../components/MapHeader"
 import DistrictSelector from "../components/DistrictSelector"
 import useRainfallData from "../components/useRainfallData"
 import ImpactPanel from "../components/ImpactPanel"
+import Insights from "../components/Insights"
 
 const CYCLONE_META = {
   amphan: {
@@ -229,79 +230,81 @@ useEffect(()=>{
         setMode={setMode}
       />
 
-      <div style={{flex:1,display:'flex'}}>
+      {mode === "insights" ? (
+        <Insights cyclone={cyclone} onBack={() => setMode("rainfall")} />
+          ) : (
+          <div style={{flex:1,display:'flex'}}>
 
-        <div style={{flex:1,position:'relative'}}>
+            <div style={{flex:1,position:'relative'}}>
 
-          <DistrictMap
-            geojson={geojson}
-            rainfallData={slice}
-            selectedDistrict={selectedDistrict}
-            onDistrictClick={handleDistrictClick}
-            mode={mode}
-            sourceDistrict={sourceDistrict}
-            targetDistrict={targetDistrict}
-            cycloneTrack={cycloneTrack}
-            currentDate={dates[index]}
-            viewCyclone={viewCyclone}
-            graph={graph}
-            spreadType={spreadType}
-            floodRisk={floodRisk} 
-          />
+            <DistrictMap
+              geojson={geojson}
+              rainfallData={slice}
+              selectedDistrict={selectedDistrict}
+              onDistrictClick={handleDistrictClick}
+              mode={mode}
+              sourceDistrict={sourceDistrict}
+              targetDistrict={targetDistrict}
+              cycloneTrack={cycloneTrack}
+              currentDate={dates[index]}
+              viewCyclone={viewCyclone}
+              graph={graph}
+              spreadType={spreadType}
+              floodRisk={floodRisk} 
+            />
 
-        <div style={{position:'absolute',top:'1rem',right:'1rem',zIndex:1000}}>
-          <RainfallLegend mode={mode === "spread" ? "risk" : mode}/>
-        </div>
-
-        </div>
-
-        <div style={{
-          width:300,
-          borderLeft:'1px solid #1a2a42',
-          display:'flex',
-          flexDirection:'column'
-        }}>
-
-          {/* TOP CONTROLS */}
-          <div style={{ padding:'1rem' }}>
-
-            {mode !== "spread" && (
-              <TimelineSlider
-                dates={dates}
-                currentIndex={index}
-                onIndexChange={setIndex}
-                viewCyclone={viewCyclone}
-                setViewCyclone={setViewCyclone}
-              />
-            )}
-
-            {mode === "spread" && (
-              <DistrictSelector
-                graph={graph}
-                districtList={graphDistricts}
-                spreadType={spreadType}
-                setSpreadType={setSpreadType}
-                sourceDistrict={sourceDistrict}
-                setSourceDistrict={setSourceDistrict}
-                targetDistrict={targetDistrict}
-                setTargetDistrict={setTargetDistrict}
-              />
-            )}
+          <div style={{position:'absolute',top:'1rem',right:'1rem',zIndex:1000}}>
+            <RainfallLegend mode={mode === "spread" ? "risk" : mode}/>
+          </div>
 
           </div>
 
-          {/* METADATA PANEL */}
           <div style={{
-            flex:1,
-            borderTop:'1px solid #1a2a42'
+            width:300,
+            borderLeft:'1px solid #1a2a42',
+            display:'flex',
+            flexDirection:'column'
           }}>
-            <ImpactPanel selectedMetadata={selectedMetadata} />
+
+            {/* TOP CONTROLS */}
+            <div style={{ padding:'1rem' }}>
+
+              {mode !== "spread" && (
+                <TimelineSlider
+                  dates={dates}
+                  currentIndex={index}
+                  onIndexChange={setIndex}
+                  viewCyclone={viewCyclone}
+                  setViewCyclone={setViewCyclone}
+                />
+              )}
+
+              {mode === "spread" && (
+                <DistrictSelector
+                  graph={graph}
+                  districtList={graphDistricts}
+                  spreadType={spreadType}
+                  setSpreadType={setSpreadType}
+                  sourceDistrict={sourceDistrict}
+                  setSourceDistrict={setSourceDistrict}
+                  targetDistrict={targetDistrict}
+                  setTargetDistrict={setTargetDistrict}
+                />
+              )}
+
+            </div>
+
+            {/* METADATA PANEL */}
+            <div style={{
+              flex:1,
+              borderTop:'1px solid #1a2a42'
+            }}>
+              <ImpactPanel selectedMetadata={selectedMetadata} />
+            </div>
+
           </div>
-
         </div>
-
+        )}
       </div>
-
-    </div>
   )
 }

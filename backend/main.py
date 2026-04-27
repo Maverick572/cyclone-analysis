@@ -180,21 +180,6 @@ def get_insights(cyclone: str):
 
     return _insights_cache[cyclone]
 
-
-@app.get("/insights/{cyclone}/{district}")
-def get_district_insights(cyclone: str, district: str):
-    data = get_insights(cyclone)
-
-    if "error" in data:
-        return data
-
-    district = district.lower().replace(" ", "").replace("-", "")
-
-    return data.get(
-        district,
-        {"error": f"District '{district}' not found"}
-    )
-
 # -------------------------
 # DISTRICT METADATA
 # -------------------------

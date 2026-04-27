@@ -7,7 +7,8 @@ import {
   getCycloneTrack,
   getGraph,
   getFloodRisk,
-  getDistrictMetadata
+  getDistrictMetadata,
+  getInsights
 } from "../services/api"
 
 const MAX_DIST_KM = 80
@@ -37,6 +38,7 @@ export default function useRainfallData(cyclone){
   const [graph,setGraph]=useState({})
   const [graphDistricts,setGraphDistricts]=useState([])
   const [districtMetadata, setDistrictMetadata] = useState([])
+  const [insights, setInsights] = useState(null)
 
   useEffect(()=>{
 
@@ -53,7 +55,9 @@ export default function useRainfallData(cyclone){
       const graphKey=`graph_${cyclone}`
       const floodRiskKey = `floodrisk_${cyclone}`
       const metadataKey = "district_metadata"
+      const insightsKey = `insights_${cyclone}`
 
+      let insightsData = sessionStorage.getItem(insightsKey)
       let metadata = sessionStorage.getItem(metadataKey)
       let floodRiskData = sessionStorage.getItem(floodRiskKey)
       let rainRows=sessionStorage.getItem(rainKey)
@@ -107,6 +111,13 @@ export default function useRainfallData(cyclone){
           allowedDistricts = JSON.parse(allowedDistricts)
         }
 
+
+        if (!insightsData) {
+          insightsData = await getInsights(cyclone)
+          sessionStorage.setItem(insightsKey, JSON.stringify(insightsData))
+        } else {
+          insightsData = JSON.parse(insightsData)
+        }
 
         // ---------------- TRACK ----------------
         if (!track) {
@@ -284,6 +295,7 @@ export default function useRainfallData(cyclone){
         setCycloneTrack(track)
         setFloodRisk(floodRiskData)
         setDistrictMetadata(metadata)
+        setInsights(insightsData)
 
         const uniqueDates=[
           ...new Set([
@@ -318,6 +330,7 @@ export default function useRainfallData(cyclone){
     graph,
     graphDistricts,
     floodRisk,
-    districtMetadata
+    districtMetadata,
+    insights
   }
 }

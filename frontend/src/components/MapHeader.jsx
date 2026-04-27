@@ -91,6 +91,14 @@ export default function MapHeader({ meta, navigate, mode, setMode }) {
             >
             SPREAD
         </button>
+        <button
+          onClick={()=>setMode("insights")}
+          style={toggleStyle(mode==="insights",'#00d4ff')}
+          onMouseEnter={e=>hoverIn(e,'#00d4ff',mode==="insights")}
+          onMouseLeave={e=>hoverOut(e,mode==="insights")}
+        >
+          INSIGHTS
+        </button>
       </div>
     </div>
   )

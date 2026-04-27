@@ -350,17 +350,36 @@ def run_engine(cyclone: str) -> dict:
 # ─────────────────────────────────────────────
 
 if __name__ == "__main__":
-
     import sys
 
-    cyclone_name = sys.argv[1] if len(sys.argv) > 1 else "amphan"
+    if len(sys.argv) < 2:
+        print("\nUsage: python filename.py <cyclone_name>")
+        print("Example: python filename.py amphan\n")
+        sys.exit(1)
 
+    cyclone_name = sys.argv[1].lower().strip()
+
+    # expected rainfall file path
+    rainfall_path = os.path.join(
+        DATASETS_DIR,
+        "rainfall_processed",
+        f"{cyclone_name}_rainfall.csv"
+    )
+
+    # check if file exists BEFORE running
+    if not os.path.exists(rainfall_path):
+        print(f"\n❌ ERROR: File not found:")
+        print(f"   {rainfall_path}")
+        print("\nMake sure your file is named like:")
+        print(f"   {cyclone_name}_rainfall.csv\n")
+        sys.exit(1)
+
+    # run pipeline
     result = run_engine(cyclone_name)
 
-    # quick summary
+    # sample preview
     sample_district = list(result.keys())[0]
-    sample_dates = result[sample_district]
-    sample_date = list(sample_dates.keys())[0]
+    sample_date = list(result[sample_district].keys())[0]
 
     print(f"\nSample output for '{sample_district}' on {sample_date}:")
-    print(json.dumps(sample_dates[sample_date], indent=2))
+    print(json.dumps(result[sample_district][sample_date], indent=2))

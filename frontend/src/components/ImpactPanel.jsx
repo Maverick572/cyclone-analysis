@@ -1,5 +1,12 @@
 import React from 'react'
 
+const getSeverityColor = (rate) => {
+  if (rate == null) return '#b8d5f0';
+  if (rate > 5) return '#ef4444';     // high
+  if (rate > 1) return '#f59e0b';     // medium
+  return '#b8d5f0';                  // low
+};
+
 function Metric({ label, value, unit = '', color = '#b8d5f0' }) {
   return (
     <div style={{
@@ -11,8 +18,8 @@ function Metric({ label, value, unit = '', color = '#b8d5f0' }) {
     }}>
       <span style={{
         fontFamily:'Space Mono, monospace',
-        fontSize:'0.55rem',
-        color:'rgba(74,96,128,0.7)',
+        fontSize:'0.75rem',
+        color:'rgba(163, 163, 163, 0.7)',
         letterSpacing:'0.08em',
         textTransform:'uppercase'
       }}>
@@ -41,14 +48,22 @@ function Metric({ label, value, unit = '', color = '#b8d5f0' }) {
 }
 
 export default function ImpactPanel({ selectedMetadata }) {
+  const population = selectedMetadata?.population;
 
+  const fatalityRate = population
+    ? (selectedMetadata.human_fatality / population) * 100000
+    : null;
+
+  const injuryRate = population
+    ? (selectedMetadata.human_injured / population) * 100000
+    : null;
   if (!selectedMetadata) {
     return (
       <div style={panelStyle}>
         <div style={headerStyle}>DISTRICT DETAILS</div>
 
         <div style={{
-          color:'#2a3a52',
+          color:'#40526c',
           fontFamily:'Space Mono, monospace',
           fontSize:'0.7rem',
           textAlign:'center',
@@ -102,7 +117,7 @@ export default function ImpactPanel({ selectedMetadata }) {
         />
 
         <Metric
-          label="Corrected Area"
+          label="Actual Flooded Area"
           value={selectedMetadata.corrected_percent_flooded_area?.toFixed(2) || '0'}
           unit="%"
         />
@@ -114,7 +129,7 @@ export default function ImpactPanel({ selectedMetadata }) {
         />
 
         <Metric
-          label="Average Duration"
+          label="Average Flood Duration"
           value={selectedMetadata.mean_flood_duration || '0'}
           unit="days"
         />
@@ -123,17 +138,30 @@ export default function ImpactPanel({ selectedMetadata }) {
       {/* IMPACT */}
       <div style={{ ...sectionStyle, borderBottom:'none' }}>
         <div style={sectionHeader}>HUMAN IMPACT</div>
-
+        <div style={noteStyle}>
+          Historical estimates — may vary due to reporting differences
+        </div>
         <Metric
-          label="Fatalities"
+          label="Reported Casualties"
+          
           value={selectedMetadata.human_fatality || 0}
           color={selectedMetadata.human_fatality > 50 ? '#ef4444' : '#b8d5f0'}
         />
 
         <Metric
-          label="Injured"
+          label="Reported Injured"
           value={selectedMetadata.human_injured || 0}
           color="#f59e0b"
+        />
+        <Metric
+          label="Casualties per 100k"
+          value={fatalityRate ? fatalityRate.toFixed(2) : 'N/A'}
+          color={getSeverityColor(fatalityRate)}
+        />
+        <Metric
+          label="Injuries per 100k"
+          value={injuryRate ? injuryRate.toFixed(2) : 'N/A'}
+          color={getSeverityColor(injuryRate)}
         />
       </div>
 
@@ -167,11 +195,22 @@ const sectionStyle = {
   marginBottom:'0.8rem'
 }
 
-const sectionHeader = {
+const noteStyle = {
   fontFamily:'Space Mono, monospace',
-  fontSize:'0.55rem',
-  color:'#4a6080',
+  fontSize:'0.65rem',
+  color:'#547bbb',
   letterSpacing:'0.1em',
   textTransform:'uppercase',
-  marginBottom:'0.4rem'
+  marginBottom:'0.4rem',
+  textAlign:'center'
+}
+
+const sectionHeader = {
+  fontFamily:'Space Mono, monospace',
+  fontSize:'0.75rem',
+  color:'#5d769c',
+  letterSpacing:'0.1em',
+  textTransform:'uppercase',
+  marginBottom:'0.4rem',
+  textAlign:'center'
 }

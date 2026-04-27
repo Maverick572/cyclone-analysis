@@ -78,3 +78,10 @@ export const getFloodRisk = (cyclone = "amphan") =>
 
 export const getDistrictMetadata = () =>
   fetchJSON(`${BASE_URL}/district-metadata`)
+
+// -----------------------------
+// INSIGHTS
+// -----------------------------
+
+export const getInsights = (cyclone = "amphan") =>
+  fetchJSON(`${BASE_URL}/insights/${cyclone}`)

@@ -189,7 +189,7 @@ DISTRICT_METADATA_FILE = os.path.join(
     "district_metadata.csv"
 )
 
-# global cache (same pattern as _cache)
+# global cache
 _district_metadata_cache = None
 
 
